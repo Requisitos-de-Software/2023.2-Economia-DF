@@ -29,13 +29,13 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Planejamento e cronograma detalhado das atividades do projeto|Gabriel da Silva Rosa                   |
-|App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |Gabriel Pessoa Zaranza                  |
-|Equipe, heatmap de disponibilidade dos integrantes|Izabella Alves Pereira                  |
-|Ferramentas do projeto|Lucas De Oliveira Dias Marques Ferreira |
-|Rich picture|Lucas Ribeiro de Souza                  |
-|Rich picture|Lucas Victor Ferreira de Araújo         |
-|Planejamento e cronograma detalhado das atividades do projeto|Zenilda Pedrosa Vieira                  |
+|Documento planejamento e cronograma detalhado das atividades do projeto|Gabriel da Silva Rosa  e Zenilda Pedrosa Vieira                  |
+|Documento App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |Gabriel Pessoa Zaranza                  |
+|Documento equipe e heatmap de disponibilidade dos integrantes|Izabella Alves Pereira                  |
+|Documento ferramentas do projeto|Lucas De Oliveira Dias Marques Ferreira |
+|Rich picture|Lucas Ribeiro de Souza  e Lucas Victor Ferreira de Araújo                 |
+|Documento lista de App's avaliados|Todos                 |
+
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -49,3 +49,4 @@ Nesta reunião foi definido que o App selecionado para o projeto será o ConectS
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |0.1|06/09/2023|Criação do docuemtno|Gabriel Zaranza|Todos|
+|0.1|06/09/2023|Corrigindo a tabela de tarefas|Gabriel Zaranza|Lucas Ribeiro|
