@@ -1,4 +1,4 @@
-# Ferramentas Utilizadas
+# Ferramentas Utilizadas 
 
 ## <a>Ferramentas</a>
 
@@ -9,7 +9,7 @@
 
 <center>
 
-|                                               Logo                                               |                                                     Descrição                                                     |
+|                                               Ferramentas                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 |        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
 |       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
