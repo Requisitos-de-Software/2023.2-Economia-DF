@@ -11,7 +11,7 @@
 |                                               Logo                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 |        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
-|       <img src="" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
 |       <img src="" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo    |
 |      <img src="" width="100" height="100"></img>       |        **MicrosoftVisio**: Produção do Rich Picture.         |
 |        <img src="" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários.                           |     
