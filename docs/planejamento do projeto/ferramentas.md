@@ -13,7 +13,7 @@
 |        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina. |
 |       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações.                             |
 |       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Google_Docs_logo.png" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo    |
-|      <img src="" width="100" height="100"></img>       |        **MicrosoftVisio**: Produção do Rich Picture.         |
+|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/microsoft-visio_logo.jpg" width="100" height="100"></img>       |        **MicrosoftVisio**: Produção do Rich Picture.         |
 |        <img src="" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários.                           |     
 |       <img src="" width="100" height="100"></img>        |                      **Figma**: Ferramenta para trabalhar com protótipos de alta fidelidade.                       |
 |  <img src="" width="100" height="100"></img>   |        **Microsoft Teams**: Local de trabalho, usado principalmente para as reuniões da equipe.         |
