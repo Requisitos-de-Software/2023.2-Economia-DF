@@ -28,11 +28,11 @@
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 12 de set. de 2023.
 >
-> <a id="FRM2" href="#anchor_2">2.</a> Canvas. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 13 de set. de 2023.
+> <a id="FRM2" href="#anchor_2">2.</a> Canvas. Disponível em: [https://www.canva.com/](). Acesso em: 13 de set. de 2023.
 >
 > <a id="FRM3" href="#anchor_3">3.</a> GoogleDocs. Disponível em: [https://www.google.com/intl/pt-BR/docs/about/](). Acesso em: 13 de set. de 2023.
 >
-> <a id="FRM4" href="#anchor_4">4.</a> MicrosoftVisio. Disponível em: [https://www.mkdocs.org/](). Acesso em: 13 de set. de 2023.
+> <a id="FRM4" href="#anchor_4">4.</a> MicrosoftVisio. Disponível em: [https://www.microsoft.com/pt-br/microsoft-](). Acesso em: 13 de set. de 2023.
 >
 > <a id="FRM5" href="#anchor_5">5.</a> GooglePlanilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 13 de set. de 2023.
 >
@@ -46,7 +46,7 @@
 >
 > <a id="FRM10" href="#anchor_10">10.</a> VisualStudioCode. Disponível em:  [https://code.visualstudio.com/](). Acesso em: 13 de set. de 2023.
 >
-> <a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://app.diagrams.net](). Acesso em: 13 de set. de 2023.
+> <a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 13 de set. de 2023.
 >
 
 
