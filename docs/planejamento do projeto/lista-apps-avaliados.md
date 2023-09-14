@@ -2,7 +2,7 @@
 ## Introdução
 Na fase inicial do projeto, os estudantes foram convidados a selecionar individualmente aplicativos governamentais ou de código aberto. Essa escolha tinha como propósito apresentar sugestões para o  aplicativo que seria analisado em conjunto pelo grupo durante a disciplina Requisitos de Software. A Tabela 1 fornece detalhes sobre os websites avaliados por cada membro da equipe.
 | Aplicativo avaliado               | Membro que fez a avaliação        |
-| --------------------------- | --------------------------------- |
+| :---------------------------: | :---------------------------------: |
 |            Calibre E-book Management                 |           [Gabriel Rosa](https://github.com/gabrielrosa09)                        |
 |     ConecteSUS                        |         [Gabriel Zaranza](https://github.com/GZaranza)                      |
 |Viva Bem                           |[Izabella Alves](https://github.com/izabellaalves)                               |
