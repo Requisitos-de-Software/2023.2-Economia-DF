@@ -27,7 +27,7 @@ O aplicativo ConecteSUS é uma plataforma do Governo Federal do Brasil para inte
 - Quantidade de funcionalidades: O aplicativo aprensenta diversas funcionalidades com diferentes complexidades;
 - Base de usuários: A equipe terá fácil acesso aos usuários por ser um aplicativo popular e com perfil de usuário bem abragente.
 
-## Calibre E-book Management
+### Calibre E-book Management
 O "Calibre - E-book Management", uma ferramenta de gerenciamento de e-books que permite aos usuários organizar, converter e gerenciar sua coleção de livros digitais. A integrante do grupo responsável pela avaliação deste aplicativo foi o [Gabriel Rosa](https://github.com/gabrielrosa09), e os motivos pelos quais este foi um dos aplicativos cogitados são:
 
 - Usabilidade e Intuitividade: O aplicativo Calibre se destaca pela sua interface de usuário intuitiva, facilitando o uso para iniciantes e usuários avançados. Isso é importante para a equipe, já que a maioria dos membros está aprendendo durante a disciplina e precisa de uma ferramenta acessível.
