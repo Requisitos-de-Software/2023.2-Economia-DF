@@ -4,13 +4,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* Gabriel da Silva Rosa          
-* Gabriel Pessoa Zaranza         
-* Izabella Alves Pereira
-* Lucas De Oliveira Dias Marques Ferreira     
-* Lucas Ribeiro de Souza         
-* Lucas Victor Ferreira de Araújo
-* Zenilda Pedrosa Vieira         
+* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves Pereira](https://github.com/izabellaalves)
+* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
+* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
+* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
   
 ## Início e término
 
@@ -27,13 +27,13 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Continuar trabalhando no cronograma|Gabriel da Silva Rosa                   |
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|Gabriel Pessoa Zaranza                  |
-|Atualizar gitpages|Izabella Alves Pereira                  |
-|Continuar trabalhando nas ferramentas|Lucas De Oliveira Dias Marques Ferreira |
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|Lucas Ribeiro de Souza                  |
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|Lucas Victor Ferreira de Araújo         |
-|Continuar trabalhando no cronograma|Zenilda Pedrosa Vieira                  |
+|Continuar trabalhando no cronograma|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)                  |
+|Atualizar gitpages|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
+|Continuar trabalhando nas ferramentas|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  |
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)        |
+|Continuar trabalhando no cronograma|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
 
 
 *Tabela 1 - Atividades a serem desenvolvidas.*
@@ -49,6 +49,6 @@ Os artefatos produzidos foram verificados pelo grupo e antes da gravação da ap
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`0.1`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Victor](https://github.com/Lucas13032003)|
-|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|:----:|----|---------|:-----:|:-------:|
+|`0.1`|13/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
