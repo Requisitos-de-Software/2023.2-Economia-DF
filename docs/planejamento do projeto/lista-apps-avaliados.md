@@ -6,7 +6,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 |            Calibre E-book Management                 |           [Gabriel Rosa](https://github.com/gabrielrosa09)                        |
 |     ConecteSUS                        |         [Gabriel Zaranza](https://github.com/GZaranza)                      |
 |Viva Bem                           |[Izabella Alves](https://github.com/izabellaalves)                               |
-|                             |                                   |
+| Signal                             |[Lucas Ribeiro](https://github.com/lucassouzs)                                   |
 |                             |                                   |
 |                             |                                   |
 |                             |                                   |
@@ -40,12 +40,23 @@ O "Calibre - E-book Management", uma ferramenta de gerenciamento de e-books que 
 
 - Comunidade Ativa: O Calibre possui uma comunidade ativa de usuários e desenvolvedores, o que pode facilitar o suporte e a obtenção de recursos adicionais para a equipe durante a análise e avaliação do aplicativo.
 
+### Signal
+
+O Signal é um aplicativo de mensagens instantâneas que prioriza a privacidade. Ele oferece criptografia de ponta a ponta para todas as comunicações, garantindo que apenas você e seu destinatário possam ler suas mensagens, sendo uma escolha ideal para quem valoriza a segurança em suas conversas online. O aplicativo foi escolhido pelo membro [Lucas Ribeiro](https://github.com/lucassouzs), e os motivos que levaram a essa escolha foram:
+
+- Criptografia de Ponta a Ponta: Todas as suas mensagens, chamadas e arquivos compartilhados no Signal são protegidos por criptografia de ponta a ponta, garantindo que apenas você e o destinatário possam acessar o conteúdo.
+
+- Privacidade Respeitada: Diferente de muitos outros aplicativos, o Signal não coleta dados pessoais nem os compartilha com terceiros. Sua abordagem de privacidade é transparente e centrada no usuário.
+
+- Código Aberto: O Signal é um software de código aberto, o que significa que qualquer pessoa pode examinar o código-fonte para garantir a transparência e a segurança do aplicativo.
+
+- Chamadas de Voz e Vídeo Criptografadas: Além de mensagens, o Signal oferece chamadas de voz e vídeo criptografadas, proporcionando uma comunicação segura e confiável, seja para conversas individuais ou em grupo.
+
 ##  Histórico de versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`0.1`|06/09/2023|Criação do documento|[Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
 |`0.2`|07/09/2023|Adicionando introdução e app Viva Bem|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
 |`0.3`|10/09/2023|Adicionando o app ConecteSUS|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`0.4`| 10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
-
-
+|`0.4`|10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
+|`0.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
