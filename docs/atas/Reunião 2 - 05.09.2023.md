@@ -43,10 +43,14 @@ Reunião realizada no Microsoft Teams.
 ## Conclusão
 Nesta reunião foi definido que o App selecionado para o projeto será o ConectSUS e foram distribuidas as atividades da Entrega 1 do projeto que deverão ser entregues dia 15/09/2023. Nesse mesmo dia será gravado o vídeo da primeira apresentação do projeto.
 
+## Link da Gravação
+
+[Requisitos - Reunião 2](https://youtu.be/o_ZmxJCo8qo)
 
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|06/09/2023|Criação do docuemtno|Gabriel Zaranza|Todos|
-|0.1|06/09/2023|Corrigindo a tabela de tarefas|Gabriel Zaranza|Lucas Ribeiro|
+|`0.1`|06/09/2023|Criação do docuemtno|Gabriel Zaranza|Todos|
+|`0.2`|06/09/2023|Corrigindo a tabela de tarefas|Gabriel Zaranza|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`0.3`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
