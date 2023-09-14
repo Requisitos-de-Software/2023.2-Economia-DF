@@ -42,8 +42,13 @@ Reunião realizada no Microsoft Teams.
 
 Os artefatos produzidos foram verificados pelo grupo e antes da gravação da apresentação precisam passar por algumas mudanças, estas mudanças serão realizadas até quinta-feira (14/09/2023) e então o grupo estará pronto para gravar a primeira apresentação.
 
+## Link da Gravação
+
+[Requisitos - Reunião 3](https://youtu.be/S9Gixpjzoy0)
+
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`0.1`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Victor](https://github.com/Lucas13032003)|
+|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
