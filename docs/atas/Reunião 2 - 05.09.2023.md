@@ -4,13 +4,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* Gabriel da Silva Rosa          
-* Gabriel Pessoa Zaranza         
-* Izabella Alves Pereira
-* Lucas De Oliveira Dias Marques Ferreira     
-* Lucas Ribeiro de Souza         
-* Lucas Victor Ferreira de Araújo
-* Zenilda Pedrosa Vieira         
+* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)        
+* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
+* [Izabella Alves Pereira](https://github.com/izabellaalves)
+* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
+* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
+* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
+* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)           
   
 ## Início e término
 
@@ -29,11 +29,11 @@ Reunião realizada no Microsoft Teams.
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Documento planejamento e cronograma detalhado das atividades do projeto|Gabriel da Silva Rosa  e Zenilda Pedrosa Vieira                  |
-|Documento App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |Gabriel Pessoa Zaranza                  |
-|Documento equipe e heatmap de disponibilidade dos integrantes|Izabella Alves Pereira                  |
-|Documento ferramentas do projeto|Lucas De Oliveira Dias Marques Ferreira |
-|Rich picture|Lucas Ribeiro de Souza  e Lucas Victor Ferreira de Araújo                 |
+|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) e [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+|Documento App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)                 |
+|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
+|Documento ferramentas do projeto|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|Rich picture|[Lucas Ribeiro de Souza](https://github.com/lucassouzs) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
 |Documento lista de App's avaliados|Todos                 |
 
 
@@ -50,7 +50,7 @@ Nesta reunião foi definido que o App selecionado para o projeto será o ConectS
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`0.1`|06/09/2023|Criação do docuemtno|Gabriel Zaranza|Todos|
-|`0.2`|06/09/2023|Corrigindo a tabela de tarefas|Gabriel Zaranza|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`0.3`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|:----:|----|---------|:-----:|:-------:|
+|`0.1`|06/09/2023|Criação do docuemtno|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
+|`0.2`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
+|`0.3`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
