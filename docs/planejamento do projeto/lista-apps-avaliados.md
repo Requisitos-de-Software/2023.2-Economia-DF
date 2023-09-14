@@ -71,5 +71,5 @@ A CNH Digital, ou Carteira Nacional de Habilitação Digital, é uma inovação 
 |`0.3`|10/09/2023|Adicionando o app ConecteSUS|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`0.4`|10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
 |`0.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
-|`0.6`|13/09/2023 | Adicionando o app Signal |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
+|`0.6`|13/09/2023 | Adicionando o app CNH Digital |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
 
