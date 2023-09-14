@@ -7,7 +7,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 |     ConecteSUS                        |         [Gabriel Zaranza](https://github.com/GZaranza)                      |
 |Viva Bem                           |[Izabella Alves](https://github.com/izabellaalves)                               |
 | Signal                             |[Lucas Ribeiro](https://github.com/lucassouzs)                                   |
-|                             |                                   |
+| CNH DIGITAL                 |  [Lucas Víctor](https://github.com/Lucas13032003)                                 |
 |                             |                                   |
 |                             |                                   |
 
@@ -52,6 +52,17 @@ O Signal é um aplicativo de mensagens instantâneas que prioriza a privacidade.
 
 - Chamadas de Voz e Vídeo Criptografadas: Além de mensagens, o Signal oferece chamadas de voz e vídeo criptografadas, proporcionando uma comunicação segura e confiável, seja para conversas individuais ou em grupo.
 
+### CNH Digital
+
+A CNH Digital, ou Carteira Nacional de Habilitação Digital, é uma inovação tecnológica que torna o dia a dia mais prático e seguro. Tendo em vista que muitas pessoas valorizam a conveniência e a segurança em suas atividades cotidianas, e a CNH Digital oferece uma série de vantagens que atendem a esses requisitos. Abaixo estão algumas razões pelas quais eu [Lucas Víctor](https://github.com/Lucas13032003)  escolhi adotar a CNH Digital:
+
+- O aplicativo oficial para a CNH Digital é desenvolvido e mantido pelo governo,  tornando ele um app governamental.
+  
+- Agilidade e Praticidade: Com a CNH Digital, temos acesso a informações de habilitação de forma rápida e simples, tornando mais eficiente a apresentação do documento em situações de trânsito ou fiscalização.
+
+- Segurança Reforçada: A CNH Digital é protegida por diversas camadas de segurança, como QR codes e autenticação biométrica, tornando-a altamente segura e resistente a falsificações.
+
+
 ##  Histórico de versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
@@ -60,3 +71,5 @@ O Signal é um aplicativo de mensagens instantâneas que prioriza a privacidade.
 |`0.3`|10/09/2023|Adicionando o app ConecteSUS|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`0.4`|10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
 |`0.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
+|`0.6`|13/09/2023 | Adicionando o app Signal |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
+
