@@ -8,7 +8,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | Viva Bem                      | [Izabella Alves](https://github.com/izabellaalves) |
 | Signal                        | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 | CNH DIGITAL                   | [Lucas Víctor](https://github.com/Lucas13032003)   |
-|                               |                                                    |
+| Guardiões da Saúde            | [ Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 | e-Título                      | [Zenilda Vieira](https://github.com/zenildavieira) |
 
 **Tabela 1:** Tabela de aplicativos avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
@@ -74,6 +74,17 @@ O aplicativo e-Título é mantido pelo Tribunal Superior Eleitoral e foi uma gra
 - é Fácil encontrar usuários do aplicativo em nosso dia a dia, pois muitos utilizaram o aplicativo nas últimas eleições e tem conhecimento de como ele funciona.
 
 
+### Guardiões da Saúde
+
+O aplicativo Guardiões da Saúde tem o grande objetivo de fortalecer a capacidade de detecção de surtos e emergências em saúde pública. Esta versão do aplicativo é uma parceria da Associação Brasileira de Profissioinais de Epidemologia de Campo (ProEpi) com Universidade de Brasília (UnB), Universidade Federal de São Carlos (UFSCAR) e o Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais(IFNMG). O aplicativo foi escolhido pelo integrante do grupo. [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) abaixo estão algumas das caracteristicas que foram levadas em consideração para essa escolha:
+
+- Esse aplicativo se encaixa dentro dos requisitos especificados pela materia;
+  
+- Facilidade e Clareza: O aplicativo possui uma interface de usuário clara, que simplifica o uso para novatos e especialistas;
+  
+- O aplicativo tem muitos adeptos no cotidiano pois foi usado por grande parte dos estudantes da nossa universidade.
+
+
 
 
 ##  Histórico de versões
@@ -86,4 +97,5 @@ O aplicativo e-Título é mantido pelo Tribunal Superior Eleitoral e foi uma gra
 |`0.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
 |`0.6`|13/09/2023 | Adicionando o app CNH Digital |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
 |`0.7`|15/09/2023 | Adicionando o app e-Título |  [Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
+|`0.8`|15/09/2023 | Adicionando o app Guardiões da Saúde |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
 
