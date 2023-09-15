@@ -11,10 +11,11 @@ A equipe do projeto elaborou uma [lista de aplicativos](https://github.com/Requi
  
 ## ConecteSUS
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/ícone_conecteSUS.png">
-  
-Figura 1 - Logo do ConecteSUS. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
+<img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/%C3%ADcone_conecteSUS.png?raw=true">
 </div>
+
+Figura 1 - Logo do ConecteSUS. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
+
 
 
 A equipe optou pelo [ConecteSUS](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR&gl=US), que é uma plataforma do governo federal brasileiro para integrar e informatizar informações e serviços do SUS (Sitema Único de Saúde). O aplicativo conta com diversas funcionalidades como cartão de vacinas, agendamento e visualização de exames/consultas, contatos e informações sobre a rede de saúde pública.
