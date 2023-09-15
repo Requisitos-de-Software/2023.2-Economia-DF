@@ -1,7 +1,8 @@
 # Cronograma Executado do Projeto
 
 ## Introdução
-escrever texto
+Este documento representa o registro detalhado e cronológico das ações e tarefas realizadas ao longo de um período determinado. Nele, você encontrará uma análise minuciosa das atividades que foram planejadas e executadas com sucesso, refletindo o comprometimento e a dedicação da nossa equipe na busca dos nossos objetivos.
+
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega: 20/set/2023
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma executado da etapa de Planejamento do Projeto</p></font>
@@ -27,6 +28,8 @@ escrever texto
 
 
 ## Referências Bibliográficas
+
+>Cronograma Bilheteria Digital. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>>. Acesso em 15 de setembro de 2023.
 
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 06 de setembro de 2023.
 
