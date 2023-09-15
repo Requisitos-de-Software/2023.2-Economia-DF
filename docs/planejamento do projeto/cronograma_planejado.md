@@ -70,14 +70,14 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                                    |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
- | Especificação dos Cenários                                                                    | Início: 30/set <br> Fim: 01/out | ?                            | Início: 02/out <br> Fim: 03/out | ?                            |
- | Especificação dos léxicos                                                                     | Início: 30/set <br> Fim: 01/out | ?                            | Início: 02/out <br> Fim: 03/out | ?                            |
- | Especificação dos casos de uso e diagramação                                                  | Início: 30/set <br> Fim: 01/out | ?                            | Início: 02/out <br> Fim: 03/out | ?                            |
- | Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso  | Início: 02/out <br> Fim: 03/out | ?                            | Início: 04/out <br> Fim: 05/out | ?                            |
- | Especificação Suplementar                                                                     | Início: 07/out <br> Fim: 10/out | ?                            | Início: 11/out <br> Fim: 12/out | ?                            |
- | Gravação 3                                                                                    | 20/out                          | Todos                        | 21/out                          | ?                            |
- | Atualização do cronograma executado para Entrega 3                                            | 20/out                          | ?                            | 20/out                          | ?                            |
- | Correção após a Entrega 3                                                                     | Início: 28/out <br> Fim: 31/out | ?                            | Início: 01/nov <br> Fim: 02/nov | ?                            |
+ | Especificação dos Cenários                                                                    | Início: 30/set <br> Fim: 01/out | [Gabriel Rosa](https://github.com/gabrielrosa09)    e [Izabella Alves](https://github.com/izabellaalves)                         | Início: 02/out <br> Fim: 03/out | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+ | Especificação dos léxicos                                                                     | Início: 30/set <br> Fim: 01/out | [Lucas Ribeiro](https://github.com/lucassouzs)   e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                         | Início: 02/out <br> Fim: 03/out | [Zenilda Vieira](https://github.com/ZenildaVieira)                            |
+ | Especificação dos casos de uso e diagramação                                                  | Início: 30/set <br> Fim: 01/out | [Zenilda Vieira](https://github.com/ZenildaVieira)  e [Gabriel Zaranza](https://github.com/GZaranza)                            | Início: 02/out <br> Fim: 03/out | [Lucas Victor](https://github.com/Lucas13032003)                             |
+ | Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso  | Início: 02/out <br> Fim: 03/out | [Gabriel Zaranza](https://github.com/GZaranza)                            | Início: 04/out <br> Fim: 05/out | [Lucas Ribeiro](https://github.com/lucassouzs)                            |
+ | Especificação Suplementar                                                                     | Início: 07/out <br> Fim: 10/out | [Lucas Victor](https://github.com/Lucas13032003)                            | Início: 11/out <br> Fim: 12/out | [Zenilda Vieira](https://github.com/ZenildaVieira)                            |
+ | Gravação 3                                                                                    | 20/out                          | Todos                        | 21/out                          | Todos                           |
+ | Atualização do cronograma executado para Entrega 3                                            | 20/out                          |[Zenilda Vieira](https://github.com/ZenildaVieira)                             | 20/out                          | [Izabella Alves](https://github.com/izabellaalves)                            |
+ | Correção após a Entrega 3                                                                     | Início: 28/out <br> Fim: 31/out | [Lucas Victor](https://github.com/Lucas13032003)                            | Início: 01/nov <br> Fim: 02/nov | [Gabriel Rosa](https://github.com/gabrielrosa09)                            |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -87,13 +87,13 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
- | Definição de histórias de usuário                                                       | Início: 14/out <br> Fim: 17/out | ?                            | Início: 18/out <br> Fim: 19/out | ?                            |
- | Documentação da participação do cliente e/ou persona na elicitação de requisistos       | Início: 14/out <br> Fim: 17/out | ?                            | Início: 18/out <br> Fim: 19/out | ?                            |
- | Definição de backlogs                                                                   | Início: 14/out <br> Fim: 17/out | ?                            | Início: 18/out <br> Fim: 19/out | ?                            |
- | Definição de NFR Framework                                                              | Início: 14/out <br> Fim: 17/out | ?                            | Início: 18/out <br> Fim: 19/out | ?                            |
- | Gravação 4                                                                              | 01/nov                          | Todos                        | 02/nov                          | ?                            |
- | Atualização do cronograma executado para Entrega 4                                      | 01/nov                          | ?                            | 01/nov                          | ?                            |
- | Correção após a Entrega 4                                                               | Início: 11/nov <br> Fim: 14/nov | ?                            | Início: 15/nov <br> Fim: 16/nov | ?                            |
+ | Definição de histórias de usuário                                                       | Início: 14/out <br> Fim: 17/out | Todos                       | Início: 18/out <br> Fim: 19/out | [Izabella Alves](https://github.com/izabellaalves)                            |
+ | Documentação da participação do cliente e/ou persona na elicitação de requisistos       | Início: 14/out <br> Fim: 17/out | [Gabriel Zaranza](https://github.com/GZaranza)                            | Início: 18/out <br> Fim: 19/out | [Lucas Ribeiro](https://github.com/lucassouzs)                            |
+ | Definição de backlogs                                                                   | Início: 14/out <br> Fim: 17/out | [Gabriel Rosa](https://github.com/gabrielrosa09)  e [Lucas Ribeiro](https://github.com/lucassouzs)                           | Início: 18/out <br> Fim: 19/out | [Zenilda Vieira](https://github.com/ZenildaVieira)                             |
+ | Definição de NFR Framework                                                              | Início: 14/out <br> Fim: 17/out | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  e [Lucas Ribeiro](https://github.com/lucassouzs)                         | Início: 18/out <br> Fim: 19/out | [Lucas Victor](https://github.com/Lucas13032003)                             |
+ | Gravação 4                                                                              | 01/nov                          | Todos                        | 02/nov                          | [Gabriel Rosa](https://github.com/gabrielrosa09)                            |
+ | Atualização do cronograma executado para Entrega 4                                      | 01/nov                          | [Lucas Victor](https://github.com/Lucas13032003)                            | 01/nov                          | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                           |
+ | Correção após a Entrega 4                                                               | Início: 11/nov <br> Fim: 14/nov | [Zenilda Vieira](https://github.com/ZenildaVieira)                             | Início: 15/nov <br> Fim: 16/nov | [Gabriel Zaranza](https://github.com/GZaranza)                            |
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -105,10 +105,10 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
- | Análise de Requisitos: Verificação e Validação 1                                        | Início: 04/nov <br> Fim: 07/nov | ?                            | Início: 08/nov <br> Fim: 09/nov | ?                            |
- | Gravação 5.1                                                                            | 08/nov                          | Todos                        | 09/nov                          | ?                            |
- | Atualização do cronograma executado para Entrega 5.1                                    | 08/nov                          | ?                            | 08/nov                          | ?                            |
- | Correção após a Entrega 5.1                                                             | Início: 18/nov <br> Fim: 21/nov | ?                            | Início: 22/nov <br> Fim: 23/nov | ?                            |
+ | Análise de Requisitos: Verificação e Validação 1                                        | Início: 04/nov <br> Fim: 07/nov | Todos                           | Início: 08/nov <br> Fim: 09/nov | [Lucas Ribeiro](https://github.com/lucassouzs)                            |
+ | Gravação 5.1                                                                            | 08/nov                          | Todos                        | 09/nov                          | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+ | Atualização do cronograma executado para Entrega 5.1                                    | 08/nov                          | [Izabella Alves](https://github.com/izabellaalves)                            | 08/nov                          | [Lucas Victor](https://github.com/Lucas13032003)                             |
+ | Correção após a Entrega 5.1                                                             | Início: 18/nov <br> Fim: 21/nov | [Gabriel Zaranza](https://github.com/GZaranza)                            | Início: 22/nov <br> Fim: 23/nov | [Gabriel Rosa](https://github.com/gabrielrosa09)                           |
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -119,10 +119,10 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
- | Pós-Rastreabilidade                                                                     | Início: 11/nov <br> Fim: 14/nov | ?                            | Início: 15/nov <br> Fim: 16/nov | ?                            | 
- | Gravação 6                                                                              | 15/nov                          | Todos                        | 16/nov                          | ?                            |
- | Atualização do cronograma executado para Entrega 6                                      | 15/nov                          | ?                            | 15/nov                          | ?                            |
- | Correção após a Entrega 6                                                               | Início: 25/nov <br> Fim: 28/nov | ?                            | Início: 29/nov <br> Fim: 30/nov | ?                            |
+ | Pós-Rastreabilidade                                                                     | Início: 11/nov <br> Fim: 14/nov | Todos                         | Início: 15/nov <br> Fim: 16/nov | [Gabriel Rosa](https://github.com/gabrielrosa09)                            | 
+ | Gravação 6                                                                              | 15/nov                          | Todos                        | 16/nov                          | [Izabella Alves](https://github.com/izabellaalves)                             |
+ | Atualização do cronograma executado para Entrega 6                                      | 15/nov                          |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                           | 15/nov                          | [Gabriel Zaranza](https://github.com/GZaranza)                            |
+ | Correção após a Entrega 6                                                               | Início: 25/nov <br> Fim: 28/nov | [Izabella Alves](https://github.com/izabellaalves)                            | Início: 29/nov <br> Fim: 30/nov | [Lucas Victor](https://github.com/Lucas13032003)                             |
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -133,10 +133,10 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
- | Análise de Requisitos: Verificação e Validação 2                                        | Início: 18/nov <br> Fim: 21/nov | ?                            | Início: 22/nov <br> Fim: 23/nov | ?                            |
- | Gravação 5.2                                                                            | 22/nov                          | Todos                        | 23/nov                          | ?                            |
- | Atualização do cronograma executado para Entrega 5.2                                    | 22/nov                          | ?                            | 22/nov                          | ?                            |
- | Correção após a Entrega 5.2                                                             | Início: 30/nov <br> Fim: 01/dez | ?                            | Início: 02/dez <br> Fim: 03/dez | ?                            |
+ | Análise de Requisitos: Verificação e Validação 2                                        | Início: 18/nov <br> Fim: 21/nov | Todos                       | Início: 22/nov <br> Fim: 23/nov | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+ | Gravação 5.2                                                                            | 22/nov                          | Todos                        | 23/nov                          | [Lucas Ribeiro](https://github.com/lucassouzs)                            |
+ | Atualização do cronograma executado para Entrega 5.2                                    | 22/nov                          | [Lucas Victor](https://github.com/Lucas13032003)                           | 22/nov                          | [Gabriel Rosa](https://github.com/gabrielrosa09)                            |
+ | Correção após a Entrega 5.2                                                             | Início: 30/nov <br> Fim: 01/dez | [Zenilda Vieira](https://github.com/ZenildaVieira)                            | Início: 02/dez <br> Fim: 03/dez |[Lucas Victor](https://github.com/Lucas13032003)                             |
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -148,10 +148,10 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
  |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                 |  Revisão                        |  Revisores                   | 
  | --------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------- | ------------------------------- | ---------------------------- | 
- | Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar)   | Início: 25/nov <br> Fim: 28/nov | Todos                         | Início: 29/nov <br> Fim: 30/nov | ?                            |
- | Gravação Final                                                                          | 02/dez                          | Todos                         | 03/dez                          | ?                            |
- | Atualização do cronograma executado para Entrega Final                                  | 02/dez                          | ?                             | 02/dez                          | ?                            |
- | Correção após a Entrega Final                                                           | Início: 20/dez <br> Fim: 21/dez | ?                             | Início: 22/dez <br> Fim: 23/dez | ?                            |
+ | Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar)   | Início: 25/nov <br> Fim: 28/nov | Todos                         | Início: 29/nov <br> Fim: 30/nov | [Gabriel Rosa](https://github.com/gabrielrosa09)                          |
+ | Gravação Final                                                                          | 02/dez                          | Todos                         | 03/dez                          |[Izabella Alves](https://github.com/izabellaalves)                             |
+ | Atualização do cronograma executado para Entrega Final                                  | 02/dez                          | [Gabriel Rosa](https://github.com/gabrielrosa09)                              | 02/dez                          |       [Gabriel Zaranza](https://github.com/GZaranza)                       |
+ | Correção após a Entrega Final                                                           | Início: 20/dez <br> Fim: 21/dez | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            | Início: 22/dez <br> Fim: 23/dez | [Lucas Victor](https://github.com/Lucas13032003)                             |
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -169,3 +169,4 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 |`1.0`|06/09/2023|Criação do cronograma.| [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |       
 |`1.1`|15/09/2023|Inclusão do cronograma das entregas parciais.| [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |       
 |`1.2`|15/09/2023|Inclusão dos nomes dos responsáveis e revisores.| [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |       
+|`1.3`|15/09/2023|Inclusão dos nomes dos responsáveis e revisores.| [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/izabellaalves)  |   
