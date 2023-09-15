@@ -1,5 +1,5 @@
-repo_url: https://github.com/Requisitos-de-Software/2023.2-Grupo01
-repo_name: 2023.2-Grupo01
+repo_url: https://github.com/Requisitos-de-Software/2023.2-ConecteSUS
+repo_name: 2023.2-ConecteSUS
 
 site_name: ConecteSUS
 nav:
@@ -7,8 +7,15 @@ nav:
   - Atas:
     - Reunião 1: atas/Reunião 1 - 31.08.2023.md
     - Reunião 2: atas/Reunião 2 - 05.09.2023.md
+    - Reunião 3: atas/Reunião 3 - 13.09.2023.md
   - Planejamento do projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
+    - Ferramentas do projeto: planejamento do projeto/ferramentas.md
+    - Aplicativos avaliados: planejamento do projeto/lista-apps-avaliados.md
+    - Aplicativo selecionado: planejamento do projeto/app-selecionado.md
+    - Rich Picture: planejamento do projeto/rich-picture.md
+    - Cronograma planejado: planejamento do projeto/cronograma_planejado.md
+    - Cronograma executado: planejamento do projeto/cronograma_executado.md 
 
 theme:
   name: material
