@@ -14,4 +14,11 @@ A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto 
 ## Referência
 > <a id="RP1" href="#TEC1">1.</a> Klaus Pohl · Chris Rupp. Requirements Engineering Fundamentals. 2nd Edition, 2015. Disponível em: <<[https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4 Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf](https://aprender3.unb.br/pluginfile.php/2692740/mod_resource/content/2/Rastreabilidade.pdf)>>.
 
+## Histórico de Versões
+
+Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+--------- | ------ | ------ | ---------- | ----------
+ `0.1` | 15/09/2023 | Criação do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)
+
+
 
