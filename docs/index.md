@@ -1,4 +1,9 @@
 # ConecteSUS
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/%C3%ADcone_conecteSUS.png?raw=true">
+</div>
+
+Figura 1 - Logo do ConecteSUS. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
 ## Sobre o projeto
 Esta página tem como foco a documentação de todos os artefatos desenvolvidos pelo Grupo 01 durante o segundo semestre de 2023, na disciplina de Requisitos de Software na Faculdade do Gama da Universidade de Brasília (FGA-UnB).
 
