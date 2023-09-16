@@ -156,7 +156,7 @@ Neste documento, vamos explorar a importância do planejamento de um cronograma 
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-## Referências Bibliográficas
+## Bibliografia
 
 >Cronograma Bilheteria Digital. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>>. Acesso em 15 de setembro de 2023.
 
