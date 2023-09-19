@@ -8,7 +8,7 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 <p style="text-align: center"><a href="https://youtu.be/7r3p0htB4_w" target="blanket">Requisitos - Apresentação 1</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/7r3p0htB4_w" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7r3p0htB4_w" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Autores.
 

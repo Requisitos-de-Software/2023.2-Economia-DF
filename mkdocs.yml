@@ -8,6 +8,9 @@ nav:
     - Reunião 1: atas/Reunião 1 - 31.08.2023.md
     - Reunião 2: atas/Reunião 2 - 05.09.2023.md
     - Reunião 3: atas/Reunião 3 - 13.09.2023.md
+    - Reunião 4: atas/Reunião 4 - 15.09.2023.md
+  - Apresentação:
+    - Apresentação 1: apresentacoes/Apresentação 1 - 15.09.2023.md
   - Planejamento do projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Ferramentas do projeto: planejamento do projeto/ferramentas.md
@@ -27,17 +30,30 @@ theme:
     - navigation.top
     - navigation.footer
   palette:
-    - primary: 'blue-dark'
-    - media: "(prefers-color-scheme: light)"
-      scheme: claro
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - scheme: default
       toggle:
-        icon: material/circle-half-full
+        icon: material/weather-night
         name: Mudar para o modo escuro
+      primary: blue-dark
+      accent: purple
 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       toggle:
-        icon: material/circle-half-full
+        icon: material/weather-sunny
         name: Mudar para o modo claro
+      primary: blue-dark
+      accent: lime
+
 
   language: pt-BR
+  extra_css: [stylesheets/extra.css]
