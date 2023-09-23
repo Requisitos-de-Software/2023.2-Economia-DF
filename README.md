@@ -1,13 +1,15 @@
-# 2023.2 ConecteSUS
+# 2023.2 EconomiaDF
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/%C3%ADcone_conecteSUS.png?raw=true">
+<img src="https://play-lh.googleusercontent.com/dBzTynkXhy6O4nTh4dblgAEI5AKs7uF9y5pT0424CBuzWWrBtk-Z2BFKtL8oNjQrVA" width="300" height="200">
 </div>
 
-Figura 1 - Logo do ConecteSUS. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
+Figura 1 - Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
+
 ## Sobre o projeto
 Esta página tem como foco a documentação de todos os artefatos desenvolvidos pelo Grupo 01 durante o segundo semestre de 2023, na disciplina de Requisitos de Software na Faculdade do Gama da Universidade de Brasília (FGA-UnB).
 
-O objetivo central deste projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo ConecteSUS. O ConecteSUS é o aplicativo oficial do Ministério da Saúde e representa a porta de entrada para os serviços do Sistema Único de Saúde (SUS) por meio de plataformas digitais.
+O objetivo central deste projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo EconomiaDF. O aplicativo Economia DF é um serviço oferecido pela Secretaria de Economia do Distrito Federal (SEEC-DF) para facilitar o acesso dos contribuintes a uma variedade de serviços.
+
 ## Equipe
 <table>
   <tr>
