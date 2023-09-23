@@ -1,6 +1,6 @@
 # 2023.2 EconomiaDF
 <div align="center">
-<img src="https://play-lh.googleusercontent.com/dBzTynkXhy6O4nTh4dblgAEI5AKs7uF9y5pT0424CBuzWWrBtk-Z2BFKtL8oNjQrVA">
+<img src="https://play-lh.googleusercontent.com/dBzTynkXhy6O4nTh4dblgAEI5AKs7uF9y5pT0424CBuzWWrBtk-Z2BFKtL8oNjQrVA" width="300">
 </div>
 
 Figura 1 - Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US)
