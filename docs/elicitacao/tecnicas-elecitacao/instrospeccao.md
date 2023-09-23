@@ -22,30 +22,31 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
-| INT01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |           |
-| INT02| RF     | Deve ser possível cadastrar e atualizar o perfil do usuário, incluindo informações pessoais e preferências. |          |
-| INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado.  |           |
-| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados.           |           |
-| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. |          |
-| INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. |           |
-| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil.               |           |
-| INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. |           |
-| INT09| RF     | O aplicativo deve permitir que os usuários realizem transações de compra e venda de produtos ou serviços. |           |
-| INT10| RF     | Deve ser possível cadastrar métodos de pagamento, como cartões de crédito, para facilitar as transações. |          |
-| INT11| RF     | O aplicativo deve ter uma interface intuitiva, fácil de navegar e que proporcione uma boa experiência ao usuário. |           |
-| INT12| RF     | Deve ser oferecido suporte para diferentes tamanhos de tela e dispositivos móveis.           |           |
-| INT13| RNF    | Garantir a segurança das informações dos usuários durante a transmissão e armazenamento de dados. |           |
-| INT14| RNF    | Assegurar conformidade com regulamentações de proteção de dados vigentes no Brasil.          |           |
-| INT15| RNF    | Garantir uma resposta rápida e eficiente, minimizando o tempo de carregamento das páginas.   |          |
-| INT16| RNF    | Manter a disponibilidade do aplicativo, minimizando tempo de inatividade para garantir uma experiência contínua. |           |
-| INT17| RNF    | Garantir uma interface de usuário amigável, facilitando a interação e a compreensão das funcionalidades do aplicativo. |           |
-| INT18| RNF    | Certificar-se de que o aplicativo é compatível com uma ampla variedade de dispositivos móveis e sistemas operacionais. |           |
-| INT19| RNF    | Garantir que o aplicativo seja otimizado para diferentes navegadores web.                   |           |
+| INT01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
+| INT02| RF     | Deve ser possível acessar os dados diretamente da secretaria de estado de economia do distrito federal | Sim         |
+| INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado.  |     Sim      |
+| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados.           |      Sim     |
+| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. |    Sim      |
+| INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. |     Não      |
+| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil.               |    Sim       |
+| INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. |      Sim     |
+| INT09| RF     | O aplicativo deve ter uma interface intuitiva, fácil de navegar e que proporcione uma boa experiência ao usuário. |    Sim       |
+| INT10| RF     | Deve ser oferecido suporte para diferentes tamanhos de tela e dispositivos móveis.           |     Não      |
+| INT11| RF    | Deve ser disponibilizada uma forma de entrar em contato com a Secretária de Estado de Economia no caso de algum problema específico do usuário                 |  Sim        |
+| INT12| RNF    | Garantir a segurança das informações dos usuários durante a transmissão e armazenamento de dados. |     Sim      |
+| INT13| RNF    | Assegurar conformidade com regulamentações de proteção de dados vigentes no Brasil.          |     Sim      |
+| INT14| RNF    | Garantir uma resposta rápida e eficiente, minimizando o tempo de carregamento das páginas.   |    Não      |
+| INT15| RNF    | Manter a disponibilidade do aplicativo, minimizando tempo de inatividade para garantir uma experiência contínua. |     Não      |
+| INT16| RNF    | Garantir uma interface de usuário amigável, facilitando a interação e a compreensão das funcionalidades do aplicativo. |      Sim     |
+| INT17| RNF    | Certificar-se de que o aplicativo é compatível com uma ampla variedade de dispositivos móveis e sistemas operacionais. |      Não     |
+| INT18| RNF    | Garantir que o aplicativo seja otimizado para diferentes navegadores web.                   |     Não      |
 
-**Tabela 1:** Requisitos elicitados. Fonte: 
+
+**Tabela 1:** Requisitos elicitados. Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 ## Bibliografia
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 23/09/2023.
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|13/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|`1.0`|23/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|`1.1`|23/09/2023|Preenchimento da tabela com a adição dos resultados da Introspecção|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Izabella Alves Pereira](https://github.com/izabellaalves)|
