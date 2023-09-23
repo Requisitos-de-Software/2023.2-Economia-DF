@@ -36,6 +36,23 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 ![Atribuições de IHC e Requisitos](/docs/imagens/atribuicoes_ihc_req.png)
 
+## Tarefas de correções em Requisitos
+
+|Tarefa|Responsável|
+|:----:|:---------:|
+|Alterar nome do repositório|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+|Escrever o documento "Novo aplicativo escolhido" |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|
+|Editar o documento de ferramentas|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  
+|Trocar Heatmap|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|  
+|Fazer Rich Picture (RP) EconomiaDF|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|Atualizar gitpage|[Izabella Alves Pereira](https://github.com/izabellaalves)|
+|Editar Readme|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|
+|Editar RPs em imagens e links de cada RP dos apps avalaliados no documento lista-apps-avaliados|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
+|Padronizar Histórico de Versões, todos começando com 1.0|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+
+## Conclusão
+Em conclusão, a pauta define claramente as tarefas a serem realizadas e à definição de requisitos para o projeto. Ela também estabelece prazos e responsáveis, o que é fundamental para garantir a organização e o cumprimento das atividades.
+
 ## Link da Gravação
 
 [Requisitos - Reunião 6]()
