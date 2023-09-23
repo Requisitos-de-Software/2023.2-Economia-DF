@@ -8,7 +8,6 @@ Reunião realizada no Microsoft Teams.
 * [Gabriel Pessoa Zaranza](https://github.com/GZaranza)         
 * [Izabella Alves Pereira](https://github.com/izabellaalves)
 * [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)     
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)         
 * [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
 * [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)       
   
@@ -17,7 +16,7 @@ Reunião realizada no Microsoft Teams.
 |	           | Hora de Início | Hora de Término |
 |--------------|:--------------:|:---------------:|
 |Previsto:     |    20:00       |      21:30      |
-|Realizado:    |     20:15      |             |
+|Realizado:    |     20:15      |      22:02       |
 
 ## Pauta
 
