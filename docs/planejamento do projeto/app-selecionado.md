@@ -9,7 +9,7 @@ A equipe do projeto elaborou uma [lista de aplicativos](https://github.com/Requi
   - Público-alvo com contato acessível;
   - Quantidade de funcionalidades e complexidade.
  
-## ConecteSUS
+## Economia DF
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png">
   
