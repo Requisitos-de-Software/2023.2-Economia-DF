@@ -10,6 +10,7 @@ Na fase inicial do projeto, os estudantes foram convidados a selecionar individu
 | CNH DIGITAL                   | [Lucas Víctor](https://github.com/Lucas13032003)   |
 | Guardiões da Saúde            | [ Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 | e-Título                      | [Zenilda Vieira](https://github.com/zenildavieira) |
+| Economia DF                     | Todos |
 
 **Tabela 1:** Tabela de aplicativos avaliados (Fonte: [Izabella Alves](https://github.com/izabellaalves))
 
@@ -85,19 +86,27 @@ O aplicativo Guardiões da Saúde tem o grande objetivo de fortalecer a capacida
 - Facilidade e Clareza: O aplicativo possui uma interface de usuário clara, que simplifica o uso para novatos e especialistas;
   
 - O aplicativo tem muitos adeptos no cotidiano pois foi usado por grande parte dos estudantes da nossa universidade.
+  
+### Economia DF
 
+O Economia DF é uma aplicativo desenvolvido pela Secretária de Economia do Distrito Federal (Seec/DF) para centralizar diversos serviços em um só lugar. Os usuários podem, realizar o registro de seus veículos para acessar informações sobre os débitos de IPVA, cadastrar propriedades para consultar débitos de IPTU, verificar parcelamentos ativos, acessar notas fiscais eletrônicas do Distrito Federal, gerar boletos bancários (DAR) e acessar notícias publicadas no site www.economia.df.gov.br. O aplicativo foi sugerido pelo professor da disciplina após a equipe escolher o site [Nota Legal](https://interacao-humano-computador.github.io/2023.2-NotaLegal/) como objeto de estuda na disciplina de Interação Humano-Computador (IHC) e isso proporciona:
+
+- Compartilhamento de informações com o Nota Legal e o projeto de IHC da equipe;
+
+- Resultados com perspectiva de requisitos e outra de IHC;
 
 
 
 ##  Histórico de versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|06/09/2023|Criação do documento|[Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
-|`0.2`|07/09/2023|Adicionando introdução e app Viva Bem|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
-|`0.3`|10/09/2023|Adicionando o app ConecteSUS|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`0.4`|10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
-|`0.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
-|`0.6`|13/09/2023 | Adicionando o app CNH Digital |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
-|`0.7`|15/09/2023 | Adicionando o app e-Título |  [Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
-|`0.8`|15/09/2023 | Adicionando o app Guardiões da Saúde |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
+|`1.1`|06/09/2023|Criação do documento|[Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.2`|07/09/2023|Adicionando introdução e app Viva Bem|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.3`|10/09/2023|Adicionando o app ConecteSUS|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.4`|10/09/2023 | Adicionando o app Calibre E-book | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Izabella Alves](https://github.com/izabellaalves) |
+|`1.5`|13/09/2023 | Adicionando o app Signal | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Zaranza](https://github.com/GZaranza) |
+|`1.6`|13/09/2023 | Adicionando o app CNH Digital |  [Lucas Víctor](https://github.com/Lucas13032003)  | [Lucas Ribeiro](https://github.com/lucassouzs) |
+|`1.7`|15/09/2023 | Adicionando o app e-Título |  [Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
+|`1.8`|15/09/2023 | Adicionando o app Guardiões da Saúde |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
+|`1.9`|24/09/2023 | Adicionando o app Economia DF |  [Gabriel Zaranza](https://github.com/GZaranza)  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 
