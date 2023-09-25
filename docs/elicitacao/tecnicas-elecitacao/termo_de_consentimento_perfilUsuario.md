@@ -2,7 +2,7 @@
 
 Prezado(a) participante,
 
-Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida por estudantes da Faculdade do Gama - Universidade de Brasília (FGA/UNB), como parte da disciplina de Interação Humano-Computador e Requisitos de Software. O objetivo desta pesquisa é avaliar o perfil de usuário do site "Nota Legal" e entender melhor as características sócio demográficas dos usuários em relação a essa plataforma.
+Você está sendo convidado(a) a participar de uma pesquisa acadêmica conduzida por estudantes da Faculdade do Gama - Universidade de Brasília (FGA/UNB), como parte da disciplina de Interação Humano-Computador e Requisitos de Software. O objetivo desta pesquisa é avaliar o perfil de usuário do site "Nota Legal" e app Economia DF para entender melhor as características sócio demográficas dos usuários em relação a essa plataforma.
 
 Sua participação neste estudo é voluntária e importante para o nosso trabalho acadêmico. Antes de decidir se deseja ou não participar, é fundamental que você compreenda os detalhes da pesquisa e os seus direitos como participante.
 
