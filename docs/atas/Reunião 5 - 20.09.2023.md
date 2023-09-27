@@ -50,4 +50,4 @@ Na reunião, foram distribuídas as atividades da Entrega 2 do projeto e foi dec
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
+|`1.0`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |

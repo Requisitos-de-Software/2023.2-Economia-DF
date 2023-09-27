@@ -35,5 +35,5 @@ Nos baseando nos resultados obtidos no Heatmap preenchido pela equipe, as reuni�
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|07/09/2023|Criação de documento e adição dos tópicos|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`0.2`|07/09/2023|Criação de documento e adição dos tópicos|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.0`|07/09/2023|Criação de documento e adição dos tópicos|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.1`|07/09/2023|Criação de documento e adição dos tópicos|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|

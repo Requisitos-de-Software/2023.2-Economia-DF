@@ -43,5 +43,5 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|31/08/2023|Criação da ata de reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|Todos|
-|`0.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro  de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|31/08/2023|Criação da ata de reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|Todos|
+|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro  de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

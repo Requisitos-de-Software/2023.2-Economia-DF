@@ -48,11 +48,11 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 
 ## Histórico de Versões
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 13/09/2023 |            Criação da página de ferramentas.            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira)|
-|  `1.2`  | 13/09/2023 |   Adição da tabela de ferramentas.   |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.3` | 13/09/2023 | Criação das Referências bibliográficas. |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Rosa](https://github.com/gabrielrosa09)|
-|  `1.4`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |   [Lucas Ribeiro](https://github.com/lucassouzs)    |
+| Versão  |    Data    |          Descrição                      |                    Autor(es)                                             |                  Revisor(es)                       |
+| :-----: | :--------: | :-------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
+|  `1.0`  | 13/09/2023 |   Criação da página de ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira) |
+|  `1.1`  | 13/09/2023 |   Adição da tabela de ferramentas.      | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves) |
+|  `1.2`  | 13/09/2023 | Criação das Referências bibliográficas. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+|  `1.3`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 
 </center>

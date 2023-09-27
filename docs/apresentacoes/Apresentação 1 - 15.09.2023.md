@@ -16,5 +16,5 @@ Fonte: Autores.
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|19/09/2023|Criação do documento|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`0.2`|19/09/2023|Adição do link da 1ª Apresentação|[Lucas Ribeiro  de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|19/09/2023|Criação do documento|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.1`|19/09/2023|Adição do link da 1ª Apresentação|[Lucas Ribeiro  de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|

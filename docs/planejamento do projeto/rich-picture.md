@@ -18,4 +18,4 @@ A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `0.1` | 15/09/2023 | Criação do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)
+ `1.0` | 15/09/2023 | Criação do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)

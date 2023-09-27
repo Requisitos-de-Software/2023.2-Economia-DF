@@ -27,5 +27,5 @@ O objetivo central deste projeto é conduzir uma avaliação detalhada dos requi
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|06/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|0.2|07/09/2023|Adição dos tópicos Sobre o Projeto e tabela de membros da equipe|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.0`|06/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|07/09/2023|Adição dos tópicos Sobre o Projeto e tabela de membros da equipe|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|

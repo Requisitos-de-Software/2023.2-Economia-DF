@@ -52,5 +52,5 @@ Todos os documentos e artefatos feito para as apresentações foram revisadas po
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`0.1`|15/09/2023|Criação do documento|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`0.2`|19/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves Pereira](https://github.com/izabellaalves)|
+|`1.0`|15/09/2023|Criação do documento|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|19/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves Pereira](https://github.com/izabellaalves)|

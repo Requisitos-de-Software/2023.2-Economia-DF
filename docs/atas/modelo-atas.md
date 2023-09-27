@@ -46,4 +46,4 @@ xxxx
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|0.1|dd/mm/yyyy|xxxx|xxxx|xxxx|
+|`1.0`|dd/mm/yyyy|xxxx|xxxx|xxxx|

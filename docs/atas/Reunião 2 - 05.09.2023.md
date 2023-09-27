@@ -51,6 +51,6 @@ Nesta reunião foi definido que o App selecionado para o projeto será o ConectS
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`0.1`|06/09/2023|Criação do docuemtno|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
-|`0.2`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
-|`0.3`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|06/09/2023|Criação do docuemtno|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
+|`1.1`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
+|`1.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
