@@ -73,7 +73,7 @@ O aplicativo e-Título é mantido pelo Tribunal Superior Eleitoral e foi uma gra
 
 - é Fácil encontrar usuários do aplicativo em nosso dia a dia, pois muitos utilizaram o aplicativo nas últimas eleições e tem conhecimento de como ele funciona.
 
-[Rich Picture - e-Título](imagens/Rich_Picture_e-titulo.png)
+[Rich Picture - e-Título](../imagens/Rich_Picture_e-titulo.png)
 
 
 ### Guardiões da Saúde
