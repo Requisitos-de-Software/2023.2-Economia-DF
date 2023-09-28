@@ -1,7 +1,7 @@
 # Perfil de Usuário
 
 ## Introdução
-
+Em um mundo cada vez mais digital e interconectado, compreender o perfil de usuário tornou-se essencial para o desenvolvimento de produtos, serviços e experiências que atendam às necessidades e expectativas de um público diversificado. O perfil de usuário é uma representação detalhada e abrangente das características, comportamentos, interesses e objetivos de um indivíduo ou grupo que utiliza determinado produto, plataforma ou serviço. É por meio desse perfil que empresas, desenvolvedores e profissionais de marketing podem criar estratégias eficazes, personalizar a oferta de conteúdo e garantir uma experiência satisfatória e relevante para seus usuários.
 ## Metodologia
 
 ## Questionário
