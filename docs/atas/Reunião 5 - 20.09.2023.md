@@ -46,8 +46,13 @@ Reunião realizada no Microsoft Teams.
 ## Conclusão
 Na reunião, foram distribuídas as atividades da Entrega 2 do projeto e foi decidido o método de elicitação dos requisitos. Além disso, discutimos a priorização e exploramos a possibilidade de utilizar métodos como "First Things First," "In or Out," e "100 Dollar Test."
 
+## Link da Gravação
+
+[Requisitos - Reunião 5](https://youtu.be/4LBz7hHEZL8)
+
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
+|`2.0`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
