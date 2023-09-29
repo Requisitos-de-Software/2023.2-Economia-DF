@@ -25,10 +25,10 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 | INT01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
 | INT02| RF     | Deve ser possível acessar os dados diretamente da secretaria de estado de economia do distrito federal | Sim         |
 | INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado.  |     Sim      |
-| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados.           |      Sim     |
+| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados.           |      Não     |
 | INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. |    Sim      |
 | INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. |     Não      |
-| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil.               |    Sim       |
+| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil.               |    Não       |
 | INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. |      Sim     |
 | INT09| RF     | O aplicativo deve ter uma interface intuitiva, fácil de navegar e que proporcione uma boa experiência ao usuário. |    Sim       |
 | INT10| RF     | Deve ser oferecido suporte para diferentes tamanhos de tela e dispositivos móveis.           |     Não      |
