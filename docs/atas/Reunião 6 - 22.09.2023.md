@@ -55,10 +55,11 @@ Em conclusão, a pauta define claramente as tarefas a serem realizadas e à defi
 
 ## Link da Gravação
 
-[Requisitos - Reunião 6]()
+[Requisitos - Reunião 6](https://youtu.be/4LBz7hHEZL8)
 
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|21/09/2023|Criação do documento|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+|`2.0`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
