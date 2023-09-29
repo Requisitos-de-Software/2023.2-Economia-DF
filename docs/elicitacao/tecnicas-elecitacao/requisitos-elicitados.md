@@ -31,11 +31,10 @@
 | INT24| RF  | Possuir um modo escuro e um modo claro                |Não | 
 | INT25| RF  | Salvar os dados bancários da conta usada na indicação                 |Não | 
 | INT26| RF  | Deve ser possível encontrar o recibo da indicação                 |Não | 
-| INT27| RF  | Deve ser possível encontrar o recibo da indicação                 |Não | 
-| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo                |Não | 
-| INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo           |Não | 
-|INT30| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel          |Não | 
-|INT31| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa         |Não | 
+| INT27| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo                |Não | 
+| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo           |Não | 
+|INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel          |Não | 
+|INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa         |Não | 
 
 
 **Tabela 1:** Requisitos elicitados do aplicativo Economia - DF. (Fonte: [Izabella Alves](https://github.com/izabellaalves))
