@@ -80,3 +80,14 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 - A reformulação na interface do programa, visando facilitar o uso e melhorar a acessibilidade, foi sugerida por alguns participantes.
 - A inclusão de pessoas com inadimplência como participantes do programa também foi sugerida.
 - A sugestão de informar o percentual retornado da nota fiscal ao cliente pode ajudar a compreender melhor os benefícios do programa.
+
+## Referências bibliográficas 
+> Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
+
+> **CuboUP.** "Grupo Focal: O que é, importância, como fazer e exemplos de perguntas". Disponível em: <https://cuboup.com/conteudo/grupo-focal/>. Acesso em 30 de setembro de 2023.
+
+## Histórico de versões
+
+| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| `1.0`  | 28/09/2023 | Inserção do Grupo de Foco                 | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Gabriel Zaranza](https://github.com/GZaranza)   |
