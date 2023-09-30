@@ -1,49 +1,70 @@
 # Requisitos Elicitados
+
 ## Introdução
+O aplicativo Economia DF é um sistema que visa oferecer aos cidadãos do Distrito Federal uma plataforma conveniente e informativa para lidar com questões relacionadas à economia local e à gestão de seus créditos acumulados por meio do programa "Nota Legal". Para garantir que o aplicativo atenda às necessidades e expectativas dos usuários, foram definidos uma série de requisitos funcionais (RF) e requisitos não funcionais (RNF) durante o processo de elicitação de requisitos. Esses requisitos desempenham um papel fundamental na definição do escopo e na orientação do desenvolvimento do aplicativo. Os requisitos elicitados vieram das técnidas de elicitação: [Introspecção](/docs/elicitacao/tecnicas-elecitacao/instrospeccao.md), [Questionário](/docs/elicitacao/tecnicas-elecitacao/questionario.md), [Brainstorming](/docs/elicitacao/tecnicas-elecitacao/brainstorming.md) e [Grupo de Foco](/docs/elicitacao/tecnicas-elecitacao/grupo_de_foco.md).
+
 ## Metodologia
+A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada. Nesta tabela, cada requisito é identificado por um ID exclusivo, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como a [Introspecção](/docs/elicitacao/tecnicas-elecitacao/instrospeccao.md), [Questionário](/docs/elicitacao/tecnicas-elecitacao/questionario.md), [Brainstorming](/docs/elicitacao/tecnicas-elecitacao/brainstorming.md) ou [Grupo de Foco](/docs/elicitacao/tecnicas-elecitacao/grupo_de_foco.md).
+
+Essa abordagem de registro em tabela oferece uma visão organizada e estruturada dos requisitos do projeto, permitindo uma fácil referência e acompanhamento ao longo do ciclo de desenvolvimento. Ela promove a rastreabilidade, o que significa que é possível rastrear a origem de cada requisito, garantindo que todas as necessidades dos stakeholders sejam devidamente consideradas e atendidas no projeto.
+
+A legenda para cada sigla é a seguinte:
+
+| Tipo | Descrição                           |
+|------|-------------------------------------|
+| RF   | Requisito Funcional                 |
+| RNF  | Requisito Não-Funcional             |
+| IS   | Requisito elicitado pela Introspecção |
+| Q    | Requisito elicitado pelo Questionário |
+| BS   | Requisito elicitado pelo Brainstorming |
+| GF   | Requisito elicitado pela Grupo de Foco |
+
+**Tabela 1:** Legenda para a tabela 2 de reuquisitos do Economia - DF. (Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09))
+
 ## Tabela de requisitos elicitados
 
-| ID   | Código | Descrição                                                                                      | Implementado |
-|------|--------|------------------------------------------------------------------------------------------------|--------------|
-| INT01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
-| INT02| RF     | Deve ser possível acessar os dados diretamente da secretaria de estado de economia do distrito federal | Sim         |
-| INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado.  |     Sim      |
-| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados.           |      Não     |
-| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. |    Sim      |
-| INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. |     Não      |
-| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil.               |    Não       |
-| INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. |      Sim     |
-| INT09| RF     | O aplicativo deve ter uma interface intuitiva, fácil de navegar e que proporcione uma boa experiência ao usuário. |    Sim       |
-| INT10| RF     | Deve ser oferecido suporte para diferentes tamanhos de tela e dispositivos móveis.           |     Não      |
-| INT11| RF    | Deve ser disponibilizada uma forma de entrar em contato com a Secretária de Estado de Economia no caso de algum problema específico do usuário                 |  Sim        |
-| INT12| RNF    | Garantir a segurança das informações dos usuários durante a transmissão e armazenamento de dados. |     Sim      |
-| INT13| RNF    | Assegurar conformidade com regulamentações de proteção de dados vigentes no Brasil.          |     Sim      |
-| INT14| RNF    | Garantir uma resposta rápida e eficiente, minimizando o tempo de carregamento das páginas.   |    Não      |
-| INT15| RNF    | Manter a disponibilidade do aplicativo, minimizando tempo de inatividade para garantir uma experiência contínua. |     Não      |
-| INT16| RNF    | Garantir uma interface de usuário amigável, facilitando a interação e a compreensão das funcionalidades do aplicativo. |      Sim     |
-| INT17| RNF    | Certificar-se de que o aplicativo é compatível com uma ampla variedade de dispositivos móveis e sistemas operacionais. |      Não     |
-| INT18| RNF    | Garantir que o aplicativo seja otimizado para diferentes navegadores web.                   |     Não      |
-| INT19| RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado                  |     Não      |
-| INT20| RF  | Garantir que o usuário consiga realizar login com a conta do GOV                  |     Não      |
-| INT21| RF  | Possuir informações sobre desbloqueio de valores bloqueados                  |     Não      |
-| INT22| RF  | Possui informações sobre o percentual de concessão de cŕedito de acordo com o tipo de estabelecimento que emitiu a nota fiscal                  |     Não      |
-| INT23| RF  | Possibilitar que o usuário aumente a fonte                 |Não |  
-| INT24| RF  | Possuir um modo escuro e um modo claro                |Não | 
-| INT25| RF  | Salvar os dados bancários da conta usada na indicação                 |Não | 
-| INT26| RF  | Deve ser possível encontrar o recibo da indicação                 |Não | 
-| INT27| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo                |Não | 
-| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo           |Não | 
-|INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel          |Não | 
-|INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa         |Não | 
+| ID   | Código | Descrição                                                                                      | Implementado | Rastreabilidade |
+|------|--------|------------------------------------------------------------------------------------------------|--------------| ------ |
+| INT01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |Sim| IS, GF, BS |
+| INT02| RF     | Deve ser possível acessar os dados diretamente da secretaria de estado de economia do distrito federal | Sim | IS |
+| INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado. | Sim | IS, BS |
+| INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados. | Não | IS, GF, Q |
+| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. | Sim | IS, Q, BS |
+| INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. | Não | IS |
+| INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil. | Não | IS |
+| INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. | Sim | IS |
+| INT09| RF     | O aplicativo deve ter uma interface intuitiva, fácil de navegar e que proporcione uma boa experiência ao usuário. | Sim | IS, BS, GF |
+| INT10| RF     | Deve ser oferecido suporte para diferentes tamanhos de tela e dispositivos móveis. | Não | IS, BS |
+| INT11| RF     | Deve ser disponibilizada uma forma de entrar em contato com a Secretária de Estado de Economia no caso de algum problema específico do usuário | Sim | IS, GF |
+| INT12| RNF    | Garantir a segurança das informações dos usuários durante a transmissão e armazenamento de dados. | Sim | IS, BS |
+| INT13| RNF    | Assegurar conformidade com regulamentações de proteção de dados vigentes no Brasil. | Sim | IS, BS |
+| INT14| RNF    | Garantir uma resposta rápida e eficiente, minimizando o tempo de carregamento das páginas. | Não | IS, BS |
+| INT15| RNF    | Manter a disponibilidade do aplicativo, minimizando tempo de inatividade para garantir uma experiência contínua. | Não | IS, BS |
+| INT16| RNF    | Garantir uma interface de usuário amigável, facilitando a interação e a compreensão das funcionalidades do aplicativo. | Sim | IS, BS |
+| INT17| RNF    | Certificar-se de que o aplicativo é compatível com uma ampla variedade de dispositivos móveis e sistemas operacionais. | Não | IS |
+| INT18| RNF    | Garantir que o aplicativo seja otimizado para diferentes navegadores web. | Não | IS, BS |
+| INT19| RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado | Não | BS, GF |
+| INT20| RF  | Garantir que o usuário consiga realizar login com a conta do GOV | Não | BS |
+| INT21| RF  | Possuir informações sobre desbloqueio de valores bloqueados | Não | BS |
+| INT22| RF  | Possui informações sobre o percentual de concessão de cŕedito de acordo com o tipo de estabelecimento que emitiu a nota fiscal | Não | BS, GF |
+| INT23| RF  | Possibilitar que o usuário aumente a fonte | Não | BS |  
+| INT24| RF  | Possuir um modo escuro e um modo claro | Não | BS |
+| INT25| RF  | Salvar os dados bancários da conta usada na indicação | Não | BS |
+| INT26| RF  | Deve ser possível encontrar o recibo da indicação | Não | BS, GF |
+| INT27| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo | Não | BS |
+| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Não | BS |
+|INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Não | BS |
+|INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Não | BS, GF |
 
 
-**Tabela 1:** Requisitos elicitados do aplicativo Economia - DF. (Fonte: [Izabella Alves](https://github.com/izabellaalves))
+**Tabela 2:** Requisitos elicitados do aplicativo Economia - DF. (Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Gabriel Rosa](https://github.com/gabrielrosa09))
 
 
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |1.0|29/09/2023|Criação do documento e adição de tabela|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|1.0|29/09/2023|Adição da introdução, metodologia e inserindo rastreabilidade da tabela|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 
 
 
