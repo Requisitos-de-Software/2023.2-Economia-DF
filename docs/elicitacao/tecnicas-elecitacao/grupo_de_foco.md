@@ -98,6 +98,10 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 - A inclusão de pessoas com inadimplência como participantes do programa também foi sugerida.
 - A sugestão de informar o percentual retornado da nota fiscal ao cliente pode ajudar a compreender melhor os benefícios do programa.
 
+## Link da Gravação
+
+[Gravação do Grupo de Foco](https://youtu.be/ZkA1xQYww2M)
+
 ## Referências bibliográficas 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
 
