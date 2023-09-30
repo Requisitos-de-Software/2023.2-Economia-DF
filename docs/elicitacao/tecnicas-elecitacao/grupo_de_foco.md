@@ -100,7 +100,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 
 ## Link da Gravação
 
-[Gravação do Grupo de Foco](https://youtu.be/ZkA1xQYww2M)
+[Gravação do Grupo de Foco]()
 
 ## Referências bibliográficas 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
