@@ -52,6 +52,8 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 
 ## Bibliografia
 
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 01/10/2023.
+
 
 ## Histórico de Versões
 
@@ -59,3 +61,5 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 01/10/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.1`  | 01/10/2023 | Adição da Introdução, Metodologia e Tabela de Requisitos.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.2`  | 01/10/2023 | Adição da Bibliografia utilizada.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+
