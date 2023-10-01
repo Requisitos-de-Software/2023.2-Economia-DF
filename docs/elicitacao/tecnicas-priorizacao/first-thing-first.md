@@ -2,13 +2,15 @@
 
 ## Introdução
 
-Neste documento, apresentamos o resultado da técnica First Thing First para a priorização dos requisitos elicitados pela equipe. Essa técnica consiste em equilibrar os benefícios de cada funcionalidade com o custo de sua implementação. É necessário envolver representantes dos clientes e do desenvolvimento para alinhar requisitos e regras de negócios. é também levado em conta o risco técnico de cada requisito.
+Neste documento, apresentamos o resultado da técnica First Thing First para a priorização dos requisitos elicitados pela equipe. Essa técnica consiste em equilibrar os benefícios de cada funcionalidade com o custo de sua implementação. É necessário envolver representantes dos clientes e do desenvolvimento para alinhar requisitos e regras de negócios. É também levado em conta o risco técnico de cada requisito.
 
 ## Metodologia
 
-Em uma reunião com a Gerente do projeto ([Izabella Alves](https://github.com/izabellaalves)), o representante dos desenvolvedores ([Gabriel Rosa](https://github.com/gabrielrosa09)) e a representante dos clientes ([Zenilda Vieira](https://github.com/zenildavieira) no papel da [persona Maria](/docs/elicitacao/personas.md)), foi preenchida uma tabela com as seguintes colunas: "Benefício Relativo", "Penalidade Relativa", "Custo Relativo" e "Risco Relativo". 
+A reunião foi marcada pela gerente de projeto [Izabella Alves](https://github.com/izabellaalves) para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores ([Gabriel Rosa](https://github.com/gabrielrosa09)) e uma representante dos clientes ([Zenilda Vieira](https://github.com/zenildavieira) no papel da [persona Maria](/docs/elicitacao/personas.md)).
 
-Cada linha da tabela representava um requisito elicitado. Após a Gerente ler o requisito, a cliente Maria classificava de 1 a 9 o benefício relativo (onde 1 é menos significativo e 9 o máximo) e a penalidade relativa (onde 1 significa que não há penalidade se o requsito não for implementado e 9 indica uma grande desvantagem). 
+Essa reunião foi gravada e foi preenchida uma tabela com as seguintes colunas: "Benefício Relativo", "Penalidade Relativa", "Custo Relativo" e "Risco Relativo".
+
+Cada linha da tabela representava um requisito elicitado. Após a gerente ler o requisito, a cliente Maria classificava de 1 a 9 o benefício relativo (onde 1 é menos significativo e 9 o máximo) e a penalidade relativa (onde 1 significa que não há penalidade se o requsito não for implementado e 9 indica uma grande desvantagem). 
 
 Em seguida, o desenvolvedor Gabriel classificava de 1 a 9 o custo relativo (considerando a complexidade da implementação, a interface de usuário necessária, a capacidade potencial de reutilização de telas ou código e os testes e documentações necessários) e o risco relativo (onde 1 significa muito fácil de programar e 9 indica sérias preocupações sobre viabilidade, disponibilidade de pessoal com o conhecimento necessário ou uso de ferramentas e tecnologias desconhecidas).
 
@@ -24,17 +26,20 @@ Após o preenchimento dessa tabela para todos os requisitos elicitados, foram ca
    - ( risco relativo / soma de todos os riscos relativos ) * 100 %
 > a prioridade: 
    - valor % / ( ( custo % * peso custo ) +  ( risco % * peso risco ) )
+   - Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
 
 E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultando no que é mostrado na Figura 1 abaixo.
 
-<img src="/docs/imagens/tabela-first-thing-first.png">
+<img src="../../imagens/tabela-first-thing-first.png">
 
 **Figura 1:** Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First  <br>
 Fonte: Autores.
 
+## Link da Gravação da Reunião
+
 
 ## Bibliografia
-> SERRANO, Milene; SERRANO, Maurício. Aula 07 - Requisitos - UnB Gama - Slides.
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
 
 ## Histórico de Versões
