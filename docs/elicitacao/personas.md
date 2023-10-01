@@ -17,7 +17,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Personas
 
 ### Persona Primária 1: Eduardo Economista
-![Imagem de Eduardo Economista](link_da_imagem_eduardo.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif" width="150px">
+
 - **Idade:** 52 anos
 - **Gênero:** Masculino
 - **Experiência:** Especialista em economia
@@ -26,7 +27,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Eduardo é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Eduardo usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
 ### Persona Primária 2: Maria Empreendedora
-![Imagem de Maria Empreendedora](link_da_imagem_maria.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa2.jfif" width="150px">
+
 - **Idade:** 48 anos
 - **Gênero:** Feminino
 - **Experiência:** Especialista em empreendedorismo
@@ -35,7 +37,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Maria é uma empreendedora de sucesso que gerencia seu próprio negócio. Ela está sempre em busca de maneiras eficientes de gerenciar suas finanças pessoais e de negócios. Maria usa o aplicativo para realizar investimentos inteligentes e para planejar as finanças de sua empresa.
 
 ### Persona Secundária 1: Pedro Estudante
-![Imagem de Pedro Estudante](link_da_imagem_pedro.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif" width= "150px">
+
 - **Idade:** 21 anos
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
@@ -44,7 +47,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o aplicativo para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
 ### Persona Secundária 2: Ana Professora
-![Imagem de Ana Professora](link_da_imagem_ana.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif" width="150px">
+
 - **Idade:** 57 anos
 - **Gênero:** Feminino
 - **Experiência:** Intermediária em finanças
@@ -55,7 +59,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Anti-Personas
 
 ### Anti-Persona 1: João Adolescente
-![Imagem de João Adolescente](link_da_imagem_joao.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif" width="150px">
+
 - **Idade:** 16 anos
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
@@ -63,7 +68,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
 
 ### Anti-Persona 2: Clara Aposentada
-![Imagem de Clara Aposentada](link_da_imagem_clara.jpg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif" width="150px"> 
+
 - **Idade:** 72 anos
 - **Gênero:** Feminino
 - **Experiência:** Iniciante em finanças
@@ -83,3 +89,4 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 | `1.0`  | 01/10/2023 | Criação da página.                        | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 | `1.1`  | 01/10/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 | `1.2`  | 01/10/2023 | Adição da Introdução e metodologia.       | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.3`  | 01/10/2023 | Adição das imagens das personas.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
