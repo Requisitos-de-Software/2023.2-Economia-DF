@@ -55,7 +55,31 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Anti-Personas
 
 ### Anti-Persona 1: João Adolescente
+![Imagem de João Adolescente](link_da_imagem_joao.jpg)
+- **Idade:** 16 anos
+- **Gênero:** Masculino
+- **Experiência:** Iniciante em finanças
+- **Atitudes:** Desinteressado em economia e tecnologia
 - **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
 
 ### Anti-Persona 2: Clara Aposentada
+![Imagem de Clara Aposentada](link_da_imagem_clara.jpg)
+- **Idade:** 72 anos
+- **Gênero:** Feminino
+- **Experiência:** Iniciante em finanças
+- **Atitudes:** Não utiliza smartphones e não gosta de tecnologia
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
+
+## Referências Bibliograficas
+> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <br/>
+> <a id="QT2" href="#anchor_1">2.</a>This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
+| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.1`  | 25/09/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.2`  | 25/09/2023 | Adição da Introdução e metodologia.       | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
