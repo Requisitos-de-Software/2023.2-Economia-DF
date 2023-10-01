@@ -9,47 +9,48 @@ O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de
 ## Desenvolvimento
 
 ### Pergunta 1: Como podemos melhorar o Notal Legal?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - Desing
+> - Tempo de resposta
+> - Acessibilidade
+> - Atendimento virtual
+> - Informações mais claras sobre bônus das notas
+> - Melhorar a forma de trocar a senha
+
 ### Pergunta 2: Quais são as funcionalidades essecnciais que o site Nota Legal deve possuir?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - Se cadastrar com a base de dados do governo
+> - Consultar o saldo que possui no Nota Legal
+> - Consultar extrato das notas fiscais
+> - Fazer indicação
+> - Consultar informações do sorteio
+> - Login
+
 ### Pergunta 3: Quais são os requisitos não funcionais importantes para o site?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - Tempo de resposta do app menor que 5 segundos
+> - Garantir a segurança do usuário
+> - Portabilidade para o celular
+> - Deslogar com segurança
+> - Logar em menos de 10 segundos
+
+
 ### Pergunta 4: O site Nota Legal precisar integrar-se a algum outro sistema ou plataforma?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - Todos responderam "sim"
+
 ### Pergunta 5: Quas são as medidas de segurança e privacidade que devem ser implementadas no site Nota Legal?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - Login atraves do gov.br
+> - Atenticação em 2 fatores
+> - Buscar dados na base da receita federal
+> - Exigir senha com letras, números e caracteres especias
+> - Deslogar automaticamente quando o usuário fechar o navegador
+> - Estar de acordo com o padrão LGPD
+> - Privacidade dos dados das notas fiscais
+
 ### Pergunta 6: Como deve ser a interface do site Nota Legal em termos de design, usabilidade e experiência do usuário?
-> - a
-> - a
-> - a
-> - a
-> - a
-> - a
+> - De fácil entendimento
+> - Responsividade
+> - Minimalista
+> - Ícones auto-explicativos
+> - Se adaptar a linguagem do usuário
+> - Seguir um padrão
 
 Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), utilizaremos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
 
@@ -62,19 +63,21 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 | ID   | Código | Descrição                                                                                      | Implementado |
 |------|--------|------------------------------------------------------------------------------------------------|--------------|
 | BS01| RF     | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |   Sim        |
-| BS02|      |  |           |
-| BS03|      |  |           |
-| BS04|      |  |           |
-| BS05|      |  |           |
-| BS06|      |  |           |
-| BS07|      |  |           |
-| BS08|      |  |           |
-| BS09|      |  |           |
-| BS10|      |  |           |
-| BS11|      |  |           |
-| BS12|      |  |           |
-| BS13|      |  |           |
-| BS14|      |  |           |
+| BS02|    RF  | O usuário deve ser capaz de logar com as credências do gov.br |   Não        |
+| BS03|    RF| O usuário deve conseguir visualizar o saldo que possui no Nota Legal | Não          |
+| BS04|    RF| O usuário deve conseguir consultar extrato das notas fiscais |     Não      |
+| BS05|    RF  | O usuário deve conseguir indicar onde quer utilizar o seu saldo (IPTU,IPVA ou PIX)  |       Não    |
+| BS06|      RF| O usuário deve conseguir se inscrever nos sorteios do Nota Legal |  Não         |
+| BS07|      RF| O usupario deve conseguir vizualizar os sorteios |     Não      |
+| BS08|   RF   | O usuário deve conseguir se logar no aplicativo |  Sim         |
+| BS09|   RF   | O login deve possuir autenticação em dois fatores |  Não         |
+| BS10|    RNF  | O aplicativo deve buscar informações na base da receita federal |    Sim       |
+| BS11|  RNF    | O login deve ser feito em menos de 10 segundos |       Sim    |
+| BS12|   RNF   | O aplicativo deve funcionar em diversos dispositivos diferentes |   Não        |
+| BS13|   RNF   | O aplicativos deve exigir que a senha do usuário possua obrigatoriamente letras, números e caracteres especiais |   Não        |
+| BS14|    RBF  | O aplicativo deve deslogar a conta do usuário quando for fechado |     Não      |
+| BS15|    RF  | O usuário deve conseguir alterar a senha da sua conta |     Não      |
+| BS16|    RF  | O aplicativo deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte |     Não      |
 
 
 
