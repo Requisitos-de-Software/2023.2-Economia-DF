@@ -80,6 +80,6 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
-| `1.0`  | 25/09/2023 | Criação da página.                        | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-| `1.1`  | 25/09/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-| `1.2`  | 25/09/2023 | Adição da Introdução e metodologia.       | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.0`  | 01/10/2023 | Criação da página.                        | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.1`  | 01/10/2023 | Criação das personas.                     | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| `1.2`  | 01/10/2023 | Adição da Introdução e metodologia.       | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
