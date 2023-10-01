@@ -75,4 +75,4 @@ Legenda das Tabelas 2 e 3:
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
 | `1.0`  | 01/10/2023 | Criação do documento |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.1`  | 01/10/ 2023 | Adição de tabelas |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
