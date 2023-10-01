@@ -29,3 +29,12 @@ Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabri
 <font size="3"><p style="text-align: center">Fonte: [Lucas Víctor](#) e [Gabriel Zaranza](#).</p></font>
 
 ### [Link para a gravação da observação.](#)
+
+## Bibliografia
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+
+## Histórico de Versões
+| Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
+| :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
+| `1.0`  | 28/09/2023 | Criação do documento |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
