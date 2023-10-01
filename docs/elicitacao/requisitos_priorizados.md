@@ -13,7 +13,7 @@ Existem diversas técnicas de priorização. Para o atual projeto, escolhemos tr
 > [100\$](tecnicas-priorizacao/100$.md)
 > 
 
-Observação: A técnica de 100$ só foi utilizads no projeto após a utilização das outras duas técnicas escolhidas: First Thin First e In or Out.
+Observação: A técnica de 100$ só foi utilizads no projeto após a utilização das outras duas técnicas escolhidas: First Thing First e In or Out.
 
 ## Metodologia
 
@@ -25,6 +25,8 @@ Em cada uma das técnicas utilizadas foi gerada uma tabela com os requisitos ord
 
 **Tabela 1:** Requisitos priorizados do aplicativo Economia - DF. (Fonte: [Zenilda Vieira](https://github.com/zenildavieira))
 
+
+## Bibliografia
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
 ## Histórico de Versões

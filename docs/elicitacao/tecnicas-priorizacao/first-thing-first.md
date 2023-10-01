@@ -4,6 +4,13 @@
 
 Neste documento, apresentamos o resultado da técnica First Thing First para a priorização dos requisitos elicitados pela equipe. Essa técnica consiste em equilibrar os benefícios de cada funcionalidade com o custo de sua implementação. É necessário envolver representantes dos clientes e do desenvolvimento para alinhar requisitos e regras de negócios. É também levado em conta o risco técnico de cada requisito.
 
+## Cronograma da Reunião
+
+| Data | Hora | Local | Assunto | Participantes |
+| :--: | :--: | :---: | ------- | ------------ |
+| 30/09/2023 | 16h | Teams | Priorização de requisitos elicitados utilizando a técnica First Thing First | Desenvolvedor [Gabriel Rosa](https://github.com/gabrielrosa09) <br> Gerente [Izabella Alves](https://github.com/izabellaalves) <br> Persona Maria ([Zenilda Vieira](https://github.com/zenildavieira))
+
+
 ## Metodologia
 
 A reunião foi marcada pela gerente de projeto [Izabella Alves](https://github.com/izabellaalves) para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores ([Gabriel Rosa](https://github.com/gabrielrosa09)) e uma representante dos clientes ([Zenilda Vieira](https://github.com/zenildavieira) no papel da [persona Maria](/docs/elicitacao/personas.md)).
