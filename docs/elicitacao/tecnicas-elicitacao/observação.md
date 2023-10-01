@@ -37,4 +37,4 @@ Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabri
 ## Histórico de Versões
 | Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
-| `1.0`  | 28/09/2023 | Criação do documento |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.0`  | 01/10/2023 | Criação do documento |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
