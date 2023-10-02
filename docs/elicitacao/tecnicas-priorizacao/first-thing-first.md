@@ -42,8 +42,9 @@ E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultand
 **Figura 1:** Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First  <br>
 Fonte: Autores.
 
-## Link da Gravação da Reunião
+## Link da Gravação
 
+[Priorização - First Thing First](https://youtu.be/bedI9YdRKF8)
 
 ## Bibliografia
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
@@ -54,3 +55,4 @@ Fonte: Autores.
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
 | `1.0`  | 30/09/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.1`  | 01/10/2023 | Inclusão dos resultados e tabela dos cálculos | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09) <br> [Izabella Alves](https://github.com/izabellaalves) |
+| `1.2`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
