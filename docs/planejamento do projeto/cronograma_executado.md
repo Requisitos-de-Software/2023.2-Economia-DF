@@ -25,6 +25,29 @@ Este documento representa o registro detalhado e cronológico das ações e tare
  
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+## Entrega 2 - Elicitação - Data de Entrega: 03/out/2023
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma planejado para a etapa de Elicitação</p></font>
+
+ |  Atividade                                                                              |  Período de desenvolvimento     |  Responsáveis                |  Revisão                        |  Revisores                   | 
+ | --------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- | 
+ | Definição do perfil dos usuários                                                        | Início: 16/set <br> Fim: 17/set | [Gabriel Rosa](https://github.com/gabrielrosa09)                      | Início: 18/set <br> Fim: 19/set | [Gabriel Zaranza](https://github.com/GZaranza)                            |
+ | Escolha e documentação das técnicas de elicitação usadas e que serão usadas             | Início: 16/set <br> Fim: 17/set | [Gabriel Zaranza](https://github.com/GZaranza)                        | Início: 18/set <br> Fim: 19/set | [Izabella Alves](https://github.com/izabellaalves)                            |
+ | Escolha e documentação das técnicas de priorização usadas e que serão usadas            | Início: 16/set <br> Fim: 17/set | [Izabella Alves](https://github.com/izabellaalves)                    | Início: 18/set <br> Fim: 19/set | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                             |
+ | Definição das personas                                                                  | Início: 18/set <br> Fim: 19/set | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | Início: 20/set <br> Fim: 21/set | [Lucas Ribeiro](https://github.com/lucassouzs) |
+ | Definição do cronograma de elicitação de requisitos com cliente/persona                 | Início: 18/set <br> Fim: 19/set | [Lucas Ribeiro](https://github.com/lucassouzs)                             | Início: 20/set <br> Fim: 21/set | [Lucas Victor](https://github.com/Lucas13032003)                             |
+ | Definição do cronograma de priorização de requisitos com cliente/persona                | Início: 18/set <br> Fim: 19/set | [Lucas Victor](https://github.com/Lucas13032003)                            | Início: 20/set <br> Fim: 21/set | [Zenilda Vieira](https://github.com/ZenildaVieira)                            |
+ | Entrevista: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)   | Início: 20/set <br> Fim: 22/set | [Zenilda Vieira](https://github.com/ZenildaVieira)                            | Início: 23/set <br> Fim: 24/set | [Gabriel Rosa](https://github.com/gabrielrosa09)                            |
+ | Entrevista: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)  | Início: 20/set <br> Fim: 22/set | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Izabella Alves](https://github.com/izabellaalves)                             | Início: 23/set <br> Fim: 24/set | [Gabriel Zaranza](https://github.com/GZaranza) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+ | Documentação da participação do cliente e/ou persona - elicitação                       | Início: 23/set <br> Fim: 26/set | [Gabriel Zaranza](https://github.com/GZaranza) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                           | Início: 27/set <br> Fim: 28/set | [Lucas Ribeiro](https://github.com/lucassouzs)  e [Zenilda Vieira](https://github.com/ZenildaVieira)                            |
+ | Documentação da participação do cliente e/ou persona - priorização                      | Início: 23/set <br> Fim: 26/set | [Lucas Ribeiro](https://github.com/lucassouzs)  e [Zenilda Vieira](https://github.com/ZenildaVieira)                            | Início: 27/set <br> Fim: 28/set | [Gabriel Rosa](https://github.com/gabrielrosa09) e [Izabella Alves](https://github.com/izabellaalves)                            |
+ | Gravação 2                                                                              | 29/set                          | Todos                        | 30/set                          | Todos                            |
+ | Atualização do cronograma executado para Entrega 2                                      | 29/set                          | [Lucas Victor](https://github.com/Lucas13032003)                            | 29/set                          | [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)                            |
+ | Correção após a Entrega 2                                                               | Início: 07/out <br> Fim: 10/out | Todos                            | Início: 11/out <br> Fim: 12/out | Todos                            |
+
+
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
 
 ## Bibliografia
 
@@ -38,3 +61,4 @@ Este documento representa o registro detalhado e cronológico das ações e tare
 | :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :---------------------------: |
 | `1.0`  | 15/09/2023 | Criação do cronograma.                           | [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.1`  | 15/09/2023 | Inclusão dos nomes dos responsáveis e revisores. | [Zenilda Vieira](https://github.com/ZenildaVieira) e [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 02/10/2023 | Inclusão das adatas da entrega 2 | [Zenilda Vieira](https://github.com/ZenildaVieira) | [Gabriel Zaranza](https://github.com/GZaranza) |
