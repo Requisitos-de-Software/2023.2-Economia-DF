@@ -66,6 +66,10 @@ Legenda das Tabelas 2 e 3:
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Víctor](#) e [Gabriel Zaranza](#).</p></font>
 
+## Link da Gravação
+
+[IHC - Observação](https://youtu.be/FqZE06Z8-Yo)
+
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
@@ -73,6 +77,7 @@ Legenda das Tabelas 2 e 3:
 ## Histórico de Versões
 | Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
-| `1.0`  | 01/10/2023 | Criação do documento |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Víctor](#)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.0`  | 01/10/2023 | Criação do documento |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
+| `1.3`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
