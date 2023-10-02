@@ -100,7 +100,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 
 ## Link da Gravação
 
-[Gravação do Grupo de Foco]()
+[Requisitos - Grupo de foco](https://youtu.be/QeswgmgDiPc)
 
 ## Referências bibliográficas 
 > Cronograma Bilheteria Digital. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/perfil-usuario.md>. Acesso em 30 de setembro de 2023.
@@ -112,3 +112,4 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 28/09/2023 | Inserção do Grupo de Foco                 | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Gabriel Zaranza](https://github.com/GZaranza)   |
+| `1.1`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
