@@ -68,7 +68,7 @@ Legenda das Tabelas 2 e 3:
 
 ## Link da Gravação
 
-[IHC - Observação](https://youtu.be/FqZE06Z8-Yo)
+[Requisitos - Observação](https://youtu.be/FqZE06Z8-Yo)
 
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
