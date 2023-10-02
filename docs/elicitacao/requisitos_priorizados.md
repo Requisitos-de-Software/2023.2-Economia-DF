@@ -4,7 +4,7 @@
 
 A priorização de requisitos é uma importante etapa que deve ser feita antes de começar o desenvolvimento do produto, pois priorizar os requisitos gera um valor agregado aos clientes a cada entrega. Há diversas formas de estabelecer a prioridade dos requisitos, mas geralmente eles são categorizados em Alta, Média e Baixa Prioridade. Essa priorização deve envolver a opinião dos usuários e dos desenvolvedores para que seja efetiva.
 
-Existem diversas técnicas de priorização. Para o atual projeto, escolhemos três: First Thing First, In or Out e 100$. Nos links abaixo é possível obter mais informaçãoes sobre o planejamento e a execução de cada uma delas, com cronograma (data e horário) e local para realização da priorização dos requisitos e com a participação de um cliente e/ou persona do projeto. É possível também ter acesso aos vídeos gravados durante a realização de cada técnica.
+Existem diversas técnicas de priorização. Para o atual projeto, escolhemos três: First Thing First, In or Out e 100$. Nos links abaixo é possível obter mais informações sobre o planejamento, a execução e os resultados de cada uma delas, com cronograma (data e horário) e local para realização da priorização dos requisitos e com a participação de um cliente e/ou persona do projeto. É possível também ter acesso aos vídeos gravados durante a realização de cada técnica.
 
 > [First Thing First](tecnicas-priorizacao/first-thing-first.md)
 > 
@@ -14,16 +14,6 @@ Existem diversas técnicas de priorização. Para o atual projeto, escolhemos tr
 > 
 
 Observação: A técnica de 100$ só foi utilizads no projeto após a utilização das outras duas técnicas escolhidas: First Thing First e In or Out.
-
-## Metodologia
-
-Em cada uma das técnicas utilizadas foi gerada uma tabela com os requisitos ordenados em ordem decrescente de prioridade. 
-
-
-## Tabela de requisitos elicitados
-
-
-**Tabela 1:** Requisitos priorizados do aplicativo Economia - DF. (Fonte: [Zenilda Vieira](https://github.com/zenildavieira))
 
 
 ## Bibliografia
