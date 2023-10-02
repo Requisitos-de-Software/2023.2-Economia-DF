@@ -7,9 +7,9 @@ ecisões informadas para seu sucesso. </justify>
 ## Metodologia e Ferramentas
 A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto o Rich Picture quanto a sua legenda, ambos visíveis na Figura 1.
 
-### Figura 1: Rich Picture versão 1
-![rich picture](https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Rich_Picture.png)
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+### Figura 1: Rich Picture versão 2
+![rich picture](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Rich_picture_Economia-DF.png?raw=true)
+<font size="3"><p style="text-align: center">Fonte: [Lucas Víctor](https://github.com/Lucas13032003).</p></font>
 
 ## Referência
 > <a id="RP1" href="#TEC1">1.</a> Klaus Pohl · Chris Rupp. Requirements Engineering Fundamentals. 2nd Edition, 2015. Disponível em: <<[https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4 Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf](https://aprender3.unb.br/pluginfile.php/2692740/mod_resource/content/2/Rastreabilidade.pdf)>>.
@@ -19,3 +19,5 @@ A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  `1.0` | 15/09/2023 | Criação do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)
+  `1.1` | 02/10/2023 | Atualizção do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Zaranza](https://github.com/gzaranza)
+
