@@ -3,22 +3,22 @@
 
 No contexto do aplicativo Economia-DF, a técnica de observação de requisitos desempenha um papel fundamental na coleta de informações. Essa abordagem envolve a observação direta das interações dos usuários com o aplicativo, os processos envolvidos e o ambiente de uso.
 
-Neste caso, o usuário real foi [Gabriel Zaranza](#) , que interagiu com o aplicativo enquanto executava tarefas específicas. Para facilitar a observação e garantir que todos os aspectos fossem registrados com precisão, o desenvolvedor [Lucas Víctor](#) atuou como mediador, acompanhando e registrando as ações de Gabriel.
+Neste caso, o usuário real foi [Gabriel Zaranza](#) , que interagiu com o aplicativo enquanto executava tarefas específicas. Para facilitar a observação e garantir que todos os aspectos fossem registrados com precisão, o desenvolvedor [Lucas Victor](https://github.com/Lucas13032003) atuou como mediador, acompanhando e registrando as ações de Gabriel.
 
-Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabriel Zaranza](#) com o aplicativo Economia-DF, identificando desafios, necessidades e oportunidades de melhoria. Mesmo com [Lucas Víctor](#) atuando como mediador, a técnica de observação de requisitos desempenhou um papel fundamental na otimização do aplicativo para atender às demandas dos usuários de forma mais eficaz.
+Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabriel Zaranza](#) com o aplicativo Economia-DF, identificando desafios, necessidades e oportunidades de melhoria. Mesmo com [Lucas Victor](https://github.com/Lucas13032003) atuando como mediador, a técnica de observação de requisitos desempenhou um papel fundamental na otimização do aplicativo para atender às demandas dos usuários de forma mais eficaz.
 
 
 
 ## Metodologia
 
-No dia 28 de setembro de 2023, a equipe se reuniu no local Teamas com o objetivo de realizar uma observação direta do funcionamento do aplicativo Economia-DF. A reunião foi notavelmente curta, com uma duração de aproximadamente 7 minutos, devido à baixa complexidade do aplicativo. Durante esse período, o mediador desempenhou um papel fundamental, orientando e solicitando ações específicas ao usuário, Gabriel Zaranza. Essa metodologia de observação proporcionou uma visão valiosa da interação do usuário com o aplicativo, destacando áreas de eficiência e possíveis melhorias. O curto tempo necessário para a observação demonstra a simplicidade e facilidade de uso do aplicativo, ao mesmo tempo em que ressalta a importância de um mediador para facilitar o processo e garantir uma avaliação abrangente.
+No dia 28 de setembro de 2023, a equipe se reuniu no local Teamas com o objetivo de realizar uma observação direta do funcionamento do aplicativo Economia-DF. A reunião foi notavelmente curta, com uma duração de aproximadamente 7 minutos, devido à baixa complexidade do aplicativo. Durante esse período, o [mediador](https://github.com/Lucas13032003) desempenhou um papel fundamental, orientando e solicitando ações específicas ao usuário, Gabriel Zaranza. Essa metodologia de observação proporcionou uma visão valiosa da interação do usuário com o aplicativo, destacando áreas de eficiência e possíveis melhorias. O curto tempo necessário para a observação demonstra a simplicidade e facilidade de uso do aplicativo, ao mesmo tempo em que ressalta a importância de um mediador para facilitar o processo e garantir uma avaliação abrangente.
 
 ### Participantes
 <center>
 
 | Nome                                             | Função                   |
 | ------------------------------------------------ | ------------------------ |
-| [Lucas Víctor](#)  | Observador               |
+| [Lucas Victor](https://github.com/Lucas13032003)  | Observador               |
 | [Gabriel Zaranza](#) | Usuário |
 
 </center>
@@ -58,7 +58,7 @@ Legenda das Tabelas 2 e 3:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Lucas Víctor](#) e [Gabriel Zaranza](#).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Lucas Victor](https://github.com/Lucas13032003) e [Gabriel Zaranza](#).</p></font>
 
 ### Não funcionais
 
@@ -91,3 +91,4 @@ Legenda das Tabelas 2 e 3:
 | `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
 | `1.3`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| `1.4`  | 02/10/2023 | Adiçao dos requisitos |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)| [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
