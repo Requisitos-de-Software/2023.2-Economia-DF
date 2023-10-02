@@ -28,7 +28,7 @@ A legenda para cada sigla é a seguinte:
 | INT02| RF     | Deve ser possível acessar os dados diretamente da secretaria de estado de economia do distrito federal | Sim | IS |
 | INT03| RF     | O aplicativo deve permitir a recuperação de senha por meio de um processo seguro e validado. | Sim | IS, BS |
 | INT04| RF     | Os usuários devem poder acessar e visualizar informações sobre créditos acumulados. | Não | IS |
-| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. | Sim | IS, Q, BS |
+| INT05| RF     | O aplicativo deve possibilitar a consulta do histórico de notas fiscais associadas à conta do usuário. | Sim | IS, BS, O |
 | INT06| RF     | Permitir que os usuários consultem estabelecimentos comerciais parceiros do programa Nota Legal. | Não | IS |
 | INT07| RF     | Os usuários devem poder resgatar os créditos acumulados de forma clara e fácil. | Não | IS |
 | INT08| RF     | Deve ser possível visualizar promoções e descontos oferecidos em estabelecimentos participantes. | Sim | IS |
@@ -50,10 +50,10 @@ A legenda para cada sigla é a seguinte:
 | INT24| RF  | Possuir um modo escuro e um modo claro | Não | BS |
 | INT25| RF  | Salvar os dados bancários da conta usada na indicação | Não | BS |
 | INT26| RF  | Deve ser possível encontrar o recibo da indicação | Não | BS  |
-| INT27| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo | Não | BS |
-| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Não | BS |
-|INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Não | BS |
-|INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Não | BS  |
+| INT27| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo | Não | BS, O |
+| INT28| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Não | BS, O |
+|INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Não | BS, O |
+|INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Não | BS, O  |
 
 
 **Tabela 2:** Requisitos elicitados do aplicativo Economia - DF. (Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Gabriel Rosa](https://github.com/gabrielrosa09))
