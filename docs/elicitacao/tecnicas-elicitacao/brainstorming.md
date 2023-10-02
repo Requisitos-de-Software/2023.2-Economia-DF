@@ -79,10 +79,12 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 | BS15|    RF  | O usuário deve conseguir alterar a senha da sua conta |     Não      |
 | BS16|    RF  | O aplicativo deve possuir ferramentas de acessibilidade (Alto contraste, libras, aumentar a fonte |     Não      |
 
-
-
-
 **Tabela 1:** Requisitos elicitados. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+
+## Link da Gravação
+
+[Requisitos - Brainstoming](https://youtu.be/wPMoeSRbOjA)
+
 ## Bibliografia
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
@@ -92,3 +94,4 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|29/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
 |`1.1`|01/10/2023|Add metodologia e as perguntas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
+|`1.2`| 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
