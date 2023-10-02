@@ -44,11 +44,9 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | In |
 | O usuário deve conseguir emitir a segunda via da dívida ativa | In |
 
-
-
-
 ## Link da Gravação
 
+[Priorização - In or Out](https://youtu.be/ZGJE0HVMErI)
 
 ## Bibliografia
 
@@ -62,4 +60,4 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 | `1.0`  | 01/10/2023 | Criação da página.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.1`  | 01/10/2023 | Adição da Introdução, Metodologia e Tabela de Requisitos.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.2`  | 01/10/2023 | Adição da Bibliografia utilizada.                        | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-
+| `1.2`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
