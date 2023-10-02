@@ -43,10 +43,18 @@ Legenda das Tabelas 2 e 3:
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais.</p></font>
 
 <center>
+  
+| Tipo | Descrição                                                                                                             | ID    | Implementado |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----- | ------------ |
+| RF01 | Os usuários devem poder acessar e visualizar informações sobre notas fiscais.                                         | OBS01 | Sim          |
+| RF02 | Os usuários devem poder cadastrar e visualizar informações sobre veículos.                                             | OBS02 | Sim          |
+| RF03 | Os usuários devem poder cadastrar e visualizar informações sobre imóveis.                                              | OBS03 | Sim          |
+| RF04 | Os usuários devem poder visualizar emails enviados pelo Economia-DF.                                                    | OBS04 | Sim          |
+| RF05 | Os usuários devem poder verificar dívidas ativas.                                                                     | OBS05 | Sim          |
+| RF06 | Os usuários devem poder indicar os benefícios obtidos pelo programa Nota Legal.                                        | OBS06 | Não          |
 
-| Tipo | Descrição                                                                                                             | <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
-| RF01 | xxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                          | OBS01                                                  | Sim          |
+
+
 
 </center>
 
@@ -58,9 +66,11 @@ Legenda das Tabelas 2 e 3:
 
 <center>
 
-| Tipo  | Descrição                                                                                                                                                                       | <a id="anchor_OBSNF" style="visibility: hidden;"></a>ID | Implementado |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------ |
-| RNF01 | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                 | OBS2                                                   | Sim          |
+| Tipo  | Descrição                                           | ID   | Implementado |
+| ----- | --------------------------------------------------- | ---- | ------------ |
+| RNF01 | Alto contraste                                      | OBS7 | Não          |
+| RNF02 | Acessibilidade                                      | OBS8 | Não          |
+| RNF03 | Modo escuro                                         | OBS9 | Não          |
 
 </center>
 
