@@ -16,7 +16,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Personas
 
-### Persona Primária 1: Eduardo Economista
+### Persona Primária 1: Luiz Economista
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
 - **Idade:** 52 anos
@@ -24,17 +24,19 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Experiência:** Especialista em economia
 - **Atitudes:** Tecnófilo, interessado em novas tecnologias financeiras
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
-- **Descrição:** Eduardo é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Eduardo usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
+- **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
-### Persona Primária 2: Maria Empreendedora
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa2.jfif?raw=true" width="150px">
+### Persona Primária 2: Maria Administradora
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
+  
+**Nome: Maria**
 
-- **Idade:** 48 anos
-- **Gênero:** Feminino
-- **Experiência:** Especialista em empreendedorismo
-- **Atitudes:** Tecnófila, gosta de ferramentas financeiras eficientes
-- **Tarefa Primária:** Realizar indicações de recebimento e planejar investimentos para seu negócio usando o aplicativo de economia do DF.
-- **Descrição:** Maria é uma empreendedora de sucesso que gerencia seu próprio negócio. Ela está sempre em busca de maneiras eficientes de gerenciar suas finanças pessoais e de negócios. Maria usa o aplicativo para realizar investimentos inteligentes e para planejar as finanças de sua empresa.
+- Idade: 50 anos
+- Sexo: Feminino
+- Escolaridade: Graduada em Administração
+- Afinidade com tecnologia: Média
+- Frequência: Utiliza computador e celular diariamente
+- Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 ### Persona Secundária 1: Pedro Estudante
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
