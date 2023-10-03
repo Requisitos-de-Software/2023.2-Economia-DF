@@ -22,22 +22,23 @@ Cada linha da tabela representava um requisito elicitado. Após a gerente ler o 
 Em seguida, o desenvolvedor Gabriel classificava de 1 a 9 o custo relativo (considerando a complexidade da implementação, a interface de usuário necessária, a capacidade potencial de reutilização de telas ou código e os testes e documentações necessários) e o risco relativo (onde 1 significa muito fácil de programar e 9 indica sérias preocupações sobre viabilidade, disponibilidade de pessoal com o conhecimento necessário ou uso de ferramentas e tecnologias desconhecidas).
 
 Após o preenchimento dessa tabela para todos os requisitos elicitados, foram calculados:
-> o valor total: 
+
+### O valor total: 
    - ( benefício relativo * peso relativo ) + ( penalidade relativa * peso relativo )
    - Foi usado o peso relativo dos benefícios igual a 2 e o peso relativo das penalidades igual a 1, para dar maior importância aos benefícios.
-> o valor %: 
+### O valor %: 
    - ( valor total / soma de todos os valores totais ) * 100 %
-> o custo %: 
+### O custo %: 
    - ( custo relativo / soma de todos os custos relativos ) * 100 %
-> o risco %: 
+### O risco %: 
    - ( risco relativo / soma de todos os riscos relativos ) * 100 %
-> a prioridade: 
+### O prioridade: 
    - valor % / ( ( custo % * peso custo ) +  ( risco % * peso risco ) )
    - Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
 
 E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultando no que é mostrado na Figura 1 abaixo.
 
-<img src="../../imagens/tabela-first-thing-first.png">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/tabela-first-thing-first.png?raw=true">
 
 **Figura 1:** Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First  <br>
 Fonte: Autores.

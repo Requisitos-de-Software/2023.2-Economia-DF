@@ -11,11 +11,9 @@ A equipe do projeto elaborou uma [lista de aplicativos](https://github.com/Requi
  
 ## Economia DF
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png">
-  
-  Figura 1 - Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png?raw=true">
 </div>
-
+**Figura 1 -** Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR)
 
 
 
