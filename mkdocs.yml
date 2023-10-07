@@ -1,7 +1,7 @@
-repo_url: https://github.com/Requisitos-de-Software/2023.2-ConecteSUS
-repo_name: 2023.2-ConecteSUS
+repo_url: https://github.com/Requisitos-de-Software/2023.2-Economia-DF
+repo_name: 2023.2-Economia-DF
 
-site_name: ConecteSUS
+site_name: Economia DF
 nav:
   - Home: index.md
   - Atas:
@@ -9,6 +9,8 @@ nav:
     - Reunião 2: atas/Reunião 2 - 05.09.2023.md
     - Reunião 3: atas/Reunião 3 - 13.09.2023.md
     - Reunião 4: atas/Reunião 4 - 15.09.2023.md
+    - Reunião 5: atas/Reunião 5 - 20.09.2023.md
+    - Reunião 6: atas/Reunião 6 - 22.09.2023.md
   - Apresentação:
     - Apresentação 1: apresentacoes/Apresentação 1 - 15.09.2023.md
   - Planejamento do projeto:
@@ -19,6 +21,28 @@ nav:
     - Rich Picture: planejamento do projeto/rich-picture.md
     - Cronograma planejado: planejamento do projeto/cronograma_planejado.md
     - Cronograma executado: planejamento do projeto/cronograma_executado.md 
+  - Elicitação de Requisitos:
+    - Definição do Perfil de Usuário:
+      - Grupo de Foco: elicitacao/tecnicas-perfil-usuario/grupo_de_foco.md
+      - Questionário: elicitacao/tecnicas-perfil-usuario/questionario.md
+      - Perfil de Usuário: elicitacao/perfil_usuario.md
+    - Personas: elicitacao/personas.md
+    - Elicitação de Requisitos:
+      - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
+      - Instrospecção: elicitacao/tecnicas-elicitacao/instrospeccao.md
+      - Observação: elicitacao/tecnicas-elicitacao/observação.md
+    - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
+    - Priorização de Requisitos:
+      - Requisitos Priorizados: elicitacao/requisitos_priorizados.md
+      - First Things First: elicitacao/tecnicas-priorizacao/first-thing-first.md
+      - In or Out: elicitacao/tecnicas-priorizacao/in our out.md
+      - 100$: elicitacao/tecnicas-priorizacao/100$.md
+    
+
+
+  
+    
+
 
 theme:
   name: material
@@ -44,14 +68,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Mudar para o modo escuro
-      primary: blue-dark
+      primary: green
       accent: purple
 
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Mudar para o modo claro
-      primary: blue-dark
+      primary: green
       accent: lime
 
 

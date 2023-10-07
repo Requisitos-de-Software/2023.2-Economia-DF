@@ -16,28 +16,30 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Personas
 
-### Persona Primária 1: Eduardo Economista
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif" width="150px">
+### Persona Primária 1: Luiz Economista
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
 - **Idade:** 52 anos
 - **Gênero:** Masculino
 - **Experiência:** Especialista em economia
 - **Atitudes:** Tecnófilo, interessado em novas tecnologias financeiras
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
-- **Descrição:** Eduardo é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Eduardo usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
+- **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
-### Persona Primária 2: Maria Empreendedora
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa2.jfif" width="150px">
+### Persona Primária 2: Maria Administradora
+  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
+  
+**Nome: Maria**
 
-- **Idade:** 48 anos
-- **Gênero:** Feminino
-- **Experiência:** Especialista em empreendedorismo
-- **Atitudes:** Tecnófila, gosta de ferramentas financeiras eficientes
-- **Tarefa Primária:** Realizar indicações de recebimento e planejar investimentos para seu negócio usando o aplicativo de economia do DF.
-- **Descrição:** Maria é uma empreendedora de sucesso que gerencia seu próprio negócio. Ela está sempre em busca de maneiras eficientes de gerenciar suas finanças pessoais e de negócios. Maria usa o aplicativo para realizar investimentos inteligentes e para planejar as finanças de sua empresa.
+- Idade: 50 anos
+- Sexo: Feminino
+- Escolaridade: Graduada em Administração
+- Afinidade com tecnologia: Média
+- Frequência: Utiliza computador e celular diariamente
+- Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 ### Persona Secundária 1: Pedro Estudante
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif" width= "150px">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
 
 - **Idade:** 21 anos
 - **Gênero:** Masculino
@@ -47,7 +49,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o aplicativo para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
 ### Persona Secundária 2: Ana Professora
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif" width="150px">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif?raw=true" width="150px">
 
 - **Idade:** 57 anos
 - **Gênero:** Feminino
@@ -59,7 +61,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ## Anti-Personas
 
 ### Anti-Persona 1: João Adolescente
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif" width="150px">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif?raw=true" width="150px">
 
 - **Idade:** 16 anos
 - **Gênero:** Masculino
@@ -68,7 +70,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
 
 ### Anti-Persona 2: Clara Aposentada
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif" width="150px"> 
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif?raw=true" width="150px"> 
 
 - **Idade:** 72 anos
 - **Gênero:** Feminino
