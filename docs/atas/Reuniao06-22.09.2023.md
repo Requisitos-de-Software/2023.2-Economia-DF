@@ -18,6 +18,8 @@ Reunião realizada no Microsoft Teams.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
+<div align="center">
+
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      21:30        |
@@ -25,6 +27,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
+
+</div>
 
 ## Pauta
 
@@ -45,14 +49,20 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 * Na figura 1 encontram-se as atividades definidas para a segunda entrega de requisitos e os responsáveis por cada uma delas.
 
+<div align="center">
+
 ![Atribuições de IHC e Requisitos](/docs/imagens/atas/atribuicoes_ihc_req.png)
 
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
 
+</div>
+
 ## Atividades de correções em Requisitos
 
 Na tabela 2 encontram-se as atividades de correção dos artefatos da Entrega 1 e os responsáveis por cada uma delas.
+
+<div align="center">
 
 |Atividade|Responsável|
 |---------|-----------|
@@ -68,6 +78,8 @@ Na tabela 2 encontram-se as atividades de correção dos artefatos da Entrega 1 
 
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades de correção dos artefatos da Entrega 1.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
+
+</div>
 
 ## Conclusão
 
