@@ -11,9 +11,13 @@ A equipe do projeto elaborou uma [lista de aplicativos](https://github.com/Requi
  
 ## Economia DF
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png?raw=true">
-</div>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png?raw=true" alt="**Figura 1 -** Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR)">
+
 **Figura 1 -** Logo do Economia DF. Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR)
+
+</div>
+
+
 
 
 
@@ -30,7 +34,7 @@ O Economia DF é uma aplicativo desenvolvido pela Secretária de Economia do Dis
  - Público-alvo abrangente;
  - Permitido o uso de imagem.
 
- ## Justificativa da mudança de Aplicativo
+## Justificativa da mudança de Aplicativo
  - Ter parte do Nota Legal integrado ao app;
  - Enriquecer o estudo sobre o sistema com uma perspectiva de IHC e outra de Requisitos;
  - Compartilhamento de informações entre o Economia DF e o Nota Legal;
@@ -43,11 +47,7 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 
 > [1] ConecteSUS. Disponível em: https://conectesus.saude.gov.br/home
 >
-> [2] Termo de Uso . Disponível em: https://conectesus-paciente.saude.gov.br/publico/perfil/termo-uso
->
-> [3] ConecteSUS, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=en_US
->
-> [4] Economia DF, App Store. Disponível em: https://apps.apple.com/br/app/economia-df/id1447665592
+> [2] Economia DF, App Store. Disponível em: https://apps.apple.com/br/app/economia-df/id1447665592
 
 ##  Histórico de versões
 |Versão|Data|Descrição|Autor|Revisor|
