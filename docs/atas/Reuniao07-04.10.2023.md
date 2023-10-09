@@ -24,7 +24,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      21:30        |
-| Realizado     |      xx:xx       |      xx:xx        |
+| Realizado     |     19:54       |     21:07       |
 
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Zaranza](https://github.com/GZaranza).</p></font>
