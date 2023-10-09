@@ -18,6 +18,8 @@ Reunião realizada no Microsoft Teams.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
+<div align="center">
+
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:30        |
@@ -25,6 +27,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas Ribeiro de Souza](https://github.com/lucassouzs).</p></font>
+
+</div>
 
 ## Pauta
 
@@ -36,12 +40,16 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 Na tabela 2 encontra-se a atividade definida e todos os integrantes do grupo como responsáveis por ela.
 
+<div align="center">
+
 | Atividades       | Responsável   |
 | ---------------- | ------------- |
 |Procurar e trazer um aplicativo para a próxima reunião que será no dia 05.09.2023, próxima terça-feira | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |
 
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas Ribeiro de Souza](https://github.com/lucassouzs).</p></font>
+
+</div>
 
 ## Conclusão
 
