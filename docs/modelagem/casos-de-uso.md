@@ -23,6 +23,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 ## Especificação dos Casos de Uso
 ## Referências Bibliográficas
 ## Bibliografia
+> Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em: 09 de outubro ed 2023.
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
