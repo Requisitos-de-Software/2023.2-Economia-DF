@@ -19,6 +19,8 @@ Mesma reunião para IHC e RQS.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
+<div align="center">
+
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      21:30        |
@@ -26,6 +28,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Zaranza](https://github.com/GZaranza).</p></font>
+
+</div>
 
 ## Pauta
 
@@ -36,6 +40,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 ## Atividades
 
 Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 2 de IHC.
+
+<div align="center">
 
 ![Figura 1 - Atividades](/docs/imagens/atas/issues-IHC2-04-10-2023.png)
 
@@ -48,6 +54,8 @@ Na figura 2 encontram-se as atividades definidas para corrigir os artefatos da e
 
 <font size="3"><p style="text-align: center"><b>Figura 2 - Atividades a serem desenvolvidas.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Zaranza](https://github.com/GZaranza).</p></font>
+
+</div>
 
 ## Conclusão
 
