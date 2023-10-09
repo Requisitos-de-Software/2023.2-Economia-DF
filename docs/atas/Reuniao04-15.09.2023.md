@@ -18,6 +18,8 @@ Reunião realizada no Microsoft Teams.
 
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
+<div align="center">
+
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:30        |
@@ -26,6 +28,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
 
+</div>
+
 ## Pauta
 
 * Verificar a qualidade dos artefatos produzidos;
@@ -33,6 +37,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 * Gravar a primeira apresentação.
 
 ## Atividades
+
+<div align="center">
 
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
@@ -48,6 +54,8 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades.</b></p></font>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
+
+</div>
 
 ## Conclusão
 
