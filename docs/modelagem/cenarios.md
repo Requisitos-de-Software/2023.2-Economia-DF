@@ -3,7 +3,7 @@
 ## Metologia
 ## Cenários
 ### Consultar dívida ativa
-O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela X.
+O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 1.
 
 <div align="center">
 
@@ -17,9 +17,27 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Restrição   | As informações só aparecem se o usuário tiver alguma dívida                         |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-**Tabela X:** Cenário referente ao objetivo "Consultar dívida ativa". Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023).
+**Tabela 1:** Cenário referente ao objetivo "Consultar dívida ativa". Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
 
 </div>
+
+### Consultar veículos
+O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 2.
+<div align="center">
+  
+| Elemento    | Descrição                                                                           |
+|-------------|-------------------------------------------------------------------------------------|
+| Objetivo    | Consultar débitos e boletos bancários de um veículo através do aplicativo Economia DF                          |
+| Contexto    | Local: em casa<br>Tempo: Aproximadamente 1 minuto<br> Pré-condições: Usuário brasileiro com CPF ativo e RENAVAM do veículo a ser consultado, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado |
+| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF                                     |
+| Atores      | Usuário brasileiro com CPF ativo                                                  |
+| Episódios   | O *usuário* seleciona a opção "Veículos" na tela inicial<br>O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo<br>O *usuário* seleciona um veículo cadastrado<br>O aplicativo exibe uma tela com os débitos relacionados ao veículo<br>O *usuário* seleciona a opção Emitir Segunda Via do boleto nacário |
+| Restrição   | Os veíuclos só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o veículo possua alguma dívida ativa                          |
+| Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
+
+**Tabela 2:** Cenário referente ao objetivo "Consultar Veículos". Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+</div>
+
 
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -29,3 +47,4 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |1.0|08/10/2023|Criação de documento e adição do cenário sobre consultar dívida ativa|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|1.1|09/10/2023|Adição do cenário sobre consultar veículos|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
