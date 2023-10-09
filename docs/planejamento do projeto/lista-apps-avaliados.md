@@ -76,7 +76,6 @@ O aplicativo e-Título é mantido pelo Tribunal Superior Eleitoral e foi uma gra
 
 - é Fácil encontrar usuários do aplicativo em nosso dia a dia, pois muitos utilizaram o aplicativo nas últimas eleições e tem conhecimento de como ele funciona.
 
-[Rich Picture - e-Título](../imagens/Rich_Picture_e-titulo.png)
 
 
 ### Guardiões da Saúde
@@ -97,6 +96,24 @@ O Economia DF é uma aplicativo desenvolvido pela Secretária de Economia do Dis
 
 - Resultados com perspectiva de requisitos e outra de IHC;
 
+## Bibliografia
+
+> [1] Calibre E-book Management. Disponível em: https://calibre-ebook.com/pt/download_android
+>
+> [2] Carteira Digital de Trânsito, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US
+>
+> [3] ConecteSUS. Disponível em: https://conectesus.saude.gov.br/home
+>
+> [4] Economia DF, App Store. Disponível em: https://apps.apple.com/br/app/economia-df/id1447665592
+>
+> [5] e-Título, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US
+>
+> [6] Guardiões da Saúde, Google Play. Disponível em: https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR&gl=US
+>
+> [7] Signal, Google Play. Disponível em: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=pt_BR&gl=US
+>
+> [8] Viva bem, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.vivabem&pcampaignid=web_share
+
 
 
 ##  Histórico de versões
@@ -111,4 +128,5 @@ O Economia DF é uma aplicativo desenvolvido pela Secretária de Economia do Dis
 |`1.7`|15/09/2023 | Adicionando o app e-Título |  [Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
 |`1.8`|15/09/2023 | Adicionando o app Guardiões da Saúde |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
 |`1.9`|24/09/2023 | Adicionando o app Economia DF |  [Gabriel Zaranza](https://github.com/GZaranza)  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|`1.9`|09/10/2023 | Adicionando o bibligorafia |  [Gabriel Zaranza](https://github.com/GZaranza)  |[Lucas Víctor](https://github.com/Lucas13032003)|
 
