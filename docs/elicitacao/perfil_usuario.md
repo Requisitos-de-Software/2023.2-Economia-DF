@@ -9,7 +9,9 @@ A definição do perfil de usuário do aplicativo Economia DF foi cuidadosamente
 
 
 ## Definição do Usuário
-Após a análise dos resultados obtidos pelo [questionario](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/questionario.md) e [grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/grupo_de_foco.md), o perfil de usuário do Economia DF é:
+Após a análise dos resultados obtidos pelo [questionario](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/questionario.md) e [grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elecitacao/grupo_de_foco.md) a equipe definiu o perfil de usuário do aplicativo Economia DF, que pode ser encontrado na Tabela 1:
+
+<div align="center">
 
 | *Especificação* | *Perfil*     |
 | ----------------| --------     |
@@ -18,6 +20,10 @@ Após a análise dos resultados obtidos pelo [questionario](https://github.com/R
 | Experiência | Especialista       |
 | Atitudes | Tecnófilos       |
 | Tarefa primária |    Realizar indicação de recebimento   |
+
+**Tabela 1:** Tabela do perfil de usuário do aplicativo Economia DF (Fonte: [Gabriel Zaranza](https://github.com/GZaranza))
+
+</div>
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
