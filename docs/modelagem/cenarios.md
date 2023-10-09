@@ -4,6 +4,9 @@
 ## Cenários
 ### Consultar dívida ativa
 O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela X.
+
+<div align="center">
+
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
 | Objetivo    | Consultar dívida ativa através do aplicativo Economia DF                          |
@@ -14,8 +17,10 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Restrição   | As informações só aparecem se o usuário tiver alguma dívida                         |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-
 **Tabela X:** Cenário referente ao objetivo "Consultar dívida ativa". Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023).
+
+</div>
+
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
