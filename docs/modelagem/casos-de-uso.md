@@ -46,7 +46,100 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
 
 **Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+
 </div>
+
+
+<details><summary> <h3> UC01. Fazer login </h3> </summary>
+
+  <div align="center">
+  
+  | UC01 |  Fazer login |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet;<br> PRE02. Usuário abrir o aplicativo deslogado.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema envia um código de validação no SMS do usuário <li> O usuário fornece o código de validação e clica em validar. <li> O usuário é logado. <li> Fim do caso de uso. </ol> |
+  | **Fluxos alternativos** | <b>FA01: Logar pelo Nota Legal</b> <ol> <li> O usuário clica em "Usar dados do Nota Legal" <li> O usuário fornece os dados de login do Nota Legal e clica em validar. Aciona o caso de uso UC03. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Validar o login pelo email</b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O usuário clica em "Enviar o código de validação para o email. <li> O sistema envia o código de validação para o email de cadastro do usuário. <li> O usuário fornece o código de validação e clica em validar. <li>O usuário é logado. <li>Fim do caso de uso. </ol>  |
+  | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa em qual campo está com o dado inválido. </ul> </ol> <b> FE02:Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado <li> O sistema informa que o código inserido é invalido </ol> |
+  | **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
+<details><summary> <h3> UC02. Exibir erro de login </h3> </summary>
+  
+  <div align="center">
+    
+  | UC02 | Exibir erro de login |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. O usuário forneceu algum dado errado no login.|
+  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema informa em qual campo o usuário foreceu um dado inválido </ol> |
+  | **Fluxos alternativos** |   |
+  | **Fluxos de exceção** |  |
+  | **Pós-condições** |POS01. O usuário deve colocar novamente suas credenciais de login  |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) |
+ 
+  </div>
+
+
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
+
+<details><summary> <h3> UC03. Verificar dados de login  </h3> </summary>
+
+  <div align="center">
+  
+  | UC03 |  Verificar dados de login |
+  | -: | :- |
+  | **Atores** | Sistema |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. O usuário fornceceu os dados de login.|
+  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O sistema recebe os dados que o usuário forneceu <li> O sistema verifica os dados de login <li> O sistema libera o login do usuário <li> Fim do caso de uso. |
+  | **Fluxos alternativos** |   |
+  | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema verifica os dados de login <li> O sistema não permite o login do usuário. Aciona o caso de uso UC01. <li> Fim do caso de uso </ul> </ol> |
+  | **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
+
+<details><summary> <h3> UC04. Consultar notas fiscais </h3> </summary>
+
+  <div align="center">
+  
+  | UC04 |  Consultar notas fiscais |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
 
 ### UC13. Cadastrar veículo
 
@@ -139,3 +232,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.3`|10/10/2023|Adicionando a tabela UC14 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.4`|10/10/2023|Adicionando a tabela UC15 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.5`|10/10/2023|Adicionando a tabela UC16 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.6`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 1,2,3 e 4|[Gabriel Zaranza](https://github.com/GZaranza)|[Izabella Alves](https://github.com/izabellaalves)|
