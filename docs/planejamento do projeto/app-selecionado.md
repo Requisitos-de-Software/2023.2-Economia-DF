@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A equipe do projeto elaborou uma [lista de aplicativos](https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/planejamento%20do%20projeto/lista-apps-avaliados.md) que poderiam ser utilizados como escolha. Foi debatido durante a [Reunião 2](https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/atas/Reunião%202%20-%2005.09.2023.md) qual seria o melhor aplicativo para ser usado no projeto, em que cada membro argumentou o porquê de ter sugerido determinado aplicativo. 
+A equipe do projeto elaborou uma [lista de aplicativos](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/lista-apps-avaliados/) que poderiam ser utilizados como escolha. Foi debatido durante a [Reunião 2](https://requisitos-de-software.github.io/2023.2-Economia-DF/atas/Reuni%C3%A3o%202%20-%2005.09.2023/) qual seria o melhor aplicativo para ser usado no projeto, em que cada membro argumentou o porquê de ter sugerido determinado aplicativo. 
 ## Critérios de escolha
   - Aplicativo não pode ter sido utilizado em semestres anteriores;
   - Ser do governo ou de comunidade open source;
