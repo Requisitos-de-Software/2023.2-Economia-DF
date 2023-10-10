@@ -141,7 +141,8 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </details>
 
-### UC13. Cadastrar veículo
+<details><summary> <h3> UC13. Cadastrar veículo </h3> </summary>
+
 
 <div align="center">
 
@@ -150,17 +151,22 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Atores** | Consumidor |
 | **Frequência de uso** | Média |
 | **Pré-condições** |PRE01. Dispor de uma conexão à internet;</br>PRE02. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE03. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE04. Possuir um cadastro ativo no aplicativo;</br>PRE05. Possuir um veículo com documentos para ser cadastrado.|
-| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção 'Veículos'.</br>FB3. No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".</br>FB4. O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.</br>FB5. O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.</br>FB6. Finaliza fluxo.|
-| **Fluxos alternativos** |FA1. Dados incorretos</br><ol>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. O usuário navega até a seção 'Veículos'.</br>FA1.3. No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".</br>FA1.4. O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.</br>FA1.5. O usuário clica no botão “Adicionar', para adicionar o veículo e suas informações.</br>FA1.6. O sistema exibe uma mensagem de alerta “Veículo não encontrado”.</br>FA1.7. Finaliza fluxo.</ol></br></br>FA2. Campos em branco</br><ol>FA2.1. O usuário inicia o aplicativo.</br>FA2.2. O usuário navega até a seção 'Veículos'.</br>FA2.3. No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".</br>FA2.4. O usuário deixa um ou todos os campos (Apelido, Placa e Renavam) em branco.</br>FA2.5. O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.</br>FA2.6. O sistema exibe uma mensagem de alerta indicando "Campo obrigatório" para cada campo vazio durante o processo de inserção de dados.</br>FA2.7. Finaliza fluxo.</ol></br></br>FA3. Acesso à Seção 'Veículos' pelo Menu</br><ol>FA3.1. O usuário inicia o aplicativo.</br>FA3.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA3.3. O usuário navega até a seção 'Veículos'.</br>FA3.4. No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".</br>FA3.5. O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.</br>FA3.6. O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.</br>FA3.7. Finaliza fluxo.</ol>|
-| **Fluxos de exceção** |FE1. Sem internet </br><ol>FE1.1. O usuário inicia o aplicativo. </br>FE1.2. O usuário nageva até a seção 'Veículos' (pela tela principal ou pelo menu). </br>FE1.3. No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+". </br>FE1.4. O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam. </br>FE1.5. O sistema exibe uma mensagem de alerta “Não foi possível conectar com os servidores da SEEC DF”. </br>FE1.6. Finaliza fluxo.</ol>|
+| **Fluxo básico** |<b>FB01. O usuário inicia o aplicativo.</b> <ol> <li> O usuário navega até a seção 'Veículos'.<li>  No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".<li> O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.<li>O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.<li>Finaliza fluxo.</ol>|
+| **Fluxos alternativos** |<b>FA01. Dados incorretos</b><ol><li>O usuário inicia o aplicativo.<li>O usuário navega até a seção 'Veículos'.<li>No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".<li> O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.<li>O usuário clica no botão “Adicionar', para adicionar o veículo e suas informações.<li> O sistema exibe uma mensagem de alerta “Veículo não encontrado”.<lir>Finaliza fluxo.</ol></br></br><b>FA02. Campos em branco</b><ol><li>O usuário inicia o aplicativo.<li> O usuário navega até a seção 'Veículos'.<li> No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".<li> O usuário deixa um ou todos os campos (Apelido, Placa e Renavam) em branco.<li> O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.<li> O sistema exibe uma mensagem de alerta indicando "Campo obrigatório" para cada campo vazio durante o processo de inserção de dados.<li> Finaliza fluxo.</ol></br></br><b>FA03. Acesso à Seção 'Veículos' pelo Menu</b><ol><li> O usuário inicia o aplicativo.<li> No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Veículos'.<li> No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+".<li> O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam.<li> O usuário clica no botão 'Adicionar', para adicionar o veículo e suas informações.<li> Finaliza fluxo.</ol>|
+| **Fluxos de exceção** |<b>FE01. Sem internet </b><ol><li> O usuário inicia o aplicativo. <li> O usuário nageva até a seção 'Veículos' (pela tela principal ou pelo menu). <li> No canto inferior direito da tela, o usuário clica no botão azul com o símbolo "+". <li> O usuário insere os dados do veículo, incluindo apelido (Nome de identificação), Placa e Renavam. <li> O sistema exibe uma mensagem de alerta “Não foi possível conectar com os servidores da SEEC DF”. <li> Finaliza fluxo.</ol>|
 | **Pós-condições** |POS01. O veículo está registrado com sucesso no sistema.</br>POS02. O veículo está associado à conta do usuário que realizou o cadastro.</br>POS03. O apelido (Nome de identificação), número da placa e Renavam estão corretamente armazenados no sistema para referência futura.</br>POS04. O veículo está acessível para funcionalidades adicionais oferecidas pelo aplicativo, como rastreamento, manutenção ou renovação de licença, dependendo das características do serviço.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT27](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md), [INT28](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
-**Tabela X:** Especificação do caso de uso UC13. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+
 </div>
 
-### UC14. Consultar ajuda
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+
+</details>
+
+
+<details><summary> <h3> UC14. Consultar ajuda </h3> </summary>
 
 <div align="center">
 
@@ -169,17 +175,21 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Atores** |Consumidor|
 | **Frequência de uso** |Média|
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir dúvidas ou necessitar de assistência com algum problema específico.|
-| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção 'Ajuda'.</br>FB3. Finaliza fluxo.|
-| **Fluxos alternativos** |FA1. Acesso à Seção ‘Ajuda’ pelo Menu</br><ol>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Ajuda'.</br>FA1.4. Finaliza fluxo.</ol>|
+| **Fluxo básico** |<b>FB01. O usuário inicia o aplicativo.</b><ol><li>O usuário navega até a seção 'Ajuda'.<li> Finaliza fluxo.</ol>|
+| **Fluxos alternativos** |<b>FA1. Acesso à Seção ‘Ajuda’ pelo Menu</b><ol><li> O usuário inicia o aplicativo.<li> No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Ajuda'.<li> Finaliza fluxo.</ol>|
 | **Fluxos de exceção** ||
 | **Pós-condições** |POS01. O usuário tem acesso a uma variedade de tópicos que podem ajudar a esclarecer suas dúvidas e atender às suas necessidades.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** ||
 
-**Tabela X:** Especificação do caso de uso UC14. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
 </div>
 
-### UC15. Entrar em contato
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+
+</details>
+
+
+<details><summary> <h3> UC15. Entrar em contato </h3> </summary>
 
 <div align="center">
 
@@ -188,17 +198,22 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Atores** | Consumidor |
 | **Frequência de uso** | Média |
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir sugestões ou necessitar de assistência com algum problema específico.|
-| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção "Fale conosco".</br>FB3. Finaliza fluxo.|
-| **Fluxos alternativos** |FA1. Acesso à Seção ‘Fale conosco’ pelo Menu</br><ol>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Fale conosco'.</br>FA1.4. Finaliza fluxo.</ol>|
+| **Fluxo básico** |<b>FB01. O usuário inicia o aplicativo.</b><ol><li> O usuário navega até a seção "Fale conosco".<li> Finaliza fluxo.</ol>|
+| **Fluxos alternativos** |<b>FA01. Acesso à Seção ‘Fale conosco’ pelo Menu</b><ol><li> O usuário inicia o aplicativo.<li>No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Fale conosco'.<li> Finaliza fluxo.</ol>|
 | **Fluxos de exceção** ||
 | **Pós-condições** |POS01. O usuário terá acesso a um botão ‘Preparar e-mail’, que permitirá que ele entre em contato com o atendimento do aplicativo Economia DF.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
-**Tabela X:** Especificação do caso de uso UC15. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
 </div>
 
-### UC16. Enviar e-mail
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+
+</details>
+
+
+
+<details><summary> <h3> UC16. Enviar e-mail </h3> </summary>
 
 <div align="center">
 
@@ -207,15 +222,18 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Atores** |Consumidor|
 | **Frequência de uso** |Média|
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir sugestões ou necessitar de assistência com algum problema específico.|
-| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br><ol>FB2. O usuário navega até a seção "Fale conosco".</br>FB3. O usuário clica no botão ‘Preparar e-mail’ </br>FB4. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br>FB5. Se o usuário selecionar:</br><ol>FB5.1. 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br>FB5.2. 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol>FB6. Finaliza fluxo.</ol>|
-| **Fluxos alternativos** |FA1. Acesso à Seção ‘Fale conosco’ pelo Menu</br><ol>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Fale conosco'.</br>FB1.4. O usuário clica no botão ‘Preparar e-mail’ </br>FB1.5. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br>FB1.6. Se o usuário selecionar:</br><ol>FB1.6.1 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br>FB1.6.2 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol>FB1.7. Finaliza fluxo.</ol>|
+| **Fluxo básico** |<b>FB1. O usuário inicia o aplicativo.</b><ol><li> O usuário navega até a seção "Fale conosco".<li> O usuário clica no botão ‘Preparar e-mail’ <li> O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.<li> Se o usuário selecionar:</br><ol><li>. 'Não', ele será redirecionado de volta à seção 'Fale conosco'. <li> 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol><li> Finaliza fluxo.</ol>|
+| **Fluxos alternativos** |FA1. Acesso à Seção ‘Fale conosco’ pelo Menu</br><ol><li> O usuário inicia o aplicativo.<li> No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Fale conosco'.<li> O usuário clica no botão ‘Preparar e-mail’ <li>. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br><li>. Se o usuário selecionar:</br><ol><li> 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br><li> 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol><li> Finaliza fluxo.</ol>|
 | **Fluxos de exceção** ||
 | **Pós-condições** |POS01. O usuário será encaminhado para o seu correio eletrônico no dispositivo.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
-**Tabela X:** Especificação do caso de uso UC16. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
 </div>
+
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+
+</details>
 
 ## Referências Bibliográficas
 ## Bibliografia
@@ -233,3 +251,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.4`|10/10/2023|Adicionando a tabela UC15 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.5`|10/10/2023|Adicionando a tabela UC16 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.6`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 1,2,3 e 4|[Gabriel Zaranza](https://github.com/GZaranza)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.7`|10/10/2023|revisão tabela especificação dos casos de uso dos cenários 13,14,15,16|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
