@@ -5,19 +5,19 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 
 |                                               Ferramentas                                               |                                                     Descrição                                                     |
 | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png?raw=true" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina¹. |
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png?raw=true" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações² .                             |
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/googledocs_logo.png?raw=true" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo³    |
-|      <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/draw.io-logo.png?raw=true" width="100" height="100"></img>       |        **Draw.io**: Produção do Rich Picture⁴.         |
-|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg?raw=true" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários⁵.                           | 
-|        <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/logo-google%20forms.png?raw=true" width="100" height="100"></img>         |                          **Google Forms**:  Criação do questionario para avaliação do usuário⁶.                           |     
-|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/figma-logo.png?raw=true" width="100" height="100"></img>        |                      **Figma**: Ferramenta para trabalhar com protótipos de alta fidelidade⁷.                       |
-|  <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Microsoft_Teams-logo.png?raw=true" width="100" height="100"></img>   |        **Microsoft Teams**: Local de trabalho, usado principalmente para as reuniões da equipe ⁸.         |
-|      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-ConecteSUS/main/docs/imagens/Whatsapp-logo.webp?raw=true" width="100" height="100"></img>      |                           **Whatsapp**: Ferramenta principal de comunicação da equipe⁹.                            |
-|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/YouTube-logo.png?raw=true" width="100" height="100"></img>       |       **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor¹⁰.       |
-| <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png?raw=true" width="100" height="100"></img> |             **Visual Studio Code**: Ferramenta de programação e edição dos arquivos de documentação¹¹.              |
-|     <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></img>      |              **MkDocs**:   Criação e edição do GitPages do projeto¹².               |
-|     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas¹³.               |
+|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/github_logo.png?raw=true" width="100" height="100"></img>        | **GitHub**: Utilizado para trabalhar com o projeto da disciplina<a id="anchor_1" href="#FRM1">¹</a>; |
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/canva-logo.png?raw=true" width="100" height="100"></img>        |                            **Canva**: Ferramenta utilizada para montar apresentações<a id="anchor_2" href="#FRM2">²</a>;                             |
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/googledocs_logo.png?raw=true" width="100" height="100"></img>       |   **GoogleDocs**:  Criação e edição de tabelas sobre disponibilidade dos membros do grupo<a id="anchor_3" href="#FRM3">³</a>;    |
+|      <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/draw.io-logo.png?raw=true" width="100" height="100"></img>       |        **Draw.io**: Produção do Rich Picture<a id="anchor_4" href="#FRM4">⁴</a>;         |
+|        <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg?raw=true" width="100" height="100"></img>         |                          **Google Planilhas**:  Criação de planilhas relacionadas ao cronograma e horários<a id="anchor_5" href="#FRM5">⁵</a>;                           | 
+|        <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/logo-google%20forms.png?raw=true" width="100" height="100"></img>         |                          **Google Forms**:  Criação do questionario para avaliação do usuário<a id="anchor_6" href="#FRM6">⁶</a>;|     
+|       <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/figma-logo.png?raw=true" width="100" height="100"></img>        |                      **Figma**: Ferramenta para trabalhar com protótipos de alta fidelidade<a id="anchor_7" href="#FRM7">⁷</a>;                       |
+|  <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Microsoft_Teams-logo.png?raw=true" width="100" height="100"></img>   |        **Microsoft Teams**: Local de trabalho, usado principalmente para as reuniões da equipe<a id="anchor_8" href="#FRM8">⁸</a>;         |
+|      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-ConecteSUS/main/docs/imagens/Whatsapp-logo.webp?raw=true" width="100" height="100"></img>      |                           **Whatsapp**: Ferramenta principal de comunicação da equipe<a id="anchor_9" href="#FRM9">⁹</a>;                            |
+|      <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/YouTube-logo.png?raw=true" width="100" height="100"></img>       |       **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor<a id="anchor_10" href="#FRM10">¹⁰</a>;       |
+| <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png?raw=true" width="100" height="100"></img> |             **Visual Studio Code**: Ferramenta de programação e edição dos arquivos de documentação<a id="anchor_11" href="#FRM11">¹¹</a>;|
+|     <img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></img>      |              **MkDocs**:   Criação e edição do GitPages do projeto<a id="anchor_12" href="#FRM12">¹²</a>;               |
+|     <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></img>      |              **This person does not exist**:   Criação de imagens de pessoas falsas para as Personas.<a id="anchor_13" href="#FRM13">¹³</a>              |
 
 
 *Tabela 1 - Ferramentas Utilizadas*
@@ -45,9 +45,9 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 >
 > <a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 13 de set. de 2023.
 >
-> <a id="FRM11" href="#anchor_11">11.</a> Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 29 de set. de 2023.
+> <a id="FRM12" href="#anchor_12">12.</a> Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 29 de set. de 2023.
 >
-> <a id="FRM11" href="#anchor_11">11.</a> This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 29 de set. de 2023.
+> <a id="FRM13" href="#anchor_13">13.</a> This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 29 de set. de 2023.
 >
 
 
@@ -62,5 +62,7 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |  `1.2`  | 13/09/2023 | Criação das Referências bibliográficas. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 |  `1.3`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 |  `1.4`  | 29/09/2023 |     Adição de novas Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
+|  `1.5`  | 10/10/2023 |     Revisão Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
+
 
 </center>
