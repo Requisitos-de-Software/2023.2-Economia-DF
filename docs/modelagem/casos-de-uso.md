@@ -111,15 +111,15 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 | UC16 | Enviar e-mail |
 | -: | :- |
-| **Atores** ||
-| **Frequência de uso** ||
-| **Pré-condições** ||
-| **Fluxo básico** ||
-| **Fluxos alternativos** ||
+| **Atores** |Consumidor|
+| **Frequência de uso** |Média|
+| **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir sugestões ou necessitar de assistência com algum problema específico.|
+| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção "Fale conosco".</br>FB3. O usuário clica no botão ‘Preparar e-mail’ </br>FB4. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br>FB5. Se o usuário selecionar:</br><ol>FB5.1. 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br>FB5.2. 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol>FB6. Finaliza fluxo.|
+| **Fluxos alternativos** |FA1. Acesso à Seção ‘Fale conosco’ pelo Menu</br>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Fale conosco'.</br>FB1.4. O usuário clica no botão ‘Preparar e-mail’ </br>FB1.5. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br>FB1.6. Se o usuário selecionar:</br><ol>FB1.6.1 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br>FB1.6.2 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol>FB1.7. Finaliza fluxo.|
 | **Fluxos de exceção** ||
-| **Pós-condições** ||
-| **Data da criação** ||
-| **Rastreabilidade** ||
+| **Pós-condições** |POS01. O usuário será encaminhado para o seu correio eletrônico no dispositivo.|
+| **Data da criação** |10/10/2023|
+| **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
 **Tabela X:** Especificação do caso de uso UC16. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
 </div>
@@ -138,3 +138,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.2`|10/10/2023|Adicionando a tabela UC13 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.3`|10/10/2023|Adicionando a tabela UC14 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.4`|10/10/2023|Adicionando a tabela UC15 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.5`|10/10/2023|Adicionando a tabela UC16 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
