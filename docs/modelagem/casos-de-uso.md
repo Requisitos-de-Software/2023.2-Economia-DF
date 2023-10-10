@@ -76,7 +76,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Atores** |Consumidor|
 | **Frequência de uso** |Média|
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir dúvidas ou necessitar de assistência com algum problema específico.|
-| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção "Ajuda".</br>FB3. Finaliza fluxo.|
+| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção 'Ajuda'.</br>FB3. Finaliza fluxo.|
 | **Fluxos alternativos** |FA1. Acesso à Seção ‘Ajuda’ pelo Menu</br>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Ajuda'.</br>FA1.4. Finaliza fluxo.|
 | **Fluxos de exceção** ||
 | **Pós-condições** |POS01. O usuário tem acesso a uma variedade de tópicos que podem ajudar a esclarecer suas dúvidas e atender às suas necessidades.|
