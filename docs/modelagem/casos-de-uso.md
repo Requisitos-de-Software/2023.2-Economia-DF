@@ -37,7 +37,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta/Média/Baixa |
-| **Requisitos** | Abrir xxxxxxxx |
 | **Condição de entrada** | O usuário xxxxxxxx |
 | **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
@@ -57,7 +56,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta/Média/Baixa |
-| **Requisitos** | Abrir xxxxxxxx |
 | **Condição de entrada** | O usuário xxxxxxxx |
 | **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
@@ -77,7 +75,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta/Média/Baixa |
-| **Requisitos** | Abrir xxxxxxxx |
 | **Condição de entrada** | O usuário xxxxxxxx |
 | **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
@@ -97,7 +94,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta/Média/Baixa |
-| **Requisitos** | Abrir xxxxxxxx |
 | **Condição de entrada** | O usuário xxxxxxxx |
 | **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
@@ -117,7 +113,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Alta/Média/Baixa |
-| **Requisitos** | Abrir xxxxxxxx |
 | **Condição de entrada** | O usuário xxxxxxxx |
 | **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
