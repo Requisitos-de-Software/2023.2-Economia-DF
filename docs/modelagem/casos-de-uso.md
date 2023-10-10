@@ -49,6 +49,86 @@ A figura 1 demonstra o diagrama de casos de uso.
 **Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 </div>
 
+### UC13. Cadastrar veículo
+
+<div align="center">
+
+| UC13 | Cadastrar veículo |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Requisitos** | Abrir xxxxxxxx |
+| **Condição de entrada** | O usuário xxxxxxxx |
+| **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC13. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+</div>
+
+### UC14. Consultar ajuda
+
+<div align="center">
+
+| UC14 | Consultar ajuda |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Requisitos** | Abrir xxxxxxxx |
+| **Condição de entrada** | O usuário xxxxxxxx |
+| **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC14. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+</div>
+
+### UC15. Entrar em contato
+
+<div align="center">
+
+| UC15 | Entrar em contato |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Requisitos** | Abrir xxxxxxxx |
+| **Condição de entrada** | O usuário xxxxxxxx |
+| **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC15. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+</div>
+
+### UC16. Enviar e-mail
+
+<div align="center">
+
+| UC16 | Enviar e-mail |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Requisitos** | Abrir xxxxxxxx |
+| **Condição de entrada** | O usuário xxxxxxxx |
+| **Fluxo principal** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC16. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+</div>
+
 ## Referências Bibliográficas
 ## Bibliografia
 > Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em: 09 de outubro ed 2023.
