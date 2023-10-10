@@ -73,14 +73,14 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 | UC14 | Consultar ajuda |
 | -: | :- |
-| **Atores** ||
-| **Frequência de uso** ||
-| **Pré-condições** ||
-| **Fluxo básico** ||
-| **Fluxos alternativos** ||
+| **Atores** |Consumidor|
+| **Frequência de uso** |Média|
+| **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir dúvidas ou necessitar de assistência com algum problema específico.|
+| **Fluxo básico** |FB1. O usuário inicia o aplicativo.</br>FB2. O usuário navega até a seção "Ajuda".</br>FB3. Finaliza fluxo.|
+| **Fluxos alternativos** |FA1. Acesso à Seção ‘Ajuda’ pelo Menu</br>FA1.1. O usuário inicia o aplicativo.</br>FA1.2. No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.</br>FA1.3. O usuário navega até a seção 'Ajuda'.</br>FA1.4. Finaliza fluxo.|
 | **Fluxos de exceção** ||
-| **Pós-condições** ||
-| **Data da criação** ||
+| **Pós-condições** |POS01. O usuário tem acesso a uma variedade de tópicos que podem ajudar a esclarecer suas dúvidas e atender às suas necessidades.|
+| **Data da criação** |10/10/2023|
 | **Rastreabilidade** ||
 
 **Tabela X:** Especificação do caso de uso UC14. Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
@@ -136,3 +136,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.0`|09/10/2023|Criação do documento e diagrama de caso de uso|[Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.1`|10/10/2023|Adicionando a tabela exemplo da especificação dos casos de uso|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.2`|10/10/2023|Adicionando a tabela UC13 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.3`|10/10/2023|Adicionando a tabela UC14 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
