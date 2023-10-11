@@ -92,6 +92,9 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 **Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 </div>
 
+
+### Consultar outros Tributos
+Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
 <div align="center">
   
 | Elemento    | Descrição                                                                            |
