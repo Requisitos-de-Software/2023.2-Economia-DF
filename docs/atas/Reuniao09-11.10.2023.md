@@ -49,11 +49,11 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 ## Conclusão
 
-A partir dessa reunião definimos as últimas issues e ajustes necssários pra segunda entrega de IHC, que será gravada na sexta-feira (13/10).
+A partir dessa reunião revisamos as issues da última sprint e fizemos novas issues que devem ser realizadas até sexta-feira (13/10). Nesta mesma data, vamos distribuir as novas issues sobre léxicos e avaliação suplementar.
 
 ## Link da Gravação
 
-[Interação Humano Computador - Reunião 09](xxxx)
+[Requisitos de Software - Reunião 9](xxxx)
 
 ## Histórico de Versão
 
