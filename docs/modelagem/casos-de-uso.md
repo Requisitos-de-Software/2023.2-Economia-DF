@@ -141,6 +141,95 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </details>
 
+
+<details><summary> <h3> UC05. Imprimir Danfe </h3> </summary>
+
+  <div align="center">
+  
+  | UC04 |  Consultar notas fiscais |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
+<details><summary> <h3> UC06. Visualizar NFC-e detalhada </h3> </summary>
+
+  <div align="center">
+  
+  | UC06 |  Consultar notas fiscais |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
+<details><summary> <h3> UC07. Consultar dividas atividade </h3> </summary>
+
+  <div align="center">
+  
+  | UC04 |  Consultar notas fiscais |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitaao/observação.md) |
+
+  </div>
+  
+<details><summary> <h3> UC08. Emitir 2ª via </h3> </summary>
+
+  <div align="center">
+  
+  | UC04 |  Consultar notas fiscais |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+  
+<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+
+</details>
+
 <details><summary> <h3> UC10. Consultar imóvel  </h3> </summary>
 
   <div align="center">
