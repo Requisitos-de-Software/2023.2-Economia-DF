@@ -146,17 +146,19 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC04 |  Consultar notas fiscais |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
-  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
-  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
-  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+| UC0X | "EXEMPLO" |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Pré-condições** | O usuário xxxxxxxx |
+| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós-condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
   </div>
   
@@ -168,17 +170,19 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC06 |  Consultar notas fiscais |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
-  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
-  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
-  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+| UC0X | "EXEMPLO" |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Pré-condições** | O usuário xxxxxxxx |
+| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós-condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
   </div>
   
@@ -190,17 +194,19 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC06 |  Consultar notas fiscais |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
-  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
-  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
-  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+| UC0X | "EXEMPLO" |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Pré-condições** | O usuário xxxxxxxx |
+| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós-condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+
+**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
   </div>
   
@@ -212,18 +218,19 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC06 |  Consultar notas fiscais |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
-  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
-  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
-  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+| UC0X | "EXEMPLO" |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta/Média/Baixa |
+| **Pré-condições** | O usuário xxxxxxxx |
+| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
+| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
+| **Pós-condições** | O usuário tem acesso a XXXXXX |
+| **Data da criação** | dd/mm/aaaa |
+| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
 
+**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
   </div>
   
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
@@ -409,3 +416,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.6`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 1,2,3 e 4|[Gabriel Zaranza](https://github.com/GZaranza)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.7`|10/10/2023|revisão tabela especificação dos casos de uso dos cenários 13,14,15,16|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.8`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 10,11,12|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.9`|11/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
