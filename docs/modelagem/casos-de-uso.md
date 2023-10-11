@@ -141,6 +141,73 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </details>
 
+<details><summary> <h3> UC10. Consultar imóvel  </h3> </summary>
+
+  <div align="center">
+  
+  | UC10 |  Consultar imóvel no aplicativo Economia DF |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Média |
+  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona um imóvel cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao imóvel <li> Fim do caso de uso. |
+  | **Fluxos alternativos** |   |
+  | **Fluxos de exceção** | <b>FE01: Imóvel não cadastrado </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário tenta selecionar um imóvel não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o imóvel não está cadastrado. Aciona o caso de uso UC11 para cadastrar um novo imóvel. <li> Fim do caso de uso </ul> </ol> |
+  | **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao imóvel selecionado. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | - |
+
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+
+</details>
+
+<details><summary> <h3> UC11. Cadastro imóvel.  </h3> </summary>
+
+  <div align="center">
+  
+  | UC05 |  Cadastrar imóvel no aplicativo Economia DF |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Baixa |
+  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel <li> O usuário confirma o cadastro do imóvel <li> Fim do caso de uso. |
+  | **Fluxos alternativos** |   |
+  | **Fluxos de exceção** | <b>FE01: Dados do imóvel incompletos ou inválidos </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel de forma incompleta ou com dados inválidos <li> O aplicativo exibe uma mensagem de erro informando que os dados estão incompletos ou inválidos. Aciona o caso de uso UC02 para corrigir os dados. <li> Fim do caso de uso </ul> </ol> |
+  | **Pós-condições** |POS01. O imóvel é cadastrado e aparece na lista de imóveis do usuário. |
+  | **Data da criação** | 11/10/2023 |
+  | **Rastreabilidade** | - |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+
+</details>
+
+<details><summary> <h3> UC12. Consultar veículo  </h3> </summary>
+
+  <div align="center">
+  
+  | UC06 |  Consultar veículo no aplicativo Economia DF |
+  | -: | :- |
+  | **Atores** | Usuário |
+  | **Frequência de uso** | Média |
+  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário seleciona um veículo cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao veículo <li> Fim do caso de uso. |
+  | **Fluxos alternativos** |   |
+  | **Fluxos de exceção** | <b>FE01: Veículo não cadastrado </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário tenta selecionar um veículo não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o veículo não está cadastrado. Aciona o caso de uso UC13 para cadastrar um novo veículo. <li> Fim do caso de uso </ul> </ol> |
+  | **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao veículo selecionado. |
+  | **Data da criação** | 10/10/2023 |
+  | **Rastreabilidade** | - |
+
+  </div>
+  
+<font size="2"><p align="center"><b> Tabela 12: Especificação do caso de uso UC12. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+
+</details>
+
 <details><summary> <h3> UC13. Cadastrar veículo </h3> </summary>
 
 
@@ -252,3 +319,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.5`|10/10/2023|Adicionando a tabela UC16 da especificação dos casos de uso|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.6`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 1,2,3 e 4|[Gabriel Zaranza](https://github.com/GZaranza)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.7`|10/10/2023|revisão tabela especificação dos casos de uso dos cenários 13,14,15,16|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.8`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 10,11,12|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
