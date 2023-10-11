@@ -90,6 +90,21 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
 **Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+</div>
+
+<div align="center">
+  
+| Elemento    | Descrição                                                                            |
+|-------------|------------------------------------------------------------------------------------- |
+| Objetivo    |  O objetivo é permitir que os usuários consultem outros tributos no aplicativo Economia DF, proporcionando uma visão clara de suas obrigações fiscais.     |
+| Contexto    | Local: em casa <br> Tempo: Aproximadamente 40 segundos  <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ser usuário do programa Nota Legal e ter uma conta no aplicativo |
+| Recursos    | Internet<br>Sistema IOS<br>Dispositivo móvel com o aplicativo Economia DF instalado           | 
+| Atores      | Usuário do aplicativo Economia DF                                                      |
+| Episódios   | O *usuário* O usuário abre o aplicativo Economia DF em seu dispositivo móvel.l<br> O usuário faz login em sua conta.<br>O *usuário* navega até a seção “Outros Tributos”.<br><br>O *usuário* seleciona o tipo de tributo que deseja consultar.<br>O aplicativo exibe as informações detalhadas sobre o tributo selecionado. |
+| Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
+| Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android 
+
+**Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 
 </div>
 
@@ -109,3 +124,4 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 |1.2|11/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.3|11/10/2023|Adição do cenário sobre "fale conosco" | [Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.4|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|1.5|11/10/2023|Adição do cenário sobre "Consultar outros Tributos" | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
