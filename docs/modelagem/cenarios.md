@@ -74,6 +74,26 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 
 </div>
 
+### Consultar notas fiscais
+Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 5.
+
+<div align="center">
+
+| Elemento    | Descrição                                                                            |
+|-------------|------------------------------------------------------------------------------------- |
+| Objetivo    | Consultar notas fiscais através do aplicativo Economia DF      |
+| Contexto    | Local: em casa <br> Tempo: Aproximadamente 1 minuto  <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ser usuário do programa Nota Legal |
+| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF           | 
+| Atores      | Usuário brasileiro com CPF ativo                                                     |
+| Episódios   | O *usuário* seleciona a opção "Notas Fiscais" na tela inicial<br>O aplicativo redireciona o *usuário* para a página "Notas Fiscais"<br>O *usuário* pode visualizar, exportar e imprimir <br>  |
+| Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
+| Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
+
+**Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
+</div>
+
+
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -88,3 +108,4 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 |1.1|09/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |1.2|11/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.3|11/10/2023|Adição do cenário sobre "fale conosco" | [Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
+|1.4|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
