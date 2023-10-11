@@ -38,9 +38,10 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 **Tabela 2:** Cenário referente ao objetivo "Consultar Veículos". Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 </div>
 
-<center>
+<div align="center">
 
 ### Consultar imóveis
+O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 3.
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
 | Objetivo    | Consultar imóveis através do aplicativo Economia DF                          |
@@ -53,7 +54,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 
 **Tabela 3:** Cenário referente ao objetivo "Consultar Imóveis". Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
 
-</center>
+</div>
 
 ### Fale conosco
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 4.
@@ -63,12 +64,12 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
 | Objetivo    | Entrar em contato com a Secretaria de Economia do DF, responsável pelo aplicativo    |
-| Contexto    | Local: em casa <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ter aplicativo de e-mail instalado |
-| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF <br> Aplicativo de email           | 
+| Contexto    | Local: em casa <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado |
+| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF <br> Aplicativo de correio eletrônico           | 
 | Atores      | Usuário brasileiro com CPF ativo                                                     |
-| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial<br>O aplicativo redireciona o *usuário* para o aplicativo de email padrão instalado no celular<br>O *usuário* pode escrever o e-mail com dúvidas, sugestões ou reclamações e enviar <br>  |
-| Restrição   | Aplicativo de e-mail deve estar instalado no celular                                 |
-| Exceção     | Erro de conexão com a internet<br> Não há aplicativo de e-mail instalado no celular <br> Celular com sistema Android 
+| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial<br>O aplicativo redireciona o *usuário* para o aplicativo de correio eletrônico padrão instalado no celular, abrindo uma nova mensagem já com alguns campos preeenchidos<br>O *usuário* pode escrever o correio eletrônico com dúvidas, sugestões ou reclamações e enviar <br>  |
+| Restrição   | -                                |
+| Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico <br> Celular com sistema Android 
 
 **Tabela 4:** Cenário referente ao objetivo "Fale conosco". Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 
