@@ -82,7 +82,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
 | Objetivo    | Consultar notas fiscais através do aplicativo Economia DF      |
-| Contexto    | Local: em casa <br> Tempo: Aproximadamente 1 minuto  <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ser usuário do programa Nota Legal |
+| Contexto    | Local: em casa <br> Tempo: Aproximadamente 30 segundos  <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ser usuário do programa Nota Legal |
 | Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF           | 
 | Atores      | Usuário brasileiro com CPF ativo                                                     |
 | Episódios   | O *usuário* seleciona a opção "Notas Fiscais" na tela inicial<br>O aplicativo redireciona o *usuário* para a página "Notas Fiscais"<br>O *usuário* pode visualizar, exportar e imprimir <br>  |
