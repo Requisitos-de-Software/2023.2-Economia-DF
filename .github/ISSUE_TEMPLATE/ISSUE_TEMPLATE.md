@@ -1,3 +1,12 @@
+---
+name: issue_template
+about: Template para issues comuns
+title: 'Documentação - '
+labels: documentation
+assignees: ''
+
+---
+
 # Título
 
 ## Descrição
