@@ -93,7 +93,6 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 **Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 </div>
 
-
 ### Consultar outros Tributos
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
 <div align="center">
@@ -106,12 +105,29 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Atores      | Usuário do aplicativo Economia DF                                                      |
 | Episódios   | O *usuário* O usuário abre o aplicativo Economia DF em seu dispositivo móvel.l<br> O usuário faz login em sua conta.<br>O *usuário* navega até a seção “Outros Tributos”.<br><br>O *usuário* seleciona o tipo de tributo que deseja consultar.<br>O aplicativo exibe as informações detalhadas sobre o tributo selecionado. |
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
-| Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android 
+| Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
 **Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 
 </div>
 
+### Consultar Parcelamentos Administrativos
+Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 7.
+<div align="center">
+
+| Elemento    | Descrição                                                                            |
+|-------------|------------------------------------------------------------------------------------- |
+| Objetivo    |Obter informações sobre acordos de pagamento de dívidas ou obrigações fiscais com órgãos governamentais ou outras entidades.|
+| Contexto    |Local: Residência ou algum lugar confortável para mexer no aplicativo.</br>Tempo: Aproximadamente 30 segundos</br>Pré-condições: Ser um usuário brasileiro com CPF ativo, possuir um dispositivo com o sistema iOS, ter o aplicativo Economia DF instalado em seu dispositivo e</br>ter parcelamentos ativos.|
+| Recursos    |Internet</br>Sistema IOS</br>Aplicativo Economia DF| 
+| Atores      |Usuário brasileiro com CPF ativo|
+| Episódios   |O usuário seleciona a opção ‘Parcelamentos administrativos’ na tela inicial</br>O aplicativo exibe uma tela com uma lista de parcelamentos ativos</br>O usuário seleciona um parcelamento ativo cadastrado para obter mais informações|
+| Restrição   |As informações só estarão disponíveis para consulta se o usuário tiver algum parcelamento ativo.|
+| Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
+
+**Tabela 7:** Cenário referente ao objetivo "Consultar Parcelamentos Administrativos". Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+
+</div>
 
 ## Bibliografia
 
@@ -129,3 +145,4 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 |1.3|11/10/2023|Adição do cenário sobre "fale conosco" | [Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
 |1.4|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |1.5|11/10/2023|Adição do cenário sobre "Consultar outros Tributos" | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|1.6|12/10/2023|Adição do cenário sobre "Consultar Parcelamentos Administrativos" | [Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
