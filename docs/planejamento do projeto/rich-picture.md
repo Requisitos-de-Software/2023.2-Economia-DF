@@ -10,7 +10,7 @@ ecisões informadas para seu sucesso.
 A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto o Rich Picture quanto a sua legenda, ambos visíveis na Figura 1.
 
 ### Figura 1: Rich Picture versão 2
-![rich picture](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Rich_picture_Economia-DF.png?raw=true)
+![rich picture](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/RichPicture.drawio.png)
 <font size="3"><p style="text-align: center">Fonte: [Lucas Víctor](https://github.com/Lucas13032003).</p></font>
 
 ## Referência
