@@ -1,6 +1,6 @@
 # Grupo de foco
 
-## Introducão
+## Introdução
 A metodologia do grupo de foco é uma técnica de pesquisa qualitativa que reúne participantes para discutir e expressar opiniões sobre produtos ou serviços. É amplamente utilizada no marketing e pode ser aplicada em diversas estratégias, incluindo o desenvolvimento de novos produtos, rebranding e táticas de Marketing Digital. No contexto do Nota Legal e do Economia DF, tivemos o intuito de conhecer melhor o usuário do site para elaborar um perfil genérico que é chamado de perfil do usuário.
 
 ## Metodologia
