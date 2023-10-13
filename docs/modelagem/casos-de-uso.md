@@ -148,39 +148,39 @@ A figura 1 demonstra o diagrama de casos de uso.
   
 | UC05 | Imprimir Danfe |
 | -: | :- |
-| **Atores** | Usuário |
+| **Atores** | Usuário |https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento
 | **Frequência de uso** | Média |
 | **Pré-condições** |PRE01. Dispor de uma conexão à internet; <br>PRE02. Possuir o aplicativo. |
-| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Imprimir Danfe". <li> O aplicativo abre o Danfe para visualização. </ol> |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário clica na opção "Notas Fiscais".<li> Seleciona uma nota fiscal. </ol>  <li> O aplicativo abre a nota fiscal, onde é possível ter Danfe para impressão. </ol> |
 | **Fluxos alternativos** | <b>Fluxo 1: Impressão Bem-Sucedida</b> <ol> <li> O usuário seleciona a opção de impressão. <li> O sistema verifica a conectividade com a impressora. <li> O Danfe é impresso com sucesso. <ul> <li> O usuário recebe o Danfe impresso. </ul> </ol> <b> Fluxo 2: Cancelamento da Impressão</b> <ol> <li> O usuário decide cancelar a impressão. <li> O processo de impressão é interrompido. </ol> <b> Fluxo 3: Erro na Impressão</b> <ol> <li> O usuário tenta imprimir o Danfe. <li> O sistema detecta um problema na impressão. <li> O usuário recebe uma mensagem de erro. </ol> |
-| **Fluxos de exceção** | <b>Fluxo 1: Impressão Bem-Sucedida</b> <ol> <li> O usuário seleciona a opção de impressão. <li> O sistema verifica a conectividade com a impressora. <li> O Danfe é impresso com sucesso. <ul> <li> O usuário recebe o Danfe impresso. </ul> </ol> <b> Fluxo 2: Cancelamento da Impressão</b> <ol> <li> O usuário decide cancelar a impressão. <li> O processo de impressão é interrompido. </ol> <b> Fluxo 3: Erro na Impressão</b> <ol> <li> O usuário tenta imprimir o Danfe. <li> O sistema detecta um problema na impressão. <li> O usuário recebe uma mensagem de erro. </ol> |
+| **Fluxos de exceção** |<b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol>  |
 | **Pós-condições** | O usuário tem acesso ao Danfe e a opção de imprimir o documento. |
 | **Data da criação** | 13/10/2023 |
-| **Rastreabilidade** | -|
+| **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 5: Especificação do caso de uso UC5X. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+<font size="2"><p align="center"><b> Tabela 5: Especificação do caso de uso UC05. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </details>
 
 <details><summary> <h3> UC06. Visualizar NFC-e detalhada </h3> </summary>
 
   <div align="center">
-  
+
 | UC06 | Visualizar NFC-e detalhada |
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Média |
-| **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
-| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "NFC-e detalhada". <li> O aplicativo exibe os detalhes da NFC-e selecionada. </ol> |
-| **Fluxos alternativos** | - |
-| **Fluxos de exceção** | - |
+| **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Possuir o aplicativo. |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário clica na opção "Notas Fiscais". <li> Seleciona uma nota fiscal. <li> O aplicativo abre a nota fiscal selecionada, onde é possível visualizar. </ol> |
+| **Fluxos alternativos** | <b>Fluxo 2: Sem Notas Fiscais Cadastradas</b> <ol> <li> Ao acessar a seção "Notas Fiscais", o usuário percebe que não possui nenhuma nota fiscal cadastrada em sua conta. <li> O aplicativo exibe uma mensagem informando que não há notas fiscais disponíveis para visualização. <ul> <li> O usuário pode optar por retornar à tela inicial do aplicativo ou realizar o cadastro de uma nova nota fiscal. <li> Se o usuário optar por retornar à tela inicial, o processo continua a partir desse ponto. <li> Se o usuário optar por cadastrar uma nova nota fiscal, o processo de cadastro é iniciado. </ul> </ol> |
+| **Fluxos de exceção** | <b>Fluxo 1: Nota Fiscal Indisponível</b> <ol> <li> Após escolher uma nota fiscal, o usuário pode receber uma mensagem informando que os detalhes da NFC-e não estão disponíveis no momento. <li> O usuário pode optar por voltar à lista de notas fiscais ou tentar novamente mais tarde. <ul> <li> Se o usuário voltar à lista de notas fiscais, o processo continua a partir desse ponto. <li> Se o usuário optar por tentar novamente, o processo retorna ao ponto de seleção da nota fiscal. </ul> </ol> |
 | **Pós-condições** | O usuário pode visualizar os detalhes da NFC-e. |
 | **Data da última atualização** | 13/10/2023 |
-| **Rastreabilidade** | - |
-
+| **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
+ |
 
 
   </div>
@@ -193,18 +193,26 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-| UC07 | Consultar dívida Ativa |
+| UC07 | Consultar Dívida Ativa |
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Média |
 | **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
-| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Consultar dívida Ativa". <li> O aplicativo exibe os detalhes da dívida ativa do usuário. </ol> |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Consultar Dívida Ativa". <li> O aplicativo exibe os detalhes da dívida ativa do usuário. </ol> |
 | **Fluxos alternativos** | - |
-| **Fluxos de exceção** | - |
-| **Pós-condições** | O usuário pode visualizar os detalhes da dívida ativa. |
+| **Fluxos de exceção** | 
+  - <b>Fluxo de Exceção 1: Falha na Autenticação</b> 
+    <ol> 
+      <li> Após escolher a opção "Consultar Dívida Ativa", o usuário pode receber uma mensagem informando que houve uma falha na autenticação. 
+      <li> O aplicativo oferece a opção de tentar novamente ou contatar o suporte. 
+      <ul> 
+        <li> Se o usuário optar por tentar novamente, o processo retorna ao ponto de autenticação. 
+        <li> Se o usuário optar por contatar o suporte, o processo é encaminhado para o suporte técnico. 
+      </ul> 
+    </ol>
+| **Pós-condições** | O usuário pode visualizar os detalhes da dívida ativa, se aplicável. |
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | - |
-
 
 
   </div>
