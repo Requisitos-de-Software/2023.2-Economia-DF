@@ -199,20 +199,11 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Frequência de uso** | Média |
 | **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
 | **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Consultar Dívida Ativa". <li> O aplicativo exibe os detalhes da dívida ativa do usuário. </ol> |
-| **Fluxos alternativos** | - |
-| **Fluxos de exceção** | 
-  - <b>Fluxo de Exceção 1: Falha na Autenticação</b> 
-    <ol> 
-      <li> Após escolher a opção "Consultar Dívida Ativa", o usuário pode receber uma mensagem informando que houve uma falha na autenticação. 
-      <li> O aplicativo oferece a opção de tentar novamente ou contatar o suporte. 
-      <ul> 
-        <li> Se o usuário optar por tentar novamente, o processo retorna ao ponto de autenticação. 
-        <li> Se o usuário optar por contatar o suporte, o processo é encaminhado para o suporte técnico. 
-      </ul> 
-    </ol>
+| **Fluxos alternativos** | <b>Fluxo Alternativo: Não Possuir Dívida Ativa</b> <ol> <li> Após escolher a opção "Consultar Dívida Ativa", o usuário é redirecionado para a páginna de dividas ativas onde recebe uma mensagem informando que não possui dívida ativa registrada em sua conta. <li> O aplicativo oferece a opção de retornar à tela inicial. <ul> <li> Se o usuário optar por retornar à tela inicial, o processo continua a partir desse ponto.</ol> |
+| **Fluxos de exceção** |<ol> <li> Fluxo de Exceção 1: Falha na Autenticação <li> Após escolher a opção "Consultar Dívida Ativa", o usuário pode receber uma mensagem informando que houve uma falha na autenticação.<li> O aplicativo oferece a opção de tentar novamente ou contatar o suporte.<li> Se o usuário optar por tentar novamente, o processo retorna ao ponto de autenticação <li> Se o usuário optar por contatar o suporte, o processo é encaminhado para o suporte técnico.    <ol>|
 | **Pós-condições** | O usuário pode visualizar os detalhes da dívida ativa, se aplicável. |
 | **Data da criação** | 13/10/2023 |
-| **Rastreabilidade** | - |
+| **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
 
   </div>
