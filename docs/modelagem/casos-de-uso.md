@@ -146,23 +146,22 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-| UC0X | "EXEMPLO" |
+| UC05 | Imprimir Danfe |
 | -: | :- |
 | **Atores** | Usuário |
-| **Frequência de uso** | Alta/Média/Baixa |
-| **Pré-condições** | O usuário xxxxxxxx |
-| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
-| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
-| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
-| **Pós-condições** | O usuário tem acesso a XXXXXX |
-| **Data da criação** | dd/mm/aaaa |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+| **Frequência de uso** | Média |
+| **Pré-condições** |PRE01. Dispor de uma conexão à internet; <br>PRE02. Possuir o aplicativo. |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Imprimir Danfe". <li> O aplicativo abre o Danfe para visualização. </ol> |
+| **Fluxos alternativos** | <b>Fluxo 1: Impressão Bem-Sucedida</b> <ol> <li> O usuário seleciona a opção de impressão. <li> O sistema verifica a conectividade com a impressora. <li> O Danfe é impresso com sucesso. <ul> <li> O usuário recebe o Danfe impresso. </ul> </ol> <b> Fluxo 2: Cancelamento da Impressão</b> <ol> <li> O usuário decide cancelar a impressão. <li> O processo de impressão é interrompido. </ol> <b> Fluxo 3: Erro na Impressão</b> <ol> <li> O usuário tenta imprimir o Danfe. <li> O sistema detecta um problema na impressão. <li> O usuário recebe uma mensagem de erro. </ol> |
+| **Fluxos de exceção** | <b>Fluxo 1: Impressão Bem-Sucedida</b> <ol> <li> O usuário seleciona a opção de impressão. <li> O sistema verifica a conectividade com a impressora. <li> O Danfe é impresso com sucesso. <ul> <li> O usuário recebe o Danfe impresso. </ul> </ol> <b> Fluxo 2: Cancelamento da Impressão</b> <ol> <li> O usuário decide cancelar a impressão. <li> O processo de impressão é interrompido. </ol> <b> Fluxo 3: Erro na Impressão</b> <ol> <li> O usuário tenta imprimir o Danfe. <li> O sistema detecta um problema na impressão. <li> O usuário recebe uma mensagem de erro. </ol> |
+| **Pós-condições** | O usuário tem acesso ao Danfe e a opção de imprimir o documento. |
+| **Data da criação** | 13/10/2023 |
+| **Rastreabilidade** | -|
 
-**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 5: Especificação do caso de uso UC5X. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </details>
 
@@ -170,23 +169,23 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-| UC0X | "EXEMPLO" |
+| UC06 | Visualizar NFC-e detalhada |
 | -: | :- |
 | **Atores** | Usuário |
-| **Frequência de uso** | Alta/Média/Baixa |
-| **Pré-condições** | O usuário xxxxxxxx |
-| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
-| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
-| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
-| **Pós-condições** | O usuário tem acesso a XXXXXX |
-| **Data da criação** | dd/mm/aaaa |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+| **Frequência de uso** | Média |
+| **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "NFC-e detalhada". <li> O aplicativo exibe os detalhes da NFC-e selecionada. </ol> |
+| **Fluxos alternativos** | - |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | O usuário pode visualizar os detalhes da NFC-e. |
+| **Data da última atualização** | 13/10/2023 |
+| **Rastreabilidade** | - |
 
-**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 6: Especificação do caso de uso UC06. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </details>
 
@@ -194,23 +193,24 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-| UC0X | "EXEMPLO" |
+| UC07 | Consultar dívida Ativa |
 | -: | :- |
 | **Atores** | Usuário |
-| **Frequência de uso** | Alta/Média/Baixa |
-| **Pré-condições** | O usuário xxxxxxxx |
-| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
-| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
-| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
-| **Pós-condições** | O usuário tem acesso a XXXXXX |
-| **Data da criação** | dd/mm/aaaa |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+| **Frequência de uso** | Média |
+| **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Consultar dívida Ativa". <li> O aplicativo exibe os detalhes da dívida ativa do usuário. </ol> |
+| **Fluxos alternativos** | - |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | O usuário pode visualizar os detalhes da dívida ativa. |
+| **Data da criação** | 13/10/2023 |
+| **Rastreabilidade** | - |
 
-**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 7: Especificação do caso de uso UC07. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+
 
 </details>
   
@@ -218,22 +218,21 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-| UC0X | "EXEMPLO" |
+| UC08 | Emitir 2ª via |
 | -: | :- |
 | **Atores** | Usuário |
-| **Frequência de uso** | Alta/Média/Baixa |
-| **Pré-condições** | O usuário xxxxxxxx |
-| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
-| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
-| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
-| **Pós-condições** | O usuário tem acesso a XXXXXX |
-| **Data da criação** | dd/mm/aaaa |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
+| **Frequência de uso** | Média |
+| **Pré-condições** | O usuário precisa estar autenticado no aplicativo. |
+| **Fluxo básico** | <ol> <li> O usuário acessa o aplicativo. <li> O usuário escolhe a opção "Emitir 2ª via". <li> O aplicativo permite que o usuário selecione o documento para o qual deseja emitir a 2ª via. <li> O usuário seleciona o documento desejado e solicita a emissão da 2ª via. <li> O aplicativo gera a 2ª via do documento escolhido. </ol> |
+| **Fluxos alternativos** | - |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | O usuário obtém a 2ª via do documento escolhido. |
+| **Data da criação** | 13/10/2023 |
+| **Rastreabilidade** | - |
 
-**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
   </div>
   
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 8: Especificação do caso de uso UC08. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
 </details>
 
@@ -417,3 +416,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.7`|10/10/2023|revisão tabela especificação dos casos de uso dos cenários 13,14,15,16|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.8`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 10,11,12|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.9`|11/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`2.0`|13/10/2023|Atualização das tabelas de especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
