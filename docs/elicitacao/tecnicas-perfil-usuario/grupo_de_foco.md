@@ -1,9 +1,9 @@
 # Grupo de foco
 
-## Introducão - Grupo de Foco
+## Introducão
 A metodologia do grupo de foco é uma técnica de pesquisa qualitativa que reúne participantes para discutir e expressar opiniões sobre produtos ou serviços. É amplamente utilizada no marketing e pode ser aplicada em diversas estratégias, incluindo o desenvolvimento de novos produtos, rebranding e táticas de Marketing Digital. No contexto do Nota Legal e do Economia DF, tivemos o intuito de conhecer melhor o usuário do site para elaborar um perfil genérico que é chamado de perfil do usuário.
 
-## Aplicando a Metodologia do Grupo de Foco
+## Metodologia
 A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma reunião foi agendada via Teams na quarta-feira, 27/09/2023, das 20:00 às 21:30. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) recrutaram os usuários, enquanto [Lucas Ribeiro de Souza](https://github.com/lucassouzs) preparou o roteiro da entrevista. [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) também atuou como moderador da reunião. A documentação foi realizada por [Gabriel Pessoa Zaranza](https://github.com/GZaranza), e o documento final do grupo de foco foi elaborado por [Gabriel da Silva Rosa](https://github.com/gabrielrosa09). Os usuários do grupo de foco incluíram [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003), [Zenilda Pedrosa Vieira](https://github.com/zenildavieira), Alecsandra Ferreira Araújo Souza e Ana Cristina Ferreira de Araújo. Tudo isso está contido na [Tabela 1 - Participantes do Grupo de Foco](#GrupoDeFoco).
 
 [//]: #(GrupoDeFoco)
@@ -24,7 +24,7 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 
 _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 
-## Roteiro do Grupo de Foco
+## Roteiro
 
 **Requisitos Funcionais:**
 - Quais são as funcionalidades essenciais que o site "Nota Legal" deve possuir? (Ex: login de usuários, histórico de compras, busca por notas fiscais)
@@ -41,7 +41,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 **Interface do Usuário:**
 - Como deve ser a interface do site "Nota Legal" em termos de design, usabilidade e experiência do usuário?
 
-## Resultado do Grupo de Foco
+## Resultado
 
 ### Participante 1: Alecsandra Ferreira Araujo Souza
 - **Localização:** Ceilândia, DF
@@ -90,7 +90,7 @@ _Fonte: [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)._
 - **Utilização:** Exclusivamente no computador.
 - **Sugestões de melhoria:** Concorda com as sugestões dos outros participantes. Além disso, sugere que seja informado o percentual retornado da nota fiscal ao cliente, para compreender melhor o tamanho do retorno.
 
-## Conclusões:
+## Conclusão
 - Os participantes valorizam os descontos nos impostos proporcionados pelo programa Nota Legal, bem como a opção de recebimento via PIX.
 - Há uma necessidade de maior clareza nas informações sobre os benefícios, especialmente no que diz respeito ao ressarcimento em áreas da saúde.
 - A clareza na divulgação dos sorteios é outra área de melhoria sugerida, de modo a garantir que os beneficiários estejam cientes dos resultados.
