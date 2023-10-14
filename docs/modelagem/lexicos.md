@@ -1,0 +1,62 @@
+# Léxicos
+## Introdução
+Léxicos, no contexto de requisitos de software, referem-se a uma lista ou conjunto de termos, palavras ou frases que são relevantes e específicos para o domínio de um sistema ou aplicativo em desenvolvimento. Eles ajudam a definir a linguagem utilizada para descrever os requisitos e funcionalidades do software de forma precisa e consistente.
+
+## Metodologia
+Os léxicos do sistema Economia DF foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Nome do Léxico | Verbo/Objeto/Estado | Símbolos | Descrição do efeito | Sinônimo(s) |
+<div align="center">
+<p>Tabela 1 - Modelo dos léxicos. Fonte: Izabella Alves, 2023.</p>
+</div>
+
+## Léxicos
+### Verbos
+Os léxicos do tipo verbo representam ações ou operações que os usuários podem realizar dentro do aplicativo "Economia DF". Essas ações descrevem as funcionalidades disponíveis para os usuários, permitindo interações específicas e operações no aplicativo. Nas tabelas
+de 2 até Y, é possível verificar os principais léxicos classificados como Verbo que foram identificados no Economia DF.
+
+#### <a id="consultar">Consultar</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Consultar | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a>. Acontece quando o <a href="#usuario">usuário</a> entra no aplicativo para verificar suas informações sobre <a href="#notasfiscais">notas fiscais</a>, <a href="#dividaativa">dívidas ativas</a>, entre outros. | Em alguns casos, o usuário precisa <a href="#cadastrar">cadastrar</a> algo, caso não consiga <a href="#consultar">consultar</a> de imediato. A partir da consulta, é possível <a href="#selecionar">selecionar</a> e <a href="#emitir">emitir</a> o que se estava procurando.| Visualizar, informar-se |
+
+ <div align="center">
+    <p> Tabela 2: Léxico do verbo Consultar. Fonte: Izabella Alves, 2023.</p>
+</div>
+
+### Objetos
+Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo "Economia DF". 
+Nas tabelas de X até Y, é possível verificar os principais léxicos classificados como Objetos que foram identificados no Economia DF.
+
+#### <a id="notafiscal">Nota Fiscal</a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Nota Fiscal | Objeto | É um documento que registra uma transação comercial ou prestação de serviço. É emitida pelas normas da <a href="#seed">Secretária de Economia do DF</a> quando o <a href="#usuário">usuário</a> realiza uma compra.| É possível <a href="#consultar">consultar</a> e <a href="#emitir">emitir</a> notas fiscais. Além disso, através delas o <a href="#usuario">usuário</a> pode <a href="#realizarindicacao">realizar indicações</a>.| Documento comprovativo de compra |
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Nota Fiscal. Fonte: Izabella Alves, 2023.</p>
+</div>
+
+### Estados
+
+Os léxicos do tipo estado referem-se às condições, situações ou configurações específicas que podem existir dentro do aplicativo "Economia DF".
+Nas tabelas de X até Y, é possível verificar os principais léxicos classificados como Estados que foram identificados no Economia DF.
+
+#### <a id="dividaativa">Dívida ativa</a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Dívida ativa | Estado | Débito do <a href="#usuario">usuário</a> perante a <a href="#seed">Secretária de Economia do DF</a> encontra-se ativa. Ocorre quando um valor não é pago na data de vencimento, portanto é classificado como <a href="#dividaativa">dívida ativa</a>.|É possível <a href="#consultar">consultar</a> e <a href="#emitir">emitir</a> as <a href="#dividaativa">dívidas ativas</a> do <a href="#usuario">usuário</a>. Quando o <a href="#usuario">usuário</a> paga sua dívida, ela sai da situação atual.| - |
+<div align="center">
+<p>Tabela X - Léxico do estado Dívida Ativa. Fonte: Izabella Alves, 2023.</p>
+</div>
+
+## Bibliografia
+> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
+>
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|14/10/2023|Criação do documento e adição dos lexicos consultar, divida ativa e nota fiscal|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
