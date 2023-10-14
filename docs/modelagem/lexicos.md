@@ -24,7 +24,17 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
 | Consultar | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a>. Acontece quando o <a href="#usuario">usuário</a> entra no aplicativo para verificar suas informações sobre <a href="#notasfiscais">notas fiscais</a>, <a href="#dividaativa">dívidas ativas</a>, entre outros. | Em alguns casos, o usuário precisa <a href="#cadastrar">cadastrar</a> algo, caso não consiga <a href="#consultar">consultar</a> de imediato. A partir da consulta, é possível <a href="#selecionar">selecionar</a> e <a href="#emitir">emitir</a> o que se estava procurando.| Visualizar, informar-se |
 
  <div align="center">
-    <p> Tabela 2: Léxico do verbo Consultar. Fonte: Izabella Alves, 2023.</p>
+    <p> Tabela 2: Léxico do verbo Consultar. Fonte: Izabella Alves, 2023.</p> 
+</div>
+
+#### <a id="emitir">Emitir</a> 
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Emitir | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a>. Acontece quando o <a href="#usuario">usuário</a> entra no aplicativo para  | Em alguns casos, o usuário precisa <a href="#cadastrar">cadastrar</a> algo, caso não consiga <a href="#consultar">consultar</a> de imediato. A partir da consulta, é possível <a href="#selecionar">selecionar</a> e <a href="#emitir">emitir</a> o que se estava procurando.| |
+
+ <div align="center">
+    <p> Tabela x: Léxico do verbo Consultar. Fonte: [Gabriel Zaranza](https://github.com/GZaranza) , 2023.</p>
 </div>
 
 ### Objetos
@@ -38,6 +48,15 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
  <div align="center">
     <p> Tabela X: Léxico do objeto Nota Fiscal. Fonte: Izabella Alves, 2023.</p>
 </div>
+
+#### <a id="veiculo">Veículo </a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+|Veículo | Objeto | | | |
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Nota Fiscal. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
+
 
 ### Estados
 
