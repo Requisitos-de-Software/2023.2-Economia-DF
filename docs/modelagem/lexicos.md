@@ -52,7 +52,7 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 #### <a id="veiculo">Veículo </a>
 |     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
 | :------------: | :---------------: | :------: | :-----------------: | :---------: |
-|Veículo | Objeto | | | |
+|Veículo | Objeto | É qualquer meio usado para transportar ou conduzir pessoas de um lugar para outro. | O <a href="#usuario">usuário</a> pode <a href="#cadastrar">cadastrar</a>, <a href="#consultar">consultar</a> e <a href="#emitir">emitir</a> <a href="# boletobancario">boletos bancários</a> de <a href="#veiculo">veículos</a>.| Carro, automóvel, tranporte.|
  <div align="center">
     <p> Tabela X: Léxico do objeto Veículo. Fonte: Gabriel Zaranza, 2023.</p>
 </div>
