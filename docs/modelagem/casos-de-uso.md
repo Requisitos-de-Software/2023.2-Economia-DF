@@ -3,7 +3,7 @@
 O Caso de uso é ferramenta que se mostra útil na representação gráfica dos requisitos funcionais. Este diagrama oferece uma maneira simples de se comunicar com os stakeholders em relação às funcionalidades e aos serviços que serão disponibilizados aos usuários. Pode ser empregado desde as fases iniciais da coleta de requisitos, servindo como um recurso auxiliar para entrevistas, reuniões ou workshops. Além disso, pode ser uma forma de documentação gráfica do escopo funcional para gerentes de projetos [1].
 
 ## Metodologia
-A construção dos casos de uso do aplicativo Economia DF foi feita através do uso da persona [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-primária-2-maria-administradora) para entender melhor as tarefas que o usuário realiza no sistema. Primeiro, foi definido quem são os atores do sistema, usuário do Economia DF e a Secretária de Economia do Distrito Federal, e logo em seguida foi elencado os casos de uso seguindo a ordem com que acontecem durante a realização das tarefas dentro do aplicativo. Após a definição de todos os casos de uso, criou-se o diagrama com os elementos gráficos padrões de um Caso de Uso (Tabela 1) e seus respectivos relacionamentos seguindo o guia da plataforma Lucid Chart [2].
+A construção dos casos de uso do aplicativo Economia DF foi feita através do uso da persona [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-primária-2-maria-administradora) para entender melhor as tarefas que o usuário realiza no sistema. Primeiro, foi definido quem são os atores do sistema, usuário do Economia DF e a Secretária de Economia do Distrito Federal, e logo em seguida foi elencado os casos de uso seguindo a ordem com que acontecem durante a realização das tarefas dentro do aplicativo. Após a definição de todos os casos de uso, criou-se o diagrama na plataforma [Draw.io](https://app.diagrams.net) com os elementos gráficos padrões de um Caso de Uso (Tabela 1) e seus respectivos relacionamentos seguindo o guia da plataforma Lucid Chart [2].
 
 
 <div align="center">
@@ -15,6 +15,7 @@ A construção dos casos de uso do aplicativo Economia DF foi feita através do 
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![elipse](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-caso-de-uso.drawio.png?raw=true)</figure> | Elipse (Caso de Uso) | É usada para representar os casos de uso no diagrama. Um caso de uso descreve uma funcionalidade ou uma ação específica que o sistema pode realizar em resposta às interações dos atores. A elipse contém o nome do caso de uso |
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-limites.drawio.png?raw=true)</figure> | Retângulo (Sistema) | Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados |
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-relacionamentos.drawio.png?raw=true)</figure> | Flecha (Relações) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso |
+
 
 **Fonte:** [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 </div>
@@ -32,25 +33,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especificação dos Casos de Uso
 
-### UC0X. "EXEMPLO"
-
-<div align="center">
-
-| UC0X | "EXEMPLO" |
-| -: | :- |
-| **Atores** | Usuário |
-| **Frequência de uso** | Alta/Média/Baixa |
-| **Pré-condições** | O usuário xxxxxxxx |
-| **Fluxo básico** | <ol> <li> O usuário XXXXXX <li> O usuário escolhe XXXXXX <li> Abrir XXXXXX </ol> |
-| **Fluxos alternativos** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li> |
-| **Fluxos de exceção** | <b>Fluxo 1: XXXXXXXX</b> <ol> <li> XXXXXXXX <li> XXXXXXX <li> XXXXXXXX <ul> <li> XXXXXXXXX </ul> </ol> <b> Fluxo 2:XXXXXX</b> <ol> <li> XXXXXX <li> XXXXXX </ol> <b> Fluxo 3: XXXXXX</b> <ol> <li>|
-| **Pós-condições** | O usuário tem acesso a XXXXXX |
-| **Data da criação** | dd/mm/aaaa |
-| **Rastreabilidade** | ST01, ST02, ST03, ST12, ST13, INT03 |
-
-**Tabela X:** Especificação do caso de uso UC0X. Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
-
-</div>
 
 
 <details><summary> <h3> UC01. Fazer login </h3> </summary>
@@ -402,7 +384,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Referências Bibliográficas
 > [1] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786556900674/>. Acesso em: 15 out. 2023.
-## Bibliografia
+> >
 > [2]Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em: 09 de outubro ed 2023.
 
 
