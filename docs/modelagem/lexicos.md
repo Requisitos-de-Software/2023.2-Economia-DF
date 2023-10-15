@@ -31,10 +31,10 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
 
 |     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
 | :------------: | :---------------: | :------: | :-----------------: | :---------: |
-| Emitir | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a>. Acontece quando o <a href="#usuario">usuário</a> entra no aplicativo para  | Em alguns casos, o usuário precisa <a href="#cadastrar">cadastrar</a> algo, caso não consiga <a href="#consultar">consultar</a> de imediato. A partir da consulta, é possível <a href="#selecionar">selecionar</a> e <a href="#emitir">emitir</a> o que se estava procurando.| |
+| Emitir | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a>. Ocorre quando o <a href="#usuario">usuário</a>, após <a href="#consultar">consultar</a>, deseja gerar ou baixar o arquivo PDF de um <a href="# boletobancario">boleto bancário</a>, segunda via de uma <a href="#dividaativa">dívidas ativa</a> ou <a href="#parcelamentoadm">parcelamento administrativo</a>. | O  <a href="#usuario">usuário</a> só consegue  <a href="#emitir">emitir</a> <a href="# boletobancario">boletos bancários</a> de <a href="#veiculo">veículos</a> e <a href="#imovel">imóveis</a> cadastrados. <br> Só é possível emitir segunda via de <a href="#dividaativa">dívidas ativa</a>. <br> Após <a href="#emitir">emitir</a> é possível baixar o arquivo PDF. | Gerar|
 
  <div align="center">
-    <p> Tabela x: Léxico do verbo Consultar. Fonte: [Gabriel Zaranza](https://github.com/GZaranza) , 2023.</p>
+    <p> Tabela x: Léxico do verbo Emitir Fonte: [Gabriel Zaranza](https://github.com/GZaranza) , 2023. </p>
 </div>
 
 ### Objetos
@@ -54,7 +54,7 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 | :------------: | :---------------: | :------: | :-----------------: | :---------: |
 |Veículo | Objeto | | | |
  <div align="center">
-    <p> Tabela X: Léxico do objeto Nota Fiscal. Fonte: Gabriel Zaranza, 2023.</p>
+    <p> Tabela X: Léxico do objeto Veículo. Fonte: Gabriel Zaranza, 2023.</p>
 </div>
 
 
@@ -79,3 +79,4 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/10/2023|Criação do documento e adição dos lexicos consultar, divida ativa e nota fiscal|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|15/10/2023|Adicionando léxicos emitir e veículo|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
