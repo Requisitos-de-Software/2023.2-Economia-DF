@@ -1,5 +1,6 @@
 # Casos de Uso
 ## Introdução
+Uma ferramenta que se mostra útil na representação gráfica dos requisitos funcionais é o diagrama de casos de uso. Este diagrama oferece uma maneira simples de se comunicar com os stakeholders em relação às funcionalidades e aos serviços que serão disponibilizados aos usuários. Pode ser empregado desde as fases iniciais da coleta de requisitos, servindo como um recurso auxiliar para entrevistas, reuniões ou workshops. Além disso, pode ser uma forma de documentação gráfica do escopo funcional para gerentes de projetos [1].
 
 ## Metodologia
 
@@ -398,6 +399,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 </details>
 
 ## Referências Bibliográficas
+> [1] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786556900674/>. Acesso em: 15 out. 2023.
 ## Bibliografia
 > Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em: 09 de outubro ed 2023.
 >
