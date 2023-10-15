@@ -423,3 +423,4 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.8`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 10,11,12|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.9`|11/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`2.0`|13/10/2023|Atualização das tabelas de especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`2.1`|13/10/2023|Adicionando introdução e metodologia|[Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Vieira](https://github.com/zenildavieira)|
