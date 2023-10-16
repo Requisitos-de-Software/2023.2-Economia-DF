@@ -37,6 +37,16 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
     <p> Tabela x: Léxico do verbo Emitir Fonte: [Gabriel Zaranza](https://github.com/GZaranza) , 2023. </p>
 </div>
 
+#### <a id="cadastrar">Cadastrar</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Cadastrar | Verbo |O verbo “cadastrar” geralmente se refere ao ato de registrar ou inserir informações em um sistema ou banco de dados para referência futura.</a>|Permite ao usuário registrar seus dados pessoais, como CPF, e-mail e senha, para criar uma conta e acessar o aplicativo,permite ao usuário registrar seus veículos e imóveis, informando o número do RENAVAM ou da inscrição imobiliária, para consultar e emitir boletos bancários e permite ao usuário registrar suas indicações de notas fiscais, informando o número do CPF do destinatário, para participar de sorteios e receber créditos.|  Registrar, inscrever, matricular. |
+
+ <div align="center">
+    <p> Tabela 4: Léxico do verbo Cadastrarr. Fonte: Lucas de Oliveira, 2023.</p> 
+</div>
+
 ### Objetos
 Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo "Economia DF". 
 Nas tabelas de X até Y, é possível verificar os principais léxicos classificados como Objetos que foram identificados no Economia DF.
