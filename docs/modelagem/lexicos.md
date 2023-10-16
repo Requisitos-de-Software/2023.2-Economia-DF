@@ -67,6 +67,14 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
     <p> Tabela X: Léxico do objeto Veículo. Fonte: Gabriel Zaranza, 2023.</p>
 </div>
 
+#### <a id="usuario">Usuário</a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Usuário | Objeto |  O <a href="#usuario">usuário</a> é geralmente classificado como uma entidade ou objeto em sistemas de informação e tecnologia da informação.| O <a href="#usuario">usuário</a> é fundamental para a personalização e segurança dos sistemas. Ele permite que os sistemas forneçam experiências personalizadas, mantenham o controle de preferências e atividades do usuário e implementem medidas de segurança, como controle de acesso e rastreamento de atividades. .| Cliente, consumidor, operador, end-user (usuário final). |
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Usuário. Fonte: Lucas de Oliveira, 2023.</p>
+</div>
+
 
 ### Estados
 
