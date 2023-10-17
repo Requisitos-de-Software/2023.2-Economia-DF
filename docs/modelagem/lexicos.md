@@ -58,6 +58,16 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
     <p> Tabela 5: Léxico do verbo Selecionar. Fonte:</b> Lucas Víctor, 2023.</b></p></font> 
 </div>
 
+#### <a id="participar">Participar</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Participar | Verbo | Tarefa realizada pelo <a href="#usuario">usuário</a> quando ele se inscreve em um Sorteio no sistema do Economia DF. |  Quando um <a href="#usuario">usuário</a> <a href="#participar">participa</a> de um Sorteio, ele tem a chance de ganhar prêmios com base em suas notas fiscais registradas.| Inscrever-se, Entrar |
+
+ <div align="center">
+    <p> Tabela 6: Léxico do verbo Participar. Fonte: Gabriel Rosa, 2023.</p> 
+</div>
+
 ### Objetos
 Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo "Economia DF". 
 Nas tabelas de X até Y, é possível verificar os principais léxicos classificados como Objetos que foram identificados no Economia DF.
@@ -94,7 +104,15 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
     <p> Tabela X: Léxico do objeto Imóvel Fonte: Lucas Víctor, 2023.</p>
 </div>
 
+#### <a id="saldo">Saldo</a>
 
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Saldo | Objeto | É a quantidade total de créditos que um <a href="#usuario">usuário</a> possui no sistema do Economia DF. |  O <a href="#saldo">Saldo</a> é usado para acompanhar a quantidade de créditos que um <a href="#usuario">usuário</a> pode resgatar ou transferir.| Créditos, Quantia |
+
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Saldo. Fonte: Gabriel Rosa, 2023.</p> 
+</div>
 
 ### Estados
 
@@ -117,6 +135,16 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 <p>Tabela X - Léxico do estado Notificação. Fonte: Lucas Víctor, 2023.</p>
 </div>
 
+#### <a id="inscrito">Inscrito</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Inscrito | Estado | É quando um <a href="#usuario">usuário</a> se inscreveu em um Sorteio no sistema Nota Legal |  Um <a href="#usuario">usuário</a> <a href="#inscrito">inscrito</a> tem a chance de ganhar prêmios com base em suas notas fiscais registradas.| Participante, Ingressado |
+
+ <div align="center">
+    <p> Tabela X: Léxico do estado Inscrito. Fonte: Gabriel Rosa, 2023.</p> 
+</div>
+
 ## Bibliografia
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 >
@@ -129,3 +157,4 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |`1.2`|16/10/2023|Adicionando léxicos cadastrar e usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|17/10/2023|Adicionando léxicos Selecionar e Imóvel|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.4`|17/10/2023|Adicionando léxicos Notificação|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.5`|15/10/2023|Adicionando léxicos inscrito, saldo e participar|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
