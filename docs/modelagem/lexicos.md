@@ -109,6 +109,14 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 <p>Tabela X - Léxico do estado Dívida Ativa. Fonte: Izabella Alves, 2023.</p>
 </div>
 
+#### <a id="notificacao">Notificação</a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Notificação | Estado | Representa o status de uma mensagem ou aviso enviado ao [usuário](#usuario). Pode estar nos estados de lida, não lida, ou arquivada, indicando se a notificação foi ou não visualizada pelo [usuário](#usuario). | O [usuário](#usuario) pode verificar o [estado das notificações](#notificacao) para acompanhar mensagens importantes e as que ainda não foram lidas. Quando uma notificação é marcada como "lida" ou "arquivada", seu [estado](#notificacao) é atualizado. | Status de mensagem, aviso. |
+<div align="center">
+<p>Tabela X - Léxico do estado Notificação. Fonte: Lucas Víctor, 2023.</p>
+</div>
+
 ## Bibliografia
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 >
@@ -120,3 +128,4 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |`1.1`|15/10/2023|Adicionando léxicos emitir e veículo|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.2`|16/10/2023|Adicionando léxicos cadastrar e usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|17/10/2023|Adicionando léxicos Selecionar e Imóvel|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.4`|17/10/2023|Adicionando léxicos Notificação|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
