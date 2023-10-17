@@ -4,7 +4,20 @@
 ## FURPS+
 ### F: Funcionalidade (Functionality)
 ### U: Usabilidade (Usability)
+
 ### R: Confiabilidade (Reliability)
+A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade do aplicativo de funcionar de forma consistente, estável e sem falhas. Em outras palavras, os usuários podem confiar que o aplicativo funcionará corretamente sempre que o utilizarem. Isso é essencial para garantir uma experiência positiva do usuário, prevenir erros e manter a credibilidade do aplicativo.
+<br>
+<br>
+
+Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
+
+| ID  | Descrição |
+|-----|-----------|
+
+
+
+
 ### P: Desempenho (Performance)
 ### S: Suporte (Support)
 ### +: Restrições de Design
@@ -38,3 +51,4 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/10/2023|Criação do documento e adição do topido ajuda e documentação|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.1`|17/10/2023|Adição do topico Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/gzaranza)|
