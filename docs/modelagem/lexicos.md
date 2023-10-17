@@ -44,7 +44,18 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
 | Cadastrar | Verbo |O verbo “cadastrar” geralmente se refere ao ato de registrar ou inserir informações em um sistema ou banco de dados para referência futura.</a>|Permite ao usuário registrar seus dados pessoais, como CPF, e-mail e senha, para criar uma conta e acessar o aplicativo,permite ao usuário registrar seus veículos e imóveis, informando o número do RENAVAM ou da inscrição imobiliária, para consultar e emitir boletos bancários e permite ao usuário registrar suas indicações de notas fiscais, informando o número do CPF do destinatário, para participar de sorteios e receber créditos.|  Registrar, inscrever, matricular. |
 
  <div align="center">
-    <p> Tabela 4: Léxico do verbo Cadastrarr. Fonte: Lucas de Oliveira, 2023.</p> 
+    <p> Tabela 4: Léxico do verbo Cadastrar. Fonte: Lucas de Oliveira, 2023.</p> 
+</div>
+
+#### <a id="cadastrar">Selecionar</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Selecionar | Verbo | Ação realizada pelo [usuário](#usuario) no aplicativo Economia DF. Refere-se à escolha ou marcação de opções, itens ou configurações disponíveis no aplicativo para personalizar a experiência do [usuário](#usuario). | Permite ao [usuário](#usuario) escolher entre diversas opções e configurar preferências dentro do aplicativo, adaptando-o às suas necessidades e interesses. | Escolher, marcar, optar por |
+
+
+ <div align="center">
+    <p> Tabela 5: Léxico do verbo Selecionar. Fonte:</b> Lucas Víctor, 2023.</b></p></font> 
 </div>
 
 ### Objetos
@@ -75,6 +86,15 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
     <p> Tabela X: Léxico do objeto Usuário. Fonte: Lucas de Oliveira, 2023.</p>
 </div>
 
+#### <a id="imovel">Imóvel</a>
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Imóvel | Objeto | Refere-se a uma propriedade física, como uma casa, apartamento, terreno ou edifício. | O <a href="#usuario">usuário</a> pode <a href="#cadastrar">cadastrar</a>, <a href="#consultar">consultar</a> e <a href="#emitir">emitir</a> <a href="#boletobancario">boletos bancários</a> relacionados a <a href="#imovel">imóveis</a> no aplicativo Economia DF. | Propriedade, residência, casa. |
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Imóvel Fonte: Lucas Víctor, 2023.</p>
+</div>
+
+
 
 ### Estados
 
@@ -98,4 +118,5 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/10/2023|Criação do documento e adição dos lexicos consultar, divida ativa e nota fiscal|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.1`|15/10/2023|Adicionando léxicos emitir e veículo|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`1.1`|16/10/2023|Adicionando léxicos cadastrar e usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.2`|16/10/2023|Adicionando léxicos cadastrar e usuário|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.3`|17/10/2023|Adicionando léxicos Selecionar e Imóvel|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
