@@ -1,6 +1,15 @@
 # Espeficicação Suplementar
+
 ## Introdução
+
+Este documento apresenta a Especificação Suplementar para o aplicativo Economia DF. A Especificação Suplementar é um artefato importante no processo de desenvolvimento de software, pois descreve os requisitos não funcionais do sistema - aqueles que não estão diretamente relacionados com a funcionalidade específica do software, mas com características como desempenho, usabilidade, confiabilidade, entre outros. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário.
+
 ## Metodologia
+
+A metodologia utilizada para a elaboração deste documento é baseada no modelo FURPS+, que é uma técnica eficaz para a coleta e organização de requisitos não funcionais. FURPS+ é um acrônimo para Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suporte, que são as principais categorias de requisitos consideradas neste modelo. Além disso, o “+” em FURPS+ representa requisitos adicionais que podem ser relevantes, como restrições de design e requisitos de documentação e ajuda.
+
+Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. Os requisitos foram elicitados através de uma combinação de técnicas, análise de documentos e brainstorming entre a equipe de desenvolvimento.
+
 ## FURPS+
 ### F: Funcionalidade (Functionality)
 ### U: Usabilidade (Usability)
@@ -52,3 +61,4 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/10/2023|Criação do documento e adição do topido ajuda e documentação|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.1`|17/10/2023|Adição do topico Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.2`|17/10/2023|Adição da introdução e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
