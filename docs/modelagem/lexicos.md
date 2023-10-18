@@ -178,4 +178,4 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |`1.3`|17/10/2023|Adicionando léxicos Selecionar e Imóvel|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.4`|17/10/2023|Adicionando léxicos Notificação|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.5`|15/10/2023|Adicionando léxicos inscrito, saldo e participar|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`1.6`|18/10/2023|Adicionando léxicos visualizar e SEEDF|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.6`|18/10/2023|Adicionando léxicos visualizar e Secretaria de Estado de Economia do DF|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
