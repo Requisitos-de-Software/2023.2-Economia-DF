@@ -68,6 +68,16 @@ de 2 até Y, é possível verificar os principais léxicos classificados como Ve
     <p> Tabela 6: Léxico do verbo Participar. Fonte: Gabriel Rosa, 2023.</p> 
 </div>
 
+#### <a id="visualizar">Visualizar</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Visualizar | Verbo | A ação de visualizar permite aos <a href="#usuarios">usuários</a> explorarem dados contidos no aplicativo Economia DF de forma interativa, fornecendo uma compreensão visual e detalhada de suas informações, facilitando análises e tomadas de decisão.|Quando um <a href="#usuario">usuário</a> registra um objeto, ele consegue <a href="#visualizar">visualizar</a> uma lista desses objetos registrados.|Ver, observar|
+
+ <div align="center">
+    <p> Tabela 7: Léxico do verbo Visualizar. Fonte: Lucas Ribeiro, 2023.</p> 
+</div>
+
 ### Objetos
 Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo "Economia DF". 
 Nas tabelas de X até Y, é possível verificar os principais léxicos classificados como Objetos que foram identificados no Economia DF.
@@ -114,6 +124,16 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
     <p> Tabela X: Léxico do objeto Saldo. Fonte: Gabriel Rosa, 2023.</p> 
 </div>
 
+#### <a id="seedf">Secretaria de Estado de Economia do DF</a>
+
+|     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
+| :------------: | :---------------: | :------: | :-----------------: | :---------: |
+| Visualizar | Objeto | Órgão do governo do Distrito Federal responsável por formular, coordenar e executar a política econômica, tributária e fiscal do estado. | Responsável pelo desenvolvimento e manutenção do aplicativo 'Economia DF' | SEE-DF |
+
+ <div align="center">
+    <p> Tabela X: Léxico do objeto Secretaria de Estado de Economia do DF Fonte: Lucas Ribeiro, 2023.</p> 
+</div>
+
 ### Estados
 
 Os léxicos do tipo estado referem-se às condições, situações ou configurações específicas que podem existir dentro do aplicativo "Economia DF".
@@ -158,3 +178,4 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 |`1.3`|17/10/2023|Adicionando léxicos Selecionar e Imóvel|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.4`|17/10/2023|Adicionando léxicos Notificação|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.5`|15/10/2023|Adicionando léxicos inscrito, saldo e participar|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.6`|18/10/2023|Adicionando léxicos visualizar e SEEDF|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
