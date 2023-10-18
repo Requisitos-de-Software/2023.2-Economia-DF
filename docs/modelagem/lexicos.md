@@ -128,7 +128,7 @@ Nas tabelas de X até Y, é possível verificar os principais léxicos classific
 
 |     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |
 | :------------: | :---------------: | :------: | :-----------------: | :---------: |
-| Visualizar | Objeto | Órgão do governo do Distrito Federal responsável por formular, coordenar e executar a política econômica, tributária e fiscal do estado. | Responsável pelo desenvolvimento e manutenção do aplicativo 'Economia DF' | SEE-DF |
+| Secretaria de Estado de Economia do DF | Objeto | Órgão do governo do Distrito Federal responsável por formular, coordenar e executar a política econômica, tributária e fiscal do estado. | Responsável pelo desenvolvimento e manutenção do aplicativo 'Economia DF' | SEE-DF |
 
  <div align="center">
     <p> Tabela X: Léxico do objeto Secretaria de Estado de Economia do DF Fonte: Lucas Ribeiro, 2023.</p> 
