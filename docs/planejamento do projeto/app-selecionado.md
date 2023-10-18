@@ -55,3 +55,4 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 |`1.0`|11/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza) |[Izabella Alves](https://github.com/izabellaalves)|
 |`1.1`|11/09/2023|Adicionando termo de uso e bibliografia|[Gabriel Zaranza](https://github.com/GZaranza) |[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|24/09/2023|Mudando o app escolhido para o Economia DF|[Gabriel Zaranza](https://github.com/GZaranza) |[Izabella Alves](https://github.com/izabellaalves)|
+|`1.3`|17/10/2023|Documento revisado com as orientações do monitor |[Gabriel Rosa](https://github.com/gabrielrosa09) |[Izabella Alves](https://github.com/izabellaalves)|

@@ -23,4 +23,4 @@ Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
  `1.0` | 15/09/2023 | Criação do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)
   `1.1` | 02/10/2023 | Atualizção do documento e Rich Picture | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Zaranza](https://github.com/gzaranza)
   `1.2` | 13/10/2023 | Atualizção Rich Picture | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/gzaranza)
-
+|`1.3`|17/10/2023|Documento revisado com as orientações do monitor |[Gabriel Rosa](https://github.com/gabrielrosa09) |[Izabella Alves](https://github.com/izabellaalves)|

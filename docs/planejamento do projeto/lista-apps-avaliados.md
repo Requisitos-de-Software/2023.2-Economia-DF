@@ -132,4 +132,5 @@ O Economia DF é uma aplicativo desenvolvido pela Secretária de Economia do Dis
 |`1.8`|15/09/2023 | Adicionando o app Guardiões da Saúde |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Lucas Víctor](https://github.com/Lucas13032003) |
 |`1.9`|24/09/2023 | Adicionando o app Economia DF |  [Gabriel Zaranza](https://github.com/GZaranza)  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 |`1.9`|09/10/2023 | Adicionando o bibligorafia |  [Gabriel Zaranza](https://github.com/GZaranza)  |[Lucas Víctor](https://github.com/Lucas13032003)|
+|`2.0`|12/10/2023 | Documento revisado com as orientações do monitor  |  [Gabriel Rosa](https://github.com/gabrielrosa09)  |[Gabriel Rosa](https://github.com/gabrielrosa09)|
 
