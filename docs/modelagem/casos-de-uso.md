@@ -221,7 +221,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </details>
 
-<details><summary> <h3> UC10. Consultar imóvel  </h3> </summary>
+<details><summary> <h3> UC09. Consultar imóvel  </h3> </summary>
 
   <div align="center">
   
@@ -240,11 +240,11 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 09: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
-<details><summary> <h3> UC11. Cadastro imóvel.  </h3> </summary>
+<details><summary> <h3> UC10. Cadastro imóvel.  </h3> </summary>
 
   <div align="center">
   
@@ -262,11 +262,11 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
-<details><summary> <h3> UC12. Consultar veículo  </h3> </summary>
+<details><summary> <h3> UC11. Consultar veículo  </h3> </summary>
 
   <div align="center">
   
@@ -284,11 +284,11 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 12: Especificação do caso de uso UC12. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC12. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
-<details><summary> <h3> UC13. Cadastrar veículo </h3> </summary>
+<details><summary> <h3> UC12. Cadastrar veículo </h3> </summary>
 
 
 <div align="center">
@@ -308,12 +308,12 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </div>
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 12: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
 </details>
 
 
-<details><summary> <h3> UC14. Consultar ajuda </h3> </summary>
+<details><summary> <h3> UC13. Consultar ajuda </h3> </summary>
 
 <div align="center">
 
@@ -331,12 +331,12 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </div>
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 13: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
 </details>
 
 
-<details><summary> <h3> UC15. Entrar em contato </h3> </summary>
+<details><summary> <h3> UC14. Entrar em contato </h3> </summary>
 
 <div align="center">
 
@@ -354,13 +354,13 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </div>
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 14: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
 </details>
 
 
 
-<details><summary> <h3> UC16. Enviar e-mail </h3> </summary>
+<details><summary> <h3> UC15. Enviar e-mail </h3> </summary>
 
 <div align="center">
 
@@ -378,7 +378,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 </div>
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 15: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
 </details>
 
