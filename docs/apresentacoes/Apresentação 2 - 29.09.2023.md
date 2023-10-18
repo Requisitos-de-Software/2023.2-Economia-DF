@@ -6,9 +6,9 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 ## Vídeo da Apresentação
 
-<p style="text-align: center"><a href="" target="blanket">Requisitos - Apresentação 2</a></p>
+<p style="text-align: center"><a href="https://youtu.be/kUzoA0GES9s" target="blanket">Requisitos - Apresentação 2</a></p>
 
-<iframe width="560" height="315" src="" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/kUzoA0GES9s" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Autores.
 
