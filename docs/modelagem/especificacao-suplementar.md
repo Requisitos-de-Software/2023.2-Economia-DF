@@ -25,10 +25,35 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |-----|-----------|
 
 
-
-
 ### P: Desempenho (Performance)
-### S: Suporte (Support)
+
+
+### S: Suporte ( _Supportability_)
+
+#### Suporte e Manutenção
+O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
+
+#### Adaptabilidade
+O aplicativo foi projetado para ser usado por contribuintes do Distrito Federal, Brasil. No entanto, não há informações disponíveis sobre se o aplicativo pode ser adaptado para uso em outras regiões ou países.
+
+#### Internacionalização
+Atualmente, o aplicativo está disponível apenas em português. Não há informações disponíveis sobre se há planos para adicionar suporte a outros idiomas no futuro.
+
+#### Portabilidade
+O aplicativo é portátil, pois está disponível tanto para dispositivos Android quanto iOS. Isso significa que ele pode ser usado em uma ampla gama de dispositivos móveis.
+
+#### Testabilidade
+Não há informações disponíveis publicamente sobre a testabilidade do aplicativo. No entanto, a presença de atualizações medianas sugere que os desenvolvedores estão ativamente testando e corrigindo problemas.
+
+#### Extensibilidade
+O aplicativo parece ter uma boa extensibilidade, pois novas funcionalidades foram adicionadas em um curto período de tempo.
+
+#### Configurabilidade
+O aplicativo permite aos usuários personalizar suas experiências ao permitir que eles cadastrem veículos e imóveis para consulta de débitos entre outras funcionalidades que o próprio aplicativo dispõe.
+
+#### Instalabilidade
+O aplicativo pode ser facilmente instalado a partir da Google Play Store ou da Apple App Store.
+
 ### +: Restrições de Design
 ### +: Ajuda e Documentação
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
