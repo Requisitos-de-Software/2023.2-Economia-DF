@@ -1,4 +1,4 @@
-# Reunião 10 - 18.10.2023
+# Reunião 11 - 18.10.2023
 
 ## Local
 
@@ -53,7 +53,7 @@ xxxx
 
 ## Link da Gravação
 
-[Requisitos - Reunião 10](xxxx)
+[Requisitos - Reunião 11](xxxx)
 
 ## Histórico de Versão
 
