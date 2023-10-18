@@ -65,6 +65,6 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 |  `1.3`  | 13/09/2023 |     Adição do Histórico de versões.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 |  `1.4`  | 29/09/2023 |     Adição de novas Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
 |  `1.5`  | 10/10/2023 |     Revisão Ferramentas.     | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Ribeiro](https://github.com/lucassouzs)     |
-
+|`1.6`|17/10/2023|Documento revisado com as orientações do monitor |[Gabriel Rosa](https://github.com/gabrielrosa09) |[Izabella Alves](https://github.com/izabellaalves)|
 
 </center>
