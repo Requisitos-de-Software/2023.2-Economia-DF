@@ -26,6 +26,19 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 
 
 ### P: Desempenho (Performance)
+O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela x é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
+
+| ID  | Descrição |
+|-----|-----------|
+| PE01  | O tempo de resposta do menu principal do aplicativo deve ser inferior 500 ms |
+| PE02  | O tempo para emitir um documento deve ser inferior a 1 segundo  |
+| PE03  | O tempo de autenticação do login deve ser inferior a 3 segundos |
+| PE04  | O tempo de resposta de uma pesquisa de documentos tem que ser inferior a 1 segundo |
+
+
+<div align="center">
+  <p>Tabela X - Requisitos não funcionais sobre Desempenho. Fonte: Gabriel Zaranza, 2023.</p>
+</div>
 
 
 ### S: Suporte ( _Supportability_)
@@ -88,3 +101,5 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.1`|17/10/2023|Adição do topico Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.2`|17/10/2023|Adição da introdução e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.3`|17/10/2023|Adição da seção de suporte|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.4`|19/10/2023|Adição da seção de desempenho|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+
