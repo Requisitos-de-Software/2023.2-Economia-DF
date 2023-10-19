@@ -225,7 +225,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC10 |  Consultar imóvel no aplicativo Economia DF |
+  | UC09 |  Consultar imóvel no aplicativo Economia DF |
   | -: | :- |
   | **Atores** | Usuário |
   | **Frequência de uso** | Média |
@@ -240,7 +240,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 09: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 09: Especificação do caso de uso UC09. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
@@ -248,7 +248,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC05 |  Cadastrar imóvel no aplicativo Economia DF |
+  | UC10 |  Cadastrar imóvel no aplicativo Economia DF |
   | -: | :- |
   | **Atores** | Usuário |
   | **Frequência de uso** | Baixa |
@@ -262,7 +262,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
@@ -270,7 +270,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   <div align="center">
   
-  | UC06 |  Consultar veículo no aplicativo Economia DF |
+  | UC11 |  Consultar veículo no aplicativo Economia DF |
   | -: | :- |
   | **Atores** | Usuário |
   | **Frequência de uso** | Média |
@@ -284,7 +284,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
   </div>
   
-<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC12. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
+<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
 </details>
 
