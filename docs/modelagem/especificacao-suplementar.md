@@ -21,9 +21,20 @@ A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade
 
 Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
 
+<div align="center">
+  
 | ID  | Descrição |
 |-----|-----------|
+| RE01 | O aplicativo deve ser capaz de funcionar sem falhas ou interrupções por um período mínimo de 30 dias consecutivos. Qualquer interrupção não planejada que ocorra deve ser solucionada em até 4 horas a partir do momento da detecção. |
+| RE02 | O aplicativo deve ser capaz de lidar com um aumento de 500% na carga de usuários simultâneos sem comprometer a sua estabilidade ou desempenho. |
+| RE03 | Os dados do usuário e as informações críticas do aplicativo devem ser armazenados de forma segura e protegidos contra perda de dados. Deve ser realizado backup diário dos dados, e a recuperação de dados deve ser possível em menos de 6 horas em caso de falha. |
+| RE04 | O aplicativo deve ter um mecanismo de monitoramento contínuo que alerta a equipe de suporte técnico sobre quaisquer problemas críticos em tempo real. A equipe de suporte deve estar disponível 24/7 para resolver esses problemas. |
+| RE05 | As atualizações de software e manutenções planejadas devem ser agendadas fora do horário de pico de uso do aplicativo (por exemplo, durante a noite) e os usuários devem ser notificados com antecedência. |
+| RE06 | O aplicativo deve ter a capacidade de se recuperar automaticamente de falhas de hardware, como a substituição de servidores com falha, sem interromper o serviço. |
+| RE07 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço. |
 
+  <p>Tabela X - Requisitos não funcionais sobre Desempenho. Fonte:Lucas Victor, 2023.</p>
+</div>
 
 ### P: Desempenho (Performance)
 O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela x é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
@@ -104,4 +115,5 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.2`|17/10/2023|Adição da introdução e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.3`|17/10/2023|Adição da seção de suporte|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.4`|19/10/2023|Adição da seção de desempenho|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.5`|20/10/2023|Adição da seção de Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 
