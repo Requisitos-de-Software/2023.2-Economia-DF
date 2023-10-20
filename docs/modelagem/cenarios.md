@@ -5,7 +5,7 @@
 ### Consultar dívida ativa
 O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 1.
 
-<div align="center">
+
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -17,13 +17,14 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Restrição   | As informações só aparecem se o usuário tiver alguma dívida                         |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-**Tabela 1:** Cenário referente ao objetivo "Consultar dívida ativa". Fonte: [Izabella Alves](https://github.com/izabellaalves), 2023.
+<div align="center">
+Tabela 1: Cenário referente ao objetivo "Consultar dívida ativa". Fonte: Izabella Alves, 2023.
 
 </div>
 
 ### Consultar veículos
 O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 2.
-<div align="center">
+
   
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -35,13 +36,15 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Restrição   | Os veículos só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o veículo possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
+<div align="center">
 **Tabela 2:** Cenário referente ao objetivo "Consultar Veículos". Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
 </div>
 
-<div align="center">
+
 
 ### Consultar imóveis
 O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 3.
+
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
 | Objetivo    | Consultar imóveis através do aplicativo Economia DF                          |
@@ -52,6 +55,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 | Restrição   | Os imóveis só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o imóvel possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
+<div align="center">
 **Tabela 3:** Cenário referente ao objetivo "Consultar Imóveis". Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
 
 </div>
@@ -59,7 +63,6 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 ### Fale conosco
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 4.
 
-<div align="center">
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -71,6 +74,8 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 | Restrição   | -                                |
 | Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico <br> Celular com sistema Android 
 
+
+<div align="center">
 **Tabela 4:** Cenário referente ao objetivo "Fale conosco". Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 
 </div>
@@ -78,7 +83,7 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 ### Consultar notas fiscais
 Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 5.
 
-<div align="center">
+
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -90,12 +95,13 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
+<div align="center">
 **Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 </div>
 
 ### Consultar outros Tributos
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
-<div align="center">
+
   
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -107,13 +113,14 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
+<div align="center">
 **Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
 
 </div>
 
 ### Consultar Parcelamentos Administrativos
 Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 7.
-<div align="center">
+
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -125,6 +132,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Restrição   |As informações só estarão disponíveis para consulta se o usuário tiver algum parcelamento ativo.|
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
+<div align="center">
 **Tabela 7:** Cenário referente ao objetivo "Consultar Parcelamentos Administrativos". Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
 
 </div>
