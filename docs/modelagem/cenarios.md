@@ -37,7 +37,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
 <div align="center">
-**Tabela 2:** Cenário referente ao objetivo "Consultar Veículos". Fonte: [Gabriel Zaranza](https://github.com/GZaranza), 2023.
+Tabela 2: Cenário referente ao objetivo "Consultar Veículos". Fonte: Gabriel Zaranza, 2023.
 </div>
 
 
@@ -56,7 +56,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
 <div align="center">
-**Tabela 3:** Cenário referente ao objetivo "Consultar Imóveis". Fonte: [Gabriel Rosa](https://github.com/gabrielrosa09), 2023.
+Tabela 3: Cenário referente ao objetivo "Consultar Imóveis". Fonte: Gabriel Rosa, 2023.
 
 </div>
 
@@ -76,7 +76,7 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 
 
 <div align="center">
-**Tabela 4:** Cenário referente ao objetivo "Fale conosco". Fonte: [Zenilda Vieira](https://github.com/zenildavieira), 2023.
+Tabela 4: Cenário referente ao objetivo "Fale conosco". Fonte: Zenilda Vieira, 2023.
 
 </div>
 
@@ -96,7 +96,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
 <div align="center">
-**Tabela 5:** Cenário referente ao objetivo "Consultar notas fiscais". Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+Tabela 5: Cenário referente ao objetivo "Consultar notas fiscais". Fonte: Lucas Víctor, 2023.
 </div>
 
 ### Consultar outros Tributos
@@ -114,7 +114,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
 <div align="center">
-**Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), 2023.
+**Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: Lucas de Oliveira, 2023.
 
 </div>
 
@@ -133,7 +133,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
 <div align="center">
-**Tabela 7:** Cenário referente ao objetivo "Consultar Parcelamentos Administrativos". Fonte: [Lucas Ribeiro de Souza](https://github.com/lucassouzs), 2023.
+**Tabela 7:** Cenário referente ao objetivo "Consultar Parcelamentos Administrativos". Fonte: Lucas Ribeiro de Souza, 2023.
 
 </div>
 

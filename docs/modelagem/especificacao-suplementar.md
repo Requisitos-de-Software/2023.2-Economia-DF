@@ -73,6 +73,8 @@ A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos 
 <br>
 <br>
 Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
+
+
 | ID  | Descrição |
 |-----|-----------|
 | AD01 | A página de ajuda deve ser acessível em menos de 3 segundos em qualquer dispositivo. |
