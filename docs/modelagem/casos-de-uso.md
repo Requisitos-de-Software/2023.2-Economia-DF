@@ -6,9 +6,8 @@ O Caso de uso é ferramenta que se mostra útil na representação gráfica dos 
 A construção dos casos de uso do aplicativo Economia DF foi feita através do uso da persona [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-primária-2-maria-administradora) para entender melhor as tarefas que o usuário realiza no sistema. Primeiro, foi definido quem são os atores do sistema, usuário do Economia DF e a Secretária de Economia do Distrito Federal, e logo em seguida foi elencado os casos de uso seguindo a ordem com que acontecem durante a realização das tarefas dentro do aplicativo. Após a definição de todos os casos de uso, criou-se o diagrama na plataforma [Draw.io](https://app.diagrams.net) com os elementos gráficos padrões de um Caso de Uso (Tabela 1) e seus respectivos relacionamentos seguindo o guia da plataforma Lucid Chart [2].
 
 
-<div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de caso de uso.</p></font>
+
 | Elemento | Nome | Função |
 |:-------:|------|------|
 | <figure class="usecaseElement" style="width: 20%; display: flex;">![actor](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-ator.drawio.png?raw=true)</figure> | Ator | Representam os diferentes tipos de usuários externos que interagem com o sistema |
@@ -16,18 +15,20 @@ A construção dos casos de uso do aplicativo Economia DF foi feita através do 
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-limites.drawio.png?raw=true)</figure> | Retângulo (Sistema) | Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados |
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-relacionamentos.drawio.png?raw=true)</figure> | Flecha (Relações) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso |
 
+<div align="center">
+  
+Tabela 1: Legenda do diagrama de caso de uso. Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 
-**Fonte:** [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira), 2023.
 </div>
 
 ## Diagrama de Casos de Uso
 A figura 1 demonstra o diagrama de casos de uso.
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do aplicativo Economia DF.</p></font>
+
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/diagrama-caso-de-uso.drawio.png?raw=true" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a></b></p></font>
+<font size="2"><p style="text-align: center">Figura 1: Diagrama de caso de uso do aplicativo Economia DF. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
 
 </div>
 
@@ -37,7 +38,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC01. Fazer login </h3> </summary>
 
-  <div align="center">
+
   
   | UC01 |  Fazer login |
   | -: | :- |
@@ -51,7 +52,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
-  </div>
+  
   
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
 
@@ -59,7 +60,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC02. Exibir erro de login </h3> </summary>
   
-  <div align="center">
+  
     
   | UC02 | Exibir erro de login |
   | -: | :- |
@@ -73,7 +74,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) |
  
-  </div>
+
 
 
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
@@ -83,7 +84,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC03. Verificar dados de login  </h3> </summary>
 
-  <div align="center">
+ 
   
   | UC03 |  Verificar dados de login |
   | -: | :- |
@@ -97,7 +98,6 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
-  </div>
   
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
 
@@ -106,7 +106,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC04. Consultar notas fiscais </h3> </summary>
 
-  <div align="center">
   
   | UC04 |  Consultar notas fiscais |
   | -: | :- |
@@ -120,7 +119,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
 
-  </div>
+  
   
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
 
@@ -129,7 +128,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC05. Imprimir Danfe </h3> </summary>
 
-  <div align="center">
+
   
 | UC05 | Imprimir Danfe |
 | -: | :- |
@@ -144,7 +143,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
 
-  </div>
+  
   
 <font size="2"><p align="center"><b> Tabela 5: Especificação do caso de uso UC05. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
@@ -152,7 +151,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC06. Visualizar NFC-e detalhada </h3> </summary>
 
-  <div align="center">
+
 
 | UC06 | Visualizar NFC-e detalhada |
 | -: | :- |
@@ -168,7 +167,7 @@ A figura 1 demonstra o diagrama de casos de uso.
  |
 
 
-  </div>
+ 
   
 <font size="2"><p align="center"><b> Tabela 6: Especificação do caso de uso UC06. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
@@ -176,7 +175,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC07. Consultar divida Ativa </h3> </summary>
 
-  <div align="center">
   
 | UC07 | Consultar Dívida Ativa |
 | -: | :- |
@@ -191,7 +189,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
 
-  </div>
+ 
   
 <font size="2"><p align="center"><b> Tabela 7: Especificação do caso de uso UC07. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
@@ -200,7 +198,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   
 <details><summary> <h3> UC08. Emitir 2ª via </h3> </summary>
 
-  <div align="center">
+
   
 | UC08 | Emitir 2ª via |
 | -: | :- |
@@ -215,7 +213,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
 
-  </div>
+ 
   
 <font size="2"><p align="center"><b> Tabela 8: Especificação do caso de uso UC08. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
@@ -223,7 +221,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC09. Consultar imóvel  </h3> </summary>
 
-  <div align="center">
+
   
   | UC09 |  Consultar imóvel no aplicativo Economia DF |
   | -: | :- |
@@ -238,7 +236,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Rastreabilidade** | - |
 
 
-  </div>
+
   
 <font size="2"><p align="center"><b> Tabela 09: Especificação do caso de uso UC09. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
@@ -246,7 +244,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC10. Cadastro imóvel.  </h3> </summary>
 
-  <div align="center">
+  
   
   | UC10 |  Cadastrar imóvel no aplicativo Economia DF |
   | -: | :- |
@@ -260,7 +258,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 11/10/2023 |
   | **Rastreabilidade** | - |
 
-  </div>
+ 
   
 <font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
@@ -268,7 +266,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC11. Consultar veículo  </h3> </summary>
 
-  <div align="center">
+
   
   | UC11 |  Consultar veículo no aplicativo Economia DF |
   | -: | :- |
@@ -282,7 +280,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | - |
 
-  </div>
+ 
   
 <font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
 
@@ -291,7 +289,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 <details><summary> <h3> UC12. Cadastrar veículo </h3> </summary>
 
 
-<div align="center">
+
 
 | UC13 | Cadastrar veículo |
 | -: | :- |
@@ -306,7 +304,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** |[INT27](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md), [INT28](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
 
-</div>
+
 
 <font size="2"><p align="center"><b> Tabela 12: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
@@ -315,7 +313,6 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC13. Consultar ajuda </h3> </summary>
 
-<div align="center">
 
 | UC14 | Consultar ajuda |
 | -: | :- |
@@ -329,7 +326,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** ||
 
-</div>
+
 
 <font size="2"><p align="center"><b> Tabela 13: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
@@ -338,7 +335,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC14. Entrar em contato </h3> </summary>
 
-<div align="center">
+
 
 | UC15 | Entrar em contato |
 | -: | :- |
@@ -352,7 +349,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
-</div>
+
 
 <font size="2"><p align="center"><b> Tabela 14: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
@@ -362,7 +359,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC15. Enviar e-mail </h3> </summary>
 
-<div align="center">
+
 
 | UC16 | Enviar e-mail |
 | -: | :- |
@@ -376,7 +373,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
-</div>
+
 
 <font size="2"><p align="center"><b> Tabela 15: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
 
