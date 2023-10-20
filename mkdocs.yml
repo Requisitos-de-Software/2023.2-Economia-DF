@@ -5,14 +5,20 @@ site_name: Economia DF
 nav:
   - Home: index.md
   - Atas:
-    - Reunião 1: atas/Reunião 1 - 31.08.2023.md
-    - Reunião 2: atas/Reunião 2 - 05.09.2023.md
-    - Reunião 3: atas/Reunião 3 - 13.09.2023.md
-    - Reunião 4: atas/Reunião 4 - 15.09.2023.md
-    - Reunião 5: atas/Reunião 5 - 20.09.2023.md
-    - Reunião 6: atas/Reunião 6 - 22.09.2023.md
+    - Reunião 1: atas/Reuniao01-31.08.2023.md
+    - Reunião 2: atas/Reuniao02-05.09.2023.md
+    - Reunião 3: atas/Reuniao03-13.09.2023.md
+    - Reunião 4: atas/Reuniao04-15.09.2023.md
+    - Reunião 5: atas/Reuniao05-20.09.2023.md
+    - Reunião 6: atas/Reuniao06-22.09.2023.md
+    - Reunião 7: atas/Reuniao07-04.10.2023.md
+    - Reunião 8: atas/Reuniao08-06.10.2023.md
+    - Reunião 9: atas/Reuniao09-11.10.2023.md
+    - Reunião 10: atas/Reuniao10-13.10.2023.md
+    - Reunião 11: atas/Reuniao11-18.10.2023.md
   - Apresentação:
     - Apresentação 1: apresentacoes/Apresentação 1 - 15.09.2023.md
+    - Apresentação 2: apresentacoes/Apresentação 2 - 29.09.2023.md
   - Planejamento do projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Ferramentas do projeto: planejamento do projeto/ferramentas.md
@@ -37,12 +43,12 @@ nav:
       - First Things First: elicitacao/tecnicas-priorizacao/first-thing-first.md
       - In or Out: elicitacao/tecnicas-priorizacao/in our out.md
       - 100$: elicitacao/tecnicas-priorizacao/100$.md
-    
-
-
-  
-    
-
+  - Modelagem de Requisitos:
+    - Cenários: modelagem/cenarios.md
+    - Casos de Uso: modelagem/casos-de-uso.md
+    - Validação dos Casos de Uso: modelagem/validacao-casos-de-uso.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+    - Léxicos: modelagem/lexicos.md
 
 theme:
   name: material
