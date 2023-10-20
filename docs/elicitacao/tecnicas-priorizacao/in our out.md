@@ -4,10 +4,18 @@
 
 Depois de coletar os requisitos usando as técnicas de Brainstorming, Introspecção, Observação e Questionário, é preciso usar critérios para classificar esses requisitos, de modo que se possa identificar qual o nível de relevância de cada um. Dessa forma, neste documento vamos usar a técnica do In or Out para fazer a classificação desses requisitos.
 
+## Cronograma da Reunião
+
+| Data | Hora | Local | Assunto | Mediador | Participante |
+| :--: | :--: | :---: | ------- | ------------ | ----- |
+| 01/10/2023 | 10h | Teams | Priorização de requisitos elicitados utilizando a técnica In our Out |[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+
+**Tabela 1**: Cronograma da reunião
+Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Zaranza](https://github.com/GZaranza)
 
 ## Metodologia
 
-A técnica In or Out consiste em classificar os requisitos em duas categorias: dentro ou fora do escopo do projeto. Essa classificação é feita com base em critérios previamente definidos, como o alinhamento com os objetivos do projeto, o valor para o cliente, a viabilidade técnica e financeira, entre outros. A vantagem dessa técnica é que ela é simples e rápida de aplicar, permitindo eliminar os requisitos que não são essenciais ou que trazem poucos benefícios.
+A técnica In or Out consiste em classificar os requisitos em duas categorias: dentro ou fora do escopo do projeto. Essa classificação é feita com base em critérios previamente definidos, como o alinhamento com os objetivos do projeto, o valor para o cliente, a viabilidade técnica e financeira, entre outros. A vantagem dessa técnica é que ela é simples e rápida de aplicar, permitindo eliminar os requisitos que não são essenciais ou que trazem poucos benefícios. A técnica foi aplicada utilizando o membro do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) atuando como a persona primaria [Luiz Silva Sauro](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/edit/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-1-luiz-economista) e o membro [Gabriel Zaranza](https://github.com/GZaranza) fazendo o papel do desenvolvedor do aplicativo.
 
 ## Tabela de Requisitos 
 
@@ -61,3 +69,4 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 | `1.1`  | 01/10/2023 | Adição da Introdução, Metodologia e Tabela de Requisitos. | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  [Lucas Victor](https://github.com/Lucas13032003) |
 | `1.2`  | 01/10/2023 | Adição da Bibliografia utilizada.| [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  [Lucas Victor](https://github.com/Lucas13032003) |
 | `1.2`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| `1.3`  | 20/10/2023 | Adiçao da tabela de cronograma |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
