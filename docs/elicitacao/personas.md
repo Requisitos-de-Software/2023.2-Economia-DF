@@ -19,6 +19,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ### Persona Primária 1: Luiz Economista
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
+**Nome: Luiz Silva Sauro**
 - **Idade:** 52 anos
 - **Gênero:** Masculino
 - **Experiência:** Especialista em economia
@@ -26,10 +27,10 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
 - **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
-### Persona Primária 2: Maria Administradora
+### Persona Primária 2: Maria dos Santos Aveiro Administradora
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
   
-**Nome: Maria**
+**Nome: Maria dos Santos Aveiro**
 
 - Idade: 50 anos
 - Sexo: Feminino
@@ -41,6 +42,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ### Persona Secundária 1: Pedro Estudante
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
 
+**Nome: Pedro Ribeiro**
+
 - **Idade:** 21 anos
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
@@ -50,6 +53,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ### Persona Secundária 2: Ana Professora
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif?raw=true" width="150px">
+
+**Nome: Ana Castella Dias**
 
 - **Idade:** 57 anos
 - **Gênero:** Feminino
@@ -63,6 +68,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 ### Anti-Persona 1: João Adolescente
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif?raw=true" width="150px">
 
+**Nome: João Adibe Silva**
+
 - **Idade:** 16 anos
 - **Gênero:** Masculino
 - **Experiência:** Iniciante em finanças
@@ -71,6 +78,8 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ### Anti-Persona 2: Clara Aposentada
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif?raw=true" width="150px"> 
+
+**Nome: Clara da Silva Santos**
 
 - **Idade:** 72 anos
 - **Gênero:** Feminino
