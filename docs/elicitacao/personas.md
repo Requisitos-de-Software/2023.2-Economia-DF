@@ -16,7 +16,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Personas
 
-### Persona Primária 1: Luiz Economista
+### Persona Primária 1: Luiz Silva Sauro (Economista)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
 **Nome: Luiz Silva Sauro**
@@ -27,7 +27,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
 - **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
-### Persona Primária 2: Maria dos Santos Aveiro Administradora
+### Persona Primária 2: Maria dos Santos Aveiro (Administradora)
   <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
   
 **Nome: Maria dos Santos Aveiro**
@@ -39,7 +39,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - Frequência: Utiliza computador e celular diariamente
 - Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
-### Persona Secundária 1: Pedro Estudante
+### Persona Secundária 1: Pedro Ribeiro (Estudante)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
 
 **Nome: Pedro Ribeiro**
@@ -51,7 +51,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Tarefa Primária:** Aprender sobre indicadores econômicos usando o aplicativo de economia do DF.
 - **Descrição:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o aplicativo para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 
-### Persona Secundária 2: Ana Professora
+### Persona Secundária 2: Ana Castella Dias (Professora)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%204.jfif?raw=true" width="150px">
 
 **Nome: Ana Castella Dias**
@@ -65,7 +65,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Anti-Personas
 
-### Anti-Persona 1: João Adolescente
+### Anti-Persona 1: João Adibe Silva (Adolescente)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%205.jfif?raw=true" width="150px">
 
 **Nome: João Adibe Silva**
@@ -76,7 +76,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Atitudes:** Desinteressado em economia e tecnologia
 - **Descrição:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
 
-### Anti-Persona 2: Clara Aposentada
+### Anti-Persona 2: Clara da Silva Santos (Aposentada)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%206.jfif?raw=true" width="150px"> 
 
 **Nome: Clara da Silva Santos**
@@ -102,3 +102,4 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 | `1.2`  | 01/10/2023 | Adição da Introdução e metodologia.       | [Lucas Víctor ](https://github.com/Lucas13032003) | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 | `1.3`  | 01/10/2023 | Adição das imagens das personas.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
 | `1.4`  | 17/10/2023 | Arrumando a introdução      | [Gabriel Zaranza](https://github.com/GZaranza) | [Lucas Víctor ](https://github.com/Lucas13032003)|
+| `1.5`  | 20/10/2023 | Adição dos sobrenomes.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
