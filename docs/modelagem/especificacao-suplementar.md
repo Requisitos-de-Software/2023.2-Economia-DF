@@ -13,6 +13,22 @@ Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cad
 ## FURPS+
 ### F: Funcionalidade (Functionality)
 ### U: Usabilidade (Usability)
+A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade permite que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória. 
+
+Na tabela X, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF":
+
+<div align="center">
+  
+| ID  | Descrição |
+|-----|-----------|
+| RU01 | 	O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com eficiência e sem necessidade de treinamento extensivo. |
+| RU02 | O aplicativo deve fornecer feedback imediato após cada ação do usuário, para que eles saibam se a ação foi bem-sucedida ou não. |
+| RU03 | 	O aplicativo deve permitir que os usuários desfaçam ações sempre que possível. Isso pode ser implementado como uma opção “desfazer” no menu ou como um botão de “voltar”. |
+| RU04 | O aplicativo deve ser consistente em seu design e comportamento. Isso inclui o uso consistente de cores, fontes, ícones e terminologia, bem como a consistência na localização dos elementos da interface do usuário.. |
+| RU05 | 	O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
+
+  <p>Tabela X - Requisitos não funcionais sobre Usabilidade. Fonte:Lucas de Oliveira, 2023.</p>
+</div>
 
 ### R: Confiabilidade (Reliability)
 A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade do aplicativo de funcionar de forma consistente, estável e sem falhas. Em outras palavras, os usuários podem confiar que o aplicativo funcionará corretamente sempre que o utilizarem. Isso é essencial para garantir uma experiência positiva do usuário, prevenir erros e manter a credibilidade do aplicativo.
@@ -116,4 +132,6 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.3`|17/10/2023|Adição da seção de suporte|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.4`|19/10/2023|Adição da seção de desempenho|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.5`|20/10/2023|Adição da seção de Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.6`|20/10/2023|Adição da seção de Usabilidade (Usability)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+
 
