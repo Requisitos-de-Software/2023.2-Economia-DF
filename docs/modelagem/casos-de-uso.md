@@ -38,7 +38,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <details><summary> <h3> UC01. Fazer login </h3> </summary>
 
-
+<div>
   
   | UC01 |  Fazer login |
   | -: | :- |
@@ -52,7 +52,7 @@ A figura 1 demonstra o diagrama de casos de uso.
   | **Data da criação** | 10/10/2023 |
   | **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
-  
+  </div>
   
 <font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
 
