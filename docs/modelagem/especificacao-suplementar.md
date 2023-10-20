@@ -19,7 +19,7 @@ A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade
 <br>
 <br>
 
-Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
+Na tabela X, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF":
 
 <div align="center">
   
