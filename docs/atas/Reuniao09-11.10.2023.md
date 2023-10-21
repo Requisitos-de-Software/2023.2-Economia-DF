@@ -53,10 +53,11 @@ A partir dessa reunião revisamos as issues da última sprint e fizemos novas is
 
 ## Link da Gravação
 
-[Requisitos - Reunião 09](xxxx)
+[Requisitos - Reunião 09](https://studio.youtube.com/video/lFs9BQYdoIM/edit)
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |11/10/2023| Criação da ata de reunião | [Izabella Alves](https://github.com/izabellaalves) |[Zenilda Vieira](https://github.com/zenildavieira)  |
+| `1.1`  |21/10/2023| Adição do link da reunião | [Lucas Ribeiro](https://github.com/lucassouzs) |[Zenilda Vieira](https://github.com/zenildavieira)  |
