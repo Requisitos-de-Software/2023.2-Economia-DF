@@ -53,7 +53,7 @@ A partir dessa reunião revisamos as issues da última sprint e fizemos novas is
 
 ## Link da Gravação
 
-[Requisitos de Software - Reunião 9](xxxx)
+[Requisitos - Reunião 09](xxxx)
 
 ## Histórico de Versão
 
