@@ -59,7 +59,7 @@ Foram distribuídas as issues da entrega 3 de Requisitos e da entrega 2 de IHC, 
 
 ## Link da Gravação
 
-[Requisitos - Reunião 7](xxxx)
+[Requisitos - Reunião 7](https://studio.youtube.com/video/VJnmLucABOY/edit)
 
 ## Histórico de Versão
 
@@ -67,3 +67,4 @@ Foram distribuídas as issues da entrega 3 de Requisitos e da entrega 2 de IHC, 
 |:----:|----|---------|-----|:-------:|
 |`1.0`|04/10/2023|Criação do documento|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.1`|09/10/2023|Revisão|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.2`|21/10/2023|Adição do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
