@@ -66,3 +66,4 @@ Foram distribuidas as atividades para cada integrante do grupo.
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |18/10/2023| Criação da ata de reunião | [Lucas Ribeiro](https://github.com/lucassouzs) | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 | `1.1`  |20/10/2023| Conclusão da ata de reunião | [Lucas Ribeiro](https://github.com/lucassouzs) | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| `1.2`  |21/10/2023| Adição do link de reunião | [Lucas Ribeiro](https://github.com/lucassouzs) | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
