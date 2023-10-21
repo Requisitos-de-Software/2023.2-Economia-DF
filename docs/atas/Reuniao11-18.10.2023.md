@@ -58,7 +58,7 @@ Foram distribuidas as atividades para cada integrante do grupo.
 
 ## Link da Gravação
 
-[Requisitos - Reunião 11](xxxx)
+[Requisitos - Reunião 11](https://youtu.be/sGUjagrCR9w)
 
 ## Histórico de Versão
 
