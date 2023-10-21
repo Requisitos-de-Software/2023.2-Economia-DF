@@ -95,6 +95,9 @@ O aplicativo permite aos usuários personalizar suas experiências ao permitir q
 O aplicativo pode ser facilmente instalado a partir da Google Play Store ou da Apple App Store.
 
 ### +: Restrições de Design
+
+O sistema deve aderir estritamente aos padrões de boas práticas amplamente aceitos, incluindo os requisitos de interface para iOS. Ele deve ser desenvolvido seguindo os princípios da arquitetura limpa, garantindo não apenas funcionalidade, mas também uma estrutura de código organizada e sustentável. Além disso, é fundamental escolher uma paleta de cores que permita que pessoas com diferentes restrições visuais, como daltonismo, possam distinguir claramente os elementos, sem comprometer a identidade visual da marca. Essa abordagem não apenas promove a acessibilidade, mas também reforça a coesão da marca em todas as plataformas.
+
 ### +: Ajuda e Documentação
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 <br>
@@ -133,5 +136,4 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.4`|19/10/2023|Adição da seção de desempenho|[Gabriel Zaranza](https://github.com/gzaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.5`|20/10/2023|Adição da seção de Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.6`|20/10/2023|Adição da seção de Usabilidade (Usability)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-
-
+|`1.7`|21/10/2023|Adição da seção de Restrições de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
