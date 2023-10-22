@@ -104,6 +104,7 @@ O fato de o aplicativo estar disponível apenas na Apple App Store restringe sua
 O sistema deve aderir estritamente aos padrões de boas práticas amplamente aceitos, incluindo os requisitos de interface para iOS. Ele deve ser desenvolvido seguindo os princípios da arquitetura limpa, garantindo não apenas funcionalidade, mas também uma estrutura de código organizada e sustentável. Além disso, é fundamental escolher uma paleta de cores que permita que pessoas com diferentes restrições visuais, como daltonismo, possam distinguir claramente os elementos, sem comprometer a identidade visual da marca. Essa abordagem não apenas promove a acessibilidade, mas também reforça a coesão da marca em todas as plataformas.
 
 ### +: Ajuda e Documentação
+
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 <br>
 <br>
@@ -148,6 +149,3 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.7`|21/10/2023|Adição da seção de Restrições de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.8`|22/10/2023|Complemento da introdução e metodologia|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.9`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.10`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.11`|22/10/2023|Organizando a numeração das tabelas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.12`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
