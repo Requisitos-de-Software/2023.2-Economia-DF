@@ -79,25 +79,25 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
 
 #### Adaptabilidade
-O aplicativo foi projetado inicialmente para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
+O aplicativo foi projetado para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
 
 #### Internacionalização
-Atualmente, o aplicativo está disponível apenas em português. Não há informações disponíveis sobre se há planos para adicionar suporte a outros idiomas no futuro.
+O aplicativo atualmente oferece suporte exclusivamente ao idioma português. A ausência de informações sobre planos futuros para adicionar suporte a outros idiomas pode ser uma limitação para atingir uma base de usuários mais ampla, particularmente entre aqueles que não falam português e que vem morar na região de Brasília, se naturalizando brasileiro.
 
 #### Portabilidade
-O aplicativo é portátil, pois está disponível apenas para o iOS, a versão para Android foi descontinuada. Isso significa que ele não uma variabilidade de dispositivos em que ele pode ser utilizado, pois só tem suporte apenas para o iOS da Apple.
+É importante observar que o aplicativo está disponível apenas para dispositivos iOS, uma vez que a versão para Android foi descontinuada. Essa limitação de plataforma restringe o público-alvo do aplicativo, excluindo os usuários de dispositivos Android. Portanto, é importante considerar o desenvolvimento de uma versão para Android ou outras plataformas para aumentar o alcance do aplicativo.
 
 #### Testabilidade
-Não há informações disponíveis publicamente sobre a testabilidade do aplicativo. No entanto, a presença de atualizações medianas sugere que os desenvolvedores estão ativamente testando e corrigindo problemas.
+Embora informações específicas sobre os processos de testagem do aplicativo não estejam disponíveis publicamente, a frequência das atualizações indica que os desenvolvedores estão ativamente envolvidos em testes e correções de bugs. A garantia de qualidade é um aspecto fundamental para manter a satisfação dos usuários e a estabilidade do aplicativo.
 
 #### Extensibilidade
-O aplicativo parece ter uma boa extensibilidade, pois novas funcionalidades foram adicionadas em um curto período de tempo.
+A adição de novas funcionalidades em um curto período de tempo sugere que o aplicativo é altamente extensível. Essa abordagem é positiva, pois permite que o aplicativo evolua e atenda às crescentes necessidades dos usuários. A flexibilidade para incorporar recursos adicionais é fundamental para manter o aplicativo relevante no longo prazo.
 
 #### Configurabilidade
-O aplicativo permite aos usuários personalizar suas experiências ao permitir que eles cadastrem veículos e imóveis para consulta de débitos entre outras funcionalidades que o próprio aplicativo dispõe.
+Os recursos que permitem aos usuários personalizar sua experiência, como cadastrar veículos e imóveis para consulta de débitos, demonstram uma preocupação em atender às necessidades individuais. Essa configurabilidade torna o aplicativo mais prático e adaptável às preferências e necessidades dos usuários.
 
 #### Instalabilidade
-O aplicativo pode ser facilmente instalado a partir da Apple App Store e apenas nesse lugar.
+O fato de o aplicativo estar disponível apenas na Apple App Store restringe sua acessibilidade a dispositivos iOS da Apple. Isso significa que os usuários de outras plataformas não têm acesso ao aplicativo, limitando seu alcance. Considerar o desenvolvimento de versões para outras lojas de aplicativos, como o Google Play Store, seria uma estratégia importante para expandir a base de usuários.
 
 ### +: Restrições de Design
 
