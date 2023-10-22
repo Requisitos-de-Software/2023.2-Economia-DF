@@ -8,7 +8,7 @@ Este documento apresenta a Especificação Suplementar para o aplicativo Economi
 
 A metodologia utilizada para a elaboração deste documento é baseada no modelo FURPS+, que é uma técnica eficaz para a coleta e organização de requisitos não funcionais. FURPS+ é um acrônimo para Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suporte, que são as principais categorias de requisitos consideradas neste modelo. Além disso, o “+” em FURPS+ representa requisitos adicionais que podem ser relevantes, como restrições de design e requisitos de documentação e ajuda.
 
-Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. 
+Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF.
 
 ## FURPS+
 
@@ -18,31 +18,35 @@ Os requisitos funcionais foram elicitados através de uma combinação das segui
 
 ### U: Usabilidade (Usability)
 
-A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade permite que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória. 
+A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade permite que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória.
 
-Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF":
+Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos de usabilidade.</p></font>
+</div>
 
 | ID  | Descrição |
 |-----|-----------|
-| RU01 | 	O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com eficiência e sem necessidade de treinamento extensivo. |
+| RU01 | O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com eficiência e sem necessidade de treinamento extensivo. |
 | RU02 | O aplicativo deve fornecer feedback imediato após cada ação do usuário, para que eles saibam se a ação foi bem-sucedida ou não. |
-| RU03 | 	O aplicativo deve permitir que os usuários desfaçam ações sempre que possível. Isso pode ser implementado como uma opção “desfazer” no menu ou como um botão de “voltar”. |
+| RU03 | O aplicativo deve permitir que os usuários desfaçam ações sempre que possível. Isso pode ser implementado como uma opção “desfazer” no menu ou como um botão de “voltar”. |
 | RU04 | O aplicativo deve ser consistente em seu design e comportamento. Isso inclui o uso consistente de cores, fontes, ícones e terminologia, bem como a consistência na localização dos elementos da interface do usuário.. |
-| RU05 | 	O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
+| RU05 | O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
 
 <div align="center">
-  <p>Tabela 1 - Requisitos de usabilidade. Fonte: Lucas de Oliveira, 2023.</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
+</div >
 
 ### R: Confiabilidade (Reliability)
 A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade do aplicativo de funcionar de forma consistente, estável e sem falhas. Em outras palavras, os usuários podem confiar que o aplicativo funcionará corretamente sempre que o utilizarem. Isso é essencial para garantir uma experiência positiva do usuário, prevenir erros e manter a credibilidade do aplicativo.
-<br>
-<br>
 
-Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF":
+Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF".
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos não funcionais sobre Desempenho.</p></font>
+</div>
 
-  
 | ID  | Descrição |
 |-----|-----------|
 | RE01 | O aplicativo deve ser capaz de funcionar sem falhas ou interrupções por um período mínimo de 30 dias consecutivos. Qualquer interrupção não planejada que ocorra deve ser solucionada em até 4 horas a partir do momento da detecção. |
@@ -54,11 +58,16 @@ Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade 
 | RE07 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço. |
 
 <div align="center">
-  <p>Tabela 2 - Requisitos não funcionais sobre Desempenho. Fonte:Lucas Victor, 2023.</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
+</div >
 
 ### P: Desempenho (Performance)
+
 O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela 3 é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos não funcionais sobre Desempenho.</p></font>
+</div>
 
 | ID  | Descrição |
 |-----|-----------|
@@ -67,36 +76,42 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 | PE03  | O tempo de autenticação do login deve ser inferior a 3 segundos |
 | PE04  | O tempo de resposta de uma pesquisa de documentos tem que ser inferior a 1 segundo |
 
-
 <div align="center">
-  <p>Tabela 3 - Requisitos não funcionais sobre Desempenho. Fonte: Gabriel Zaranza, 2023.</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+</div >
 
-
-### S: Suporte ( _Supportability_)
+### S: Suporte (Supportability)
 
 #### Suporte e Manutenção
+
 O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
 
 #### Adaptabilidade
+
 O aplicativo foi projetado para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
 
 #### Internacionalização
+
 O aplicativo atualmente oferece suporte exclusivamente ao idioma português. A ausência de informações sobre planos futuros para adicionar suporte a outros idiomas pode ser uma limitação para atingir uma base de usuários mais ampla, particularmente entre aqueles que não falam português e que vem morar na região de Brasília, se naturalizando brasileiro.
 
 #### Portabilidade
+
 É importante observar que o aplicativo está disponível apenas para dispositivos iOS, uma vez que a versão para Android foi descontinuada. Essa limitação de plataforma restringe o público-alvo do aplicativo, excluindo os usuários de dispositivos Android. Portanto, é importante considerar o desenvolvimento de uma versão para Android ou outras plataformas para aumentar o alcance do aplicativo.
 
 #### Testabilidade
+
 Embora informações específicas sobre os processos de testagem do aplicativo não estejam disponíveis publicamente, a frequência das atualizações indica que os desenvolvedores estão ativamente envolvidos em testes e correções de bugs. A garantia de qualidade é um aspecto fundamental para manter a satisfação dos usuários e a estabilidade do aplicativo.
 
 #### Extensibilidade
+
 A adição de novas funcionalidades em um curto período de tempo sugere que o aplicativo é altamente extensível. Essa abordagem é positiva, pois permite que o aplicativo evolua e atenda às crescentes necessidades dos usuários. A flexibilidade para incorporar recursos adicionais é fundamental para manter o aplicativo relevante no longo prazo.
 
 #### Configurabilidade
+
 Os recursos que permitem aos usuários personalizar sua experiência, como cadastrar veículos e imóveis para consulta de débitos, demonstram uma preocupação em atender às necessidades individuais. Essa configurabilidade torna o aplicativo mais prático e adaptável às preferências e necessidades dos usuários.
 
 #### Instalabilidade
+
 O fato de o aplicativo estar disponível apenas na Apple App Store restringe sua acessibilidade a dispositivos iOS da Apple. Isso significa que os usuários de outras plataformas não têm acesso ao aplicativo, limitando seu alcance. Considerar o desenvolvimento de versões para outras lojas de aplicativos, como o Google Play Store, seria uma estratégia importante para expandir a base de usuários.
 
 ### +: Restrições de Design
@@ -106,10 +121,12 @@ O sistema deve aderir estritamente aos padrões de boas práticas amplamente ace
 ### +: Ajuda e Documentação
 
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
-<br>
-<br>
-Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
 
+Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais sobre Ajuda e Documentação.</p></font>
+</div>
 
 | ID  | Descrição |
 |-----|-----------|
@@ -122,10 +139,16 @@ Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 | AD07 | A documentação deve aderir a padrões de acessibilidade, como WCAG 2.0 [1] ou posterior, para garantir que seja utilizável por todos os usuários, incluindo aqueles com deficiências. |
 
 <div align="center">
-  <p>Tabela 4 - Requisitos não funcionais sobre Ajuda e Documentação. Fonte: Izabella Alves, 2023.</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+</div >
 
-### +: Interface
+### +: Interfaces
+
+O aplicativo deve fornecer uma interface de usuário simples e padronizada para que os usuários possam interagir com ela de forma fácil e intuitiva.
+
+* Interface de Usuário: o aplicativo deve conter no mínimo tela de login, painéis de controle, telas de configuração, telas de históricos para consultas, menus, entre outras.
+* Interface de Hardware: o aplicativo está disponível para plataforma iOS apenas, deveria estar disponível também para Android.
+* Interface de Comunicação: o aplicativo necessita de conexão com a internet, seja por dados móveis ou por wifi.
 
 ## Referências Bibliográficas
 
@@ -147,5 +170,4 @@ Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.5`|20/10/2023|Adição da seção de Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.6`|20/10/2023|Adição da seção de Usabilidade (Usability)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.7`|21/10/2023|Adição da seção de Restrições de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.8`|22/10/2023|Complemento da introdução e metodologia|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.9`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.8`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|

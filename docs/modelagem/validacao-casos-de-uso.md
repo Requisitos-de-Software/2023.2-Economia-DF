@@ -12,13 +12,28 @@ A validação aconteceu no dia, local, horário e com os participantes descritos
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso.</p></font>
-</div>
 
-| Data              | Local           | Participantes                          |
-|-------------------|------------------|---------------------------------------|
-| 18 de outubro de 2023 | Microsoft Teams | <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>  <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> (Persona Maria) |
+<table>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Local</th>
+      <th>Participantes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 de outubro de 2023</td>
+      <td>Microsoft Teams</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a> (Persona Maria)
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
 </div>
 
