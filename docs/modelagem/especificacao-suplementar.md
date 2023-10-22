@@ -8,11 +8,14 @@ Este documento apresenta a Especificação Suplementar para o aplicativo Economi
 
 A metodologia utilizada para a elaboração deste documento é baseada no modelo FURPS+, que é uma técnica eficaz para a coleta e organização de requisitos não funcionais. FURPS+ é um acrônimo para Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suporte, que são as principais categorias de requisitos consideradas neste modelo. Além disso, o “+” em FURPS+ representa requisitos adicionais que podem ser relevantes, como restrições de design e requisitos de documentação e ajuda.
 
-Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. Os requisitos foram elicitados através de uma combinação de técnicas, análise de documentos e brainstorming entre a equipe de desenvolvimento.
+Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. Os requisitos foram elicitados através de uma combinação de técnicas: [Introspecção](/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](/docs/elicitacao/tecnicas-elicitacao/observação.md).
 
 ## FURPS+
+
 ### F: Funcionalidade (Functionality)
+
 ### U: Usabilidade (Usability)
+
 A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade permite que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória. 
 
 Na tabela X, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF":
@@ -120,11 +123,15 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 </div>
 
 ### +: Interface
+
 ## Referências Bibliográficas
+
 > [1] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 14 de outubro de 2023.
 
 ## Bibliografia
+
 > SERRANO, et al. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/course/view.php?id=18538&section=6>. Acesso em 14 de outubro 2023.
+
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|
@@ -137,3 +144,7 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.5`|20/10/2023|Adição da seção de Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.6`|20/10/2023|Adição da seção de Usabilidade (Usability)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.7`|21/10/2023|Adição da seção de Restrições de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.8`|22/10/2023|Complemento da introdução e metodologia|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.9`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.10`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.11`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |

@@ -175,4 +175,5 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 |`1.4`|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.5`|11/10/2023|Adição do cenário sobre "Consultar outros Tributos" | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.6`|12/10/2023|Adição do cenário sobre "Consultar Parcelamentos Administrativos" | [Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.7`|22/10/2023|Padronizando localização dos nomes das figuras e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.7`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.8`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |

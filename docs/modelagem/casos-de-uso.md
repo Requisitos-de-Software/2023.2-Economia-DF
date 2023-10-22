@@ -1,12 +1,15 @@
 # Casos de Uso
+
 ## Introdução
+
 O Caso de uso é ferramenta que se mostra útil na representação gráfica dos requisitos funcionais. Este diagrama oferece uma maneira simples de se comunicar com os stakeholders em relação às funcionalidades e aos serviços que serão disponibilizados aos usuários. Pode ser empregado desde as fases iniciais da coleta de requisitos, servindo como um recurso auxiliar para entrevistas, reuniões ou workshops. Além disso, pode ser uma forma de documentação gráfica do escopo funcional para gerentes de projetos [1].
 
 ## Metodologia
-A construção dos casos de uso do aplicativo Economia DF foi feita através do uso da persona [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-primária-2-maria-administradora) para entender melhor as tarefas que o usuário realiza no sistema. Primeiro, foi definido quem são os atores do sistema, usuário do Economia DF e a Secretária de Economia do Distrito Federal, e logo em seguida foi elencado os casos de uso seguindo a ordem com que acontecem durante a realização das tarefas dentro do aplicativo. Após a definição de todos os casos de uso, criou-se o diagrama na plataforma [Draw.io](https://app.diagrams.net) com os elementos gráficos padrões de um Caso de Uso (Tabela 1) e seus respectivos relacionamentos seguindo o guia da plataforma Lucid Chart [2].
 
+A construção dos casos de uso do aplicativo Economia DF foi feita através do uso da persona [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-2-maria-dos-santos-aveiro-administradora) para entender melhor as tarefas que o usuário realiza no sistema. Primeiro, foi definido quem são os atores do sistema, usuário do Economia DF e a Secretária de Economia do Distrito Federal, e logo em seguida foi elencado os casos de uso seguindo a ordem com que acontecem durante a realização das tarefas dentro do aplicativo. Após a definição de todos os casos de uso, criou-se o diagrama na plataforma [Draw.io](https://app.diagrams.net) com os elementos gráficos padrões de um Caso de Uso (Tabela 1) e seus respectivos relacionamentos seguindo o guia da plataforma Lucid Chart [2].
 
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de caso de uso.</p></font>
 
 | Elemento | Nome | Função |
 |:-------:|------|------|
@@ -15,119 +18,128 @@ A construção dos casos de uso do aplicativo Economia DF foi feita através do 
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-limites.drawio.png?raw=true)</figure> | Retângulo (Sistema) | Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados |
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-relacionamentos.drawio.png?raw=true)</figure> | Flecha (Relações) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso |
 
-<div align="center">
-  
-Tabela 1: Legenda do diagrama de caso de uso. Fonte: [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira), 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 
 </div>
 
 ## Diagrama de Casos de Uso
-A figura 1 demonstra o diagrama de casos de uso.
-<div align="center">
 
+A figura 1 demonstra o diagrama de casos de uso.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do aplicativo Economia DF.</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/diagrama-caso-de-uso.drawio.png?raw=true" class="usecaseElement">
 
-<font size="2"><p style="text-align: center">Figura 1: Diagrama de caso de uso do aplicativo Economia DF. Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 
 </div>
 
 ## Especificação dos Casos de Uso
 
+### UC01. Fazer login
 
+A tabela 2 demonstra a especificação do caso de uso UC01 Fazer login.
 
-<details><summary> <h3> UC01. Fazer login </h3> </summary>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação do caso de uso UC01.</p></font>
 
+| UC01 |  Fazer login |
+| --- | --- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. Dispor de uma conexão à internet;<br> PRE02. Usuário abrir o aplicativo deslogado.|
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema envia um código de validação no SMS do usuário <li> O usuário fornece o código de validação e clica em validar. <li> O usuário é logado. <li> Fim do caso de uso. </ol> |
+| **Fluxos alternativos** | <b>FA01: Logar pelo Nota Legal</b> <ol> <li> O usuário clica em "Usar dados do Nota Legal" <li> O usuário fornece os dados de login do Nota Legal e clica em validar. Aciona o caso de uso UC03. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Validar o login pelo email</b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O usuário clica em "Enviar o código de validação para o email. <li> O sistema envia o código de validação para o email de cadastro do usuário. <li> O usuário fornece o código de validação e clica em validar. <li>O usuário é logado. <li>Fim do caso de uso. </ol>  |
+| **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa em qual campo está com o dado inválido. </ul> </ol> <b> FE02:Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado <li> O sistema informa que o código inserido é invalido </ol> |
+| **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
-  | UC01 |  Fazer login |
-  | - | - |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet;<br> PRE02. Usuário abrir o aplicativo deslogado.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema envia um código de validação no SMS do usuário <li> O usuário fornece o código de validação e clica em validar. <li> O usuário é logado. <li> Fim do caso de uso. </ol> |
-  | **Fluxos alternativos** | <b>FA01: Logar pelo Nota Legal</b> <ol> <li> O usuário clica em "Usar dados do Nota Legal" <li> O usuário fornece os dados de login do Nota Legal e clica em validar. Aciona o caso de uso UC03. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Validar o login pelo email</b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O usuário clica em "Enviar o código de validação para o email. <li> O sistema envia o código de validação para o email de cadastro do usuário. <li> O usuário fornece o código de validação e clica em validar. <li>O usuário é logado. <li>Fim do caso de uso. </ol>  |
-  | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa em qual campo está com o dado inválido. </ul> </ol> <b> FE02:Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado <li> O sistema informa que o código inserido é invalido </ol> |
-  | **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 
+</div >
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+### UC02. Exibir erro de login
 
-</details>
+A tabela 3 demonstra a especificação do caso de uso UC02 Exibir erro de login.
 
-<details><summary> <h3> UC02. Exibir erro de login </h3> </summary>
-  
-  
-    
-  | UC02 | Exibir erro de login |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. O usuário forneceu algum dado errado no login.|
-  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema informa em qual campo o usuário foreceu um dado inválido </ol> |
-  | **Fluxos alternativos** |   |
-  | **Fluxos de exceção** |  |
-  | **Pós-condições** |POS01. O usuário deve colocar novamente suas credenciais de login  |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) |
- 
+<div align="center">
 
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso UC02.</p></font>
 
+| UC02 | Exibir erro de login |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. O usuário forneceu algum dado errado no login.|
+| **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário fornece seus dados de login. Aciona o caso de uso UC03. <li> O sistema informa em qual campo o usuário forneceu um dado inválido </ol> |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** |  |
+| **Pós-condições** |POS01. O usuário deve colocar novamente suas credenciais de login  |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) |
 
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 
-</details>
+</div >
 
+### UC03. Verificar dados de login
 
-<details><summary> <h3> UC03. Verificar dados de login  </h3> </summary>
+A tabela 4 demonstra a especificação do caso de uso UC03 Verificar dados de login.
 
- 
-  
-  | UC03 |  Verificar dados de login |
-  | -: | :- |
-  | **Atores** | Sistema |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. O usuário fornceceu os dados de login.|
-  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O sistema recebe os dados que o usuário forneceu <li> O sistema verifica os dados de login <li> O sistema libera o login do usuário <li> Fim do caso de uso. |
-  | **Fluxos alternativos** |   |
-  | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema verifica os dados de login <li> O sistema não permite o login do usuário. Aciona o caso de uso UC01. <li> Fim do caso de uso </ul> </ol> |
-  | **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
+<div align="center">  
 
-  
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso UC03.</p></font>
 
-</details>
+| UC03 |  Verificar dados de login |
+| -: | :- |
+| **Atores** | Sistema |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. O usuário fornceceu os dados de login.|
+| **Fluxo básico** |<b>FB01. </b> <ol> <li> O sistema recebe os dados que o usuário forneceu <li> O sistema verifica os dados de login <li> O sistema libera o login do usuário <li> Fim do caso de uso. |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema verifica os dados de login <li> O sistema não permite o login do usuário. Aciona o caso de uso UC01. <li> Fim do caso de uso </ul> </ol> |
+| **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 
-<details><summary> <h3> UC04. Consultar notas fiscais </h3> </summary>
+</div >
 
-  
-  | UC04 |  Consultar notas fiscais |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
-  | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
-  | **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
-  | **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
-  | **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
+### UC04. Consultar notas fiscais
 
-  
-  
-<font size="2"><p align="center"><b> Tabela X: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a></b></p></font>
+A tabela 5 demonstra a especificação do caso de uso UC04 Consultar notas fiscais.
 
-</details>
+<div align="center">
 
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso UC04.</p></font>
 
-<details><summary> <h3> UC05. Imprimir Danfe </h3> </summary>
+| UC04 |  Consultar notas fiscais |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. Dispor de uma conexão à internet; <br>PRE02. Usuário estar na tela inicial.|
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O sistema mostra a lista de documentos fiscais do usuário <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal. <li> Fim do caso de uso.  </ol> |
+| **Fluxos alternativos** | <b>FA01: Pesquisar por um documento fiscal</b> <ol> <li>  O usuário clica em "Notas fiscais". <li> O sistema emite o aviso sobre os documentos fiscais. <li> O usuário clica em "Continuar". <li> O usuário clica no ícone de busca. <li> O usuário fornece alguma informação do documento <li> O sistema mostra a lista de documentos fiscais que apresentam a informação que o usuário forneceu <li> O usuário seleciona um documento fiscal <li> O sistema abre o documento fiscal <li> Fim do caso de uso </ol>  |
+| **Fluxos de exceção** | <b>FE01: O usuário não possue documentos fiscais </b> <ol> <li> O usuário clica em "Notas fiscais". <li> O sistema emite uma mensagem dizendo que não há notas fiscais <li> Fim do caso de uso. </ol> |
+| **Pós-condições** |POS01. O usuário tem acesso ao documento fiscal. |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 
-  
+</div >
+
+### UC05. Imprimir Danfe
+
+A tabela 6 demonstra a especificação do caso de uso UC05 Imprimir Danfe.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Especificação do caso de uso UC05.</p></font>
+
 | UC05 | Imprimir Danfe |
 | -: | :- |
 | **Atores** | Usuário |https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento
@@ -140,16 +152,18 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 
+</div >
+
+### UC06. Visualizar NFC-e detalhada
+
+A tabela 7 demonstra a especificação do caso de uso UC06 Visualizar NFC-e detalhada.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Especificação do caso de uso UC06.</p></font>
   
-  
-<font size="2"><p align="center"><b> Tabela 5: Especificação do caso de uso UC05. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
-
-</details>
-
-<details><summary> <h3> UC06. Visualizar NFC-e detalhada </h3> </summary>
-
-
 
 | UC06 | Visualizar NFC-e detalhada |
 | -: | :- |
@@ -164,16 +178,18 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
  |
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 
- 
-  
-<font size="2"><p align="center"><b> Tabela 6: Especificação do caso de uso UC06. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+</div >
 
-</details>
+### UC07. Consultar divida Ativa
 
-<details><summary> <h3> UC07. Consultar divida Ativa </h3> </summary>
+A tabela 8 demonstra a especificação do caso de uso UC07 Consultar divida Ativa.
 
-  
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Especificação do caso de uso UC07.</p></font>
+
 | UC07 | Consultar Dívida Ativa |
 | -: | :- |
 | **Atores** | Usuário |
@@ -186,18 +202,19 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 
- 
+</div >
+
+### UC08. Emitir 2ª via
   
-<font size="2"><p align="center"><b> Tabela 7: Especificação do caso de uso UC07. Fonte: Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
+A tabela 9 demonstra a especificação do caso de uso UC08 Emitir 2ª via.
+
+<div align="center"> 
 
 
-</details>
-  
-<details><summary> <h3> UC08. Emitir 2ª via </h3> </summary>
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC08.</p></font>
 
-
-  
 | UC08 | Emitir 2ª via |
 | -: | :- |
 | **Atores** | Usuário |
@@ -210,86 +227,93 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 
- 
+</div >
+
+### UC09. Consultar imóvel
+
+A tabela 10 demonstra a especificação do caso de uso UC09 Consultar imóvel.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso UC09.</p></font>
+
+
+| UC09 |  Consultar imóvel no aplicativo Economia DF |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+| **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona um imóvel cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao imóvel <li> Fim do caso de uso. |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** | <b>FE01: Imóvel não cadastrado </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário tenta selecionar um imóvel não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o imóvel não está cadastrado. Aciona o caso de uso UC11 para cadastrar um novo imóvel. <li> Fim do caso de uso </ul> </ol> |
+| **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao imóvel selecionado. |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | - |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+
+</div >
+
+### UC10. Cadastro imóvel
+
+A tabela 11 demonstra a especificação do caso de uso UC10 Cadastro imóvel.
+
+<div align="center">  
+
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso UC10.</p></font>
+
+| UC10 |  Cadastrar imóvel no aplicativo Economia DF |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+| **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel <li> O usuário confirma o cadastro do imóvel <li> Fim do caso de uso. |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** | <b>FE01: Dados do imóvel incompletos ou inválidos </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel de forma incompleta ou com dados inválidos <li> O aplicativo exibe uma mensagem de erro informando que os dados estão incompletos ou inválidos. Aciona o caso de uso UC02 para corrigir os dados. <li> Fim do caso de uso </ul> </ol> |
+| **Pós-condições** |POS01. O imóvel é cadastrado e aparece na lista de imóveis do usuário. |
+| **Data da criação** | 11/10/2023 |
+| **Rastreabilidade** | - |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+
+</div >
+
+### UC11. Consultar veículo
+
+A tabela 12 demonstra a especificação do caso de uso UC11 Consultar veículo.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Especificação do caso de uso UC11.</p></font>
   
-<font size="2"><p align="center"><b> Tabela 8: Especificação do caso de uso UC08. Fonte: [Lucas Víctor](https://github.com/Lucas13032003), 2023.
 
-</details>
+| UC11 |  Consultar veículo no aplicativo Economia DF |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
+| **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário seleciona um veículo cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao veículo <li> Fim do caso de uso. |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** | <b>FE01: Veículo não cadastrado </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário tenta selecionar um veículo não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o veículo não está cadastrado. Aciona o caso de uso UC13 para cadastrar um novo veículo. <li> Fim do caso de uso </ul> </ol> |
+| **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao veículo selecionado. |
+| **Data da criação** | 10/10/2023 |
+| **Rastreabilidade** | - |
 
-<details><summary> <h3> UC09. Consultar imóvel  </h3> </summary>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 
+</div >
 
+### UC12. Cadastrar veículo
+
+A tabela 13 demonstra a especificação do caso de uso UC12 Cadastrar veículo.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Especificação do caso de uso UC12.</p></font>
   
-  | UC09 |  Consultar imóvel no aplicativo Economia DF |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Média |
-  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
-  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona um imóvel cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao imóvel <li> Fim do caso de uso. |
-  | **Fluxos alternativos** |   |
-  | **Fluxos de exceção** | <b>FE01: Imóvel não cadastrado </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário tenta selecionar um imóvel não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o imóvel não está cadastrado. Aciona o caso de uso UC11 para cadastrar um novo imóvel. <li> Fim do caso de uso </ul> </ol> |
-  | **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao imóvel selecionado. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | - |
-
-
-
-  
-<font size="2"><p align="center"><b> Tabela 09: Especificação do caso de uso UC09. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
-
-</details>
-
-<details><summary> <h3> UC10. Cadastro imóvel.  </h3> </summary>
-
-  
-  
-  | UC10 |  Cadastrar imóvel no aplicativo Economia DF |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Baixa |
-  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
-  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel <li> O usuário confirma o cadastro do imóvel <li> Fim do caso de uso. |
-  | **Fluxos alternativos** |   |
-  | **Fluxos de exceção** | <b>FE01: Dados do imóvel incompletos ou inválidos </b> <ol> <li> O usuário seleciona a opção "Imóveis" na tela inicial <li> O aplicativo exibe uma tela com uma lista de imóveis cadastrados e uma opção para cadastrar um novo imóvel <li> O usuário seleciona a opção para cadastrar um novo imóvel <li> O usuário preenche os campos necessários para o cadastro do imóvel de forma incompleta ou com dados inválidos <li> O aplicativo exibe uma mensagem de erro informando que os dados estão incompletos ou inválidos. Aciona o caso de uso UC02 para corrigir os dados. <li> Fim do caso de uso </ul> </ol> |
-  | **Pós-condições** |POS01. O imóvel é cadastrado e aparece na lista de imóveis do usuário. |
-  | **Data da criação** | 11/10/2023 |
-  | **Rastreabilidade** | - |
-
- 
-  
-<font size="2"><p align="center"><b> Tabela 10: Especificação do caso de uso UC10. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
-
-</details>
-
-<details><summary> <h3> UC11. Consultar veículo  </h3> </summary>
-
-
-  
-  | UC11 |  Consultar veículo no aplicativo Economia DF |
-  | -: | :- |
-  | **Atores** | Usuário |
-  | **Frequência de uso** | Média |
-  | **Pré-condições** | PRE01. O usuário está logado em sua conta no aplicativo Economia DF.|
-  | **Fluxo básico** |<b>FB01. </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário seleciona um veículo cadastrado <li> O aplicativo exibe uma tela com os débitos relacionados ao veículo <li> Fim do caso de uso. |
-  | **Fluxos alternativos** |   |
-  | **Fluxos de exceção** | <b>FE01: Veículo não cadastrado </b> <ol> <li> O usuário seleciona a opção "Veículos" na tela inicial <li> O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo <li> O usuário tenta selecionar um veículo não cadastrado <li> O aplicativo exibe uma mensagem de erro informando que o veículo não está cadastrado. Aciona o caso de uso UC13 para cadastrar um novo veículo. <li> Fim do caso de uso </ul> </ol> |
-  | **Pós-condições** |POS01. O usuário visualiza os débitos relacionados ao veículo selecionado. |
-  | **Data da criação** | 10/10/2023 |
-  | **Rastreabilidade** | - |
-
- 
-  
-<font size="2"><p align="center"><b> Tabela 11: Especificação do caso de uso UC11. Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></b></p></font>
-
-</details>
-
-<details><summary> <h3> UC12. Cadastrar veículo </h3> </summary>
-
-
-
-
-| UC13 | Cadastrar veículo |
+| UC12 | Cadastrar veículo |
 | -: | :- |
 | **Atores** | Consumidor |
 | **Frequência de uso** | Média |
@@ -301,92 +325,94 @@ A figura 1 demonstra o diagrama de casos de uso.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT27](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md), [INT28](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
+</div >
 
+### UC13. Consultar ajuda
 
-<font size="2"><p align="center"><b> Tabela 12: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+A tabela 14 demonstra a especificação do caso de uso UC13 Consultar ajuda.
 
-</details>
+<div align="center">
 
-
-<details><summary> <h3> UC13. Consultar ajuda </h3> </summary>
-
-
-| UC14 | Consultar ajuda |
+<font size="3"><p style="text-align: center"><b>Tabela 14:</b> Especificação do caso de uso UC13.</p></font>
+  
+| UC13 | Consultar ajuda |
 | -: | :- |
 | **Atores** |Consumidor|
 | **Frequência de uso** |Média|
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir dúvidas ou necessitar de assistência com algum problema específico.|
 | **Fluxo básico** |<b>FB01. O usuário inicia o aplicativo.</b><ol><li>O usuário navega até a seção 'Ajuda'.<li> Finaliza fluxo.</ol>|
 | **Fluxos alternativos** |<b>FA1. Acesso à Seção ‘Ajuda’ pelo Menu</b><ol><li> O usuário inicia o aplicativo.<li> No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Ajuda'.<li> Finaliza fluxo.</ol>|
-| **Fluxos de exceção** ||
+| **Fluxos de exceção** | - |
 | **Pós-condições** |POS01. O usuário tem acesso a uma variedade de tópicos que podem ajudar a esclarecer suas dúvidas e atender às suas necessidades.|
 | **Data da criação** |10/10/2023|
-| **Rastreabilidade** ||
+| **Rastreabilidade** | - |
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
+</div >
 
-<font size="2"><p align="center"><b> Tabela 13: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+### UC14. Entrar em contato
 
-</details>
+A tabela 15 demonstra a especificação do caso de uso UC14 Entrar em contato.
 
+<div align="center"> 
 
-<details><summary> <h3> UC14. Entrar em contato </h3> </summary>
-
-
-
-| UC15 | Entrar em contato |
+<font size="3"><p style="text-align: center"><b>Tabela 15:</b> Especificação do caso de uso UC14.</p></font>
+  
+| UC14 | Entrar em contato |
 | -: | :- |
 | **Atores** | Consumidor |
 | **Frequência de uso** | Média |
 | **Pré-condições** |PRE01. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE02. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE03. Possuir um cadastro ativo no aplicativo;</br>PRE04. Possuir sugestões ou necessitar de assistência com algum problema específico.|
 | **Fluxo básico** |<b>FB01. O usuário inicia o aplicativo.</b><ol><li> O usuário navega até a seção "Fale conosco".<li> Finaliza fluxo.</ol>|
 | **Fluxos alternativos** |<b>FA01. Acesso à Seção ‘Fale conosco’ pelo Menu</b><ol><li> O usuário inicia o aplicativo.<li>No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Fale conosco'.<li> Finaliza fluxo.</ol>|
-| **Fluxos de exceção** ||
+| **Fluxos de exceção** | - |
 | **Pós-condições** |POS01. O usuário terá acesso a um botão ‘Preparar e-mail’, que permitirá que ele entre em contato com o atendimento do aplicativo Economia DF.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
+</div >
 
-<font size="2"><p align="center"><b> Tabela 14: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
+### UC15. Enviar e-mail
 
-</details>
+A tabela 16 demonstra a especificação do caso de uso UC15 Enviar e-mail.
 
+<div align="center">
 
+<font size="3"><p style="text-align: center"><b>Tabela 16:</b> Especificação do caso de uso UC15.</p></font>
 
-<details><summary> <h3> UC15. Enviar e-mail </h3> </summary>
-
-
-
-| UC16 | Enviar e-mail |
+| UC15 | Enviar e-mail |
 | -: | :- |
 | **Atores** |Consumidor|
 | **Frequência de uso** |Média|
 | **Pré-condições** |PRE01. Dispor de uma conexão à internet;</br>PRE02. Possuir um dispositivo com o sistema operacional iOS instalado;</br>PRE03. Ter o aplicativo do Economia DF baixado e instalado no seu dispositivo;</br>PRE04. Possuir um cadastro ativo no aplicativo;</br>PRE05. Possuir sugestões ou necessitar de assistência com algum problema específico.|
 | **Fluxo básico** |<b>FB1. O usuário inicia o aplicativo.</b><ol><li> O usuário navega até a seção "Fale conosco".<li> O usuário clica no botão ‘Preparar e-mail’ <li> O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.<li> Se o usuário selecionar:</br><ol><li>. 'Não', ele será redirecionado de volta à seção 'Fale conosco'. <li> 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol><li> Finaliza fluxo.</ol>|
 | **Fluxos alternativos** |FA1. Acesso à Seção ‘Fale conosco’ pelo Menu</br><ol><li> O usuário inicia o aplicativo.<li> No canto superior esquerdo da tela, o usuário clica no botão 'Menu', indicado pelas 3 barras paralelas horizontais.<li> O usuário navega até a seção 'Fale conosco'.<li> O usuário clica no botão ‘Preparar e-mail’ <li>. O sistema informará ao usuário que será redirecionado para o seu correio eletrônico no dispositivo e perguntará se deseja continuar.</br><li>. Se o usuário selecionar:</br><ol><li> 'Não', ele será redirecionado de volta à seção 'Fale conosco'. </br><li> 'Sim', ele será encaminhado para o seu correio eletrônico no dispositivo.”</ol><li> Finaliza fluxo.</ol>|
-| **Fluxos de exceção** ||
+| **Fluxos de exceção** | - |
 | **Pós-condições** |POS01. O usuário será encaminhado para o seu correio eletrônico no dispositivo.|
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
-
-<font size="2"><p align="center"><b> Tabela 15: Especificação do caso de uso UC0X. Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></b></p></font>
-
-</details>
+</div>
 
 ## Referências Bibliográficas
+
 > [1] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786556900674/>. Acesso em: 15 out. 2023.
 > >
 > [2]Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>.  Acesso em: 09 de outubro ed 2023.
 
-
 ## Bibliografia
+
 > VLC. Casos de Uso. Grupo VLC da disciplina Requisitos de Software, dispoível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso>. Acesso em: 10 de outubro de 2023.
 
 ## Histórico de Versões
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|09/10/2023|Criação do documento e diagrama de caso de uso|[Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
@@ -399,5 +425,8 @@ A figura 1 demonstra o diagrama de casos de uso.
 |`1.7`|10/10/2023|revisão tabela especificação dos casos de uso dos cenários 13,14,15,16|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.8`|10/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 10,11,12|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.9`|11/10/2023|Adicionando a tabela especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`2.0`|13/10/2023|Atualização das tabelas de especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
-|`2.1`|13/10/2023|Adicionando introdução e metodologia|[Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.10`|13/10/2023|Atualização das tabelas de especificação dos casos de uso dos cenários 5,6,7,8|[Lucas Víctor](https://github.com/Lucas13032003)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.11`|13/10/2023|Adicionando introdução e metodologia|[Gabriel Zaranza](https://github.com/GZaranza)| [Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.12`|22/10/2023|Inclusão da citação das tabelas no texto|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.13`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.14`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
