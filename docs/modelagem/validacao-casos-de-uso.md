@@ -11,15 +11,15 @@ O documento em questão trata da validação dos [Casos de Uso](https://github.c
 A validação aconteceu no dia, local, horário e com os participantes descritos na tabela 1. A mediadora [Izabella Alves](https://github.com/izabellaalves) iniciou a sessão lendo o termo de uso para a participante [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-2-maria-administradora), persona que foi representada por [Zenilda Vieira](https://github.com/zenildavieira), e depois da confirmação da participante, a sessão foi seguida. Todos os casos de uso foram lidos e validados pela participante, além do diagrama.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso.</p></font>
+</div>
 
 | Data              | Local           | Participantes                          |
 |-------------------|------------------|---------------------------------------|
 | 18 de outubro de 2023 | Microsoft Teams | <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>  <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> (Persona Maria) |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
-
 </div>
 
 ## Gravação
