@@ -79,13 +79,13 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
 
 #### Adaptabilidade
-O aplicativo foi projetado para ser usado por contribuintes do Distrito Federal, Brasil. No entanto, não há informações disponíveis sobre se o aplicativo pode ser adaptado para uso em outras regiões ou países.
+O aplicativo foi projetado inicialmente para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
 
 #### Internacionalização
 Atualmente, o aplicativo está disponível apenas em português. Não há informações disponíveis sobre se há planos para adicionar suporte a outros idiomas no futuro.
 
 #### Portabilidade
-O aplicativo é portátil, pois está disponível tanto para dispositivos Android quanto iOS. Isso significa que ele pode ser usado em uma ampla gama de dispositivos móveis.
+O aplicativo é portátil, pois está disponível apenas para o iOS, a versão para Android foi descontinuada. Isso significa que ele não uma variabilidade de dispositivos em que ele pode ser utilizado, pois só tem suporte apenas para o iOS da Apple.
 
 #### Testabilidade
 Não há informações disponíveis publicamente sobre a testabilidade do aplicativo. No entanto, a presença de atualizações medianas sugere que os desenvolvedores estão ativamente testando e corrigindo problemas.
@@ -97,7 +97,7 @@ O aplicativo parece ter uma boa extensibilidade, pois novas funcionalidades fora
 O aplicativo permite aos usuários personalizar suas experiências ao permitir que eles cadastrem veículos e imóveis para consulta de débitos entre outras funcionalidades que o próprio aplicativo dispõe.
 
 #### Instalabilidade
-O aplicativo pode ser facilmente instalado a partir da Google Play Store ou da Apple App Store.
+O aplicativo pode ser facilmente instalado a partir da Apple App Store e apenas nesse lugar.
 
 ### +: Restrições de Design
 
