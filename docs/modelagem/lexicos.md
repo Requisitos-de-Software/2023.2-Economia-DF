@@ -8,19 +8,23 @@ Léxicos, no contexto de requisitos de software, referem-se a uma lista ou conju
 
 Os léxicos do sistema Economia DF foram identificados a partir da utilização do aplicativo e dos [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados) nas etapas anteriores. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
 
+<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Modelo dos léxicos.</p></font>
 
 |     Léxico     |   Classificação     |   Noção  |       Impacto       |   Sinônimo  |   Autor                                  |
 | :------------: | :-----------------: | :------: | :-----------------: | :---------: | :--------------------------------------: |
 | Nome  | Objeto/Verbo/Estado | Significado do símbolo (denotação) | Descrição do efeito/uso/ocorrência (conotação) | Termo(s) alternativo(s) | Integrante do grupo que realizou essa descrição |
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+
 </div>
 
 ## Objetos
 
 Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que são manipulados ou sobre os quais as ações são realizadas dentro do aplicativo "Economia DF". Na tabelas 3, é possível verificar os principais léxicos classificados como Objetos que foram identificados no Economia DF.
+
+<div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Objetos.</p></font>
 
@@ -68,9 +72,11 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 
 Os léxicos do tipo estado referem-se às condições, situações ou configurações específicas que podem existir dentro do aplicativo "Economia DF". Na tabela 4, é possível verificar os principais léxicos classificados como Estados que foram identificados no Economia DF.
 
+<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Léxicos classificados como Estados.</p></font>
 
-#### 
+
 |     Léxico     |   Classificação   |   Noção  |       Impacto       |   Sinônimo  |   Autor                                  |
 | :------------: | :---------------: | :------: | :-----------------: | :---------: | :--------------------------------------: |
 | <a id="dividaativa">Dívida ativa</a> | Estado | Débito do <a href="#usuario">usuário</a> perante a <a href="#seed">Secretária de Economia do DF</a> encontra-se ativa. Ocorre quando um valor não é pago na data de vencimento, portanto é classificado como <a href="#dividaativa">dívida ativa</a>.|É possível <a href="#consultar">consultar</a> e <a href="#emitir">emitir</a> as <a href="#dividaativa">dívidas ativas</a> do <a href="#usuario">usuário</a>. Quando o <a href="#usuario">usuário</a> paga sua dívida, ela sai da situação atual.| - | <a href="https://github.com/izabellaalves">Izabella Alves</a> |

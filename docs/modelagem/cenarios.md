@@ -215,7 +215,7 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 
 </div>
 
-## Referência Bibliografica
+## Referência Bibliográfica
 > [1] Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
 
 ## Bibliografia
