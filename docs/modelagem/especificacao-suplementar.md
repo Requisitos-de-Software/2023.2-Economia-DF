@@ -8,11 +8,13 @@ Este documento apresenta a Especificação Suplementar para o aplicativo Economi
 
 A metodologia utilizada para a elaboração deste documento é baseada no modelo FURPS+, que é uma técnica eficaz para a coleta e organização de requisitos não funcionais. FURPS+ é um acrônimo para Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suporte, que são as principais categorias de requisitos consideradas neste modelo. Além disso, o “+” em FURPS+ representa requisitos adicionais que podem ser relevantes, como restrições de design e requisitos de documentação e ajuda.
 
-Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. Os requisitos foram elicitados através de uma combinação de técnicas: [Introspecção](/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](/docs/elicitacao/tecnicas-elicitacao/observação.md).
+Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo Economia DF. 
 
 ## FURPS+
 
 ### F: Funcionalidade (Functionality)
+
+Os requisitos funcionais foram elicitados através de uma combinação das seguintes técnicas: [Introspecção](/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](/docs/elicitacao/tecnicas-elicitacao/observação.md). Eles podem ser observados no documento [Requisitos Elicitados](/docs/elicitacao/tecnicas-elicitacao/requisitos-elicitados.md). Os [Casos de Uso](/docs/modelagem/casos-de-uso.md) também podem ser considerados como requisitos funcionais.
 
 ### U: Usabilidade (Usability)
 
@@ -136,7 +138,7 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|14/10/2023|Criação do documento e adição do topido ajuda e documentação|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
+|`1.0`|14/10/2023|Criação do documento e adição do tópico ajuda e documentação|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.1`|17/10/2023|Adição do topico Confiabilidade (Reliability)|[Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.2`|17/10/2023|Adição da introdução e metodologia|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.3`|17/10/2023|Adição da seção de suporte|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Gabriel Zaranza](https://github.com/gzaranza)|
@@ -147,4 +149,5 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 |`1.8`|22/10/2023|Complemento da introdução e metodologia|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.9`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.10`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.11`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
+|`1.11`|22/10/2023|Organizando a numeração das tabelas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.12`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
