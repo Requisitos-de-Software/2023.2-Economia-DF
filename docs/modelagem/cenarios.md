@@ -1,11 +1,18 @@
 # Cenários
+
 ## Introdução
+
 ## Metologia
+
 ## Cenários
+
 ### Consultar dívida ativa
+
 O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 1.
 
+<div align="center">
 
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cenário referente ao objetivo "Consultar dívida ativa". </p></font>
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -17,15 +24,18 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Restrição   | As informações só aparecem se o usuário tiver alguma dívida                         |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-<div align="center">
-Tabela 1: Cenário referente ao objetivo "Consultar dívida ativa". Fonte: Izabella Alves, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
 
 </div>
 
 ### Consultar veículos
+
 O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 2.
 
-  
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar Veículos".</p></font>
+
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
 | Objetivo    | Consultar débitos e boletos bancários de um veículo através do aplicativo Economia DF                          |
@@ -36,14 +46,16 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Restrição   | Os veículos só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o veículo possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-<div align="center">
-Tabela 2: Cenário referente ao objetivo "Consultar Veículos". Fonte: Gabriel Zaranza, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 </div>
 
-
-
 ### Consultar imóveis
+
 O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 3.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Imóveis".</p></font>
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -55,35 +67,39 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 | Restrição   | Os imóveis só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o imóvel possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
-<div align="center">
-Tabela 3: Cenário referente ao objetivo "Consultar Imóveis". Fonte: Gabriel Rosa, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 
 </div>
 
 ### Fale conosco
+
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 4.
 
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
 | Objetivo    | Entrar em contato com a Secretaria de Economia do DF, responsável pelo aplicativo    |
-| Contexto    | Local: em casa <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado |
+| Contexto    | Local: em qualquer lugar <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ter um aplicativo de correio eletrônico instalado |
 | Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF <br> Aplicativo de correio eletrônico           | 
 | Atores      | Usuário brasileiro com CPF ativo                                                     |
-| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial<br>O aplicativo redireciona o *usuário* para o aplicativo de correio eletrônico padrão instalado no celular, abrindo uma nova mensagem já com alguns campos preeenchidos<br>O *usuário* pode escrever o correio eletrônico com dúvidas, sugestões ou reclamações e enviar <br>  |
-| Restrição   | -                                |
-| Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico <br> Celular com sistema Android 
+| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial <br> O aplicativo apresenta uma mensagem na tela informando que o *usuário* será redirecionado para o aplicativo de correio eletrônico e espera confirmação do *usuário*<br>O aplicativo redireciona o *usuário* para o aplicativo de correio eletrônico padrão instalado no celular, abrindo uma nova mensagem já com alguns campos preeenchidos<br>O *usuário* pode escrever o correio eletrônico com dúvidas, sugestões ou reclamações e enviar <br>  |
+| Restrição   | Celular com sistema Android <br> Celular sem bateria                                |
+| Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico |
 
-
-<div align="center">
-Tabela 4: Cenário referente ao objetivo "Fale conosco". Fonte: Zenilda Vieira, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 
 </div>
 
 ### Consultar notas fiscais
+
 Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 5.
 
+<div align="center">
 
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -95,13 +111,16 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
-<div align="center">
-Tabela 5: Cenário referente ao objetivo "Consultar notas fiscais". Fonte: Lucas Víctor, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 </div>
 
 ### Consultar outros Tributos
+
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
 
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
   
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -113,14 +132,17 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
-<div align="center">
-**Tabela 6:** Cenário referente ao objetivo "Consultar outros Tributos". Fonte: Lucas de Oliveira, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
 
 </div>
 
 ### Consultar Parcelamentos Administrativos
+
 Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 7.
 
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -132,8 +154,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Restrição   |As informações só estarão disponíveis para consulta se o usuário tiver algum parcelamento ativo.|
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
-<div align="center">
-**Tabela 7:** Cenário referente ao objetivo "Consultar Parcelamentos Administrativos". Fonte: Lucas Ribeiro de Souza, 2023.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
 </div>
 
@@ -147,10 +168,11 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|1.0|08/10/2023|Criação de documento e adição do cenário sobre "consultar dívida ativa"|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|1.1|09/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|1.2|11/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.3|11/10/2023|Adição do cenário sobre "fale conosco" | [Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
-|1.4|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|1.5|11/10/2023|Adição do cenário sobre "Consultar outros Tributos" | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
-|1.6|12/10/2023|Adição do cenário sobre "Consultar Parcelamentos Administrativos" | [Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|08/10/2023|Criação de documento e adição do cenário sobre "consultar dívida ativa"|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.1`|09/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Zaranza](https://github.com/GZaranza)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`1.2`|11/10/2023|Adição do cenário sobre "consultar veículos"|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.3`|11/10/2023|Adição do cenário sobre "fale conosco" | [Zenilda Vieira](https://github.com/zenildavieira)|[Izabella Alves](https://github.com/izabellaalves)|
+|`1.4`|11/10/2023|Adição do cenário sobre "Consultar notas fiscais" | [Lucas Víctor](https://github.com/Lucas13032003)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.5`|11/10/2023|Adição do cenário sobre "Consultar outros Tributos" | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|`1.6`|12/10/2023|Adição do cenário sobre "Consultar Parcelamentos Administrativos" | [Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.7`|22/10/2023|Padronizando localização dos nomes das figuras e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
