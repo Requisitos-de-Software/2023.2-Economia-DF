@@ -128,35 +128,13 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 
 </div>
 
-### Fale conosco
-
-Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 4.
-
-<div align="center">
-
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
-
-| Elemento    | Descrição                                                                            |
-|-------------|------------------------------------------------------------------------------------- |
-| Objetivo    | Entrar em contato com a Secretaria de Economia do DF, responsável pelo aplicativo    |
-| Contexto    | Local: em qualquer lugar <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ter um aplicativo de correio eletrônico instalado |
-| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF <br> Aplicativo de correio eletrônico           | 
-| Atores      | Usuário brasileiro com CPF ativo                                                     |
-| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial <br>O *usuário* clica no botão "preparar e-mail" <br> O aplicativo apresenta uma mensagem na tela informando que o *usuário* será redirecionado para o aplicativo de correio eletrônico e espera confirmação do *usuário*<br>O aplicativo redireciona o *usuário* para o aplicativo de correio eletrônico padrão instalado no celular, abrindo uma nova mensagem já com alguns campos preeenchidos<br>O *usuário* pode escrever o correio eletrônico com dúvidas, sugestões ou reclamações e enviar <br>  |
-| Restrição   | Celular com sistema Android <br> Celular sem bateria                                |
-| Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico |
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
-
-</div>
-
 ### Consultar notas fiscais
 
-Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 5.
+Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 4.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -173,11 +151,11 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 
 ### Consultar outros Tributos
 
-Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
+Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 5.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
   
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -195,11 +173,11 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 
 ### Consultar Parcelamentos Administrativos
 
-Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 7.
+Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 6.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -212,6 +190,28 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+
+</div>
+
+### Fale conosco
+
+Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 7.
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
+
+| Elemento    | Descrição                                                                            |
+|-------------|------------------------------------------------------------------------------------- |
+| Objetivo    | Entrar em contato com a Secretaria de Economia do DF, responsável pelo aplicativo    |
+| Contexto    | Local: em qualquer lugar <br> Tempo: Aproximadamente 1 minuto e meio <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ter um aplicativo de correio eletrônico instalado |
+| Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF <br> Aplicativo de correio eletrônico           | 
+| Atores      | Usuário brasileiro com CPF ativo                                                     |
+| Episódios   | O *usuário* seleciona a opção "Fale conosco" na tela inicial <br>O *usuário* clica no botão "preparar e-mail" <br> O aplicativo apresenta uma mensagem na tela informando que o *usuário* será redirecionado para o aplicativo de correio eletrônico e espera confirmação do *usuário*<br>O aplicativo redireciona o *usuário* para o aplicativo de correio eletrônico padrão instalado no celular, abrindo uma nova mensagem já com alguns campos preeenchidos<br>O *usuário* pode escrever o correio eletrônico com dúvidas, sugestões ou reclamações e enviar <br>  |
+| Restrição   | Celular com sistema Android <br> Celular sem bateria                                |
+| Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 
 </div>
 
