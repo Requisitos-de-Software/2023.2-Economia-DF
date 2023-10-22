@@ -10,6 +10,7 @@ A construção dos casos de uso do aplicativo Economia DF foi feita através do 
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de caso de uso.</p></font>
+</div>
 
 | Elemento | Nome | Função |
 |:-------:|------|------|
@@ -18,8 +19,8 @@ A construção dos casos de uso do aplicativo Economia DF foi feita através do 
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-limites.drawio.png?raw=true)</figure> | Retângulo (Sistema) | Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados |
 | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/uc-relacionamentos.drawio.png?raw=true)</figure> | Flecha (Relações) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
-
 </div>
 
 ## Diagrama de Casos de Uso
@@ -43,6 +44,7 @@ A tabela 2 demonstra a especificação do caso de uso UC01 Fazer login.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação do caso de uso UC01.</p></font>
+</div>
 
 | UC01 |  Fazer login |
 | --- | --- |
@@ -56,8 +58,8 @@ A tabela 2 demonstra a especificação do caso de uso UC01 Fazer login.
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | [BS08](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
-
 </div >
 
 ### UC02. Exibir erro de login
@@ -65,8 +67,8 @@ A tabela 2 demonstra a especificação do caso de uso UC01 Fazer login.
 A tabela 3 demonstra a especificação do caso de uso UC02 Exibir erro de login.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso UC02.</p></font>
+</div>
 
 | UC02 | Exibir erro de login |
 | -: | :- |
@@ -80,8 +82,8 @@ A tabela 3 demonstra a especificação do caso de uso UC02 Exibir erro de login.
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
-
 </div >
 
 ### UC03. Verificar dados de login
@@ -89,8 +91,8 @@ A tabela 3 demonstra a especificação do caso de uso UC02 Exibir erro de login.
 A tabela 4 demonstra a especificação do caso de uso UC03 Verificar dados de login.
 
 <div align="center">  
-
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso UC03.</p></font>
+</div>
 
 | UC03 |  Verificar dados de login |
 | -: | :- |
@@ -104,8 +106,8 @@ A tabela 4 demonstra a especificação do caso de uso UC03 Verificar dados de lo
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | [BS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [INT01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
-
 </div >
 
 ### UC04. Consultar notas fiscais
@@ -113,8 +115,8 @@ A tabela 4 demonstra a especificação do caso de uso UC03 Verificar dados de lo
 A tabela 5 demonstra a especificação do caso de uso UC04 Consultar notas fiscais.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso UC04.</p></font>
+</div>
 
 | UC04 |  Consultar notas fiscais |
 | -: | :- |
@@ -128,8 +130,8 @@ A tabela 5 demonstra a especificação do caso de uso UC04 Consultar notas fisca
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | [BS04](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [BS10](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento) e [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md) |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
-
 </div >
 
 ### UC05. Imprimir Danfe
@@ -137,8 +139,8 @@ A tabela 5 demonstra a especificação do caso de uso UC04 Consultar notas fisca
 A tabela 6 demonstra a especificação do caso de uso UC05 Imprimir Danfe.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Especificação do caso de uso UC05.</p></font>
+</div>
 
 | UC05 | Imprimir Danfe |
 | -: | :- |
@@ -152,8 +154,8 @@ A tabela 6 demonstra a especificação do caso de uso UC05 Imprimir Danfe.
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
-
 </div >
 
 ### UC06. Visualizar NFC-e detalhada
@@ -161,8 +163,8 @@ A tabela 6 demonstra a especificação do caso de uso UC05 Imprimir Danfe.
 A tabela 7 demonstra a especificação do caso de uso UC06 Visualizar NFC-e detalhada.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Especificação do caso de uso UC06.</p></font>
+</div>
   
 
 | UC06 | Visualizar NFC-e detalhada |
@@ -178,8 +180,8 @@ A tabela 7 demonstra a especificação do caso de uso UC06 Visualizar NFC-e deta
 | **Rastreabilidade** | [INT05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md#desenvolvimento), [OBS01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
  |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
-
 </div >
 
 ### UC07. Consultar divida Ativa
@@ -187,8 +189,8 @@ A tabela 7 demonstra a especificação do caso de uso UC06 Visualizar NFC-e deta
 A tabela 8 demonstra a especificação do caso de uso UC07 Consultar divida Ativa.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 8:</b> Especificação do caso de uso UC07.</p></font>
+</div>
 
 | UC07 | Consultar Dívida Ativa |
 | -: | :- |
@@ -202,8 +204,8 @@ A tabela 8 demonstra a especificação do caso de uso UC07 Consultar divida Ativ
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
-
 </div >
 
 ### UC08. Emitir 2ª via
@@ -211,9 +213,8 @@ A tabela 8 demonstra a especificação do caso de uso UC07 Consultar divida Ativ
 A tabela 9 demonstra a especificação do caso de uso UC08 Emitir 2ª via.
 
 <div align="center"> 
-
-
 <font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC08.</p></font>
+</div>
 
 | UC08 | Emitir 2ª via |
 | -: | :- |
@@ -227,8 +228,8 @@ A tabela 9 demonstra a especificação do caso de uso UC08 Emitir 2ª via.
 | **Data da criação** | 13/10/2023 |
 | **Rastreabilidade** | [OBS05](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md#funcionais)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
-
 </div >
 
 ### UC09. Consultar imóvel
@@ -236,8 +237,8 @@ A tabela 9 demonstra a especificação do caso de uso UC08 Emitir 2ª via.
 A tabela 10 demonstra a especificação do caso de uso UC09 Consultar imóvel.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso UC09.</p></font>
+</div>
 
 
 | UC09 |  Consultar imóvel no aplicativo Economia DF |
@@ -252,8 +253,9 @@ A tabela 10 demonstra a especificação do caso de uso UC09 Consultar imóvel.
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | - |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div >
 
 ### UC10. Cadastro imóvel
@@ -261,8 +263,8 @@ A tabela 10 demonstra a especificação do caso de uso UC09 Consultar imóvel.
 A tabela 11 demonstra a especificação do caso de uso UC10 Cadastro imóvel.
 
 <div align="center">  
-
 <font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso UC10.</p></font>
+</div>
 
 | UC10 |  Cadastrar imóvel no aplicativo Economia DF |
 | -: | :- |
@@ -276,8 +278,8 @@ A tabela 11 demonstra a especificação do caso de uso UC10 Cadastro imóvel.
 | **Data da criação** | 11/10/2023 |
 | **Rastreabilidade** | - |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
-
 </div >
 
 ### UC11. Consultar veículo
@@ -285,8 +287,8 @@ A tabela 11 demonstra a especificação do caso de uso UC10 Cadastro imóvel.
 A tabela 12 demonstra a especificação do caso de uso UC11 Consultar veículo.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 12:</b> Especificação do caso de uso UC11.</p></font>
+</div>
   
 
 | UC11 |  Consultar veículo no aplicativo Economia DF |
@@ -301,8 +303,8 @@ A tabela 12 demonstra a especificação do caso de uso UC11 Consultar veículo.
 | **Data da criação** | 10/10/2023 |
 | **Rastreabilidade** | - |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
-
 </div >
 
 ### UC12. Cadastrar veículo
@@ -310,8 +312,8 @@ A tabela 12 demonstra a especificação do caso de uso UC11 Consultar veículo.
 A tabela 13 demonstra a especificação do caso de uso UC12 Cadastrar veículo.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 13:</b> Especificação do caso de uso UC12.</p></font>
+</div>
   
 | UC12 | Cadastrar veículo |
 | -: | :- |
@@ -325,8 +327,8 @@ A tabela 13 demonstra a especificação do caso de uso UC12 Cadastrar veículo.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT27](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md), [INT28](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
-
 </div >
 
 ### UC13. Consultar ajuda
@@ -334,8 +336,8 @@ A tabela 13 demonstra a especificação do caso de uso UC12 Cadastrar veículo.
 A tabela 14 demonstra a especificação do caso de uso UC13 Consultar ajuda.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 14:</b> Especificação do caso de uso UC13.</p></font>
+</div>
   
 | UC13 | Consultar ajuda |
 | -: | :- |
@@ -349,8 +351,8 @@ A tabela 14 demonstra a especificação do caso de uso UC13 Consultar ajuda.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** | - |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
-
 </div >
 
 ### UC14. Entrar em contato
@@ -358,8 +360,8 @@ A tabela 14 demonstra a especificação do caso de uso UC13 Consultar ajuda.
 A tabela 15 demonstra a especificação do caso de uso UC14 Entrar em contato.
 
 <div align="center"> 
-
 <font size="3"><p style="text-align: center"><b>Tabela 15:</b> Especificação do caso de uso UC14.</p></font>
+</div>
   
 | UC14 | Entrar em contato |
 | -: | :- |
@@ -373,8 +375,8 @@ A tabela 15 demonstra a especificação do caso de uso UC14 Entrar em contato.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
-
 </div >
 
 ### UC15. Enviar e-mail
@@ -382,8 +384,8 @@ A tabela 15 demonstra a especificação do caso de uso UC14 Entrar em contato.
 A tabela 16 demonstra a especificação do caso de uso UC15 Enviar e-mail.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 16:</b> Especificação do caso de uso UC15.</p></font>
+</div>
 
 | UC15 | Enviar e-mail |
 | -: | :- |
@@ -397,8 +399,8 @@ A tabela 16 demonstra a especificação do caso de uso UC15 Enviar e-mail.
 | **Data da criação** |10/10/2023|
 | **Rastreabilidade** |[INT11](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md)|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
-
 </div>
 
 ## Referências Bibliográficas
