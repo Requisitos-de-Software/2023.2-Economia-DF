@@ -1,8 +1,65 @@
 # Cenários
 
 ## Introdução
+Os cenários são conhecidos como uma estratégia para a compreensão da interface entre o ambiente e o sistema, bem como um meio de extrair e especificar o comportamento do software descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Os cenários também ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais [1].
 
-## Metologia
+## Metodologia
+A elaboração dos cenários foi realizada a partir da identificação das principais tarefas do aplicativo Economia DF, em que cada membro da equipe ficou responsável por um cenário (Tabela 1). Os cenários são descritos por [1]:
+- título: o título do cenário
+- objetivo: o objetivo a ser alcançado pela tarefa
+- contexto: descreve a localização geográfica e o estado inicial da tarefa
+- recursos: meios de apoio e dispositivos que necessecitam estar disponíveis para o cenário
+- atores: pessoa que realiza a tarefa descrita no cenário
+- episódios: frases que descrevem como o cenário acontece e seu comportamento
+- restrição: caracteríssticas que o cenário deve seguir
+- exceção: situações que impedem a realização do cenário
+<br>
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Definição de membro da equipe que trabalhou em determinado cenário.</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Membro da Equipe</th>
+      <th>Cenário</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-imóveis">Consultar imóveis</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-veículos">Consultar veículos</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-dívida-ativa">Consultar dívida ativa</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-outros-tributos">Consultar outros tributos</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-parcelamentos-administrativos">Consultar parcelamentos administrativos</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-notas-fiscais">Consutlar notas fiscais</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#fale-conosco">Fale conosco</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
+</div>
 
 ## Cenários
 
@@ -157,6 +214,9 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
 </div>
+
+## Referência Bibliografica
+> [1] Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
 
 ## Bibliografia
 
