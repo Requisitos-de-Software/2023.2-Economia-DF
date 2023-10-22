@@ -20,10 +20,8 @@ Os requisitos funcionais foram elicitados através de uma combinação das segui
 
 A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade permite que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória. 
 
-Na tabela X, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF":
+Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF":
 
-<div align="center">
-  
 | ID  | Descrição |
 |-----|-----------|
 | RU01 | 	O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com eficiência e sem necessidade de treinamento extensivo. |
@@ -32,7 +30,8 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Usabilidade do 
 | RU04 | O aplicativo deve ser consistente em seu design e comportamento. Isso inclui o uso consistente de cores, fontes, ícones e terminologia, bem como a consistência na localização dos elementos da interface do usuário.. |
 | RU05 | 	O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
 
-  <p>Tabela X - Requisitos não funcionais sobre Usabilidade. Fonte:Lucas de Oliveira, 2023.</p>
+<div align="center">
+  <p>Tabela 1 - Requisitos de usabilidade. Fonte: Lucas de Oliveira, 2023.</p>
 </div>
 
 ### R: Confiabilidade (Reliability)
@@ -40,9 +39,9 @@ A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade
 <br>
 <br>
 
-Na tabela X, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF":
+Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF":
 
-<div align="center">
+
   
 | ID  | Descrição |
 |-----|-----------|
@@ -54,11 +53,12 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Confiabilidade 
 | RE06 | O aplicativo deve ter a capacidade de se recuperar automaticamente de falhas de hardware, como a substituição de servidores com falha, sem interromper o serviço. |
 | RE07 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço. |
 
-  <p>Tabela X - Requisitos não funcionais sobre Desempenho. Fonte:Lucas Victor, 2023.</p>
+<div align="center">
+  <p>Tabela 2 - Requisitos não funcionais sobre Desempenho. Fonte:Lucas Victor, 2023.</p>
 </div>
 
 ### P: Desempenho (Performance)
-O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela x é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
+O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela 3 é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
 
 | ID  | Descrição |
 |-----|-----------|
@@ -69,7 +69,7 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 
 
 <div align="center">
-  <p>Tabela X - Requisitos não funcionais sobre Desempenho. Fonte: Gabriel Zaranza, 2023.</p>
+  <p>Tabela 3 - Requisitos não funcionais sobre Desempenho. Fonte: Gabriel Zaranza, 2023.</p>
 </div>
 
 
@@ -108,7 +108,7 @@ O sistema deve aderir estritamente aos padrões de boas práticas amplamente ace
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 <br>
 <br>
-Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
+Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF":
 
 
 | ID  | Descrição |
@@ -122,7 +122,7 @@ Na tabela X, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 | AD07 | A documentação deve aderir a padrões de acessibilidade, como WCAG 2.0 [1] ou posterior, para garantir que seja utilizável por todos os usuários, incluindo aqueles com deficiências. |
 
 <div align="center">
-  <p>Tabela X - Requisitos não funcionais sobre Ajuda e Documentação. Fonte: Izabella Alves, 2023.</p>
+  <p>Tabela 4 - Requisitos não funcionais sobre Ajuda e Documentação. Fonte: Izabella Alves, 2023.</p>
 </div>
 
 ### +: Interface
