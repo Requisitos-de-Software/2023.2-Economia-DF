@@ -70,6 +70,7 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cenário referente ao objetivo "Consultar dívida ativa". </p></font>
+</div>
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -81,8 +82,8 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Restrição   | As informações só aparecem se o usuário tiver alguma dívida                         |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
-
 </div>
 
 ### Consultar veículos
@@ -92,6 +93,8 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar Veículos".</p></font>
+</div>
+
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -103,6 +106,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Restrição   | Os veículos só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o veículo possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 </div>
 
@@ -113,6 +117,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Imóveis".</p></font>
+</div>
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
@@ -124,6 +129,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 | Restrição   | Os imóveis só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o imóvel possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 
 </div>
@@ -135,6 +141,8 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
+</div>
+
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -146,6 +154,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 </div>
 
@@ -156,6 +165,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
+</div>
   
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -167,6 +177,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
 
 </div>
@@ -178,6 +189,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
+</div>
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -189,6 +201,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Restrição   |As informações só estarão disponíveis para consulta se o usuário tiver algum parcelamento ativo.|
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 
 </div>
@@ -200,6 +213,8 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 <div align="center">
 
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
+</div>
+
 
 | Elemento    | Descrição                                                                            |
 |-------------|------------------------------------------------------------------------------------- |
@@ -211,8 +226,8 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 | Restrição   | Celular com sistema Android <br> Celular sem bateria                                |
 | Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico |
 
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
-
 </div>
 
 ## Referência Bibliográfica
