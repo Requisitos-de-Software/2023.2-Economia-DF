@@ -8,11 +8,11 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 
 <p style="text-align: center"><a href="https://youtu.be/kUzoA0GES9s" target="blanket">Requisitos - Apresentação 2</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kUzoA0GES9s" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kUzoA0GES9s" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-Fonte: Autores.
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+</div >
 
 ## Histórico de Versão
 

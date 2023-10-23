@@ -19,16 +19,18 @@ Reunião realizada no Microsoft Teams.
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+</div>
 
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:45       |      21:30        |
 | Realizado     |      21:10       |      22:11        |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Pessoa Zaranza](https://github.com/GZaranza).</p></font>
-
 </div>
+
 
 ## Pauta
 

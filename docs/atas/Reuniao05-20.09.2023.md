@@ -19,15 +19,16 @@ Reunião realizada no Microsoft Teams.
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+</div>
 
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto:     |      20:45       |      21:35        |
 | Realizado:    |      21:10       |      21:50        |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) .</p></font>
-
 </div>
 
 ## Pauta
@@ -41,20 +42,23 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades a serem desenvolvidas.</b></p></font>
+</div>
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
 |Questionário/Formulário - cada um recrutar 10 pessoas para responder (no mínimo) |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 |Roteiro de perguntas |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)               |
 
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades a serem desenvolvidas.</b></p></font>
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
-
 </div>
 
 ## Atividades relacionadas a elicitação de requisitos - até seg 25/09 23h59
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3 - Atividades a serem desenvolvidas.</b></p></font>
+</div>
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
@@ -64,6 +68,8 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Roteiro de perguntas |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)    |
 |Documento de perfil e requisitos elicitados |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) <br> [Gabriel Pessoa Zaranza](https://github.com/GZaranza)  |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
 </div>
 
 ## Conclusão

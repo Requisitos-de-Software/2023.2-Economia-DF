@@ -17,17 +17,17 @@ Reunião realizada no Microsoft Teams.
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+</div>
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</font>
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:45        |
 | Realizado     |      20:13       |      21:06        |
 
+<div align="center">
 <font size="3">Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs)</b></p></font>
-
 </div>
-
 
 ## Pauta
 
@@ -36,8 +36,9 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 * Ajudar em dúvidas dos integrantes sobre as entregas.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida. Fonte:</b> </font>
+</div>
+
 | Atividades       | Responsável   |
 | ---------------- | ------------- |
 |Conferir se o histórico de versão está padronizado.|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
@@ -48,8 +49,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 |Colocar o horário no qual foi realizado o brainstorming e a observação, e documentar o cronograma na instrospecção|[Gabriel Pessoa Zaranza](https://github.com/GZaranza), [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003), [Izabella Alves Pereira](https://github.com/izabellaalves)|
 |Colocar o cronograma dentro do In our Out|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 
+<div align="center">
 <font size="3">Fonte:</b> [Lucas Ribeiro](https://github.com/lucassouzs).</b></p></font>
-
 </div>
 
 ## Conclusão

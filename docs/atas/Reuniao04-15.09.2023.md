@@ -19,15 +19,16 @@ Reunião realizada no Microsoft Teams.
 Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o que horário que foi efetivamente realizado.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+</div>
 
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:30        |
 | Realizado     |      20:00       |      20:41        |
 
-<font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
-
 </div>
 
 ## Pauta
@@ -39,6 +40,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 ## Atividades
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades.</b></p></font>
+</div>
 
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
@@ -52,9 +55,8 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Revisar documento feito para a apresentação|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)         |
 |Revisar documento feito para a apresentação|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                   |
 
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades.</b></p></font>
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
-
 </div>
 
 ## Conclusão

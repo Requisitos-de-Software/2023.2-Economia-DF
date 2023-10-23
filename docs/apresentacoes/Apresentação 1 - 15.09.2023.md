@@ -10,7 +10,9 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7r3p0htB4_w" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: Autores.
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+</div >
 
 ## Histórico de Versão
 
