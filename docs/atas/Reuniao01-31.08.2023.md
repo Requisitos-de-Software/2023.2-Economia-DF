@@ -43,13 +43,32 @@ Na tabela 2 encontra-se a atividade definida e todos os integrantes do grupo com
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividade a ser desenvolvida.</b></p></font>
-</div>
 
-| Atividades       | Responsável   |
-| ---------------- | ------------- |
-|Procurar e trazer um aplicativo para a próxima reunião que será no dia 05.09.2023, próxima terça-feira | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |
+<table>
+  <thead>
+    <tr>
+      <th>Atividades</th>
+      <th>Responsável</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Procurar e trazer um aplicativo para a próxima reunião que será no dia 05.09.2023, próxima terça-feira
+      </td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a><br>
+        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a><br>
+        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a><br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a><br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a><br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira Dias Marques Ferreira</a><br>
+        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 </div>
 

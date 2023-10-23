@@ -20,14 +20,29 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-</div>
 
-|               | Hora de Início   | Hora de Término   |
-| ------------- | :--------------: | :---------------: |
-| Previsto      |      20:00       |      21:30        |
-| Realizado     |      20:15       |      22:02        |
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Hora de Início</th>
+      <th>Hora de Término</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Previsto</td>
+      <td>20:00</td>
+      <td>21:30</td>
+    </tr>
+    <tr>
+      <td>Realizado</td>
+      <td>20:15</td>
+      <td>22:02</td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
@@ -52,11 +67,9 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-</div>
 
-![Atribuições de IHC e Requisitos](/docs/imagens/atas/atribuicoes_ihc_req.png)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/atribuicoes_ihc_req.png?raw=true">
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
@@ -66,21 +79,54 @@ Na tabela 2 encontram-se as atividades de correção dos artefatos da Entrega 1 
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades de correção dos artefatos da Entrega 1.</b></p></font>
-</div>
 
-|Atividade|Responsável|
-|---------|-----------|
-|Alterar nome do repositório|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|Escrever o documento "Novo aplicativo escolhido" |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|
-|Editar o documento de ferramentas|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  
-|Trocar Heatmap|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|  
-|Fazer Rich Picture (RP) EconomiaDF|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|Atualizar gitpage|[Izabella Alves Pereira](https://github.com/izabellaalves)|
-|Editar Readme|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|
-|Editar RPs em imagens e links de cada RP dos apps avalaliados no documento lista-apps-avaliados|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
-|Padronizar Histórico de Versões, todos começando com 1.0|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Responsável</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alterar nome do repositório</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+    </tr>
+    <tr>
+      <td>Escrever o documento "Novo aplicativo escolhido"</td>
+      <td><a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a></td>
+    </tr>
+    <tr>
+      <td>Editar o documento de ferramentas</td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Trocar Heatmap</td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a></td>
+    </tr>
+    <tr>
+      <td>Fazer Rich Picture (RP) EconomiaDF</td>
+      <td><a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a></td>
+    </tr>
+    <tr>
+      <td>Atualizar gitpage</td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves Pereira</a></td>
+    </tr>
+    <tr>
+      <td>Editar Readme</td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a></td>
+    </tr>
+    <tr>
+      <td>Editar RPs em imagens e links de cada RP dos apps avaliados no documento lista-apps-avaliados</td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></td>
+    </tr>
+    <tr>
+      <td>Padronizar Histórico de Versões, todos começando com 1.0</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
@@ -94,8 +140,8 @@ Em conclusão, a pauta define claramente as tarefas a serem realizadas e à defi
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|:-----:|:-------:|
-|`1.0`|21/09/2023|Criação do documento|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|`1.1`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | - |
+| Versão | Data       | Descrição                 |                           Autor                            |                          Revisor                           |
+| :----: | ---------- | ------------------------- | :--------------------------------------------------------: | :--------------------------------------------------------: |
+| `1.0`  | 21/09/2023 | Criação do documento      | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| `1.1`  | 29/09/2023 | Adição do link da reunião |  [Lucas Ribeiro de Souza](https://github.com/lucassouzs)   | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |                             -                              |

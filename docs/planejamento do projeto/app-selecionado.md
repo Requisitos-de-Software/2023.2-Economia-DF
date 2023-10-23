@@ -46,8 +46,8 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 
 ## Bibliografia
 
-> [1] ConecteSUS. Disponível em: https://conectesus.saude.gov.br/home
-> [2] Economia DF, App Store. Disponível em: https://apps.apple.com/br/app/economia-df/id1447665592
+> ConecteSUS. Disponível em: https://conectesus.saude.gov.br/home
+> Economia DF, App Store. Disponível em: https://apps.apple.com/br/app/economia-df/id1447665592
 
 ## Histórico de versões
 

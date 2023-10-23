@@ -22,7 +22,7 @@ Na tabela 1 abaixo consta o cronograma da reunião.
 
 ## Metodologia
 
-A reunião foi marcada pela gerente de projeto [Izabella Alves](https://github.com/izabellaalves) para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores ([Gabriel Rosa](https://github.com/gabrielrosa09)) e uma representante dos clientes ([Zenilda Vieira](https://github.com/zenildavieira) no papel da [persona Maria](/docs/elicitacao/personas.md)).
+A reunião foi marcada pela gerente de projeto [Izabella Alves](https://github.com/izabellaalves) para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores ([Gabriel Rosa](https://github.com/gabrielrosa09)) e uma representante dos clientes ([Zenilda Vieira](https://github.com/zenildavieira) no papel da [persona Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md)).
 
 Essa reunião foi gravada e foi preenchida uma tabela com as seguintes colunas: "Benefício Relativo", "Penalidade Relativa", "Custo Relativo" e "Risco Relativo".
 

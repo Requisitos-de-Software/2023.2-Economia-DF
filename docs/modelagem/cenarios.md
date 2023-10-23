@@ -139,7 +139,6 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 4.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
 </div>
 
@@ -163,7 +162,6 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 5.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
 </div>
   
@@ -179,7 +177,6 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
-
 </div>
 
 ### Consultar Parcelamentos Administrativos
@@ -187,7 +184,6 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 6.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
 </div>
 
@@ -203,7 +199,6 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
-
 </div>
 
 ### Fale conosco
@@ -211,7 +206,6 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 7.
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
 </div>
 

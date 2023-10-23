@@ -14,7 +14,7 @@ Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cad
 
 ### F: Funcionalidade (Functionality)
 
-Os requisitos funcionais foram elicitados através de uma combinação das seguintes técnicas: [Introspecção](/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](/docs/elicitacao/tecnicas-elicitacao/observação.md). Eles podem ser observados no documento [Requisitos Elicitados](/docs/elicitacao/tecnicas-elicitacao/requisitos-elicitados.md). Os [Casos de Uso](/docs/modelagem/casos-de-uso.md) também podem ser considerados como requisitos funcionais.
+Os requisitos funcionais foram elicitados através de uma combinação das seguintes técnicas: [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md). Eles podem ser observados no documento [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/requisitos-elicitados.md). Os [Casos de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md) também podem ser considerados como requisitos funcionais.
 
 ### U: Usabilidade (Usability)
 

@@ -20,14 +20,13 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários.</b></p></font>
-</div>
 
 |               | Hora de Início   | Hora de Término   |
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:45        |
 | Realizado     |      xx:xx       |      xx:xx        |
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx).</p></font>
 </div>
 
@@ -59,11 +58,9 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-</div>
 
-![xxxx](xxxx)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/XXXXXXXXX.png?raw=true">
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx).</p></font>
 </div>
 

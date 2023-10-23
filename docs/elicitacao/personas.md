@@ -31,7 +31,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 
 ### Persona Primária 2: Maria dos Santos Aveiro (Administradora)
-  <img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/Maria.jpeg?raw=true" width="150px">
   
 **Nome: Maria dos Santos Aveiro**
 
@@ -91,9 +91,9 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
 
 ## Referências Bibliográficas
-> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > <br/>
-> <a id="QT2" href="#anchor_1">2.</a>This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+> [2] This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
 
 ## Histórico de Versões
 

@@ -41,11 +41,9 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-</div>
 
-![Atividades da reunião 9](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/issuesrequi10.jpeg)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issuesrequi10.jpeg?raw=true">
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></p></font>
 </div>
 

@@ -43,11 +43,9 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1 - Atividades a serem desenvolvidas.</b></p></font>
-</div>
 
-![Figura 1 - Atividades](/docs/imagens/atas/issues-IHC2-06-10-2023.png)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issues-IHC2-06-10-2023.png?raw=true">
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 </div>
 
@@ -55,11 +53,9 @@ Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2 - Atividades a serem desenvolvidas.</b></p></font>
-</div>
 
-![Figura 2 - Atividades](/docs/imagens/atas/issues_RQS3-06-10-2023.png)
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issues_RQS3-06-10-2023.png?raw=true">
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
 </div>
 
