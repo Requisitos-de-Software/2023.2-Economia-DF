@@ -6,11 +6,12 @@ O propósito desta página é hospedar a apresentação da Terceira Entrega em f
 
 ## Vídeo da Apresentação
 
+<div align="center">
+
 <p style="text-align: center"><a href="" target="blanket">Requisitos - Apresentação 2</a></p>
 
 <iframe width="560" height="315" src="" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 </div >
 

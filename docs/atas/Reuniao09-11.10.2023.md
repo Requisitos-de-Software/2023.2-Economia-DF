@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
 
 ## Início e término
 

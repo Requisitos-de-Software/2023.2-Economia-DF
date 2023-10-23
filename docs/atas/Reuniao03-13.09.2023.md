@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
@@ -45,13 +45,13 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 |Tarefa                |Responsável                  |
 |----------------------|-----------------------------|
-|Continuar trabalhando no cronograma|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)|
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)                  |
-|Atualizar gitpages|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
-|Continuar trabalhando nas ferramentas|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)                  |
-|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)        |
-|Continuar trabalhando no cronograma|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
+|Continuar trabalhando no cronograma|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Gabriel Zaranza](https://github.com/GZaranza)                  |
+|Atualizar gitpages|[Izabella Alves](https://github.com/izabellaalves)                  |
+|Continuar trabalhando nas ferramentas|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Ribeiro](https://github.com/lucassouzs)                  |
+|Continuar trabalhando no rich picture e perguntar ao professor/monitor se está correto|[Lucas Víctor](https://github.com/Lucas13032003)        |
+|Continuar trabalhando no cronograma|[Zenilda Vieira](https://github.com/zenildavieira)                  |
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
@@ -69,6 +69,6 @@ Os artefatos produzidos foram verificados pelo grupo e antes da gravação da ap
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|13/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | - |
+|`1.0`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |

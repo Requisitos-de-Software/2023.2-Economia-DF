@@ -24,7 +24,7 @@ Sua participação nesta pesquisa é totalmente voluntária. Você tem o direito
 
 Contato:
 
-Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com Gabriel Pessoa Zaranza, responsável pelo questionário, pelo e-mail 190107243@aluno.unb.br .
+Se tiver alguma dúvida ou preocupação sobre esta pesquisa, entre em contato com Gabriel Zaranza, responsável pelo questionário, pelo e-mail 190107243@aluno.unb.br .
 
 Consentimento:
 

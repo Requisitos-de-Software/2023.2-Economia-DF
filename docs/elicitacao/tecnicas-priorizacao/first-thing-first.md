@@ -78,4 +78,4 @@ E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultand
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
 | `1.0`  | 30/09/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.1`  | 01/10/2023 | Inclusão dos resultados e tabela dos cálculos | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09) <br> [Izabella Alves](https://github.com/izabellaalves) |
-| `1.2`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| `1.2`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Rosa](https://github.com/gabrielrosa09) |

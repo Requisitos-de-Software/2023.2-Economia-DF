@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
@@ -48,12 +48,12 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
-|Documento App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)                 |
-|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves Pereira](https://github.com/izabellaalves)                  |
-|Documento ferramentas do projeto|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-|Rich picture|[Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br> [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|Documento lista de aplicativos avaliados|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
+|Documento planejamento e cronograma detalhado das atividades do projeto|[Gabriel Rosa](https://github.com/gabrielrosa09) <br> [Zenilda Vieira](https://github.com/zenildavieira) |
+|Documento App selecionado para o projeto, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina |[Gabriel Zaranza](https://github.com/GZaranza)                 |
+|Documento equipe e heatmap de disponibilidade dos integrantes|[Izabella Alves](https://github.com/izabellaalves)                  |
+|Documento ferramentas do projeto|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+|Rich picture|[Lucas Ribeiro](https://github.com/lucassouzs) <br> [Lucas Víctor](https://github.com/Lucas13032003)|
+|Documento lista de aplicativos avaliados|[Gabriel Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves](https://github.com/izabellaalves) <br>  [Lucas Ribeiro](https://github.com/lucassouzs) <br>  [Lucas Víctor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Vieira](https://github.com/zenildavieira) |
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
@@ -71,7 +71,7 @@ Nesta reunião foi definido que o aplicativo selecionado para o projeto será o 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|06/09/2023|Criação do docuemtno|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|Todos|
-|`1.1`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Pessoa Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|
-|`1.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.3`|08/10/2023| Revisão e Padronização | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | - |
+|`1.0`|06/09/2023|Criação do docuemtno|[Gabriel Zaranza](https://github.com/GZaranza)|Todos|
+|`1.1`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.3`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |

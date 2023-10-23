@@ -1,4 +1,4 @@
-# Espeficicação Suplementar
+# Especificação Suplementar
 
 ## Introdução
 
@@ -58,7 +58,7 @@ Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade 
 | RE07 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço. |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Victor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
 </div >
 
 ### P: Desempenho (Performance)

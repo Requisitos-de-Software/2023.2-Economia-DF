@@ -1,10 +1,13 @@
 # Cenários
 
 ## Introdução
+
 Os cenários são conhecidos como uma estratégia para a compreensão da interface entre o ambiente e o sistema, bem como um meio de extrair e especificar o comportamento do software descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Os cenários também ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais [1].
 
 ## Metodologia
+
 A elaboração dos cenários foi realizada a partir da identificação das principais tarefas do aplicativo Economia DF, em que cada membro da equipe ficou responsável por um cenário (Tabela 1). Os cenários são descritos por [1]:
+
 - título: o título do cenário
 - objetivo: o objetivo a ser alcançado pela tarefa
 - contexto: descreve a localização geográfica e o estado inicial da tarefa

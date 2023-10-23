@@ -7,12 +7,12 @@ Reunião realizada no Microsoft Teams.
 ## Participantes
 
 
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
@@ -47,8 +47,8 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Questionário/Formulário - cada um recrutar 10 pessoas para responder (no mínimo) |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
-|Roteiro de perguntas |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)               |
+|Questionário/Formulário - cada um recrutar 10 pessoas para responder (no mínimo) |[Gabriel Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves](https://github.com/izabellaalves) <br>  [Lucas Ribeiro](https://github.com/lucassouzs) <br>  [Lucas Víctor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Vieira](https://github.com/zenildavieira) |
+|Roteiro de perguntas |[Gabriel Zaranza](https://github.com/GZaranza)               |
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
@@ -62,11 +62,11 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
-|Introspecção - Mediador |[Izabella Alves Pereira](https://github.com/izabellaalves) <br> [Lucas Ribeiro de Souza](https://github.com/lucassouzs)  <br> [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|            |
-|Observação |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br>  [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)   |
-|Questionário - cada um recrutar 10 pessoas para responder (no mínimo) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)          |
-|Roteiro de perguntas |[Gabriel Pessoa Zaranza](https://github.com/GZaranza)    |
-|Documento de perfil e requisitos elicitados |[Gabriel da Silva Rosa](https://github.com/gabrielrosa09) <br> [Gabriel Pessoa Zaranza](https://github.com/GZaranza)  |
+|Introspecção - Mediador |[Izabella Alves](https://github.com/izabellaalves) <br> [Lucas Ribeiro](https://github.com/lucassouzs)  <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|            |
+|Observação |[Lucas Víctor](https://github.com/Lucas13032003) <br>  [Zenilda Vieira](https://github.com/zenildavieira)   |
+|Questionário - cada um recrutar 10 pessoas para responder (no mínimo) | [Gabriel Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves](https://github.com/izabellaalves) <br>  [Lucas Ribeiro](https://github.com/lucassouzs) <br>  [Lucas Víctor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Vieira](https://github.com/zenildavieira)          |
+|Roteiro de perguntas |[Gabriel Zaranza](https://github.com/GZaranza)    |
+|Documento de perfil e requisitos elicitados |[Gabriel Rosa](https://github.com/gabrielrosa09) <br> [Gabriel Zaranza](https://github.com/GZaranza)  |
 
 <div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
@@ -84,6 +84,6 @@ Na reunião, foram distribuídas as atividades da Entrega 2 do projeto e foi dec
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|21/09/2023|Criação do documento|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)    |[Izabella Alves Pereira](https://github.com/izabellaalves)  |
-|`1.1`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
-|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) | - |
+|`1.0`|21/09/2023|Criação do documento|[Lucas Víctor](https://github.com/Lucas13032003)    |[Izabella Alves](https://github.com/izabellaalves)  |
+|`1.1`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Zenilda Vieira](https://github.com/zenildavieira)|
+|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |

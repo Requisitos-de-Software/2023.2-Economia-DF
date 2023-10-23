@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
-* [Lucas Ribeiro de Souza](https://github.com/lucassouzs)
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Lucas Ribeiro](https://github.com/lucassouzs)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
 
 ## Início e término
 
@@ -25,7 +25,6 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | ------------- | :--------------: | :---------------: |
 | Previsto      |      20:00       |      20:45        |
 | Realizado     |      xx:xx       |      xx:xx        |
-
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [xxxx](https://github.com/xxxx).</p></font>
 </div>

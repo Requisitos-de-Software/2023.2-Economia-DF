@@ -6,13 +6,13 @@ Reunião realizada no Microsoft Teams.
 
 ## Participantes
 
-* [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)
-* [Gabriel Pessoa Zaranza](https://github.com/GZaranza)
-* [Izabella Alves Pereira](https://github.com/izabellaalves)
-* [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)
+* [Gabriel Rosa](https://github.com/gabrielrosa09)
+* [Gabriel Zaranza](https://github.com/GZaranza)
+* [Izabella Alves](https://github.com/izabellaalves)
+* [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)
 
-* [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)
-* [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)
+* [Lucas Víctor](https://github.com/Lucas13032003)
+* [Zenilda Vieira](https://github.com/zenildavieira)
   
 ## Início e término
 
@@ -58,10 +58,10 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 A apresentação de IHC será na quarta-feira dia 27/09/2023.
 
 * Perfil do Usuário
-Será realizado um questionário para RQS. Cada um deverá trazer 10 respostas no mínimo até Segunda (25/09). O roteiro de perguntas deverá ser realizado pelo [Gabriel Pessoa Zaranza](https://github.com/GZaranza).
+Será realizado um questionário para RQS. Cada um deverá trazer 10 respostas no mínimo até Segunda (25/09). O roteiro de perguntas deverá ser realizado pelo [Gabriel Zaranza](https://github.com/GZaranza).
 
 * Personas
-Deverá ser realizado um documento com persona primária, secundária, terciária e anti-persona. Este documento deverá ser realizado por [Lucas De Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003).
+Deverá ser realizado um documento com persona primária, secundária, terciária e anti-persona. Este documento deverá ser realizado por [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Lucas Víctor](https://github.com/Lucas13032003).
 
 * Na figura 1 encontram-se as atividades definidas para a segunda entrega de requisitos e os responsáveis por cada uma delas.
 
@@ -90,39 +90,39 @@ Na tabela 2 encontram-se as atividades de correção dos artefatos da Entrega 1 
   <tbody>
     <tr>
       <td>Alterar nome do repositório</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Escrever o documento "Novo aplicativo escolhido"</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a></td>
+      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
     </tr>
     <tr>
       <td>Editar o documento de ferramentas</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a></td>
     </tr>
     <tr>
       <td>Trocar Heatmap</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a></td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
       <td>Fazer Rich Picture (RP) EconomiaDF</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a></td>
+      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
     </tr>
     <tr>
       <td>Atualizar gitpage</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves Pereira</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Editar Readme</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a></td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
       <td>Editar RPs em imagens e links de cada RP dos apps avaliados no documento lista-apps-avaliados</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
       <td>Padronizar Histórico de Versões, todos começando com 1.0</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
   </tbody>
 </table>
@@ -142,6 +142,6 @@ Em conclusão, a pauta define claramente as tarefas a serem realizadas e à defi
 
 | Versão | Data       | Descrição                 |                           Autor                            |                          Revisor                           |
 | :----: | ---------- | ------------------------- | :--------------------------------------------------------: | :--------------------------------------------------------: |
-| `1.0`  | 21/09/2023 | Criação do documento      | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
-| `1.1`  | 29/09/2023 | Adição do link da reunião |  [Lucas Ribeiro de Souza](https://github.com/lucassouzs)   | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
-| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |                             -                              |
+| `1.0`  | 21/09/2023 | Criação do documento      | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Zenilda Vieira](https://github.com/zenildavieira) |
+| `1.1`  | 29/09/2023 | Adição do link da reunião |  [Lucas Ribeiro](https://github.com/lucassouzs)   | [Zenilda Vieira](https://github.com/zenildavieira) |
+| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Vieira](https://github.com/zenildavieira) |                             -                              |

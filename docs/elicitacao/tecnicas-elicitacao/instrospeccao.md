@@ -63,5 +63,5 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
-|`1.0`|23/09/2023|Criação do documento|[Izabella Alves Pereira](https://github.com/izabellaalves)|[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
-|`1.1`|23/09/2023|Preenchimento da tabela com a adição dos resultados da Introspecção|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Izabella Alves Pereira](https://github.com/izabellaalves)|
+|`1.0`|23/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Víctor](https://github.com/Lucas13032003)|
+|`1.1`|23/09/2023|Preenchimento da tabela com a adição dos resultados da Introspecção|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Izabella Alves](https://github.com/izabellaalves)|

@@ -4,9 +4,9 @@
 
 No contexto do aplicativo Economia-DF, a técnica de observação de requisitos desempenha um papel fundamental na coleta de informações. Essa abordagem envolve a observação direta das interações dos usuários com o aplicativo, os processos envolvidos e o ambiente de uso.
 
-Neste caso, o usuário real foi [Gabriel Zaranza](https://github.com/GZaranza) , que interagiu com o aplicativo enquanto executava tarefas específicas. Para facilitar a observação e garantir que todos os aspectos fossem registrados com precisão, o desenvolvedor [Lucas Victor](https://github.com/Lucas13032003) atuou como mediador, acompanhando e registrando as ações de Gabriel.
+Neste caso, o usuário real foi [Gabriel Zaranza](https://github.com/GZaranza) , que interagiu com o aplicativo enquanto executava tarefas específicas. Para facilitar a observação e garantir que todos os aspectos fossem registrados com precisão, o desenvolvedor [Lucas Víctor](https://github.com/Lucas13032003) atuou como mediador, acompanhando e registrando as ações de Gabriel.
 
-Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabriel Zaranza](https://github.com/GZaranza) com o aplicativo Economia-DF, identificando desafios, necessidades e oportunidades de melhoria. Mesmo com [Lucas Victor](https://github.com/Lucas13032003) atuando como mediador, a técnica de observação de requisitos desempenhou um papel fundamental na otimização do aplicativo para atender às demandas dos usuários de forma mais eficaz.
+Essa estratégia permitiu obter insights valiosos sobre a experiência de [Gabriel Zaranza](https://github.com/GZaranza) com o aplicativo Economia-DF, identificando desafios, necessidades e oportunidades de melhoria. Mesmo com [Lucas Víctor](https://github.com/Lucas13032003) atuando como mediador, a técnica de observação de requisitos desempenhou um papel fundamental na otimização do aplicativo para atender às demandas dos usuários de forma mais eficaz.
 
 ## Metodologia
 
@@ -20,7 +20,7 @@ No dia 28 de setembro de 2023, a equipe se reuniu no local Teamas com o objetivo
 
 | Nome                                             | Função                   |
 | ------------------------------------------------ | ------------------------ |
-| [Lucas Victor](https://github.com/Lucas13032003)  | Observador               |
+| [Lucas Víctor](https://github.com/Lucas13032003)  | Observador               |
 | [Gabriel Zaranza](https://github.com/GZaranza) | Usuário |
 
 <div align="center">
@@ -82,8 +82,8 @@ Legenda das Tabelas 2 e 3:
 
 | Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
-| `1.0`  | 01/10/2023 | Criação do documento |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)  | [Izabella Alves Pereira](https://github.com/izabellaalves)|
-| `1.3`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro de Souza](https://github.com/lucassouzs) | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
-| `1.4`  | 02/10/2023 | Adiçao dos requisitos |[Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)| [Gabriel da Silva Rosa](https://github.com/gabrielrosa09) |
+| `1.0`  | 01/10/2023 | Criação do documento |[Lucas Víctor](https://github.com/Lucas13032003)  | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.1`  | 01/10/ 2023 | Adição de metologia |[Lucas Víctor](https://github.com/Lucas13032003)  | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.2`  | 01/10/ 2023 | Adição de tabelas |[Lucas Víctor](https://github.com/Lucas13032003)  | [Izabella Alves](https://github.com/izabellaalves)|
+| `1.3`  | 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+| `1.4`  | 02/10/2023 | Adiçao dos requisitos |[Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](https://github.com/gabrielrosa09) |

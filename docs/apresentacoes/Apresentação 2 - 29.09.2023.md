@@ -6,11 +6,12 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 
 ## Vídeo da Apresentação
 
+<div align="center">
+
 <p style="text-align: center"><a href="https://youtu.be/kUzoA0GES9s" target="blanket">Requisitos - Apresentação 2</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUzoA0GES9s" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 </div >
 
@@ -18,4 +19,4 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|18/10/2023|Criação do documento|[Lucas Ribeiro de Souza](https://github.com/lucassouzs)|[Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|18/10/2023|Criação do documento|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
