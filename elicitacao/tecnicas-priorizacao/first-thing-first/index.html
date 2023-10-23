@@ -1063,35 +1063,35 @@
         
           <li class="md-nav__item">
   <a href="#o-valor-total" class="md-nav__link">
-    O valor total:
+    O valor total
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-valor" class="md-nav__link">
-    O valor %:
+    O valor %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-custo" class="md-nav__link">
-    O custo %:
+    O custo %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-risco" class="md-nav__link">
-    O risco %:
+    O risco %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-prioridade" class="md-nav__link">
-    O prioridade:
+    O prioridade
   </a>
   
 </li>
@@ -1327,35 +1327,35 @@
         
           <li class="md-nav__item">
   <a href="#o-valor-total" class="md-nav__link">
-    O valor total:
+    O valor total
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-valor" class="md-nav__link">
-    O valor %:
+    O valor %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-custo" class="md-nav__link">
-    O custo %:
+    O custo %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-risco" class="md-nav__link">
-    O risco %:
+    O risco %
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#o-prioridade" class="md-nav__link">
-    O prioridade:
+    O prioridade
   </a>
   
 </li>
@@ -1408,6 +1408,11 @@
 <h2 id="introducao">Introdução</h2>
 <p>Neste documento, apresentamos o resultado da técnica First Thing First para a priorização dos requisitos elicitados pela equipe. Essa técnica consiste em equilibrar os benefícios de cada funcionalidade com o custo de sua implementação. É necessário envolver representantes dos clientes e do desenvolvimento para alinhar requisitos e regras de negócios. É também levado em conta o risco técnico de cada requisito.</p>
 <h2 id="cronograma-da-reuniao">Cronograma da Reunião</h2>
+<p>Na tabela 1 abaixo consta o cronograma da reunião.</p>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma da Reunião.</p></font>
+</div>
+
 <table>
 <thead>
 <tr>
@@ -1428,38 +1433,47 @@
 </tr>
 </tbody>
 </table>
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+</div>
+
 <h2 id="metodologia">Metodologia</h2>
-<p>A reunião foi marcada pela gerente de projeto <a href="https://github.com/izabellaalves">Izabella Alves</a> para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores (<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>) e uma representante dos clientes (<a href="https://github.com/zenildavieira">Zenilda Vieira</a> no papel da <a href="/docs/elicitacao/personas.md">persona Maria</a>).</p>
+<p>A reunião foi marcada pela gerente de projeto <a href="https://github.com/izabellaalves">Izabella Alves</a> para ser realizada pelo teams, no dia 30/09/2023 às 16h e foram convocados um representante dos desenvolvedores (<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>) e uma representante dos clientes (<a href="https://github.com/zenildavieira">Zenilda Vieira</a> no papel da <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md">persona Maria</a>).</p>
 <p>Essa reunião foi gravada e foi preenchida uma tabela com as seguintes colunas: "Benefício Relativo", "Penalidade Relativa", "Custo Relativo" e "Risco Relativo".</p>
 <p>Cada linha da tabela representava um requisito elicitado. Após a gerente ler o requisito, a cliente Maria classificava de 1 a 9 o benefício relativo (onde 1 é menos significativo e 9 o máximo) e a penalidade relativa (onde 1 significa que não há penalidade se o requsito não for implementado e 9 indica uma grande desvantagem). </p>
 <p>Em seguida, o desenvolvedor Gabriel classificava de 1 a 9 o custo relativo (considerando a complexidade da implementação, a interface de usuário necessária, a capacidade potencial de reutilização de telas ou código e os testes e documentações necessários) e o risco relativo (onde 1 significa muito fácil de programar e 9 indica sérias preocupações sobre viabilidade, disponibilidade de pessoal com o conhecimento necessário ou uso de ferramentas e tecnologias desconhecidas).</p>
 <p>Após o preenchimento dessa tabela para todos os requisitos elicitados, foram calculados:</p>
-<h3 id="o-valor-total">O valor total:</h3>
+<h3 id="o-valor-total">O valor total</h3>
 <ul>
 <li>( benefício relativo * peso relativo ) + ( penalidade relativa * peso relativo )</li>
 <li>Foi usado o peso relativo dos benefícios igual a 2 e o peso relativo das penalidades igual a 1, para dar maior importância aos benefícios.</li>
 </ul>
-<h3 id="o-valor">O valor %:</h3>
+<h3 id="o-valor">O valor %</h3>
 <ul>
 <li>( valor total / soma de todos os valores totais ) * 100 %</li>
 </ul>
-<h3 id="o-custo">O custo %:</h3>
+<h3 id="o-custo">O custo %</h3>
 <ul>
 <li>( custo relativo / soma de todos os custos relativos ) * 100 %</li>
 </ul>
-<h3 id="o-risco">O risco %:</h3>
+<h3 id="o-risco">O risco %</h3>
 <ul>
 <li>( risco relativo / soma de todos os riscos relativos ) * 100 %</li>
 </ul>
-<h3 id="o-prioridade">O prioridade:</h3>
+<h3 id="o-prioridade">O prioridade</h3>
 <ul>
 <li>valor % / ( ( custo % * peso custo ) +  ( risco % * peso risco ) )</li>
 <li>Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.</li>
 </ul>
 <p>E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultando no que é mostrado na Figura 1 abaixo.</p>
-<p><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/tabela-first-thing-first.png?raw=true"></p>
-<p><strong>Figura 1:</strong> Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First  <br>
-Fonte: Autores.</p>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First.</p></font>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/tabela-first-thing-first.png?raw=true">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+</div>
+
 <h2 id="link-da-gravacao">Link da Gravação</h2>
 <p><a href="https://youtu.be/bedI9YdRKF8">Priorização - First Thing First</a></p>
 <h2 id="bibliografia">Bibliografia</h2>
