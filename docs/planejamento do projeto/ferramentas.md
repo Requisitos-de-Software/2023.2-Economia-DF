@@ -23,6 +23,7 @@ Neste documento, descrevemos as ferramentas que usamos ou usaremos para apoiar a
 
 
 *Tabela 1 - Ferramentas Utilizadas*
+
 ## Referências Bibliograficas
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 12 de set. de 2023.

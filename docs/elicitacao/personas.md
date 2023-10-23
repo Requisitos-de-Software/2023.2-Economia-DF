@@ -1,9 +1,11 @@
 # Personas
 
 # Introdução
+
 Personas são representações fictícias e generalizadas de clientes ideais. Elas são personagens representativos do público-alvo da empresa, criadas para facilitar o processo de design e comunicação. Cada persona deve possuir características que resumam bem os usuários "típicos", tornando-as ferramentas eficientes para tomada de decisões [1].
 
 ## Metodologia
+
 A criação de personas é um processo que envolve pesquisa, análise de dados e empatia para compreender profundamente o público-alvo. Neste projeto, utilizamos a seguinte metodologia:
 
 1. **Coleta de Dados:** Realizamos a coleta de dados dos usuários por meio de um questionário. As perguntas incluíram informações como idade, sexo, experiência em finanças e atitudes em relação à tecnologia.
@@ -20,6 +22,7 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
 
 **Nome: Luiz Silva Sauro**
+
 - **Idade:** 52 anos
 - **Gênero:** Masculino
 - **Experiência:** Especialista em economia
@@ -32,12 +35,12 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
   
 **Nome: Maria dos Santos Aveiro**
 
-- Idade: 50 anos
-- Sexo: Feminino
-- Escolaridade: Graduada em Administração
-- Afinidade com tecnologia: Média
-- Frequência: Utiliza computador e celular diariamente
-- Objetivo: Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
+- **Idade:** 50 anos
+- **Gênero:** Feminino
+- **Escolaridade:** Graduada em Administração
+- **Afinidade com tecnologia:** Média
+- **Frequência:** Utiliza computador e celular diariamente
+- **Objetivo:** Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 
 ### Persona Secundária 1: Pedro Ribeiro (Estudante)
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa%203.jfif?raw=true" width= "150px">
@@ -87,11 +90,10 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Atitudes:** Não utiliza smartphones e não gosta de tecnologia
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
 
-## Referências Bibliograficas
+## Referências Bibliográficas
 > <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > <br/>
 > <a id="QT2" href="#anchor_1">2.</a>This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
-
 
 ## Histórico de Versões
 

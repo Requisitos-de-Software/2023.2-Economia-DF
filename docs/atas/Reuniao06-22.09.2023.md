@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      20:15       |      22:02        |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
 ## Pauta
@@ -57,7 +57,7 @@ Deverá ser realizado um documento com persona primária, secundária, terciári
 ![Atribuições de IHC e Requisitos](/docs/imagens/atas/atribuicoes_ihc_req.png)
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
 ## Atividades de correções em Requisitos
@@ -81,7 +81,7 @@ Na tabela 2 encontram-se as atividades de correção dos artefatos da Entrega 1 
 |Padronizar Histórico de Versões, todos começando com 1.0|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)|
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel da Silva Rosa](https://github.com/gabrielrosa09).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div>
 
 ## Conclusão

@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      20:38h      |      21:11        |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Izabella Alves Pereira](https://github.com/izabellaalves).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
 </div>
 
 ## Pauta
@@ -54,7 +54,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Continuar trabalhando no cronograma|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                  |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Izabella Alves Pereira](https://github.com/izabellaalves).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
 </div>
 
 ## Conclusão

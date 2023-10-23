@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      20:18       |      20:51        |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas Ribeiro de Souza](https://github.com/lucassouzs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 </div>
 
 ## Pauta
@@ -50,7 +50,7 @@ Na tabela 2 encontra-se a atividade definida e todos os integrantes do grupo com
 |Procurar e trazer um aplicativo para a próxima reunião que será no dia 05.09.2023, próxima terça-feira | [Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira)  |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas Ribeiro de Souza](https://github.com/lucassouzs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
 </div>
 
 ## Conclusão

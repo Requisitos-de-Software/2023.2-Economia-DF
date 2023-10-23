@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      21:10       |      22:11        |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Pessoa Zaranza](https://github.com/GZaranza).</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 </div>
 
 
@@ -43,6 +43,8 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma delas.
 
 <div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades.</b></p></font>
+</div>
 
 |Tarefa                                          |Responsável                    |
 |------------------------------------------------|:-----------------------------:|
@@ -53,9 +55,8 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Rich picture|[Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br> [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003)|
 |Documento lista de aplicativos avaliados|[Gabriel da Silva Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Pessoa Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves Pereira](https://github.com/izabellaalves) <br>  [Lucas Ribeiro de Souza](https://github.com/lucassouzs) <br>  [Lucas Victor Ferreira de Araújo](https://github.com/Lucas13032003) <br> [Lucas de Oliveira Dias Marques Ferreira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Pedrosa Vieira](https://github.com/zenildavieira) |
 
-<font size="3"><p style="text-align: center"><b>Tabela 2 - Atividades.</b></p></font>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Gabriel Pessoa Zaranza](https://github.com/GZaranza).</p></font>
-
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
 </div>
 
 ## Conclusão

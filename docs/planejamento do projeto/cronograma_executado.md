@@ -1,6 +1,7 @@
 # Cronograma Executado do Projeto
 
 ## Introdução
+
 Este documento representa o registro detalhado e cronológico das ações e tarefas realizadas ao longo de um período determinado. Nele, você encontrará uma análise minuciosa das atividades que foram planejadas e executadas com sucesso, refletindo o comprometimento e a dedicação da nossa equipe na busca dos nossos objetivos.
 
 ## Entrega 1 - Planejamento do Projeto - Data de Entrega: 20/set/2023

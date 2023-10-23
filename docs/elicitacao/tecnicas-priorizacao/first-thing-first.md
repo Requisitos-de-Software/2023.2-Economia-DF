@@ -6,10 +6,19 @@ Neste documento, apresentamos o resultado da técnica First Thing First para a p
 
 ## Cronograma da Reunião
 
+Na tabela 1 abaixo consta o cronograma da reunião.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma da Reunião.</p></font>
+</div>
+
 | Data | Hora | Local | Assunto | Participantes |
 | :--: | :--: | :---: | ------- | ------------ |
 | 30/09/2023 | 16h | Teams | Priorização de requisitos elicitados utilizando a técnica First Thing First | Desenvolvedor [Gabriel Rosa](https://github.com/gabrielrosa09) <br> Gerente [Izabella Alves](https://github.com/izabellaalves) <br> Persona Maria ([Zenilda Vieira](https://github.com/zenildavieira))
 
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+</div>
 
 ## Metodologia
 
@@ -23,35 +32,48 @@ Em seguida, o desenvolvedor Gabriel classificava de 1 a 9 o custo relativo (cons
 
 Após o preenchimento dessa tabela para todos os requisitos elicitados, foram calculados:
 
-### O valor total: 
-   - ( benefício relativo * peso relativo ) + ( penalidade relativa * peso relativo )
-   - Foi usado o peso relativo dos benefícios igual a 2 e o peso relativo das penalidades igual a 1, para dar maior importância aos benefícios.
-### O valor %: 
-   - ( valor total / soma de todos os valores totais ) * 100 %
-### O custo %: 
-   - ( custo relativo / soma de todos os custos relativos ) * 100 %
-### O risco %: 
-   - ( risco relativo / soma de todos os riscos relativos ) * 100 %
-### O prioridade: 
-   - valor % / ( ( custo % * peso custo ) +  ( risco % * peso risco ) )
-   - Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
+### O valor total
+
+- ( benefício relativo * peso relativo ) + ( penalidade relativa * peso relativo )
+- Foi usado o peso relativo dos benefícios igual a 2 e o peso relativo das penalidades igual a 1, para dar maior importância aos benefícios.
+
+### O valor %
+
+- ( valor total / soma de todos os valores totais ) * 100 %
+
+### O custo %
+
+- ( custo relativo / soma de todos os custos relativos ) * 100 %
+
+### O risco %
+
+- ( risco relativo / soma de todos os riscos relativos ) * 100 %
+
+### O prioridade
+
+- valor % / ( ( custo % * peso custo ) +  ( risco % * peso risco ) )
+- Foi usado o peso relativo do custo e o peso relativo do risco iguais a 1.
 
 E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultando no que é mostrado na Figura 1 abaixo.
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First.</p></font>
+
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/tabela-first-thing-first.png?raw=true">
 
-**Figura 1:** Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First  <br>
-Fonte: Autores.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+</div>
 
 ## Link da Gravação
 
 [Priorização - First Thing First](https://youtu.be/bedI9YdRKF8)
 
 ## Bibliografia
+
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 30/09/2023.
 
-
 ## Histórico de Versões
+
 | Versão | Data       | Descrição            | Autor                                                      | Revisor                                     |
 | :----: | ---------- | -------------------- | :--------------------------------------------------------: | :-----------------------------------------: |
 | `1.0`  | 30/09/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |

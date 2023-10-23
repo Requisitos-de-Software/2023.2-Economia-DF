@@ -28,8 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      20:00       |      20:41        |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</</div>
 
 ## Pauta
 
@@ -56,8 +55,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Revisar documento feito para a apresentação|[Zenilda Pedrosa Vieira](https://github.com/zenildavieira)                   |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira).</p></font>
-</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</</div>
 
 ## Conclusão
 

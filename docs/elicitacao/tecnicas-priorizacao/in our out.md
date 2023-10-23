@@ -6,18 +6,29 @@ Depois de coletar os requisitos usando as técnicas de Brainstorming, Introspec�
 
 ## Cronograma da Reunião
 
+Na tabela 1 abaixo consta o cronograma da reunião.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma da Reunião.</p></font>
+</div>
+
 | Data | Hora | Local | Assunto | Mediador | Participante |
 | :--: | :--: | :---: | ------- | ------------ | ----- |
 | 01/10/2023 | 10h | Teams | Priorização de requisitos elicitados utilizando a técnica In our Out |[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 
-**Tabela 1**: Cronograma da reunião
-Fonte: [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Zaranza](https://github.com/GZaranza)
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+</div>
 
 ## Metodologia
 
 A técnica In or Out consiste em classificar os requisitos em duas categorias: dentro ou fora do escopo do projeto. Essa classificação é feita com base em critérios previamente definidos, como o alinhamento com os objetivos do projeto, o valor para o cliente, a viabilidade técnica e financeira, entre outros. A vantagem dessa técnica é que ela é simples e rápida de aplicar, permitindo eliminar os requisitos que não são essenciais ou que trazem poucos benefícios. A técnica foi aplicada utilizando o membro do grupo [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) atuando como a persona primaria [Luiz Silva Sauro](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/edit/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-1-luiz-economista) e o membro [Gabriel Zaranza](https://github.com/GZaranza) fazendo o papel do desenvolvedor do aplicativo.
 
-## Tabela de Requisitos 
+## Tabela de Requisitos
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de Requisitos.</p></font>
+</div>
 
 | Requisitos | Prioridades |
 | -------- | -------- |
@@ -52,6 +63,10 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | In |
 | O usuário deve conseguir emitir a segunda via da dívida ativa | In |
 
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+</div>
+
 ## Link da Gravação
 
 [Priorização - In or Out](https://youtu.be/ZGJE0HVMErI)
@@ -59,7 +74,6 @@ A técnica In or Out consiste em classificar os requisitos em duas categorias: d
 ## Bibliografia
 
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 01/10/2023.
-
 
 ## Histórico de Versões
 

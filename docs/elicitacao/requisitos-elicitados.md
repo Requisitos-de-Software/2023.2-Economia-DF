@@ -13,7 +13,6 @@ Essa abordagem de registro em tabela oferece uma visão organizada e estruturada
 A legenda para cada sigla é a seguinte:
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para a tabela 2 de requisitos do Economia - DF. </p></font>
 
 <table>
@@ -48,14 +47,13 @@ A legenda para cada sigla é a seguinte:
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
-
 </div >
 
 ## Tabela de requisitos elicitados
 
 <div align="center">
-
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos elicitados do aplicativo Economia - DF.</p></font>
+</div >
 
 | ID   | Código | Descrição                                                                                      | Implementado | Rastreabilidade |
 |------|--------|------------------------------------------------------------------------------------------------|--------------| ------ |
@@ -90,8 +88,8 @@ A legenda para cada sigla é a seguinte:
 |INT29| RNF  | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Não | BS, O |
 |INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Não | BS, O  |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>,, 2023.</p></font>
-
+<div align="center">
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
 </div >
 
 ## Histórico de Versões
@@ -101,5 +99,3 @@ A legenda para cada sigla é a seguinte:
 |`1.0`|29/09/2023|Criação do documento e adição de tabela|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
 |`1.1`|29/09/2023|Adição da introdução, metodologia e inserindo rastreabilidade da tabela|[Gabriel Rosa](https://github.com/gabrielrosa09)|[Izabella Alves](https://github.com/izabellaalves)|
 |`1.2`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-
-
