@@ -94,7 +94,7 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td>Início: 13/set <br> Fim:14/set</td>
-       <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+       <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
       <td>Criar um Rich Picture do aplicativo escolhido</td>
