@@ -18,8 +18,10 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 
 ## Personas
 
+As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/pt) [2].
+
 ### Persona Primária 1: Luiz Silva Sauro (Economista)
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/persona%20falsa1.jfif?raw=true" width="150px"> 
 
 **Nome: Luiz Silva Sauro**
 
@@ -91,9 +93,11 @@ A criação de personas é um processo que envolve pesquisa, análise de dados e
 - **Descrição:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
 
 ## Referências Bibliográficas
+
 > [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-> <br/>
+> 
 > [2] This-Person-Does-not-Exist.com, 2021-2023. Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+> 
 
 ## Histórico de Versões
 
