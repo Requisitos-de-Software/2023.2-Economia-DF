@@ -9,7 +9,7 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap (fig
 ## Heatmap
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Heatmap de disponibilidade dos integrantes do grupo 1.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Heatmap de disponibilidade dos integrantes do grupo 1</p></font>
 </div>
 
 |       | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
@@ -30,15 +30,15 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap (fig
 | 21:00 | 7       | 7     | 7      | 7      | 7     | 5      |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Heatmap de disponibilidade dos integrantes do grupo 1.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Heatmap de disponibilidade dos integrantes do grupo 1</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/heatmap.png?raw=true" height="300px" >
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Resultados

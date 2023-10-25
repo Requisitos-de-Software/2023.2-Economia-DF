@@ -23,7 +23,7 @@ A usabilidade de um sistema segundo Nielsen é o atributo de qualidade que avali
 Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do aplicativo "Economia DF".
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos de usabilidade.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos de usabilidade</p></font>
 </div>
 
 | ID  | Descrição |
@@ -35,7 +35,7 @@ Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do 
 | RU05 | O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div >
 
 ### R: Confiabilidade (Reliability)
@@ -44,7 +44,7 @@ A Confiabilidade (Reliability) no aplicativo Economia DF se refere à capacidade
 Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade do aplicativo "Economia DF".
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos não funcionais sobre Desempenho.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos não funcionais sobre Desempenho</p></font>
 </div>
 
 | ID  | Descrição |
@@ -58,7 +58,7 @@ Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade 
 | RE07 | Em caso de interrupções não planejadas que afetem o funcionamento do aplicativo, os usuários devem ser informados de maneira clara e precisa sobre o problema, o progresso da solução e o tempo estimado de restauração do serviço. |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div >
 
 ### P: Desempenho (Performance)
@@ -66,7 +66,7 @@ Na tabela 2, é possível ver os Requisitos Não Funcionais para Confiabilidade 
 O desempenho de um sistema é relacionado ao tempo para executar ações e a rapidez que o [usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) realiza suas tarefas. É importante garantir um alto desempenho para que a produtividade do usuário seja elevada. Na tabela 3 é possível encontrar requisitos não funcionais relacionados ao desempenho do Economia DF.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos não funcionais sobre Desempenho.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos não funcionais sobre Desempenho</p></font>
 </div>
 
 | ID  | Descrição |
@@ -77,7 +77,7 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 | PE04  | O tempo de resposta de uma pesquisa de documentos tem que ser inferior a 1 segundo |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div >
 
 ### S: Suporte (Supportability)
@@ -125,7 +125,7 @@ A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos 
 Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF".
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais sobre Ajuda e Documentação.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais sobre Ajuda e Documentação</p></font>
 </div>
 
 | ID  | Descrição |
@@ -139,7 +139,7 @@ Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documen
 | AD07 | A documentação deve aderir a padrões de acessibilidade, como WCAG 2.0 [1] ou posterior, para garantir que seja utilizável por todos os usuários, incluindo aqueles com deficiências. |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div >
 
 ### +: Interfaces

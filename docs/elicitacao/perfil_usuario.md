@@ -13,7 +13,7 @@ A definição do perfil de usuário do aplicativo Economia DF foi cuidadosamente
 Após a análise dos resultados obtidos pelo [questionario](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/questionario.md) e [grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/grupo_de_foco.md) a equipe definiu o perfil de usuário do aplicativo Economia DF, que pode ser encontrado na Tabela 1:
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela do perfil de usuário do aplicativo Economia DF.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela do perfil de usuário do aplicativo Economia DF</p></font>
 
 <table>
   <thead>
@@ -46,7 +46,7 @@ Após a análise dos resultados obtidos pelo [questionario](https://github.com/R
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Bibliografia

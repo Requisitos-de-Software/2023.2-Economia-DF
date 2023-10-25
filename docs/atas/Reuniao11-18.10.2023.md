@@ -26,7 +26,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      20:13       |      21:06        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Pauta
@@ -50,7 +50,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 |Colocar o cronograma dentro do In our Out|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Conclusão

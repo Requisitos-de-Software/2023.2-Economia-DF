@@ -11,7 +11,7 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 [//]: #(GrupoDeFoco)
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Participantes do Grupo de Foco.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Participantes do Grupo de Foco</p></font>
 </div>
 
 | Participante                                             | Função       |
@@ -27,7 +27,7 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 | Ana Cristina Ferreira de Araújo | Entrevistado |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Roteiro

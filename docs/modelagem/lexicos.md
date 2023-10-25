@@ -10,7 +10,7 @@ Os léxicos do sistema Economia DF foram identificados a partir da utilização 
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Modelo dos léxicos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Modelo dos léxicos</p></font>
 </div>
 
 
@@ -19,7 +19,7 @@ Os léxicos do sistema Economia DF foram identificados a partir da utilização 
 | Nome  | Objeto/Verbo/Estado | Significado do símbolo (denotação) | Descrição do efeito/uso/ocorrência (conotação) | Termo(s) alternativo(s) | Integrante do grupo que realizou essa descrição |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Objetos
@@ -28,7 +28,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Objetos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Léxicos classificados como Objetos</p></font>
 </div>
 
 
@@ -48,7 +48,7 @@ Os léxicos do tipo objeto referem-se às entidades, elementos ou objetos que s�
 | <a id="danfe">DANFE</a> | Objeto | É um documento auxiliar que acompanha a NFe quando a mesma é impressa em papel. Ele contém informações resumidas da NFe e é utilizado para acompanhar o transporte das mercadorias e cumprir requisitos legais.| Acompanha NFe impressa, fornecendo informações resumidas. | Documento Auxiliar da Nota Fiscal Eletrônica|<a href="https://github.com/zenildavieira">Zenilda Vieira</a> |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Objetos, 2023.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Objetos, 2023</p></font>
 
 </div>
 
@@ -58,7 +58,7 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Léxicos classificados como Verbos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Léxicos classificados como Verbos</p></font>
 </div>
 
 
@@ -73,7 +73,7 @@ Os léxicos do tipo verbo representam ações ou operações que os usuários po
 | <a id="lançar">Lançar</a> | Verbo | Inclusão de informações dos <a href="#usuarios">usuários</a> em registros.| Registra transações financeiras ou fiscais de um <a href="#usuario">usuário</a> em um sistema.|Registrar| <a href="https://github.com/zenildavieira">Zenilda Vieira</a> |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Verbos, 2023.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Verbos, 2023</p></font>
 
 </div>
 
@@ -83,7 +83,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Léxicos classificados como Estados.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Léxicos classificados como Estados</p></font>
 </div>
 
 
@@ -97,7 +97,7 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Estados, 2023.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autores das descrições dos léxicos classificados como Estados, 2023</p></font>
 
 </div>
 

@@ -29,7 +29,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |     20:27        |      22:10       |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Pauta
@@ -46,7 +46,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issues-IHC2-06-10-2023.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma delas para a entrega 3 de RQS.
@@ -56,7 +56,7 @@ Na figura 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issues_RQS3-06-10-2023.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Conclusão

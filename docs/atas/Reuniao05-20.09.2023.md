@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado:    |      21:10       |      21:50        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ## Pauta
@@ -51,7 +51,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Roteiro de perguntas |[Gabriel Zaranza](https://github.com/GZaranza)               |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ## Atividades relacionadas a elicitação de requisitos - até seg 25/09 23h59
@@ -69,7 +69,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Documento de perfil e requisitos elicitados |[Gabriel Rosa](https://github.com/gabrielrosa09) <br> [Gabriel Zaranza](https://github.com/GZaranza)  |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ## Conclusão

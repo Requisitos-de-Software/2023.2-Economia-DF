@@ -14,11 +14,11 @@ A equipe do projeto elaborou uma [lista de aplicativos](https://requisitos-de-so
 ## Economia DF
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Economia DF.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Economia DF</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/economia%20df%20icone.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR">Google Play</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/apps/details?id=br.gov.df.fazenda.sefacil&hl=pt_BR">Google Play</a>, 2023</p></font>
 </div>
 
 A principio, a equipe optou pelo [ConecteSUS](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR&gl=US), que é uma plataforma do governo federal brasileiro para integrar e informatizar informações e serviços do SUS (Sitema Único de Saúde). O aplicativo conta com diversas funcionalidades como cartão de vacinas, agendamento e visualização de exames/consultas, contatos e informações sobre a rede de saúde pública.

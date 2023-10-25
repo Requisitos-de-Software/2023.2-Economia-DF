@@ -11,11 +11,11 @@ A aplicação [draw.io](https://www.drawio.com/) foi empregada para criar tanto 
 ### Figura 1: Rich Picture
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Rich Picture do aplicativo Economia-DF.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Rich Picture do aplicativo Economia-DF</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/RichPicture.drawio.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ## Bibliografia

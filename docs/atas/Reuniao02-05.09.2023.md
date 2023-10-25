@@ -28,7 +28,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |      21:10       |      22:11        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 
@@ -56,7 +56,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 |Documento lista de aplicativos avaliados|[Gabriel Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves](https://github.com/izabellaalves) <br>  [Lucas Ribeiro](https://github.com/lucassouzs) <br>  [Lucas Víctor](https://github.com/Lucas13032003) <br> [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) <br> [Zenilda Vieira](https://github.com/zenildavieira) |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Conclusão

@@ -15,7 +15,7 @@ No dia 28 de setembro de 2023, a equipe se reuniu no local Teamas com o objetivo
 ### Participantes
 
 <div align="center">
-<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 </div>
 
 | Nome                                             | Função                   |
@@ -24,7 +24,7 @@ No dia 28 de setembro de 2023, a equipe se reuniu no local Teamas com o objetivo
 | [Gabriel Zaranza](https://github.com/GZaranza) | Usuário |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Requisitos elicitados
@@ -38,7 +38,7 @@ Legenda das Tabelas 2 e 3:
 ### Funcionais
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos Funcionais.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos Funcionais</p></font>
 </div>
 
 | Tipo | Descrição                                                                                                             | ID    | Implementado |
@@ -51,13 +51,13 @@ Legenda das Tabelas 2 e 3:
 | RF06 | Os usuários devem poder indicar os benefícios obtidos pelo programa Nota Legal.                                        | OBS06 | Não          |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Não funcionais
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos Não-Funcionais.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos Não-Funcionais</p></font>
 </div>
 
 | Tipo  | Descrição                                           | ID   | Implementado |
@@ -67,7 +67,7 @@ Legenda das Tabelas 2 e 3:
 | RNF03 | Modo escuro                                         | OBS9 | Não          |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Link da Gravação

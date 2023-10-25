@@ -29,7 +29,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Realizado     |     19:54       |     21:07       |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Pauta
@@ -47,7 +47,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/issues-IHC2-04-10-2023.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 Na figura 2 encontram-se as atividades definidas para corrigir os artefatos da entrega 1 de RQS.
@@ -57,7 +57,7 @@ Na figura 2 encontram-se as atividades definidas para corrigir os artefatos da e
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/atas/correcoes-RQS-entrega01.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Conclusão

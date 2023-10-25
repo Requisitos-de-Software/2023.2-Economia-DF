@@ -9,7 +9,7 @@ Neste documento, apresentamos o resultado da técnica First Thing First para a p
 Na tabela 1 abaixo consta o cronograma da reunião.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma da Reunião.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma da Reunião</p></font>
 </div>
 
 | Data | Hora | Local | Assunto | Participantes |
@@ -17,7 +17,7 @@ Na tabela 1 abaixo consta o cronograma da reunião.
 | 30/09/2023 | 16h | Teams | Priorização de requisitos elicitados utilizando a técnica First Thing First | Desenvolvedor [Gabriel Rosa](https://github.com/gabrielrosa09) <br> Gerente [Izabella Alves](https://github.com/izabellaalves) <br> Persona Maria ([Zenilda Vieira](https://github.com/zenildavieira))
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Metodologia
@@ -57,11 +57,11 @@ Após o preenchimento dessa tabela para todos os requisitos elicitados, foram ca
 E, por fim, a tabela foi reordenada em ordem decrescente de prioridade resultando no que é mostrado na Figura 1 abaixo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Tabela utilizada na priorização dos requisitos utilizando a técnica First Thing First</p></font>
 
 <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/tabela-first-thing-first.png?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Link da Gravação

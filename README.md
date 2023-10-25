@@ -1,11 +1,11 @@
 # 2023.2 EconomiaDF
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Economia DF.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Economia DF</p></font>
 
 <img src="https://play-lh.googleusercontent.com/dBzTynkXhy6O4nTh4dblgAEI5AKs7uF9y5pT0424CBuzWWrBtk-Z2BFKtL8oNjQrVA" width="300">
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://play.google.com/store/search?q=economia%20df&c=apps&hl=en_US">Google Play</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/search?q=economia%20df&c=apps&hl=en_US">Google Play</a>, 2023</p></font>
 </div>
 
 ## Sobre o projeto

@@ -8,10 +8,10 @@ A validação de casos de uso é uma etapa crucial no processo de desenvolviment
 
 O documento em questão trata da validação dos [Casos de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md) do aplicativo Economia DF, ele foi feito após a equipe desenvolver o diagrama de casos de uso e o detalhamento de cada caso de uso. 
 
-A validação aconteceu no dia, local, horário e com os participantes descritos na tabela 1. A mediadora [Izabella Alves](https://github.com/izabellaalves) iniciou a sessão lendo o termo de uso para a participante [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-2-maria-administradora), persona que foi representada por [Zenilda Vieira](https://github.com/zenildavieira), e depois da confirmação da participante, a sessão foi seguida. Todos os casos de uso foram lidos e validados pela participante, além do diagrama.
+A validação aconteceu no dia, local, horário e com os participantes descritos na tabela 1. A mediadora [Izabella Alves](https://github.com/izabellaalves) iniciou a sessão lendo o termo de uso para a participante [Maria](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/personas.md#persona-prim%C3%A1ria-2-maria-dos-santos-aveiro-administradora), persona que foi representada por [Zenilda Vieira](https://github.com/zenildavieira), e depois da confirmação da participante, a sessão foi seguida. Todos os casos de uso foram lidos e validados pela participante, além do diagrama.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso</p></font>
 
 <table>
   <thead>
@@ -34,7 +34,7 @@ A validação aconteceu no dia, local, horário e com os participantes descritos
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ## Gravação

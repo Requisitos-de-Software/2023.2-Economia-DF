@@ -20,7 +20,7 @@ A elaboração dos cenários foi realizada a partir da identificação das princ
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Definição de membro da equipe que trabalhou em determinado cenário.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Definição de membro da equipe que trabalhou em determinado cenário</p></font>
 
 <table>
   <thead>
@@ -61,7 +61,7 @@ A elaboração dos cenários foi realizada a partir da identificação das princ
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p></font>
 </div>
 
 ## Cenários
@@ -86,7 +86,7 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ### Consultar veículos
@@ -95,7 +95,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar Veículos".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar Veículos"</p></font>
 </div>
 
 
@@ -110,7 +110,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Consultar imóveis
@@ -119,7 +119,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Imóveis".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Imóveis"</p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
@@ -133,7 +133,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 </div>
 
@@ -142,7 +142,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 4.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais"</p></font>
 </div>
 
 
@@ -157,7 +157,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 | Exceção     | Erro de conexão com a internet<br> Celular com sistema Android 
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ### Consultar outros Tributos
@@ -165,7 +165,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 5.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos"</p></font>
 </div>
   
 | Elemento    | Descrição                                                                            |
@@ -179,7 +179,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
 ### Consultar Parcelamentos Administrativos
@@ -187,7 +187,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 6.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos"</p></font>
 </div>
 
 | Elemento    | Descrição                                                                            |
@@ -201,7 +201,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 | Exceção     |Erro de conexão com a internet</br>Celular com sistema Androi|
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ### Fale conosco
@@ -209,7 +209,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 7.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco".</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco"</p></font>
 </div>
 
 
@@ -224,7 +224,7 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 | Exceção     | Erro de conexão com a internet<br> O *usuário* não tem correio eletrônico |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Referência Bibliográfica

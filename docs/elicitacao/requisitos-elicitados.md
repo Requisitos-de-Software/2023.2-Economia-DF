@@ -46,13 +46,13 @@ A legenda para cada sigla é a seguinte:
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div >
 
 ## Tabela de requisitos elicitados
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos elicitados do aplicativo Economia - DF.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos elicitados do aplicativo Economia - DF</p></font>
 </div >
 
 | ID   | Código | Descrição                                                                                      | Implementado | Rastreabilidade |
@@ -89,7 +89,7 @@ A legenda para cada sigla é a seguinte:
 |INT30| RF  | O usuário deve conseguir emitir a segunda via da dívida ativa | Não | BS, O  |
 
 <div align="center">
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div >
 
 ## Histórico de Versões
