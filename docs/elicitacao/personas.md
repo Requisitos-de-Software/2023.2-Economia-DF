@@ -109,3 +109,4 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 | `1.3`  | 01/10/2023 | Adição das imagens das personas.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
 | `1.4`  | 17/10/2023 | Arrumando a introdução      | [Gabriel Zaranza](https://github.com/GZaranza) | [Lucas Víctor ](https://github.com/Lucas13032003)|
 | `1.5`  | 20/10/2023 | Adição dos sobrenomes.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
+| `1.6`  | 25/10/2023 | Correção de referência bibliográfica       | [Zenilda Vieira ](https://github.com/zenildavieira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
