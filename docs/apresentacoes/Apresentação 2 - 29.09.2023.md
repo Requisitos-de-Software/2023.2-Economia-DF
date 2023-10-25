@@ -8,7 +8,7 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/kUzoA0GES9s" target="blanket">Requisitos - Apresentação 2</a></p>
+<p style="text-align: center"><a href="https://youtu.be/kUzoA0GES9s" target="blanket"><b>Vídeo 1:</b> Requisitos - Apresentação 2</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUzoA0GES9s" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
