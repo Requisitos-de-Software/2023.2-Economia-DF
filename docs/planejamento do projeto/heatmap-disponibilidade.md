@@ -45,6 +45,11 @@ O mapeamento da disponibilidade dos integrantes foi feito usando um Heatmap (fig
 
 Nos baseando nos resultados obtidos no Heatmap preenchido pela equipe, as reuniões semanais do Grupo 01 ficaram marcadas para **quarta-feira às 20h** e **sexta-feira às 20h**.
 
+## Bibliografia
+
+> TUFTE, Edward R. The Visual Display of Quantitative Information. 2. ed. Cheshire, CT: Graphics Press, 2001.
+>
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                 | Autor                                              |                      Revisor                       |
