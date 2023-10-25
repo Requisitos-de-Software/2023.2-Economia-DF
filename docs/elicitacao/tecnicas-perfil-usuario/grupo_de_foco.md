@@ -12,21 +12,54 @@ A técnica do Grupo de Foco foi empregada para traçar o perfil do usuário. Uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Participantes do Grupo de Foco</p></font>
-</div>
 
-| Participante                                             | Função       |
-| -------------------------------------------------------- | ------------ |
-| [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| Recrutador |
-| [Lucas Víctor](https://github.com/Lucas13032003) | Recrutador |
-| [Lucas Ribeiro](https://github.com/lucassouzs) | Roteirista |
-| [Gabriel Zaranza](https://github.com/GZaranza) | Documentador |
-| [Gabriel Rosa](https://github.com/gabrielrosa09) | Documento Final |
-| [Lucas Víctor](https://github.com/Lucas13032003) | Entrevistado |
-| [Zenilda Vieira](https://github.com/zenildavieira) | Entrevistado |
-| Alecsandra Ferreira Araújo Souza | Entrevistado |
-| Ana Cristina Ferreira de Araújo | Entrevistado |
+<table>
+  <thead>
+    <tr>
+      <th>Participante</th>
+      <th>Função</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a></td>
+      <td>Recrutador</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Recrutador</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Roteirista</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Documentador</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td>Documento Final</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Entrevistado</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>Entrevistado</td>
+    </tr>
+    <tr>
+      <td>Alecsandra Ferreira Araújo Souza</td>
+      <td>Entrevistado</td>
+    </tr>
+    <tr>
+      <td>Ana Cristina Ferreira de Araújo</td>
+      <td>Entrevistado</td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
