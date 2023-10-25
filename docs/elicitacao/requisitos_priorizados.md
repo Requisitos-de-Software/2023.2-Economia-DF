@@ -7,8 +7,11 @@ A priorização de requisitos é uma importante etapa que deve ser feita antes d
 Existem diversas técnicas de priorização. Para o atual projeto, escolhemos três: First Thing First, In or Out e 100$. Nos links abaixo é possível obter mais informações sobre o planejamento, a execução e os resultados de cada uma delas, com cronograma (data e horário) e local para realização da priorização dos requisitos e com a participação de um cliente e/ou persona do projeto. É possível também ter acesso aos vídeos gravados durante a realização de cada técnica.
 
 > [First Thing First](tecnicas-priorizacao/first-thing-first.md)
+>
 > [In or Out](tecnicas-priorizacao/in%20our%20out.md)
-> [100\$](tecnicas-priorizacao/100$.md)
+>
+> [100$](tecnicas-priorizacao/100$.md)
+>
 
 Observação: A técnica de 100$ só foi utilizads no projeto após a utilização das outras duas técnicas escolhidas: First Thing First e In or Out.
 
