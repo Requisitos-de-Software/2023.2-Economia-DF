@@ -1,9 +1,12 @@
-# Casos de Uso
+# Backlogs
 
 ## Introdução
+A metodologia ágil é uma abordagem flexível de gestão de projetos que se concentra na colaboração, adaptação e entrega contínua de valor ao cliente. No contexto dessa metodologia, o Product Backlog desempenha um papel crucial. Ele é uma lista priorizada de requisitos, funcionalidades e tarefas que precisam ser executados em um projeto ou produto. O Product Backlog é especialmente enfocado na divisão de grandes tarefas em temas, épicos e histórias do usuário.
 
 ## Metodologia
+A metodologia utilizada para a definição do Backlog da nossa equipe parte inicialmente dos [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados), e através destes, percebe-se grandes partes de trabalho que podem ser divididas em várias tarefas menores, estas grandes partes de trabalho são definidas como Épicos, e as tarefas menores, que são parte de determinado épico foram chamadas de Históricas do Usuário. Ainda mais amplo que um Épico, definimos também em nosso backlog alguns temas, que são conjuntos de Épicos que de alguma forma se relacionam. 
 
+Através dessa análise, foi desenvolvida a tabela 1, onde é possível ver os temas, épicos, histórias de usuário e a prioridade de cada histórica de usuário.
 ## Backlog
 
 ### Temas
@@ -57,3 +60,4 @@
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|28/10/2023|Criação do documento e tabela backlog|[Gabriel Zaranza](https://github.com/GZaranza) <br> [Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.1`|28/10/2023|Adição de introdução e metodologia|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Ribeiro](https://github.com/lucassouzs)|
