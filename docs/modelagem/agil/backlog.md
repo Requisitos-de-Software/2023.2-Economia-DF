@@ -10,13 +10,42 @@
 
 ### Épicos
 
-|Tema|Épico|História de Usuário|Prioridade|
-|:--:|:---:|:-----------------:|:--------:|
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de backlog</p></font>
+</div>
 
+|Tema|Épico|História de Usuário|Prioridade|
+|:---|:----|:------------------|:--------:|
+| T01 - Login | EP01 - Login |  HS01 - Efetuar login com email e senha |  |  |
+|  |  |  HS02 - Efetuar login com gov.br |  |  |
+|  |  |  HS03 - Recuperar senha |  |  |
+|  |  |  HS04 - Efetuar logout | Alta | INT19 |
+| T02 - Nota Fiscal | EP02 - Nota Fiscal |  HS05 - Listar |  |  |
+|  |  |  HS06 - Pesquisar |  |  |
+|  |  |  HS07 - Visualizar detalhes |  |  |
+|  |  |  HS08 - Imprimir DANFE |  |  |
+| T03 - Débitos | EP03 - Veículo |  HS09 - Cadastrar |  |  |
+|  |  |  HS10 - Consultar débitos de IPVA |  |  |
+|  |  |  HS11 - Emitir DAR |  |  |
+|  | EP04 - Imóveis |  HS12 - Cadastrar |  |  |
+|  |  |  HS13 - Consultar débitos de IPTU/TLP |  |  |
+|  |  |  HS14 - Emitir DAR |  |  |
+|  | EP05 - Dívida Ativa |  HS15 - Consultar débitos inscritos |  |  |
+|  |  |  HS16 - Emitir DAR |  |  |
+|  | EP06 - Outros Tributos |  HS17 - Consultar débitos inscritos |  |  |
+|  |  |  HS18 - Emitir DAR |  |  |
+|  | EP07 - Parcelamentos Administrativos |  HS19 - Consultar débitos inscritos |  |  |
+|  |  |  HS20 - Emitir DAR |  |  |
+| T04 - Contato | EP08 - Fale Conosco |  HS21 - Enviar email | Alta | INT11 |
+|  | EP09 - Ajuda | HS22 - Visualizar informações sobre o aplicativo |  |  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Referências Bibliográficas
 
-> [1] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9786556900674/>. Acesso em: 15 out. 2023.
+> citar slide Milene
 > 
 
 ## Bibliografia
@@ -27,4 +56,4 @@
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|28/10/2023|Criação do documento e diagrama de caso de uso|[Gabriel Zaranza](https://github.com/GZaranza) <br> [Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.0`|28/10/2023|Criação do documento e tabela backlog|[Gabriel Zaranza](https://github.com/GZaranza) <br> [Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
