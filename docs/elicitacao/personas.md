@@ -28,7 +28,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 - **Idade:** 52 anos
 - **Gênero:** Masculino
 - **Habilidades:** Especialista em economia
-- **Afinidade com tecnologia:** Tecnófilo, interessado em novas tecnologias financeiras
+- **Afinidade com tecnologia:** Média
 - **Tarefa Primária:** Realizar indicações de recebimento e investimentos inteligentes no aplicativo de economia do DF.
 - **Objetivo:** Luiz é um economista aposentado com vasta experiência em finanças. Ele adora ficar atualizado com as últimas tendências tecnológicas e está sempre em busca de maneiras inteligentes de gerenciar seu dinheiro. Luiz usa o aplicativo para recomendar estratégias de investimento para amigos e familiares, e ele se tornou um usuário fiel do aplicativo.
 - **Relacionamentos:** Luiz é casado e tem dois filhos adultos que moram em outras cidades. Ele mantém contato frequente com eles por meio de aplicativos de mensagens e videochamadas. Ele também tem um círculo de amigos próximos que se reúnem semanalmente para jogar cartas, conversar e trocar dicas de investimentos.
@@ -58,7 +58,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 - **Idade:** 21 anos
 - **Gênero:** Masculino
 - **Habilidades:** Iniciante em finanças
-- **Afinidade com tecnologias:** Interessado em aprender sobre economia e finanças
+- **Afinidade com tecnologias:** Alta
 - **Tarefa Primária:** Aprender sobre indicadores econômicos usando o aplicativo de economia do DF.
 - **Objetivo:** Pedro é um estudante universitário que está começando a se interessar por economia e finanças. Ele usa o aplicativo para aprender sobre indicadores econômicos e entender melhor como funcionam os mercados financeiros.
 - **Relacionamentos:** Pedro é solteiro e mora com seus pais em Brasília. Ele estuda economia na Universidade de Brasília e tem alguns colegas de classe com quem costuma estudar e sair. Ele também participa de um grupo de estudos online sobre finanças pessoais e investimentos.
@@ -71,7 +71,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 
 - **Idade:** 57 anos
 - **Gênero:** Feminino
-- **Habilidades:** Intermediária em finanças
+- **Habilidades:** Média
 - **Afinidade com tecnologia:** Gosta de ferramentas simples e educacionais
 - **Tarefa Primária:** Ensinar seus alunos sobre economia usando o aplicativo de economia do DF.
 - **Objetivo:** Ana é uma professora de economia em uma escola local. Ela usa o aplicativo como uma ferramenta educacional para ensinar seus alunos sobre conceitos econômicos e financeiros. Ela procura recursos simples e educativos para ajudar em suas aulas.
@@ -88,7 +88,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 - **Idade:** 16 anos
 - **Gênero:** Masculino
 - **Habilidades:** Iniciante em finanças
-- **Afinidade com tecnologia :** Desinteressado em economia e tecnologia
+- **Afinidade com tecnologia :** Alta
 - **Objetivo:** João é um adolescente de 16 anos que não tem interesse em economia e finanças. Ele usa seu tempo livre para jogar videogames e não tem nenhuma fonte de renda. João não se interessa pelo aplicativo de economia do DF, pois não vê valor nele para sua situação.
 - **Relacionamentos:** João é filho único e mora com seus pais em um apartamento. Ele estuda em uma escola pública e tem poucos amigos. Ele não se interessa por atividades extracurriculares ou sociais. Ele passa a maior parte do seu tempo livre jogando videogames online com pessoas que não conhece pessoalmente.
 - **Requisitos:** João não precisa de um aplicativo de economia do DF, pois ele não tem interesse em economia e finanças. Ele não tem nenhuma fonte de renda e não se preocupa com seu futuro financeiro. Ele acha que o aplicativo é chato, complicado e irrelevante para sua situação.
@@ -101,7 +101,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 
 - **Idade:** 72 anos
 - **Gênero:** Feminino
-- **Habilidades:** Iniciante em finanças
+- **Habilidades:** Baixa
 - **Afinidade com a tecnologia:** Não utiliza smartphones e não gosta de tecnologia
 - **Objetivo:** Clara é uma aposentada de 72 anos que não utiliza smartphones nem tem acesso à internet. Ela prefere fazer todas as suas transações financeiras pessoalmente no banco e não vê necessidade de usar o aplicativo de economia do DF.
 - **Relacionamentos:** Clara é viúva e tem três filhos que moram em outras cidades. Ela tem uma boa relação com seus filhos, que a visitam ocasionalmente e a ajudam financeiramente. Ela também tem alguns vizinhos e parentes com quem conversa e se diverte. Ela gosta de participar de atividades sociais e culturais na sua comunidade.
@@ -126,3 +126,4 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 | `1.4`  | 17/10/2023 | Arrumando a introdução      | [Gabriel Zaranza](https://github.com/GZaranza) | [Lucas Víctor ](https://github.com/Lucas13032003)|
 | `1.5`  | 20/10/2023 | Adição dos sobrenomes.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
 | `1.6`  | 25/10/2023 | Correção de referência bibliográfica       | [Zenilda Vieira ](https://github.com/zenildavieira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
+| `1.6`  | 29/10/2023 | Correção das personas.       | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003)|
