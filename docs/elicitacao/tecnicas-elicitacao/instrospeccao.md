@@ -15,6 +15,8 @@ que o aplicativo seja um sucesso e atenda as necessidades da tarefa. Sendo assim
 
 Eu sou uma cidadã que deseja acessar os serviços do programa Nota Legal, como verificar créditos acumulados e histórico de notas fiscais, mas não possuo acesso a um computador no momento. Decido utilizar o aplicativo "Economia DF" em meu smartphone para obter essas informações de maneira rápida e conveniente. 
 
+Para realizar a sessão de brainstorming, os membros [Izabella Alves](https://github.com/izabellaalves) e [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) se reuniram de forma presencial no dia 23/09/2023, às 11:00 da manhã.
+
 ## Desenvolvimento
 
 Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), utilizaremos códigos para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
