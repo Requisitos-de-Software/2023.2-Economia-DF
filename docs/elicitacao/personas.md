@@ -44,7 +44,7 @@ As fotos das personas foram criadas utilizando o site [This-Person-Does-not-Exis
 - **Gênero:** Feminino
 - **Habilidades:** Graduada em Administração
 - **Afinidade com tecnologia:** Média
-- **Frequência:** Utiliza computador e celular diariamente
+- **Tarefa primária:** Indicar produtos e serviços de qualidade para sua rede de contatos por meio do aplicativo do Nota Legal.
 - **Objetivo:** Maria é uma profissional experiente que gosta de compartilhar suas descobertas e experiências com amigos e familiares. Ela tem um bom conhecimento em tecnologia, o que lhe permite utilizar aplicativos e redes sociais com facilidade. Seu objetivo com o Nota Legal é realizar indicações de produtos e serviços de qualidade para sua rede de contatos.
 - **Relacionamentos:**  Maria é casada e tem uma filha de 18 anos que está cursando o ensino médio. Ela tem uma boa relação com seu marido, que é engenheiro, e com sua filha, que pretende seguir a mesma profissão da mãe. Ela também tem um grupo de amigas que se encontram frequentemente para conversar, ir ao cinema ou fazer compras.
 - **Requisitos:** Maria precisa de um aplicativo do Nota Legal que seja prático, intuitivo e seguro. Ela quer poder consultar seus créditos, emitir seus recibos fiscais e indicar produtos e serviços de qualidade para sua rede de contatos com facilidade. Ela também quer receber dicas e informações sobre como economizar e aproveitar melhor os benefícios do programa.
