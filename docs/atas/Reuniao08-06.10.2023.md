@@ -72,5 +72,5 @@ Foram distribuídas as issues da entrega 3 de Requisitos e da entrega 2 de IHC, 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|04/10/2023|Criação do documento|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.1`|09/10/2023|Revisão|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.1`|09/10/2023|Revisão|[Zenilda Vieira](https://github.com/zenildavieira)|- (revisão não precisa de revisor)|
 |`1.2`|21/10/2023|Adição do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Zaranza](https://github.com/GZaranza)|

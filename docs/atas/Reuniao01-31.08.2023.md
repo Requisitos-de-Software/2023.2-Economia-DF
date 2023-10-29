@@ -86,4 +86,4 @@ Foi acordado que as reuniões serão em formato de sprints, com abertura nas qui
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |31/08/2023| Criação da ata de reunião | [Lucas Ribeiro](https://github.com/lucassouzs) |[Gabriel Rosa](https://github.com/gabrielrosa09)  <br>  [Gabriel Zaranza](https://github.com/GZaranza) <br>  [Izabella Alves](https://github.com/izabellaalves) <br>  [Lucas Ribeiro](https://github.com/lucassouzs) <br>  [Lucas Víctor](https://github.com/Lucas13032003) <br> [Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1` |14/09/2023| Adição do link da Reunião | [Lucas Ribeiro  de Souza](https://github.com/lucassouzs) | [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
-| `1.2` |08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |
+| `1.2` |08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - (revisão não precisa de revisor) |

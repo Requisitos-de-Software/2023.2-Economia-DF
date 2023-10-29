@@ -73,4 +73,4 @@ Todos os documentos e artefatos feito para as apresentações foram revisados po
 | :----: | ---------- | ------------------------- | ------------------------------------------------------------------------ | :------------------------------------------------: |
 | `1.0`  | 15/09/2023 | Criação do documento      | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |   [Lucas Ribeiro](https://github.com/lucassouzs)   |
 | `1.1`  | 19/09/2023 | Adição do link da Reunião | [Lucas Ribeiro](https://github.com/lucassouzs)                           | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Vieira](https://github.com/zenildavieira)                       |                         -                          |
+| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Vieira](https://github.com/zenildavieira)                       |- (revisão não precisa de revisor)|

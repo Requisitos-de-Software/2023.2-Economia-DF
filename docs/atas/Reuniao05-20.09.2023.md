@@ -86,4 +86,4 @@ Na reunião, foram distribuídas as atividades da Entrega 2 do projeto e foi dec
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|21/09/2023|Criação do documento|[Lucas Víctor](https://github.com/Lucas13032003)    |[Izabella Alves](https://github.com/izabellaalves)  |
 |`1.1`|29/09/2023|Adição do link da reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Zenilda Vieira](https://github.com/zenildavieira)|
-|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |
+|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - (revisão não precisa de revisor) |

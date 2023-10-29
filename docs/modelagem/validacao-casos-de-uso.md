@@ -54,4 +54,4 @@ A gravação da sessão de validação dos casos de uso pode ser vista clicando 
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 20/10/2023 | Criação do documento                | [Izabella Alves](https://github.com/izabellaalves) | [Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.1`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.2`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
+|`1.2`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (revisão não precisa de revisor) |

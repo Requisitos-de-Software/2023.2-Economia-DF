@@ -815,5 +815,5 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 |`1.1`|15/09/2023|Inclusão do cronograma das entregas parciais.| [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |       
 |`1.2`|15/09/2023|Inclusão dos nomes dos responsáveis e revisores.| [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |       
 |`1.3`|15/09/2023|Inclusão dos nomes dos responsáveis e revisores.| [Gabriel Zaranza](https://github.com/GZaranza) | [Izabella Alves](https://github.com/izabellaalves)  |   
-|`1.4`|20/09/2023|Revisão do Documento |[Gabriel Zaranza](https://github.com/GZaranza) |[Gabriel Zaranza](https://github.com/GZaranza)|
+|`1.4`|20/09/2023|Revisão do Documento |[Gabriel Zaranza](https://github.com/GZaranza) |- (revisão não precisa de revisor)|
 |`1.5`|17/10/2023|Documento revisado com as orientações do monitor |[Gabriel Rosa](https://github.com/gabrielrosa09) |[Izabella Alves](https://github.com/izabellaalves)|

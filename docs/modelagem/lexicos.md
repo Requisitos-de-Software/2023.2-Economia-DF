@@ -118,4 +118,4 @@ Os léxicos do tipo estado referem-se às condições, situações ou configura�
 |`1.6`|18/10/2023|Adicionando léxicos visualizar e Secretaria de Estado de Economia do DF|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.7`|18/10/2023|Adicionando léxicos lançar, NFe, NFCe, BPe, DAR, DANFE e Situação Fiscal|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.8`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
-|`1.9`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - |
+|`1.9`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (revisão não precisa de revisor) |

@@ -74,4 +74,4 @@ Nesta reunião foi definido que o aplicativo selecionado para o projeto será o 
 |`1.0`|06/09/2023|Criação do docuemtno|[Gabriel Zaranza](https://github.com/GZaranza)|Todos|
 |`1.1`|06/09/2023|Corrigindo a tabela de tarefas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.2`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.3`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |
+|`1.3`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - (revisão não precisa de revisor) |

@@ -144,4 +144,4 @@ Em conclusão, a pauta define claramente as tarefas a serem realizadas e à defi
 | :----: | ---------- | ------------------------- | :--------------------------------------------------------: | :--------------------------------------------------------: |
 | `1.0`  | 21/09/2023 | Criação do documento      | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  | 29/09/2023 | Adição do link da reunião |  [Lucas Ribeiro](https://github.com/lucassouzs)   | [Zenilda Vieira](https://github.com/zenildavieira) |
-| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Vieira](https://github.com/zenildavieira) |                             -                              |
+| `1.2`  | 08/10/2023 | Revisão e Padronização    | [Zenilda Vieira](https://github.com/zenildavieira) |     - (revisão não precisa de revisor)           |

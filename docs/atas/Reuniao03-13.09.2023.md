@@ -71,4 +71,4 @@ Os artefatos produzidos foram verificados pelo grupo e antes da gravação da ap
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|13/09/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.1`|14/09/2023|Adição do link da Reunião|[Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - |
+|`1.2`|08/10/2023| Revisão e Padronização | [Zenilda Vieira](https://github.com/zenildavieira) | - (revisão não precisa de revisor) |
