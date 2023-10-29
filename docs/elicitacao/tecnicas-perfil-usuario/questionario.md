@@ -6,7 +6,7 @@ Os questionários são uma técnica comum de coleta de dados que envolve a apres
 
 ## Metodologia
 
-A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuitor de conhecer o perfil de usuário do Economia DF. O questionário contava com 11 perguntas (Figuras 1 a 10), sendo uma delas o [termo de consentimento](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/termo_de_consentimento_perfilUsuario.md), que exploravam conhecer as características sócio demográficas dos usuários do aplicativo e interações com o sistema. O processo contou com 68 participantes, sendo 49 (72,1%) usuários do aplicativo e todos concordaram com o termo de consentimento. 
+A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário, na plataforma Google Forms, com o intuitor de conhecer o perfil de usuário do Economia DF. O questionário contava com 11 perguntas (Figuras 1 a 10), sendo uma delas o [termo de consentimento](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/termo_de_consentimento_perfilUsuario.md), que exploravam conhecer as características sócio demográficas dos usuários do aplicativo e interações com o sistema. O processo contou com 68 participantes, sendo 49 (72,1%) usuários do aplicativo e todos concordaram com o termo de consentimento. 
 
 ### Questão 1 - Você utiliza ou já utilizou o site do Nota Legal (notalegal.df.gov.br) ou o aplicativo Economia DF?
 
@@ -108,6 +108,16 @@ A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuit
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
+## Resultados
+
+A partir das respostas coletadas, podemos concluir que o perfil de usuário do Economia-DF é composto igualmente por homens e mulheres com idade entre 46 a 60 anos. Em sua maioria, possuem ensino superior completo e renda familiar superior a 7500,00 reais.
+
+Sobre afinidade com tecnologia, podemos concluir que os usuários possuem características tecnófilas, pois em que sua maioria têm afinidade de média para alta. Outro ponto é que os usuários costumam acessar a plataforma tanto pelo computador quanto pelo celular.
+
+A respeito do uso do aplicativo, os usuários costumam usá-lo ocasionalmente e o principal objetivo é realizar a indicação do uso do saldo do programa Nota Legal.
+
+
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -119,3 +129,4 @@ A equipe realizou nos dias 22/09/2023 a 24/09/2023 um questionário com o intuit
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 29/09/2023 | Criação do documento                 | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.1`  | 30/09/2023 | Add descrição do questionarios e as imagens das perguntas               | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.2`  | 29/10/2023 | Correção e Adicionando conclusão              | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |

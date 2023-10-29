@@ -94,7 +94,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
 
 ## Referências Bibliográficas
 
-> citar slide Milene
+> [1] SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 015): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf Acesso em: 28/10/2023.
 > 
 
 ## Bibliografia
