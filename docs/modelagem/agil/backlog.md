@@ -88,6 +88,114 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
 | T04 - Contato     | EP08 - Fale Conosco                  | HS21 - Enviar email                              |    Alta    |
 |                   | EP09 - Ajuda                         | HS22 - Visualizar informações sobre o aplicativo |            |
 
+<table>
+<thead>
+    <tr>
+        <th>Tema</th>
+        <th>Épico</th>
+        <th>História de usuário</th>
+        <th>Prioridade</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td rowspan="4"> T01 - Login </td>
+        <td rowspan="4"> EP01 - Login </td>
+        <td> HS01 - Efetuar login com email e senha </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS02 - Efetuar login com gov.br </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS03 - Recuperar senha </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS04 - Efetuar logout </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="4"> T02 - Nota Fisca </td>
+        <td rowspan="4"> EP02 - Nota Fiscal </td>
+        <td> HS05 - Listar </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS06 - Pesquisar </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS07 - Visualizar detalhes</td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS08 - Imprimir DANFE </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="12"> T03 - Débitos </td>
+        <td rowspan="3"> EP03 - Veículos </td>
+        <td> HS09 - Cadastrar </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS10 - Consultar débitos de IPVA </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS11 - Emitir DAR</td>
+        <td> xxx </td>
+    <tr>
+        <td rowspan="3"> EP04 - Imóveis </td>
+        <td> HS12 - Cadastrar </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS13 - Consultar débitos de IPTU/TLP </td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td> HS14 - Emitir DAR</td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="2"> EP05 - Dívida Ativa </td>
+        <td> HS15 - Consultar débitos inscritos </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS16 - Emitir DAR</td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="2"> EP06 - Outros Tributos </td>
+        <td> HS17 - Consultar débitos inscritos </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS18 - Emitir DAR</td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="2"> EP07 - Parcelamentos Administrativos </td>
+        <td> HS19 - Consultar débitos inscritos </td>
+        <td> xxx </td>
+    <tr>
+        <td> HS20 - Emitir DAR</td>
+        <td> xxx </td>
+    </tr>
+    <tr>
+        <td rowspan="2"> T04 - Contato </td>
+        <td rowspan="1"> EP08 - Fale Conosco </td>
+        <td> HS21 - Enviar email </td>
+        <td> xxx </td>
+    <tr>
+        <td rowspan="1"> EP09 - Ajuda </td>
+        <td> HS22 - Visualizar informações sobre o aplicativo	 </td>
+        <td> xxx </td>
+    </tr>
+    </tr>
+    
+</tbody>
+</table>
+
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
