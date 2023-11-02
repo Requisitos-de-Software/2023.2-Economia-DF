@@ -11,7 +11,7 @@ O Softgoal Interdependency Grap do softgoal "Ajuda e documentação" pode ser vi
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Ajuda e documentação".</p></font>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/5a8005d3dbd82ff58655819dad6fd650a53dd6f4/docs/imagens/storyboards/storyboard-izabella.jpg" style="width: 65%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/62c3b074559aecd7ecbab07b03ee27c04b8c7e33/docs/imagens/nfr-ad.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
@@ -23,7 +23,7 @@ A propagação de impactos do softgoal "Ajuda e documentação" pode ser visto n
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Ajuda e documentação"</p></font>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/5a8005d3dbd82ff58655819dad6fd650a53dd6f4/docs/imagens/storyboards/storyboard-izabella.jpg" style="width: 65%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/62c3b074559aecd7ecbab07b03ee27c04b8c7e33/docs/imagens/nfr-ajuda-documentacao-analise.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
@@ -56,7 +56,7 @@ Na tabela X, temos o cartão de especificação do softgoal "Ajuda e Documentaç
   </tr>
   <tr>
     <td>Origem do Requisito</td>
-    <td><a href="#">Especificação suplementar</a> e <a href="#">requisitos elicitados</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
   </tr>
   <tr>
     <td>Dependências</td>
@@ -79,4 +79,10 @@ Na tabela X, temos o cartão de especificação do softgoal "Ajuda e Documentaç
 </div>
 
 ## Bibliografia
+>
+> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
+>
 ## Histórico de Versões
+| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| `1.0`  | 02/10/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
