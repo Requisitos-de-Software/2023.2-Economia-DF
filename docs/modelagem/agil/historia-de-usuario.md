@@ -24,6 +24,17 @@ Posteriormente, foi efetuado a priorização dos requisitos elicitados com as te
 
 Dessa forma, as funcionalidades foram documentadas de maneira ágil e padronizada, alinhadas com as especificações definidas no [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs). Por fim, realizou-se uma validação do documento em uma reunião com o representante do cliente no projeto, assegurando a conformidade com as necessidades do usuário.
 
+## Participantes
+
+Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
+
+| Nome                                          | Cargo                     |
+| --------------------------------------------- | ------------------------- |
+| -                                             | -                         |
+| -                                             | -                         |
+| -                                             | -                         |
+
+
 ## Padrão de História de Usuário
 
 Ao escrever as histórias de usuário para este projeto, é crucial seguir as diretrizes especificadas neste documento. Para modelar as histórias de usuário de forma consistente, devemos incluir as seguintes informações:
@@ -679,3 +690,5 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.3`  | 03/11/2023 | Adição das Validação das histórias de usuário             | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.4`  | 03/11/2023 | Adição dos titulos e dos temas da Historia do usuário            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.5`  | 03/11/2023 | Adição das Histórias de usuários            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
+| `1.6`  | 03/11/2023 | Adição da tabela dos participantes            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
+
