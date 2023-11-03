@@ -75,7 +75,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US02 - </summary>
+   <summary>US02 HS02 - Efetuar login com gov.br </summary>
    <table>
       <thead>
          <tr>
@@ -89,7 +89,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Login </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -102,7 +102,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US03 - </summary>
+   <summary>US03 HS03 - Recuperar senha </summary>
    <table>
       <thead>
          <tr>
@@ -116,7 +116,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Login </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -129,7 +129,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US04 - </summary>
+   <summary>HS04 - Efetuar logout </summary>
    <table>
       <thead>
          <tr>
@@ -143,7 +143,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Login </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -156,7 +156,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US05 - </summary>
+   <summary>HS05 - Listar </summary>
    <table>
       <thead>
          <tr>
@@ -170,7 +170,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -183,21 +183,21 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US06 - </summary>
+   <summary>HS06 - Pesquisar</summary>
    <table>
       <thead>
          <tr>
-           <td> </td>
-           <td> </td>
-           <td> </td>
-           <td> </td>
-           <td> </td>
+           <td> História de Usuário </td>
+           <td> Tema </td>
+           <td> Critérios de aceitação </td>
+           <td> Prioridades  </td>
+           <td> DI </td>
          </tr>
       </thead>
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -210,7 +210,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US07 - </summary>
+   <summary>HS07 - Visualizar detalhes </summary>
    <table>
       <thead>
          <tr>
@@ -224,7 +224,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -237,7 +237,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US08 - </summary>
+   <summary>	HS08 - Imprimir DANFE </summary>
    <table>
       <thead>
          <tr>
@@ -251,7 +251,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Nota Fiscal</td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -264,7 +264,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US09 - </summary>
+   <summary>US09 - Cadastrar</summary>
    <table>
       <thead>
          <tr>
@@ -278,7 +278,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -291,7 +291,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US10 - </summary>
+   <summary>HS10 - Consultar débitos de IPVA </summary>
    <table>
       <thead>
          <tr>
@@ -305,7 +305,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -318,7 +318,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US11 - </summary>
+   <summary>HS11 - Emitir DAR</summary>
    <table>
       <thead>
          <tr>
@@ -332,7 +332,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -345,7 +345,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US12 - </summary>
+   <summary>HS12 - Cadastrar </summary>
    <table>
       <thead>
          <tr>
@@ -359,7 +359,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -372,7 +372,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US13 - </summary>
+   <summary>HS13 - Consultar débitos de IPTU/TLP </summary>
    <table>
       <thead>
          <tr>
@@ -386,7 +386,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -399,7 +399,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US14 - </summary>
+   <summary>HS14 - Emitir DAR</summary>
    <table>
       <thead>
          <tr>
@@ -413,7 +413,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -426,7 +426,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US15 - </summary>
+   <summary>HS15 - Consultar débitos inscritos </summary>
    <table>
       <thead>
          <tr>
@@ -440,7 +440,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -453,7 +453,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US16 - </summary>
+   <summary>HS16 - Emitir DAR </summary>
    <table>
       <thead>
          <tr>
@@ -467,7 +467,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td> Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -480,7 +480,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US17 - </summary>
+   <summary>HS17 - Consultar débitos inscritos </summary>
    <table>
       <thead>
          <tr>
@@ -494,7 +494,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -507,7 +507,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US18 - </summary>
+   <summary>HS18 - Emitir DAR </summary>
    <table>
       <thead>
          <tr>
@@ -521,7 +521,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -534,7 +534,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US19 - </summary>
+   <summary>HS19 - Consultar débitos inscritos </summary>
    <table>
       <thead>
          <tr>
@@ -548,7 +548,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -561,7 +561,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US20 - </summary>
+   <summary>HS20 - Emitir DAR </summary>
    <table>
       <thead>
          <tr>
@@ -575,7 +575,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Débitos </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -588,7 +588,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US21 - </summary>
+   <summary>HS21 - Enviar email </summary>
    <table>
       <thead>
          <tr>
@@ -602,7 +602,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Contato </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -615,7 +615,7 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>US22 - </summary>
+   <summary>HS22 - Visualizar informações sobre o aplicativo </summary>
    <table>
       <thead>
          <tr>
@@ -629,7 +629,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Contato </td>
            <td> </td>
            <td> </td>
            <td> </td>
@@ -655,3 +655,4 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.1`  | 03/11/2023 | Adição introdução, objetivo, metodologia, padrão de história de usuário            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.2`  | 03/11/2023 | Adição das estruturas de história de usuário              | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.3`  | 03/11/2023 | Adição das Validação das histórias de usuário             | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.4`  | 03/11/2023 | Adição dos titulos e dos temas da Historia do usuário            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
