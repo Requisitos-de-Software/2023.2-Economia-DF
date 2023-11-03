@@ -62,7 +62,7 @@ Em seguida, temos as histórias de usuário:
       <tbody>
          <tr>
            <td> </td>
-           <td> </td>
+           <td>Login</td>
            <td> </td>
            <td> </td>
            <td> </td>
