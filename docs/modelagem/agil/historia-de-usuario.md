@@ -57,6 +57,7 @@ Seguir este padrão ao criar as histórias de usuário garantirá uma documenta�
 
 Em seguida, temos as histórias de usuário:
 
+
 <details>
    
    <summary>US01 - Efetuar login com email e senha </summary>
@@ -76,7 +77,7 @@ Em seguida, temos as histórias de usuário:
            <td>Login</td>
            <td>-O sistema deve verificar se o email e a senha informados pelo usuário são válidos e correspondem a um usuário cadastrado. Caso contrário, deve exibir uma mensagem de erro e solicitar que o usuário tente novamente.
            </td>
-           <td> </td>
+           <td> Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -109,7 +110,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - Após o login bem-sucedido com o gov.br, o sistema deve redirecionar o usuário para a tela inicial do aplicativo, onde ele poderá acessar e utilizar todas as funcionalidades disponíveis, sem a necessidade de informar novamente seus dados pessoais ou criar uma conta específica para o aplicativo. </td>
-           <td> </td>
+           <td>Média </td>
            <td> </td>
          </tr>
       </tbody>
@@ -136,7 +137,7 @@ Em seguida, temos as histórias de usuário:
            <td> Eu, como usuário, desejo ter a capacidade de recuperar minha senha de acesso no aplicativo no caso de perda, garantindo a conveniência e a segurança contínua de minha conta.</td>
            <td> Login </td>
            <td>- O sistema deve oferecer uma opção para o usuário recuperar sua senha caso ele a tenha esquecido. Ao clicar nessa opção, o usuário deve ser levado para uma tela onde ele poderá informar seu email e receber um link para redefinir sua senha. </td>
-           <td> </td>
+           <td> Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -163,7 +164,7 @@ Em seguida, temos as histórias de usuário:
            <td>Eu, como usuário, desejo realizar logout no aplicativo após o uso, garantindo a segurança da minha conta e a privacidade das minhas informações. </td>
            <td> Login </td>
            <td>- O sistema deve permitir que o usuário faça logout do aplicativo a qualquer momento, encerrando sua sessão e retornando para a tela de login. </td>
-           <td> </td>
+           <td>Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -199,7 +200,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - O sistema deve sincronizar as notas fiscais com o portal da NF-e, utilizando a chave de acesso ou o número da nota fiscal, para garantir a autenticidade e a atualização dos dados. O sistema deve também alertar o usuário sobre possíveis inconsistências ou divergências entre as informações do aplicativo e do portal. </td>
-            <td> </td>
+            <td>Alta</td>
            <td> </td>
          </tr>
       </tbody>
@@ -226,7 +227,7 @@ Em seguida, temos as histórias de usuário:
            <td>Eu, como usuário, desejo pesquisar informações sobre notas fiscais no aplicativo, proporcionando-me a capacidade de conferir e rastrear minhas compras de forma eficaz e personalizada.</td>
            <td> Nota Fiscal </td>
            <td>- O sistema deve permitir que o usuário digite uma palavra-chave relacionada às notas fiscais que deseja pesquisar, como o nome do fornecedor, o produto ou serviço adquirido, o valor, a data, etc. O sistema deve retornar uma lista de notas fiscais que contenham a palavra-chave informada, ordenadas por relevância ou similaridade. </td>
-           <td> </td>
+           <td>Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -262,7 +263,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - O sistema deve permitir que o usuário avalie a nota fiscal, dando uma nota de 1 a 5 estrelas e um comentário opcional, para expressar sua satisfação ou insatisfação com a compra realizada. O sistema deve também exibir a média e o número de avaliações de cada nota fiscal. </td>
-           <td> </td>
+           <td>Média </td>
            <td> </td>
          </tr>
       </tbody>
@@ -296,7 +297,7 @@ Em seguida, temos as histórias de usuário:
        <br> </br>
               - O sistema deve oferecer a possibilidade de selecionar uma ou mais notas fiscais para imprimir o DANFE, de acordo com a preferência do usuário. O sistema deve também permitir que o usuário cancele a impressão a qualquer momento, caso ele mude de ideia ou ocorra algum problema.
            </td>
-           <td> </td>
+           <td>Média </td>
            <td> </td>
         </tr>
       </tbody>
@@ -332,7 +333,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - O sistema deve permitir que o usuário exclua um veículo cadastrado no aplicativo, removendo-o da lista de veículos e das funcionalidades associadas. O sistema deve também solicitar a confirmação do usuário antes de realizar a exclusão e exibir uma mensagem de sucesso ou de erro após a operação.</td>
-           <td> </td>
+           <td> Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -367,7 +368,7 @@ Em seguida, temos as histórias de usuário:
        <br> </br>
 - Receba notificações sobre os débitos de IPVA e fique por dentro do vencimento, do atraso, do parcelamento ou do pagamento. Configure as preferências das notificações como quiser.
            </td>
-           <td> </td>
+           <td>Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -400,7 +401,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - O sistema deve oferecer a possibilidade de pagar os débitos através do aplicativo, utilizando uma das formas de pagamento disponíveis, como cartão de crédito, débito automático, PIX, etc. O sistema deve também emitir um comprovante de pagamento e atualizar o status do débito para pago.- O sistema deve enviar notificações ao usuário sobre os débitos, alertando-o sobre o vencimento, o atraso, o parcelamento ou o pagamento dos mesmos. O sistema deve também permitir que o usuário configure as preferências de recebimento das notificações, como frequência, horário, som, etc. </td>
-           <td> </td>
+           <td>Média </td>
            <td> </td>
          </tr>
       </tbody>
@@ -409,7 +410,6 @@ Em seguida, temos as histórias de usuário:
       <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
    </div>
 </details>
-
 <details>
    <summary>HS12 - Cadastrar</summary>
    <table>
@@ -863,4 +863,5 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.5`  | 03/11/2023 | Adição das Histórias de usuários            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.6`  | 03/11/2023 | Adição dos criterios de aceitação do 1 ao 11            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.7`  | 03/11/2023 | Adição dos criterios de aceitação do 12 ao 22            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.8`  | 03/11/2023 | Adição das prioridades            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 
