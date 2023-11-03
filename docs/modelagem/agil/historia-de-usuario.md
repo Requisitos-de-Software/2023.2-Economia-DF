@@ -435,8 +435,8 @@ Em seguida, temos as histórias de usuário:
          </br>
                - Após o cadastro bem-sucedido, o usuário receberá uma confirmação.
             </td>
+            <td>Alta</td>
             <td></td>
-            <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -480,8 +480,8 @@ Em seguida, temos as histórias de usuário:
             </br>
               A consulta de débitos deve garantir a segurança das informações pessoais.
            </td>
-           <td> </td>
-           <td>Média</td>
+           <td>Alta</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -521,8 +521,8 @@ Em seguida, temos as histórias de usuário:
             </br>
               A segurança das informações pessoais do usuário deve ser mantida.
            </td>
-           <td> </td>
            <td>Média</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -637,7 +637,7 @@ Em seguida, temos as histórias de usuário:
             </br>
               - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
            </td>
-           <td>Média</td>
+           <td>Alta</td>
            <td> </td>
          </tr>
       </tbody>
@@ -719,8 +719,8 @@ Em seguida, temos as histórias de usuário:
             </br>
               - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
            </td>
-           <td> </td>
-           <td>Média</td>
+           <td>Alta</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -760,8 +760,8 @@ Em seguida, temos as histórias de usuário:
             </br>
                - A segurança das informações pessoais do usuário é mantida.
            </td>
-           <td></td>
            <td>Média</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -798,8 +798,8 @@ Em seguida, temos as histórias de usuário:
               </br>
                - A comunicação via email deve ser segura.
            </td>
-           <td> </td>
            <td>Média</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -836,8 +836,8 @@ Em seguida, temos as histórias de usuário:
               </br>
                - A navegação e busca de informações devem ser simples.
            </td>
-           <td> </td>
            <td>Baixa</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
