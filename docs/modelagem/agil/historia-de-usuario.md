@@ -48,7 +48,7 @@ Em seguida, temos as histórias de usuário:
 
 <details>
    
-   <summary>US01 - </summary>
+   <summary>US01 - Efetuar login com email e senha </summary>
    <table>
       <thead>
          <tr>
