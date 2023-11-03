@@ -61,7 +61,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td> Eu, como usuário, desejo efetuar login com email e senha no aplicativo para utilizá-lo.</td>
            <td>Login</td>
            <td> </td>
            <td> </td>
@@ -88,7 +88,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo efetuar login no aplicativo com o gov.br para utilizá-lo. </td>
            <td> Login </td>
            <td> </td>
            <td> </td>
@@ -115,7 +115,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td> Eu, como usuário, desejo recuperar a senha de acesso do aplicativo se eu perder.</td>
            <td> Login </td>
            <td> </td>
            <td> </td>
@@ -142,7 +142,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo efetuar logout no aplicativo após utilizá-lo. </td>
            <td> Login </td>
            <td> </td>
            <td> </td>
@@ -169,7 +169,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo listar informações sobre notas fiscais para conferir minhas compras. </td>
            <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
@@ -196,7 +196,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo pesquisar informações sobre notas fiscais para conferir minhas compras. </td>
            <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
@@ -223,7 +223,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo visualizar detalhes sobre notas fiscais para conferir minhas compras. </td>
            <td> Nota Fiscal </td>
            <td> </td>
            <td> </td>
@@ -250,7 +250,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Imprimir DANFE sobre notas fiscais para conferir minhas compras. </td>
            <td> Nota Fiscal</td>
            <td> </td>
            <td> </td>
@@ -277,7 +277,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Cadastrat informações sobre meu(s) veículo(s) para saber se há débitos. </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -304,7 +304,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Consultar débitos de IPVA sobre meu(s) veículo(s) para saber se há débitos. </td>
            <td> Débitos </td>
            <td> </td>
            <td> </td>
@@ -331,7 +331,7 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td> Eu, como usuário, desejo Emitir DAR sobre meu(s) veículo(s) para saber se há débitos.</td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -358,7 +358,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Cadastrar informações sobre meu(s) imóvel(eis) para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -385,7 +387,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Consultar débitos de IPTU/TLP sobre meu(s) imóvel(eis) para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -412,7 +416,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Emitir DAR sobre meu(s) imóvel(eis) para saber se há débitos.
+
+ </td>
            <td> Débitos </td>
            <td> </td>
            <td> </td>
@@ -439,7 +445,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Consultar débitos inscritos sobre dívida ativa para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -466,7 +474,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Emitir DAR sobre dívida ativa para saber se há débitos.
+
+ </td>
            <td> Débitos </td>
            <td> </td>
            <td> </td>
@@ -493,7 +503,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Consultar débitos inscritos sobre outros tributos para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -520,7 +532,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Emitir DAR sobre outros tributos para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -547,7 +561,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Consultar débitos inscritos sobre parcelamentos administrativos para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -574,7 +590,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo Emitir DAR sobre parcelamentos administrativos para saber se há débitos.
+
+ </td>
            <td>Débitos </td>
            <td> </td>
            <td> </td>
@@ -601,7 +619,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo entrar em contato com a Secretaria de Economia do Distrito Federal para me comunicar.
+
+ </td>
            <td>Contato </td>
            <td> </td>
            <td> </td>
@@ -628,7 +648,9 @@ Em seguida, temos as histórias de usuário:
       </thead>
       <tbody>
          <tr>
-           <td> </td>
+           <td>Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a usá-lo.
+
+ </td>
            <td>Contato </td>
            <td> </td>
            <td> </td>
@@ -656,3 +678,4 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.2`  | 03/11/2023 | Adição das estruturas de história de usuário              | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.3`  | 03/11/2023 | Adição das Validação das histórias de usuário             | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.4`  | 03/11/2023 | Adição dos titulos e dos temas da Historia do usuário            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
+| `1.5`  | 03/11/2023 | Adição das Histórias de usuários            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
