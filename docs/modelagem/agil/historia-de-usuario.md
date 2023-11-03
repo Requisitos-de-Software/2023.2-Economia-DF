@@ -374,31 +374,40 @@ Em seguida, temos as histórias de usuário:
 </details>
 
 <details>
-   <summary>HS12 - Cadastrar </summary>
+   <summary>HS12 - Cadastrar</summary>
    <table>
       <thead>
          <tr>
-            <th>História de usuário</th>
+            <th>História de Usuário</th>
             <th>Tema</th>
-            <th>Critérios de aceitação</th>
+            <th>Critérios de Aceitação</th>
             <th>Prioridade</th>
             <th>DI</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-           <td>Eu, como usuário, desejo cadastrar informações sobre meu(s) imóvel(eis) no aplicativo, a fim de verificar a existência de possíveis débitos e, assim, facilitar o acompanhamento e a gestão eficaz da situação dos meus imóveis.</td>
-           <td>Débitos </td>
-           <td></td>
-           <td> </td>
-           <td> </td>
+            <td>Eu, como usuário, desejo cadastrar informações sobre meu(s) imóvel(eis) no aplicativo, a fim de verificar a existência de possíveis débitos e, assim, facilitar o acompanhamento e a gestão eficaz da situação dos meus imóveis.</td>
+            <td>Débitos</td>
+            <td>
+               - O usuário deve conseguir cadastrar informações sobre seus imóveis no aplicativo.
+         </br>
+               - O aplicativo deve validar e armazenar com segurança as informações cadastradas.
+         </br>
+               - O usuário deve poder visualizar e editar os dados de seus imóveis a qualquer momento.
+         </br>
+               - Após o cadastro bem-sucedido, o usuário receberá uma confirmação.
+            </td>
+            <td></td>
+            <td>Média</td>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 12: História de Usuário 12 (Fonte: Autores, 2023).</p>
+      <p>Tabela 12: História de Usuário 12 (Fonte: Autores, 2023).</p>
    </div>
 </details>
+
 
 <details>
    <summary>HS13 - Consultar débitos de IPTU/TLP </summary>
@@ -416,9 +425,26 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo consultar os débitos de IPTU/TLP relacionados ao(s) meu(s) imóvel(eis) no aplicativo, com o objetivo de identificar possíveis pendências financeiras, oferecendo-me uma visão clara da situação de pagamento associada aos meus imóveis.</td>
            <td>Débitos </td>
+           <td>
+              O usuário deve encontrar facilmente a opção de consulta de débitos de IPTU/TLP no aplicativo.
+           </br>
+            </br>
+              O aplicativo deve mostrar de maneira clara os débitos de IPTU/TLP relacionados a seus imóveis.
+           </br>
+            </br>
+              É preciso ver detalhes dos débitos, incluindo valores, datas de vencimento e descrições.
+           </br>
+            </br>
+              O usuário deve poder distinguir facilmente os débitos em aberto e vencidos.
+           </br>
+            </br>
+              Deve existir a opção de imprimir ou gerar um relatório dos débitos.
+           </br>
+            </br>
+              A consulta de débitos deve garantir a segurança das informações pessoais.
+           </td>
            <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -443,9 +469,23 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo para meu(s) imóvel(eis), permitindo-me identificar e quitar possíveis débitos associados, tornando o processo de regularização mais acessível e prático.</td>
            <td> Débitos </td>
+           <td> 
+              O usuário deve acessar facilmente a função de emissão de DAR no aplicativo.
+            </br>
+            </br>
+              O aplicativo deve gerar o DAR com todas as informações necessárias.
+            </br>
+            </br>
+              O usuário deve poder efetuar o pagamento do DAR pelo aplicativo, se desejar.
+            </br>
+            </br>
+              Após a emissão bem-sucedida, o usuário receberá uma confirmação.
+            </br>
+            </br>
+              A segurança das informações pessoais do usuário deve ser mantida.
+           </td>
            <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -470,9 +510,19 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo consultar os débitos inscritos na dívida ativa no aplicativo, para verificar a existência de pendências financeiras, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para regularização.</td>
            <td>Débitos </td>
-           <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>
+              O usuário deve encontrar facilmente a opção de consulta de débitos inscritos na dívida ativa no aplicativo.
+            </br>
+            </br>
+              O aplicativo deve mostrar de forma clara os débitos inscritos na dívida ativa, incluindo valores e datas de vencimento.
+            </br>
+            </br>
+              O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
+            </br>
+            </br>
+              A consulta de débitos deve garantir a segurança das informações pessoais do usuário.</td>
+           <td>Média</td>
+           <td></td>
          </tr>
       </tbody>
    </table>
@@ -497,8 +547,22 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente à dívida ativa, permitindo-me identificar e quitar possíveis débitos pendentes, tornando o processo de regularização mais acessível e prático.</td>
            <td> Débitos </td>
-           <td> </td>
-           <td> </td>
+           <td>
+              - O usuário deve encontrar facilmente a opção de emitir DAR para a dívida ativa no aplicativo.
+            </br>
+            </br>
+              - O aplicativo deve gerar o DAR de forma clara, incluindo informações sobre o débito.
+            </br>
+            </br>
+              - O usuário deve poder pagar o DAR pelo aplicativo, se desejar.
+            </br>
+            </br>
+              - Após a emissão bem-sucedida, o usuário receberá uma confirmação.
+            </br>
+            </br>
+              - A segurança das informações pessoais do usuário deve ser mantida.
+           </td>
+           <td>Média</td>
            <td> </td>
          </tr>
       </tbody>
@@ -524,8 +588,19 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo consultar os débitos inscritos em outros tributos no aplicativo, a fim de verificar a existência de pendências financeiras em relação a outros impostos, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para regularização.</td>
            <td>Débitos </td>
-           <td> </td>
-           <td> </td>
+           <td>
+              - O usuário deve encontrar facilmente a opção de consulta de débitos em outros tributos no aplicativo.
+            </br>
+            </br>
+              - O aplicativo deve mostrar de forma clara os débitos, incluindo informações sobre valores e datas de vencimento.
+            </br>
+            </br>
+              - O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
+            </br>
+            </br>
+              - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
+           </td>
+           <td>Média</td>
            <td> </td>
          </tr>
       </tbody>
@@ -551,8 +626,22 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente a outros tributos, permitindo-me identificar e quitar possíveis débitos pendentes em relação a esses impostos, tornando o processo de regularização mais acessível e prático.</td>
            <td>Débitos </td>
-           <td> </td>
-           <td> </td>
+           <td>
+              - O usuário deve encontrar facilmente a opção de emitir DAR para outros tributos no aplicativo.
+            </br>
+            </br>
+              - O aplicativo deve gerar o DAR de forma clara, incluindo informações sobre o débito.
+            </br>
+            </br>
+              - O usuário deve poder efetuar o pagamento do DAR pelo aplicativo, se desejar.
+            </br>
+            </br>
+              - Após a emissão bem-sucedida, o usuário receberá uma confirmação.
+            </br>
+            </br>
+              - A segurança das informações pessoais do usuário deve ser mantida.
+           </td>
+           <td>Média</td>
            <td> </td>
          </tr>
       </tbody>
@@ -578,9 +667,23 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo consultar os débitos inscritos em parcelamentos administrativos no aplicativo, a fim de verificar a existência de pendências financeiras em relação a esses acordos de pagamento, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para a regularização.</td>
            <td>Débitos </td>
+           <td>
+              - O usuário deve encontrar facilmente a opção de consultar débitos em parcelamentos administrativos no aplicativo.
+            </br>
+            </br>
+              - O aplicativo deve mostrar claramente os débitos em parcelamentos administrativos, incluindo informações sobre valores e datas de vencimento.
+            </br>
+            </br>
+              - O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
+            </br>
+            </br>
+              - Deve ser possível obter informações adicionais sobre cada débito, se necessário.
+            </br>
+            </br>
+              - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
+           </td>
            <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -605,9 +708,23 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente aos parcelamentos administrativos, permitindo-me identificar e quitar possíveis débitos pendentes em relação a esses acordos de pagamento, tornando o processo de regularização mais acessível e prático.</td>
            <td>Débitos </td>
-           <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>
+               - Emitir DAR para parcelamentos administrativos deve ser fácil de encontrar no aplicativo.
+            </br>
+            </br>
+               - O DAR gerado deve ser claro.
+            </br>
+            </br>
+               - Os usuários devem poder pagar o DAR no aplicativo.
+            </br>
+            </br>
+               - Após emitir o DAR, os usuários recebem uma confirmação.
+            </br>
+            </br>
+               - A segurança das informações pessoais do usuário é mantida.
+           </td>
+           <td></td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -632,9 +749,20 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td> Eu, como usuário, desejo ter a opção de entrar em contato com a Secretaria de Economia do Distrito Federal por meio do aplicativo para estabelecer comunicação eficaz e obter assistência ou informações necessárias.</td>
            <td>Contato </td>
+           <td>
+               - O usuário deve encontrar facilmente a opção de enviar um email para a Secretaria de Economia do Distrito Federal no aplicativo.
+              </br>
+              </br>
+               - O aplicativo deve permitir ao usuário enviar o email de forma simples.
+               </br>
+               </br>
+               - O usuário deve receber uma confirmação após o envio bem-sucedido do email.
+              </br>
+              </br>
+               - A comunicação via email deve ser segura.
+           </td>
            <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>Média</td>
          </tr>
       </tbody>
    </table>
@@ -659,9 +787,20 @@ Em seguida, temos as histórias de usuário:
          <tr>
            <td>Eu, como usuário, desejo acessar informações detalhadas sobre o aplicativo para aprender a utilizá-lo de forma eficaz e aproveitar ao máximo suas funcionalidades.</td>
            <td>Contato </td>
+           <td>
+               - As informações detalhadas sobre o aplicativo devem ser facilmente encontradas no menu ou tela inicial.
+              </br>
+              </br>
+               - O aplicativo deve oferecer guias claros sobre como usar suas funcionalidades.
+              </br>
+              </br>
+               - Os usuários devem poder entrar em contato com o suporte, se necessário.
+              </br>
+              </br>
+               - A navegação e busca de informações devem ser simples.
+           </td>
            <td> </td>
-           <td> </td>
-           <td> </td>
+           <td>Baixa</td>
          </tr>
       </tbody>
    </table>
@@ -675,7 +814,6 @@ Em seguida, temos as histórias de usuário:
 Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [representante-chave](#) disponível para consulta [neste link](#). A reunião foi realizada através da plataforma Teams no dia 03 de novembro de 2023, às [inserir horário]. Após a entrevista, procedemos com as modificações necessárias para garantir que as histórias estejam alinhadas com as expectativas e necessidades do usuário.
 
 ### Bibliografia
-
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                                 | Autor(es)                                               | Revisor(es)                                    |
@@ -687,3 +825,5 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.4`  | 03/11/2023 | Adição dos titulos e dos temas da Historia do usuário            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.5`  | 03/11/2023 | Adição das Histórias de usuários            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.6`  | 03/11/2023 | Adição dos criterios de aceitação do 1 ao 11            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
+| `1.7`  | 03/11/2023 | Adição dos criterios de aceitação do 12 ao 22            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+
