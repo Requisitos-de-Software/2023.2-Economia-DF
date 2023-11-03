@@ -641,11 +641,17 @@ Em seguida, temos as histórias de usuário:
    </div>
 </details>
 
+## Validação das histórias de usuário
+
+Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [representante-chave](#) disponível para consulta [neste link](#). A reunião foi realizada através da plataforma Teams no dia 03 de novembro de 2023, às [inserir horário]. Após a entrevista, procedemos com as modificações necessárias para garantir que as histórias estejam alinhadas com as expectativas e necessidades do usuário.
+
 ### Bibliografia
 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                                 | Autor(es)                                               | Revisor(es)                                    |
 | ------ | ---------- | --------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------- |
-| `1.0`  | 03/11/2023 | Criação do documento, introdução, objetivo, metodologia, padrão de história de usuário| [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
-| `1.1`  | 03/11/2023 | Adição das estruturas de história de usuário              | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.0`  | 03/11/2023 | Criação do documento                                      | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.1`  | 03/11/2023 | Adição introdução, objetivo, metodologia, padrão de história de usuário            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.2`  | 03/11/2023 | Adição das estruturas de história de usuário              | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
+| `1.3`  | 03/11/2023 | Adição das Validação das histórias de usuário             | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
