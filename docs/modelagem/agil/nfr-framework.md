@@ -255,5 +255,5 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 02/11/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.1`  | 03/11/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.2`  | 03/11/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.2`  | 04/11/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 
