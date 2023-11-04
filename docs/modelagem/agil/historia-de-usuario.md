@@ -30,9 +30,9 @@ Para a criação do artefacto, foi efetuado uma reunião com os seguintes membro
 
 | Nome                                          | Cargo                     |
 | --------------------------------------------- | ------------------------- |
-| -                                             | -                         |
-| -                                             | -                         |
-| -                                             | -                         |
+| [Lucas Víctor](#)                             | Desenvolvedor             |
+| [Lucas Oliveira](#)                           | Desenvolvedor             |
+|                                               | -                         |
 
 
 ## Padrão de História de Usuário
