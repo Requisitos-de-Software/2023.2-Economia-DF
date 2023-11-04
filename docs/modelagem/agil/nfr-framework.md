@@ -1,34 +1,41 @@
 # NFR Framework
+
 ## Introdução
+
 ## Metodologia
+
 ## NFR Framework
 
 ### Desempenho
+
 xxx
+
 #### Softgoal Interdependency Graph
-O Softgoal Interdependency Grap do softgoal "Desempenho" pode ser visto na imagem X.
+
+O Softgoal Interdependency Grap do softgoal "Desempenho" pode ser visto na figura X.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Desempenho".</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/SIG_desempenho.drawio.png?raw=true" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/SIG_desempenho.drawio.png?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Desempenho" pode ser visto na imagem X.
+A propagação de impactos do softgoal "Desempenho" pode ser visto na figura X.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Desempenho"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/impacto_desempenho.drawio%20(1).png?raw=true" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/impacto_desempenho.drawio%20(1).png?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 #### Cartão de Especificação
+
 Na tabela X, temos o cartão de especificação do softgoal "Desempenho".
 
 <div align="center">
@@ -78,29 +85,30 @@ Na tabela X, temos o cartão de especificação do softgoal "Desempenho".
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-
 ### Ajuda e documentação
+
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 
 #### Softgoal Interdependency Graph
-O Softgoal Interdependency Grap do softgoal "Ajuda e documentação" pode ser visto na imagem X.
+
+O Softgoal Interdependency Grap do softgoal "Ajuda e documentação" pode ser visto na figura X.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Ajuda e documentação".</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/62c3b074559aecd7ecbab07b03ee27c04b8c7e33/docs/imagens/nfr-ad.png?raw=true" style="width: 85%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/nfr-ad.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Ajuda e documentação" pode ser visto na imagem X.
+A propagação de impactos do softgoal "Ajuda e documentação" pode ser visto na figura X.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Ajuda e documentação"</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/62c3b074559aecd7ecbab07b03ee27c04b8c7e33/docs/imagens/nfr-ajuda-documentacao-analise.png?raw=true" style="width: 85%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/nfr-ajuda-documentacao-analise.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
@@ -152,16 +160,100 @@ Na tabela X, temos o cartão de especificação do softgoal "Ajuda e Documentaç
     <td>02/10/2023</td>
   </tr>
 </table>
-<p><b>Fonte:</b> Izabella Alves, 2023.</p>
+<p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
+</div>
+
+### Interfaces
+
+O aplicativo deve possuir uma interface simples, de fácil navegação e padronizada para que os usuários possam atingir seus objetivos. Os requisitos não-funcionais para interfaces foram classificados em três frentes: interface de usuário, interface de hardware e interface de comunicação.
+
+#### Softgoal Interdependency Graph
+
+Na figura X a seguir, é demonstrado o SIG - Softgoal Interdependency Grap - do softgoal "Interfaces".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Interfaces".</p></font>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/nfr-interfaces.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+#### Propagação de Impactos
+
+Após a definição do SIG, foi feita a análise de propagação de impactos do softgoal "Interfaces". O resultado dessa análise pode ser visto na Figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Interfaces"</p></font>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/nfr-interfaces-analise.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+#### Cartão de Especificação
+
+Para complementar o estudo do NFR Framework, foi construído o cartão de especificação do softgoal "Interfaces", que pode ser visto na Tabela X a seguir.
+
+<div align="center">
+<p><b>Tabela X:</b> Cartão de Especificação do Softgoal Interfaces</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFRXX</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Interfaces de usuário, de hardware e de comunicação.</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O requisito "Interfaces" refere-se à forma como o usuário interage com o aplicativo, devendo esse apresentar interfaces de usuário de fácil compreensão e navegação, interfaces de hardware em pelo menos duas plataformas: iOS e Android e interfaces de comunicação por dados móveis e wi-fi.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>Esse RNF se justifica pela necessidade do usuário interagir com o aplicativo de forma fácil e intuitiva, que ele tenha poder de escolha entre pelo menos duas palataformas e que o aplicativo esteja sempre disponível, a qualquer momento e em qualquer lugar.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação Suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">Requisitos Elicitados</a></td>.
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificados requisistos relacionados a este.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O requisito de "Interfaces" é de alta prioridade (10), pois afeta a experiência do usuário diretamente.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum requisito que entre em conflito com este.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>Data de criação: 04/11/2023</td>
+  </tr>
+</table>
+<p><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p>
 </div>
 
 ## Bibliografia
->
+
 > SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
 >
+> SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
+> 
+
 ## Histórico de Versões
+
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 02/10/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.0`  | 03/10/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.1`  | 03/10/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.2`  | 03/10/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 
