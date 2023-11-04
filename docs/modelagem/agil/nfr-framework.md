@@ -79,7 +79,7 @@ Na tabela X, temos o cartão de especificação do softgoal "Desempenho".
   </tr>
   <tr>
     <td>História</td>
-    <td>03/10/2023</td>
+    <td>03/11/2023</td>
   </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
@@ -157,7 +157,7 @@ Na tabela X, temos o cartão de especificação do softgoal "Ajuda e Documentaç
   </tr>
   <tr>
     <td>História</td>
-    <td>02/10/2023</td>
+    <td>02/11/2023</td>
   </tr>
 </table>
 <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
@@ -253,7 +253,7 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 02/10/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.1`  | 03/10/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.2`  | 03/10/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.0`  | 02/11/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.1`  | 03/11/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.2`  | 03/11/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 
