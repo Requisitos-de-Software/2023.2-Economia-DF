@@ -1,8 +1,41 @@
 # NFR Framework
-
 ## Introdução
+NFR (Non-Functional Requirements) Framework, ou "Framework de Requisitos Não Funcionais", é uma abordagem essencial no desenvolvimento de software e engenharia de sistemas, que visa definir e gerenciar requisitos que não se relacionam diretamente com as funcionalidades específicas de um sistema, mas sim com suas características de desempenho, segurança, usabilidade e outros aspectos que afetam a qualidade do software. Esses requisitos não funcionais são igualmente críticos para o sucesso de um projeto, pois determinam como o sistema deve se comportar em termos de eficiência, confiabilidade e experiência do usuário.
+
+O Framework faz uso do conceito de "softgoal", que se refere a um objetivo desprovido de uma definição clara e critérios de satisfação precisos. Os softgoals desempenham o papel de representar os Requisitos Não-Funcionais e podem estar conectados entre si, refletindo a influência de um softgoal sobre outro.
+
+O NFR Framework opera por meio da construção de um gráfico chamado "Softgoal Interdependency Graph (SIG)", que registra as considerações do desenvolvedor sobre os softgoals e suas interconexões. Esses gráficos contêm informações detalhadas sobre decisões de desenvolvimento, incluindo Requisitos Não-funcionais, alternativas, e as justificativas por trás das decisões. Isso permite a avaliação de requisitos de alto nível para garantir que sejam atendidos.
+
+Existem três tipos de softgoals, eles estão descritos abaixo e suas representações podem ser vistas na figura 1, que foram tiradas da discertação de mestrado de Reinaldo Antônio da Silva: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados [1]. Essa figura também servirá como legenda para os NFRs que serão apresentados neste documento.
+
+- Softgoals NFR: Eles representam os Requisitos Não-Funcionais e podem ser organizados hierarquicamente no desenvolvimento do projeto.
+
+- Softgoals de Operacionalização: Representam as soluções de implementação para atender aos softgoals NFR ou outros softgoals de operacionalização. Isso inclui operações, processos, estruturas de dados e restrições no sistema para cumprir as necessidades indicadas pelos softgoals.
+
+- Softgoals de Afirmação: São usados para considerar as características do domínio, como prioridades e carga de trabalho, no processo de tomada de decisão. Eles servem como justificação para apoiar ou negar a priorização e seleção de componentes, facilitando a revisão, a justificação e a melhoria do sistema, bem como o rastreamento das decisões de desenvolvimento.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal.</p></font>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/488b24a3f8030eb09c0b30d82ebe620d2442483b/docs/imagens/nfr-softgoals.png?" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
+</div>
+
+O processo de avaliação determina o nível de satisfação dos requisitos não funcionais por meio de um conjunto de decisões. Em outras palavras, o procedimento de avaliação verifica se cada softgoal ou interdependência no SIG foi satisfatoriamente atendido. Isso é alcançado por meio da atribuição de rótulos aos softgoals, com rótulos possíveis incluindo "satisfeito," "parcialmente satisfeito," "não atendido," "parcialmente não atendido," "conflitante" e "indeterminado". Na imagem 2, podemos ver um exemplo de cada rótulo, tirado do artigo de Reinaldo Antônio da Silva [1]. Essa figura também servirá como legenda para os NFRs que serão apresentados neste documento.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Rótulos da propagação de impactos.</p></font>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/488b24a3f8030eb09c0b30d82ebe620d2442483b/docs/imagens/nfr-impactos.png?raw=true" style="width: 65%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
+</div>
 
 ## Metodologia
+Neste documento, serão apresentads 7 NFRs, que foram definidos a partir do nosso documento de [especificação suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), que por sua vez se baseou no modelo FURPS+, e cada membro da equipe fez o NFR de uma categoria do modelo FURPS+.
+
+Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações.
 
 ## NFR Framework
 
@@ -242,9 +275,11 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
 <p><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p>
 </div>
 
+## Referências Bibliográficas
+>
+> [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
+>
 ## Bibliografia
-
-> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
 >
 > SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
 > 
