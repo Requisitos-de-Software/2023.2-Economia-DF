@@ -32,7 +32,7 @@ Para a criação do artefacto, foi efetuado uma reunião com os seguintes membro
 | --------------------------------------------- | ------------------------- |
 | [Lucas Víctor](#)                             | Desenvolvedor             |
 | [Lucas Oliveira](#)                           | Desenvolvedor             |
-|                                               | -                         |
+| [Wallace Oliveira](https://github.com/itsmewall)| PO                      |
 
 
 ## Padrão de História de Usuário
@@ -263,7 +263,7 @@ Em seguida, temos as histórias de usuário:
       <br> </br>
        <br> </br>
            - O sistema deve permitir que o usuário avalie a nota fiscal, dando uma nota de 1 a 5 estrelas e um comentário opcional, para expressar sua satisfação ou insatisfação com a compra realizada. O sistema deve também exibir a média e o número de avaliações de cada nota fiscal. </td>
-           <td>Média </td>
+           <td>Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -400,8 +400,8 @@ Em seguida, temos as histórias de usuário:
 - O sistema deve permitir que o usuário consulte os débitos associados ao(s) seu(s) veículo(s) no aplicativo, informando o valor, a data de vencimento, o código de barras e o status (pago, atrasado, parcelado, etc.) de cada débito. O sistema deve também sincronizar os débitos com o portal do Detran-DF, utilizando a placa, o RENAVAM ou o chassi do veículo, para garantir a autenticidade e a atualização das informações. 
       <br> </br>
        <br> </br>
-           - O sistema deve oferecer a possibilidade de pagar os débitos através do aplicativo, utilizando uma das formas de pagamento disponíveis, como cartão de crédito, débito automático, PIX, etc. O sistema deve também emitir um comprovante de pagamento e atualizar o status do débito para pago.- O sistema deve enviar notificações ao usuário sobre os débitos, alertando-o sobre o vencimento, o atraso, o parcelamento ou o pagamento dos mesmos. O sistema deve também permitir que o usuário configure as preferências de recebimento das notificações, como frequência, horário, som, etc. </td>
-           <td>Média </td>
+           - O sistema deve oferecer a possibilidade de pagar os débitos através do aplicativo, utilizando uma das formas de pagamento disponíveis, como cartão de crédito, débito automático, PIX, etc.. </td>
+           <td>Alta </td>
            <td> </td>
          </tr>
       </tbody>
@@ -864,4 +864,5 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.6`  | 03/11/2023 | Adição dos criterios de aceitação do 1 ao 11            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.7`  | 03/11/2023 | Adição dos criterios de aceitação do 12 ao 22            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.8`  | 03/11/2023 | Adição das prioridades            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
+| `1.9`  | 03/11/2023 | Adição das correções com o PO            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 
