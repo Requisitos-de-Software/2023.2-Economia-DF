@@ -355,6 +355,84 @@ Na tabela X, temos o cartão de especificação do softgoal "Usabilidade".
 <p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
 </div>
 
+### Restrições de Design
+
+As "Restrições de Design" em um aplicativo referem-se às limitações ou condições específicas que os designers e desenvolvedores precisam levar em consideração ao criar a interface do usuário e a experiência dos usuários, sendo fundamentais para garantir a usabilidade, acessibilidade e compatibilidade de um aplicativo.
+
+#### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Graph do Softgoal "Restrições de Design" pode ser visto na imagem X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do Softgoal "Restrições de Design".</p></font>
+
+<img src="" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+#### Propagação de Impactos
+
+A propagação de impactos do softgoal "Restrições de Design" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do Softgoal "Restrições de Design"</p></font>
+
+<img src="" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+#### Cartão de Especificação
+Na tabela X, temos o cartão de especificação do Softgoal "Restrições de Design".
+
+<div align="center">
+<p><b>Tabela X:</b> Cartão de Especificação do Softgoal “Restrições de Design”</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFR0X</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Restrições de Design</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O requisito "Restrições de Design" refere-se a limitações ou condições específicas que devem ser consideradas durante o processo de design de um produto, sistema ou projeto.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td> As Restrições de Design são fundamentais pois garantem que um produto ou sistema seja viável, eficiente e de alta qualidade. Elas ajudam a cumprir regulamentações, considerar as necessidades dos usuários e usar recursos de forma sustentável.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificadas restrições ou dependências específicas, mas a atualização da documentação deve ser planejada e coordenada com as versões do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O requisito de "Restrições de Design" é de alta prioridade devido ao seu impacto direto na viabilidade e na qualidade do produto.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum conflito.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>04/11/2023</td>
+  </tr>
+</table>
+<p><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023.</p>
+</div>
+
 ## Bibliografia
 
 > SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
