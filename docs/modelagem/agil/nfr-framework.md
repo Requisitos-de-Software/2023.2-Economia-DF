@@ -81,7 +81,7 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0X</td>
+    <td>NFR01</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -158,7 +158,7 @@ Na tabela 2, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0Y</td>
+    <td>NFR02</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -238,7 +238,7 @@ Na tabela 3, temos o cartão de especificação do softgoal "Desempenho".
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0X</td>
+    <td>NFR03</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -318,7 +318,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0X</td>
+    <td>NFR04</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -398,7 +398,7 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0X</td>
+    <td>NFR05</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -477,7 +477,7 @@ Na tabela 6, temos o cartão de especificação do softgoal "Ajuda e Documentaç
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFR0X</td>
+    <td>NFR06</td>
   </tr>
   <tr>
     <td>Classificação</td>
@@ -556,7 +556,7 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
   </tr>
   <tr>
     <td>ID do NFR</td>
-    <td>NFRXX</td>
+    <td>NFR07</td>
   </tr>
   <tr>
     <td>Classificação</td>
