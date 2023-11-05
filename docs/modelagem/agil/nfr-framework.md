@@ -288,7 +288,7 @@ O Softgoal Interdependency Grap do softgoal "Usabilidade" pode ser visto na figu
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Usabilidade".</p></font>
 
-<img src="" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/diagramausabilidade.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
