@@ -80,7 +80,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
         <td> Alta </td>
     <tr>
         <td> HS02 - Efetuar login com gov.br </td>
-        <td> Baixa </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td> HS03 - Recuperar senha </td>
@@ -97,7 +97,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
         <td> Alta </td>
     <tr>
         <td> HS06 - Pesquisar </td>
-        <td> Média </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td> HS07 - Visualizar detalhes</td>
@@ -105,7 +105,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
     </tr>
     <tr>
         <td> HS08 - Imprimir DANFE </td>
-        <td> Baixa </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td rowspan="12"> T03 - Débitos </td>
@@ -118,7 +118,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
     </tr>
     <tr>
         <td> HS11 - Emitir DAR</td>
-        <td> Média </td>
+        <td> Alta </td>
     <tr>
         <td rowspan="3"> EP04 - Imóveis </td>
         <td> HS12 - Cadastrar </td>
@@ -134,7 +134,7 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
     <tr>
         <td rowspan="2"> EP05 - Dívida Ativa </td>
         <td> HS15 - Consultar débitos inscritos </td>
-        <td> Alta </td>
+        <td> Média </td>
     <tr>
         <td> HS16 - Emitir DAR</td>
         <td> Média </td>
@@ -159,11 +159,11 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
         <td rowspan="2"> T04 - Contato </td>
         <td rowspan="1"> EP08 - Fale Conosco </td>
         <td> HS21 - Enviar email </td>
-        <td> Média </td>
+        <td> Baixa </td>
     <tr>
         <td rowspan="1"> EP09 - Ajuda </td>
         <td> HS22 - Visualizar informações sobre o aplicativo	 </td>
-        <td> Alta </td>
+        <td> Baixa </td>
     </tr>
     </tr>
     
