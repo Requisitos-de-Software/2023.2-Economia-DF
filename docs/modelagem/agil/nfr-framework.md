@@ -275,15 +275,95 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
 <p><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023.</p>
 </div>
 
-## Referências Bibliográficas
->
-> [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
->
+
+### Usabilidade 
+
+Usabilidade, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários.
+
+
+#### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Grap do softgoal "Usabilidade" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Usabilidade".</p></font>
+
+<img src="" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+#### Propagação de Impactos
+
+A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
+
+<img src="" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
+
+#### Cartão de Especificação
+Na tabela X, temos o cartão de especificação do softgoal "Usabilidade".
+
+<div align="center">
+<p><b>Tabela X:</b> Cartão de Especificação do Softgoal Usabilidade</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFR0X</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Usabilidade</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O requisito "Usabilidade" refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do "Economia DF".</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificadas restrições ou dependências específicas, mas a atualização da documentação deve ser planejada e coordenada com as versões do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O requisito de "Usabilidade" é de alta prioridade, uma vez que influencia diretamente a satisfação do usuário e a eficácia do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum conflito.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>04/11/2023</td>
+  </tr>
+</table>
+<p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
+</div>
+
 ## Bibliografia
->
+
 > SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
 > 
 
+## Referências Bibliográficas
+
+> [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
+>
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
@@ -291,4 +371,5 @@ Para complementar o estudo do NFR Framework, foi construído o cartão de especi
 | `1.0`  | 02/11/2023 | Criação do documento                 | [Izabella Alves](https://github.com/izabellaalves)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.1`  | 03/11/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.2`  | 04/11/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.3`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 
