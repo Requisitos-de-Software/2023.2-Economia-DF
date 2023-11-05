@@ -512,7 +512,7 @@ Na tabela X, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
 
 ### Suporte
 
-O desempenho em um aplicativo se refere à capacidade do aplicativo de executar suas funções de forma eficaz e eficiente. Ele envolve diversos aspectos, incluindo a velocidade de resposta, a eficiência do uso de recursos, a estabilidade e a capacidade de lidar com cargas de trabalho variáveis.
+O suporte de sistema é responsável por ajudar os usuários a resolver problemas, manter sistemas funcionando sem problemas, garantir a segurança e a eficiência dos sistemas de computador, além de treinar usuários e colaborar com equipes de desenvolvimento. É uma função essencial para o bom funcionamento de uma organização que depende de tecnologia da informação.
 
 #### Softgoal Interdependency Graph
 
