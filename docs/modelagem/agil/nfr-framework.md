@@ -41,7 +41,7 @@ Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagr
 
 ### Desempenho
 
-xxx
+O desempenho em um aplicativo se refere à capacidade do aplicativo de executar suas funções de forma eficaz e eficiente. Ele envolve diversos aspectos, incluindo a velocidade de resposta, a eficiência do uso de recursos, a estabilidade e a capacidade de lidar com cargas de trabalho variáveis.
 
 #### Softgoal Interdependency Graph
 
