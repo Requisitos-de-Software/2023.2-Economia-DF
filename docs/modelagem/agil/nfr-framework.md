@@ -533,7 +533,7 @@ A propagação de impactos do softgoal "Suporte" pode ser visto na figura X.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Suporte"</p></font>
 
-<img src="" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte-nfr.jpg" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -586,7 +586,7 @@ Na tabela X, temos o cartão de especificação do softgoal "Suporte".
     <td>03/11/2023</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Bibliografia
