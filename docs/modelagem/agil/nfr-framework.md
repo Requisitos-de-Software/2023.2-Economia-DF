@@ -509,6 +509,7 @@ Na tabela X, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
 </table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ### Suporte
 
