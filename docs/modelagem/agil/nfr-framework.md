@@ -608,6 +608,6 @@ Na tabela X, temos o cartão de especificação do softgoal "Suporte".
 | `1.3`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.4`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas Ribeiro](https://github.com/lucassouzs)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.5`  | 04/11/2023 | Adicionando "Confiabilidade (Reliability)" | [Lucas Víctor](https://github.com/Lucas13032003)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
-| `1.6`  | 04/11/2023 | Adicionando "Confiabilidade (Reliability)" | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Lucas Víctor](https://github.com/Lucas13032003)   |
+| `1.6`  | 04/11/2023 | Adicionando "Suporte" | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Lucas Víctor](https://github.com/Lucas13032003)   |
 
 
