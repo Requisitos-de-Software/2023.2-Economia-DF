@@ -521,7 +521,7 @@ O Softgoal Interdependency Grap do softgoal "Suporte" pode ser visto na figura X
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Suporte".</p></font>
 
-<img src="" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte.png" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
