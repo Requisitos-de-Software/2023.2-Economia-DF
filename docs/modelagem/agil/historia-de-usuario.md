@@ -232,6 +232,11 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 
 ### Bibliografia
 
+
+> [1] 2023.1-Simplenote, User_story. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/modelagem/agil/User_story.md#hist%C3%B3rias-de-usu%C3%A1rio>. 
+
+> [2] DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 11 jul. 2022. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>. Acesso em: 13 maio 2023
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                                 | Autor(es)                                               | Revisor(es)                                    |
