@@ -366,7 +366,7 @@ O Softgoal Interdependency Graph do Softgoal "Restrições de Design" pode ser v
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do Softgoal "Restrições de Design".</p></font>
 
-<img src="" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -450,4 +450,5 @@ Na tabela X, temos o cartão de especificação do Softgoal "Restrições de Des
 | `1.1`  | 03/11/2023 | Adicionando "desempenho"          | [Gabriel Zaranza](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.2`  | 04/11/2023 | Adicionando "interfaces"          | [Zenilda Vieira](https://github.com/GZaranza)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.3`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.4`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas Ribeiro](https://github.com/lucassouzs)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 
