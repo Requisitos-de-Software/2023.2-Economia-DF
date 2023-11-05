@@ -378,7 +378,7 @@ A propagação de impactos do softgoal "Restrições de Design" pode ser visto n
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do Softgoal "Restrições de Design"</p></font>
 
-<img src="" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design-2.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
