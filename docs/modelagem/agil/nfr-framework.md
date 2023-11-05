@@ -510,6 +510,85 @@ Na tabela X, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
+### Suporte
+
+O desempenho em um aplicativo se refere à capacidade do aplicativo de executar suas funções de forma eficaz e eficiente. Ele envolve diversos aspectos, incluindo a velocidade de resposta, a eficiência do uso de recursos, a estabilidade e a capacidade de lidar com cargas de trabalho variáveis.
+
+#### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Grap do softgoal "Suporte" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Softgoal Interdependency Grap do softgoal "Suporte".</p></font>
+
+<img src="" style="width: 75%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+#### Propagação de Impactos
+
+A propagação de impactos do softgoal "Suporte" pode ser visto na figura X.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura X:</b> Propagação de impactos do softgoal "Suporte"</p></font>
+
+<img src="" style="width: 75%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+#### Cartão de Especificação
+
+Na tabela X, temos o cartão de especificação do softgoal "Suporte".
+
+<div align="center">
+<p><b>Tabela X:</b> Cartão de Especificação do Softgoal Suporte</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFR0X</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Suporte</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O suporte de um sistema é relacionado ao nível de manutenção, testabilidade e correção de bugs que o app tem durante o período em que o software está sendo desenvolvido.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td> É importante garantir uma alta manutenção do sistema para a correção de bugs e não causar insatisfação no usuário.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação suplementar</a> e <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">requisitos elicitados</a></td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificadas restrições ou dependências específicas, mas a atualização da documentação deve ser planejada e coordenada com as versões do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O requisito de "Suporte" é de alta prioridade, para que o software possa continuar fornecendo atualizações de melhoria para os usuários.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum conflito.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>03/11/2023</td>
+  </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
 ## Bibliografia
 
 > SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
@@ -529,5 +608,6 @@ Na tabela X, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
 | `1.3`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.4`  | 04/11/2023 | Adicionando "Usabilidade"          | [Lucas Ribeiro](https://github.com/lucassouzs)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
 | `1.5`  | 04/11/2023 | Adicionando "Confiabilidade (Reliability)" | [Lucas Víctor](https://github.com/Lucas13032003)  | [Gabriel Rosa](https://github.com/gabrielrosa09)   |
+| `1.6`  | 04/11/2023 | Adicionando "Confiabilidade (Reliability)" | [Gabriel Rosa](https://github.com/gabrielrosa09)  | [Lucas Víctor](https://github.com/Lucas13032003)   |
 
 
