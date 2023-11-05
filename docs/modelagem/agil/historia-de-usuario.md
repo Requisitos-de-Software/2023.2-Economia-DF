@@ -57,800 +57,171 @@ Seguir este padrão ao criar as histórias de usuário garantirá uma documenta�
 
 Em seguida, temos as histórias de usuário:
 
+### HS01 - Efetuar login com email e senha
 
-<details>
-   
-   <summary>US01 - Efetuar login com email e senha </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td> Eu, como usuário, desejo realizar um login seguro no aplicativo utilizando meu endereço de email e senha, a fim de acessar e desfrutar de todas as funcionalidades disponíveis com tranquilidade e proteção dos meus dados pessoais.</td>
-           <td>Login</td>
-           <td>-O sistema deve verificar se o email e a senha informados pelo usuário são válidos e correspondem a um usuário cadastrado. Caso contrário, deve exibir uma mensagem de erro e solicitar que o usuário tente novamente.
-           </td>
-           <td> Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu quero fazer login seguro no aplicativo com meu e-mail e senha para usar todas as funcionalidades com proteção dos meus dados pessoais.| Login | - O sistema deve verificar se o email e a senha informados pelo usuário são válidos e correspondem a um usuário cadastrado. </br> - Caso contrário, deve exibir uma mensagem de erro e solicitar que o usuário tente novamente. | Alta |  |
+
+<div style="text-align: center">
       <p> Tabela 1: História de Usuário 1 (Fonte: Autores, 2023).</p>
    </div>
-</details>
 
-<details>
-   <summary>US02 HS02 - Efetuar login com gov.br </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo realizar login no aplicativo através da integração com o gov.br, para simplificar o acesso e utilizar todas as funcionalidades com a comodidade de minhas credenciais governamentais. </td>
-           <td> Login </td>
-           <td>-O sistema deve permitir que o usuário realize o login no aplicativo através da integração com o gov.br, utilizando as credenciais de acesso do portal do governo federal. O sistema deve redirecionar o usuário para a tela do gov.br, onde ele poderá escolher uma das opções de identificação disponíveis, como CPF, certificado digital, QR code ou login com banco.
-              <br> </br>
-       <br> </br>
-           - O sistema deve verificar se o usuário possui uma conta válida no gov.br e se os dados informados estão corretos. Caso contrário, deve exibir uma mensagem de erro e solicitar que o usuário tente novamente ou crie uma conta gov.br;
-      <br> </br>
-       <br> </br>
-           - Após o login bem-sucedido com o gov.br, o sistema deve redirecionar o usuário para a tela inicial do aplicativo, onde ele poderá acessar e utilizar todas as funcionalidades disponíveis, sem a necessidade de informar novamente seus dados pessoais ou criar uma conta específica para o aplicativo. </td>
-           <td>Média </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
+### HS02 HS02 - Efetuar login com gov.br
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como  usuário, desejo  entrar no aplicativo usando minha integração gov.br para acessar todas as funcionalidades de forma conveniente. | Login | - O sistema deve permitir que o usuário realize o login no aplicativo através da integração com o gov.br. </br> - O sistema deve redirecionar o usuário para a tela do gov.br, onde ele poderá escolher uma das opções de identificação disponíveis, como CPF, certificado digital, QR code ou login com banco.| Média |  |
+
+<div style="text-align: center">
       <p> Tabela 2: História de Usuário 2 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+</div>
 
-<details>
-   <summary>US03 HS03 - Recuperar senha </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td> Eu, como usuário, desejo ter a capacidade de recuperar minha senha de acesso no aplicativo no caso de perda, garantindo a conveniência e a segurança contínua de minha conta.</td>
-           <td> Login </td>
-           <td>- O sistema deve oferecer uma opção para o usuário recuperar sua senha caso ele a tenha esquecido. Ao clicar nessa opção, o usuário deve ser levado para uma tela onde ele poderá informar seu email e receber um link para redefinir sua senha. </td>
-           <td> Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
+### HS03 HS03 - Recuperar senha
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo ter a capacidade de recuperar minha senha de acesso no aplicativo no caso de perda.| Login | - O sistema deve oferecer uma opção para o usuário recuperar sua senha caso ele a tenha esquecido. </br> - Ao clicar nessa opção, o usuário deve ser levado para uma tela onde ele poderá informar seu email e receber um link para redefinir sua senha.| Alta |  |
+
+<div style="text-align: center">
       <p> Tabela 3: História de Usuário 3 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+</div>
 
-<details>
-   <summary>HS04 - Efetuar logout </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo realizar logout no aplicativo após o uso, garantindo a segurança da minha conta e a privacidade das minhas informações. </td>
-           <td> Login </td>
-           <td>- O sistema deve permitir que o usuário faça logout do aplicativo a qualquer momento, encerrando sua sessão e retornando para a tela de login. </td>
-           <td>Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
+### HS04 - Efetuar logout 
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo realizar logout no aplicativo após o uso, garantindo a segurança da minha conta e a privacidade das minhas informações.| Login | O sistema deve permitir que o usuário faça logout do aplicativo a qualquer momento, encerrando sua sessão e retornando para a tela de login. | Alta |   |
+
+<div style="text-align: center">
       <p> Tabela 4: História de Usuário 4 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+</div>
 
-<details>
-   <summary>HS05 - Listar </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo listar informações sobre notas fiscais no aplicativo, permitindo que eu confira e acompanhe minhas compras de forma conveniente e organizada. </td>
-           <td> Nota Fiscal </td>
-           <td>- O sistema deve permitir que o usuário visualize uma lista com as notas fiscais emitidas para ele, ordenadas por data de emissão, em ordem decrescente. O sistema deve exibir as informações básicas de cada nota fiscal, como número, data, valor, fornecedor e status (autorizada, cancelada, inutilizada, etc.).
-              <br> </br>
-       <br> </br>
-         - O sistema deve permitir que o usuário selecione uma nota fiscal da lista e visualize os detalhes da mesma, como os produtos ou serviços adquiridos, os impostos, as formas de pagamento, o destinatário, o transportador, etc. O sistema deve também disponibilizar a opção de baixar o arquivo XML ou PDF da nota fiscal.
-      <br> </br>
-       <br> </br>
-          - O sistema deve oferecer a possibilidade de filtrar as notas fiscais por período, valor, fornecedor ou status, facilitando a busca e o acompanhamento das compras realizadas pelo usuário. 
-      <br> </br>
-       <br> </br>
-           - O sistema deve sincronizar as notas fiscais com o portal da NF-e, utilizando a chave de acesso ou o número da nota fiscal, para garantir a autenticidade e a atualização dos dados. O sistema deve também alertar o usuário sobre possíveis inconsistências ou divergências entre as informações do aplicativo e do portal. </td>
-            <td>Alta</td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 5: História de Usuário 5 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+### HS05 - Listar
 
-<details>
-   <summary>HS06 - Pesquisar</summary>
-   <table>
-      <thead>
-         <tr>
-           <td> História de Usuário </td>
-           <td> Tema </td>
-           <td> Critérios de aceitação </td>
-           <td> Prioridades  </td>
-           <td> DI </td>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo pesquisar informações sobre notas fiscais no aplicativo, proporcionando-me a capacidade de conferir e rastrear minhas compras de forma eficaz e personalizada.</td>
-           <td> Nota Fiscal </td>
-           <td>- O sistema deve permitir que o usuário digite uma palavra-chave relacionada às notas fiscais que deseja pesquisar, como o nome do fornecedor, o produto ou serviço adquirido, o valor, a data, etc. O sistema deve retornar uma lista de notas fiscais que contenham a palavra-chave informada, ordenadas por relevância ou similaridade. </td>
-           <td>Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 6: História de Usuário 6 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo listar informações sobre notas fiscais no aplicativo, permitindo que eu confira e acompanhe minhas compras.  | Nota Fiscal | - Ver uma lista de notas fiscais ordenadas por data de emissão com informações essenciais. </br> - Visualizar detalhes de uma nota fiscal, incluindo produtos, impostos e opção de baixar o XML/PDF. </br> - Filtrar notas fiscais por período, valor, fornecedor ou status. </br> - Sincronizar notas fiscais com o portal da NF-e e alertar sobre inconsistências.| Alta |   |
 
-<details>
-   <summary>HS07 - Visualizar detalhes </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo visualizar detalhes completos sobre as notas fiscais no aplicativo, permitindo-me uma conferência minuciosa de minhas compras e facilitando o acompanhamento de todas as informações relevantes.</td>
-           <td> Nota Fiscal </td>
-           <td>- O sistema deve permitir que o usuário selecione uma nota fiscal da lista e visualize os detalhes completos da mesma, como os produtos ou serviços adquiridos, os impostos, as formas de pagamento, o destinatário, o transportador, etc. O sistema deve também disponibilizar a opção de baixar o arquivo XML ou PDF da nota fiscal.
-              <br> </br>
-       <br> </br>
-          - O sistema deve verificar se os dados da nota fiscal estão corretos e condizentes com o portal da NF-e, utilizando a chave de acesso ou o número da nota fiscal, para garantir a autenticidade e a atualização das informações. O sistema deve também alertar o usuário sobre possíveis inconsistências ou divergências entre as informações do aplicativo e do portal.
-      <br> </br>
-       <br> </br>
-           - O sistema deve oferecer a possibilidade de compartilhar a nota fiscal com outras pessoas ou aplicativos, como e-mail, WhatsApp, Telegram, etc. O sistema deve permitir que o usuário escolha o formato de compartilhamento, como XML, PDF ou imagem.
-      <br> </br>
-       <br> </br>
-           - O sistema deve permitir que o usuário avalie a nota fiscal, dando uma nota de 1 a 5 estrelas e um comentário opcional, para expressar sua satisfação ou insatisfação com a compra realizada. O sistema deve também exibir a média e o número de avaliações de cada nota fiscal. </td>
-           <td>Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 7: História de Usuário 7 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+    <p> Tabela 5: História de Usuário 5 (Fonte: Autores, 2023).</p>
+</div>
 
-<details>
-   <summary>	HS08 - Imprimir DANFE </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo ter a opção de imprimir o DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) das notas fiscais no aplicativo, para que eu possa conferir minhas compras de forma mais conveniente e organizada.</td>
-           <td> Nota Fiscal</td>
-           <td>- O sistema deve permitir que o usuário imprima o DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) das notas fiscais que desejar, utilizando uma impressora conectada ao seu dispositivo. O sistema deve gerar o DANFE em formato PDF, seguindo o layout e os requisitos definidos pela Receita Federal.
-              <br> </br>
-       <br> </br>
-              -  O sistema deve permitir que o usuário visualize o DANFE antes de imprimir, para que ele possa conferir as informações e verificar se estão corretas e completas. O sistema deve também exibir o código de barras e o QR code da nota fiscal no DANFE, para facilitar a leitura e a validação do documento.
-      <br> </br>
-       <br> </br>
-              - O sistema deve oferecer a possibilidade de selecionar uma ou mais notas fiscais para imprimir o DANFE, de acordo com a preferência do usuário. O sistema deve também permitir que o usuário cancele a impressão a qualquer momento, caso ele mude de ideia ou ocorra algum problema.
-           </td>
-           <td>Média </td>
-           <td> </td>
-        </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 8: História de Usuário 8 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+### HS06 - Pesquisar
 
-<details>
-   <summary>US09 - Cadastrar</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo cadastrar informações sobre meu(s) veículo(s) no aplicativo, permitindo-me verificar se há quaisquer débitos associados, facilitando assim o controle e a gestão eficaz da situação dos meus veículos. </td>
-           <td>Débitos </td>
-           <td>- O sistema deve permitir que o usuário cadastre um ou mais veículos no aplicativo, informando os dados obrigatórios, como placa, RENAVAM, chassi, modelo, ano, cor, etc. O sistema deve também validar os dados informados e verificar se o veículo pertence ao usuário. Caso contrário, deve exibir uma mensagem de erro e solicitar que o usuário corrija os dados ou cancele o cadastro.
-              <br> </br>
-       <br> </br>
-           - O sistema deve permitir que o usuário visualize uma lista com os veículos cadastrados no aplicativo, exibindo as informações básicas de cada veículo, como placa, modelo, ano e cor. O sistema deve também permitir que o usuário selecione um veículo da lista e acesse as funcionalidades relacionadas ao mesmo.
-      <br> </br>
-       <br> </br>
-           - O sistema deve permitir que o usuário edite os dados de um veículo cadastrado no aplicativo, alterando as informações que desejar, desde que sejam válidas e condizentes com o veículo. O sistema deve também solicitar a confirmação do usuário antes de salvar as alterações e exibir uma mensagem de sucesso ou de erro após a operação.
-      <br> </br>
-       <br> </br>
-           - O sistema deve permitir que o usuário exclua um veículo cadastrado no aplicativo, removendo-o da lista de veículos e das funcionalidades associadas. O sistema deve também solicitar a confirmação do usuário antes de realizar a exclusão e exibir uma mensagem de sucesso ou de erro após a operação.</td>
-           <td> Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 9: História de Usuário 9 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo pesquisar informações sobre notas fiscais no aplicativo, proporcionando-me a capacidade de conferir e rastrear minhas compras de forma eficaz e personalizada. | Nota Fiscal | - O sistema deve permitir que o usuário digite uma palavra-chave relacionada às notas fiscais que deseja pesquisar, como o nome do fornecedor, o produto ou serviço adquirido, o valor, a data, etc. </br> - O sistema deve retornar uma lista de notas fiscais que contenham a palavra-chave informada, ordenadas por relevância ou similaridade.| Alta |   |
 
-<details>
-   <summary>HS10 - Consultar débitos de IPVA </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo consultar os débitos de IPVA associados ao(s) meu(s) veículo(s) no aplicativo, a fim de verificar a existência de quaisquer pendências financeiras, proporcionando-me uma visão clara da situação de pagamento relacionada aos meus veículos. </td>
-           <td> Débitos </td>
-           <td>- Consulte os débitos de IPVA dos seus veículos no app e veja o valor, a data, o código e o status de cada um.
-- Pague os débitos de IPVA pelo app com cartão de crédito, débito automático, PIX, etc. Receba um comprovante e confira o status atualizado.
-              <br> </br>
-       <br> </br>
-- Parcele os débitos de IPVA em até 12 vezes seguindo as regras e condições da Secretaria da Fazenda do DF. Saiba o valor, a data, o código e o status de cada parcela.
-      <br> </br>
-       <br> </br>
-- Receba notificações sobre os débitos de IPVA e fique por dentro do vencimento, do atraso, do parcelamento ou do pagamento. Configure as preferências das notificações como quiser.
-           </td>
-           <td>Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 10: História de Usuário 10 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+      p> Tabela 6: História de Usuário 6 (Fonte: Autores, 2023).</p>
+</div>
 
-<details>
-   <summary>HS11 - Emitir DAR</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td> Eu, como usuário, desejo a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo para meu(s) veículo(s), permitindo-me identificar e quitar possíveis débitos associados, tornando o processo de regularização mais acessível e prático.</td>
-           <td>Débitos </td>
-           <td> -O sistema deve permitir que o usuário emita o Documento de Arrecadação de Receitas (DAR) para o(s) seu(s) veículo(s) cadastrado(s) no aplicativo, informando o valor total dos débitos existentes, como IPVA, licenciamento, seguro DPVAT, multas, etc. 
-            </br>
-            </br>
-- O sistema deve permitir que o usuário consulte os débitos associados ao(s) seu(s) veículo(s) no aplicativo, informando o valor, a data de vencimento, o código de barras e o status (pago, atrasado, parcelado, etc.) de cada débito. O sistema deve também sincronizar os débitos com o portal do Detran-DF, utilizando a placa, o RENAVAM ou o chassi do veículo, para garantir a autenticidade e a atualização das informações. 
-      <br> </br>
-       <br> </br>
-           - O sistema deve oferecer a possibilidade de pagar os débitos através do aplicativo, utilizando uma das formas de pagamento disponíveis, como cartão de crédito, débito automático, PIX, etc.. </td>
-           <td>Alta </td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
-<details>
-   <summary>HS12 - Cadastrar</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de Usuário</th>
-            <th>Tema</th>
-            <th>Critérios de Aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Eu, como usuário, desejo cadastrar informações sobre meu(s) imóvel(eis) no aplicativo, a fim de verificar a existência de possíveis débitos e, assim, facilitar o acompanhamento e a gestão eficaz da situação dos meus imóveis.</td>
-            <td>Débitos</td>
-            <td>
-               - O usuário deve conseguir cadastrar informações sobre seus imóveis no aplicativo.
-         </br>
-               - O aplicativo deve validar e armazenar com segurança as informações cadastradas.
-         </br>
-               - O usuário deve poder visualizar e editar os dados de seus imóveis a qualquer momento.
-         </br>
-               - Após o cadastro bem-sucedido, o usuário receberá uma confirmação.
-            </td>
-            <td>Alta</td>
-            <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
+### HS07 - Visualizar detalhes 
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo visualizar detalhes completos sobre as notas fiscais no aplicativo, permitindo-me uma conferência minuciosa de minhas compras e facilitando o acompanhamento de todas as informações relevantes. | Nota Fiscal | - Ver detalhes completos de uma nota fiscal selecionada, com a opção de baixar o XML ou PDF. </br> - Verificar a autenticidade da nota fiscal comparando com o portal da NF-e e alertar sobre inconsistências.  </br> - Compartilhar a nota fiscal via e-mail, WhatsApp, Telegram, etc., escolhendo o formato de compartilhamento (XML, PDF ou imagem). </br> Avaliar a nota fiscal com 1 a 5 estrelas e comentário opcional, mostrando a média e o número de avaliações. | Alta |  |
+
+<div style="text-align: center">
+    <p> Tabela 7: História de Usuário 7 (Fonte: Autores, 2023).</p>
+</div>
+
+### HS08 - Imprimir DANFE
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo ter a opção de imprimir o DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) das notas fiscais no aplicativo. | Nota Fiscal | - Imprimir o DANFE das notas fiscais em formato PDF. </br> - Visualizar o DANFE antes de imprimir, com código de barras e QR code. </br> - Escolher notas fiscais para impressão e cancelar a operação, se necessário. | Média |  |
+
+<div style="text-align: center">
+    <p> Tabela 8: História de Usuário 8 (Fonte: Autores, 2023).</p>
+</div>
+
+### US09 - Cadastrar
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo cadastrar informações sobre meu(s) veículo(s) no aplicativo, permitindo-me verificar se há quaisquer débitos associados. | Débitos | - Cadastrar veículos com dados obrigatórios, validando a propriedade. </br> - Ver uma lista de veículos cadastrados e acessar as funcionalidades de um veículo selecionado. </br> - Editar informações de um veículo com confirmação. </br> - Excluir um veículo com confirmação, exibindo mensagens de sucesso ou erro.| Alta |  |
+
+<div style="text-align: center">
+    <p> Tabela 9: História de Usuário 9 (Fonte: Autores, 2023).</p>
+</div>
+
+### HS10 - Consultar débitos de IPVA 
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo consultar os débitos de IPVA associados ao(s) meu(s) veículo(s) no aplicativo, a fim de verificar a existência de quaisquer pendências financeiras. | Débitos | Consultar e visualizar os débitos de IPVA dos seus veículos. </br> - Exporta, compartilhar e imprimir documento de débito. </br> Receber notificações sobre débitos novos. | Alta |   |
+
+<div style="text-align: center">
+    <p> Tabela 10: História de Usuário 10 (Fonte: Autores, 2023).</p>
+</div>
+
+### HS11 - Emitir DAR
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo para meu(s) veículos, ou imóveis, ou dívidas Ativa, ou outros tributos, ou parcelamentos administrativos  permitindo-me identificar e quitar possíveis débitos associados. | Débitos | - Emitir o DAR para todos os seus débitos, como IPVA, IPTU, seguro DPVAT e multas, etc. </br> - Consultar débitos, incluindo valor, data de vencimento, código de barras e status (pago, atrasado, parcelado).  | Alta |   | 
+
+<div style="text-align: center">
+    <p> Tabela 11: História de Usuário 11 (Fonte: Autores, 2023).</p>
+</div>
+
+### HS12 - Cadastrar
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo cadastrar informações sobre meu(s) imóvel(eis) no aplicativo, a fim de verificar a existência de possíveis débitos e, assim, facilitar o acompanhamento e a gestão eficaz da situação dos meus imóveis. | Débitos | - O usuário deve conseguir cadastrar informações sobre seus imóveis no aplicativo. </br> - O aplicativo deve validar e armazenar com segurança as informações cadastradas. </br> - O usuário deve poder visualizar e editar os dados de seus imóveis a qualquer momento. </br> - Após o cadastro bem-sucedido, o usuário receberá uma confirmação. | Alta  |   |
+
+<div style="text-align: center">
       <p>Tabela 12: História de Usuário 12 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+</div>
 
+### HS13 - Consultar débitos de IPTU/TLP
 
-<details>
-   <summary>HS13 - Consultar débitos de IPTU/TLP </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo consultar os débitos de IPTU/TLP relacionados ao(s) meu(s) imóvel(eis) no aplicativo, com o objetivo de identificar possíveis pendências financeiras, oferecendo-me uma visão clara da situação de pagamento associada aos meus imóveis.</td>
-           <td>Débitos </td>
-           <td>
-              O usuário deve encontrar facilmente a opção de consulta de débitos de IPTU/TLP no aplicativo.
-           </br>
-            </br>
-              O aplicativo deve mostrar de maneira clara os débitos de IPTU/TLP relacionados a seus imóveis.
-           </br>
-            </br>
-              É preciso ver detalhes dos débitos, incluindo valores, datas de vencimento e descrições.
-           </br>
-            </br>
-              O usuário deve poder distinguir facilmente os débitos em aberto e vencidos.
-           </br>
-            </br>
-              Deve existir a opção de imprimir ou gerar um relatório dos débitos.
-           </br>
-            </br>
-              A consulta de débitos deve garantir a segurança das informações pessoais.
-           </td>
-           <td>Alta</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 13: História de Usuário 13 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo consultar os débitos de IPTU/TLP relacionados ao(s) meu(s) imóvel(eis) no aplicativo, com o objetivo de identificar possíveis pendências financeiras. | Débitos | - Consultar facilmente débitos de IPTU/TLP. </br> - Visualizar detalhes dos débitos, incluindo valores, datas de vencimento e descrições. </br - Diferenciar débitos em aberto de vencidos. </br> - Oferecer a opção de imprimir ou gerar um relatório dos débitos. </br> - Garantir a segurança das informações pessoais durante a consulta de débitos. | Alta |   |
 
-<details>
-   <summary>HS14 - Emitir DAR</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo para meu(s) imóvel(eis), permitindo-me identificar e quitar possíveis débitos associados, tornando o processo de regularização mais acessível e prático.</td>
-           <td> Débitos </td>
-           <td> 
-              O usuário deve acessar facilmente a função de emissão de DAR no aplicativo.
-            </br>
-            </br>
-              O aplicativo deve gerar o DAR com todas as informações necessárias.
-            </br>
-            </br>
-              O usuário deve poder efetuar o pagamento do DAR pelo aplicativo, se desejar.
-            </br>
-            </br>
-              Após a emissão bem-sucedida, o usuário receberá uma confirmação.
-            </br>
-            </br>
-              A segurança das informações pessoais do usuário deve ser mantida.
-           </td>
-           <td>Média</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 14: História de Usuário 14 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+    <p> Tabela 13: História de Usuário 13 (Fonte: Autores, 2023).</p>
+</div>
 
-<details>
-   <summary>HS15 - Consultar débitos inscritos </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo consultar os débitos inscritos na dívida ativa no aplicativo, para verificar a existência de pendências financeiras, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para regularização.</td>
-           <td>Débitos </td>
-           <td>
-              O usuário deve encontrar facilmente a opção de consulta de débitos inscritos na dívida ativa no aplicativo.
-            </br>
-            </br>
-              O aplicativo deve mostrar de forma clara os débitos inscritos na dívida ativa, incluindo valores e datas de vencimento.
-            </br>
-            </br>
-              O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
-            </br>
-            </br>
-              A consulta de débitos deve garantir a segurança das informações pessoais do usuário.</td>
-           <td>Média</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 15: História de Usuário 15 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+### HS14 - Consultar débitos inscritos
 
-<details>
-   <summary>HS16 - Emitir DAR </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente à dívida ativa, permitindo-me identificar e quitar possíveis débitos pendentes, tornando o processo de regularização mais acessível e prático.</td>
-           <td> Débitos </td>
-           <td>
-              - O usuário deve encontrar facilmente a opção de emitir DAR para a dívida ativa no aplicativo.
-            </br>
-            </br>
-              - O aplicativo deve gerar o DAR de forma clara, incluindo informações sobre o débito.
-            </br>
-            </br>
-              - O usuário deve poder pagar o DAR pelo aplicativo, se desejar.
-            </br>
-            </br>
-              - Após a emissão bem-sucedida, o usuário receberá uma confirmação.
-            </br>
-            </br>
-              - A segurança das informações pessoais do usuário deve ser mantida.
-           </td>
-           <td>Média</td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 16: História de Usuário 16 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo consultar os débitos inscritos na dívida ativa, ou  em outros tributos, ou em parcelamentos administrativos, no aplicativo, para verificar a existência de pendências financeiras, proporcionando-me uma visão clara da situação dos débitos pendentes. | Débitos | - Encontrar facilmente a opção de consulta de débitos inscritos. </br> - Exibir claramente os débitos inscritos, incluindo valores e datas de vencimento. </br> - Facilitar a identificação visual dos débitos em aberto e vencidos. </br> - Garantir a segurança das informações pessoais do usuário durante a consulta de débitos. | Média |   |
 
-<details>
-   <summary>HS17 - Consultar débitos inscritos </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo consultar os débitos inscritos em outros tributos no aplicativo, a fim de verificar a existência de pendências financeiras em relação a outros impostos, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para regularização.</td>
-           <td>Débitos </td>
-           <td>
-              - O usuário deve encontrar facilmente a opção de consulta de débitos em outros tributos no aplicativo.
-            </br>
-            </br>
-              - O aplicativo deve mostrar de forma clara os débitos, incluindo informações sobre valores e datas de vencimento.
-            </br>
-            </br>
-              - O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
-            </br>
-            </br>
-              - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
-           </td>
-           <td>Alta</td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 17: História de Usuário 17 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+    <p> Tabela 14: História de Usuário 14 (Fonte: Autores, 2023).</p>
+</div>
 
-<details>
-   <summary>HS18 - Emitir DAR </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente a outros tributos, permitindo-me identificar e quitar possíveis débitos pendentes em relação a esses impostos, tornando o processo de regularização mais acessível e prático.</td>
-           <td>Débitos </td>
-           <td>
-              - O usuário deve encontrar facilmente a opção de emitir DAR para outros tributos no aplicativo.
-            </br>
-            </br>
-              - O aplicativo deve gerar o DAR de forma clara, incluindo informações sobre o débito.
-            </br>
-            </br>
-              - O usuário deve poder efetuar o pagamento do DAR pelo aplicativo, se desejar.
-            </br>
-            </br>
-              - Após a emissão bem-sucedida, o usuário receberá uma confirmação.
-            </br>
-            </br>
-              - A segurança das informações pessoais do usuário deve ser mantida.
-           </td>
-           <td>Média</td>
-           <td> </td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 18: História de Usuário 18 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+### HS15 - Enviar email
 
-<details>
-   <summary>HS19 - Consultar débitos inscritos </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo consultar os débitos inscritos em parcelamentos administrativos no aplicativo, a fim de verificar a existência de pendências financeiras em relação a esses acordos de pagamento, proporcionando-me uma visão clara da situação dos débitos pendentes e permitindo-me tomar as medidas necessárias para a regularização.</td>
-           <td>Débitos </td>
-           <td>
-              - O usuário deve encontrar facilmente a opção de consultar débitos em parcelamentos administrativos no aplicativo.
-            </br>
-            </br>
-              - O aplicativo deve mostrar claramente os débitos em parcelamentos administrativos, incluindo informações sobre valores e datas de vencimento.
-            </br>
-            </br>
-              - O usuário deve poder identificar visualmente os débitos em aberto e vencidos.
-            </br>
-            </br>
-              - Deve ser possível obter informações adicionais sobre cada débito, se necessário.
-            </br>
-            </br>
-              - A consulta de débitos deve garantir a segurança das informações pessoais do usuário.
-           </td>
-           <td>Alta</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 19: História de Usuário 19 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo ter a opção de entrar em contato com a Secretaria de Economia do Distrito Federal por meio do aplicativo para estabelecer comunicação eficaz e obter assistência ou informações necessárias. | Contato | - O usuário deve encontrar facilmente a opção de enviar um email para a Secretaria de Economia do Distrito Federal no aplicativo. </br> - O aplicativo deve permitir ao usuário enviar o email de forma simples. </br> - O usuário deve receber uma confirmação após o envio bem-sucedido do email. </br> - A comunicação via email deve ser segura. | Média |   |
 
-<details>
-   <summary>HS20 - Emitir DAR </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo ter a capacidade de emitir o Documento de Arrecadação de Receitas (DAR) no aplicativo referente aos parcelamentos administrativos, permitindo-me identificar e quitar possíveis débitos pendentes em relação a esses acordos de pagamento, tornando o processo de regularização mais acessível e prático.</td>
-           <td>Débitos </td>
-           <td>
-               - Emitir DAR para parcelamentos administrativos deve ser fácil de encontrar no aplicativo.
-            </br>
-            </br>
-               - O DAR gerado deve ser claro.
-            </br>
-            </br>
-               - Os usuários devem poder pagar o DAR no aplicativo.
-            </br>
-            </br>
-               - Após emitir o DAR, os usuários recebem uma confirmação.
-            </br>
-            </br>
-               - A segurança das informações pessoais do usuário é mantida.
-           </td>
-           <td>Média</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 20: História de Usuário 20 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+    <p> Tabela 15: História de Usuário 15 (Fonte: Autores, 2023).</p>
+</div>
 
-<details>
-   <summary>HS21 - Enviar email </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td> Eu, como usuário, desejo ter a opção de entrar em contato com a Secretaria de Economia do Distrito Federal por meio do aplicativo para estabelecer comunicação eficaz e obter assistência ou informações necessárias.</td>
-           <td>Contato </td>
-           <td>
-               - O usuário deve encontrar facilmente a opção de enviar um email para a Secretaria de Economia do Distrito Federal no aplicativo.
-              </br>
-              </br>
-               - O aplicativo deve permitir ao usuário enviar o email de forma simples.
-               </br>
-               </br>
-               - O usuário deve receber uma confirmação após o envio bem-sucedido do email.
-              </br>
-              </br>
-               - A comunicação via email deve ser segura.
-           </td>
-           <td>Média</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 21: História de Usuário 21 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+### HS16 - Visualizar informações sobre o aplicativo
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário, desejo acessar informações detalhadas sobre o aplicativo para aprender a utilizá-lo de forma eficaz e aproveitar ao máximo suas funcionalidades. | Contato | - As informações detalhadas sobre o aplicativo devem ser facilmente encontradas no menu ou tela inicial. </br> - O aplicativo deve oferecer guias claros sobre como usar suas funcionalidades. </br> - Os usuários devem poder entrar em contato com o suporte, se necessário. </br> - A navegação e busca de informações devem ser simples. | Baixa |    |
 
-<details>
-   <summary>HS22 - Visualizar informações sobre o aplicativo </summary>
-   <table>
-      <thead>
-         <tr>
-            <th>História de usuário</th>
-            <th>Tema</th>
-            <th>Critérios de aceitação</th>
-            <th>Prioridade</th>
-            <th>DI</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-           <td>Eu, como usuário, desejo acessar informações detalhadas sobre o aplicativo para aprender a utilizá-lo de forma eficaz e aproveitar ao máximo suas funcionalidades.</td>
-           <td>Contato </td>
-           <td>
-               - As informações detalhadas sobre o aplicativo devem ser facilmente encontradas no menu ou tela inicial.
-              </br>
-              </br>
-               - O aplicativo deve oferecer guias claros sobre como usar suas funcionalidades.
-              </br>
-              </br>
-               - Os usuários devem poder entrar em contato com o suporte, se necessário.
-              </br>
-              </br>
-               - A navegação e busca de informações devem ser simples.
-           </td>
-           <td>Baixa</td>
-           <td></td>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 22: História de Usuário 22 (Fonte: Autores, 2023).</p>
-   </div>
-</details>
+<div style="text-align: center">
+    <p> Tabela 16: História de Usuário 16 (Fonte: Autores, 2023).</p>
+</div>
 
 ## Validação das histórias de usuário
 
-Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [representante-chave](#) disponível para consulta [neste link](#). A reunião foi realizada através da plataforma Teams no dia 03 de novembro de 2023, às [inserir horário]. Após a entrevista, procedemos com as modificações necessárias para garantir que as histórias estejam alinhadas com as expectativas e necessidades do usuário.
+Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [representante-chave](#) disponível para consulta [neste link](#). A reunião foi realizada através da plataforma Teams no dia 03 de novembro de 2023, às [inserir horário]. Após a entrevista, procedemos com as modificações necessárias para garantir que as histórias estejam alinhadas com as expectativas e necessidades do usuário. 
 
 ### Bibliografia
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                                 | Autor(es)                                               | Revisor(es)                                    |
@@ -865,4 +236,4 @@ Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [r
 | `1.7`  | 03/11/2023 | Adição dos criterios de aceitação do 12 ao 22            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
 | `1.8`  | 03/11/2023 | Adição das prioridades            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
 | `1.9`  | 03/11/2023 | Adição das correções com o PO            | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| [Gabriel Rosa](#)  |
-
+| `2.0`  | 04/11/2023 | Conserto de todas as tabelas            | [Lucas Víctor](https://github.com/Lucas13032003)| [Gabriel Rosa](#)  |
