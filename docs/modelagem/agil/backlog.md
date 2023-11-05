@@ -63,31 +63,6 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de backlog</p></font>
 </div>
 
-| Tema              | Épico                                | História de Usuário                              | Prioridade |
-| :---------------- | :----------------------------------- | :----------------------------------------------- | :--------: |
-| T01 - Login       | EP01 - Login                         | HS01 - Efetuar login com email e senha           |            |
-|                   |                                      | HS02 - Efetuar login com gov.br                  |            |
-|                   |                                      | HS03 - Recuperar senha                           |            |
-|                   |                                      | HS04 - Efetuar logout                            |    Alta    |
-| T02 - Nota Fiscal | EP02 - Nota Fiscal                   | HS05 - Listar                                    |            |
-|                   |                                      | HS06 - Pesquisar                                 |            |
-|                   |                                      | HS07 - Visualizar detalhes                       |            |
-|                   |                                      | HS08 - Imprimir DANFE                            |            |
-| T03 - Débitos     | EP03 - Veículos                      | HS09 - Cadastrar                                 |            |
-|                   |                                      | HS10 - Consultar débitos de IPVA                 |            |
-|                   |                                      | HS11 - Emitir DAR                                |            |
-|                   | EP04 - Imóveis                       | HS12 - Cadastrar                                 |            |
-|                   |                                      | HS13 - Consultar débitos de IPTU/TLP             |            |
-|                   |                                      | HS14 - Emitir DAR                                |            |
-|                   | EP05 - Dívida Ativa                  | HS15 - Consultar débitos inscritos               |            |
-|                   |                                      | HS16 - Emitir DAR                                |            |
-|                   | EP06 - Outros Tributos               | HS17 - Consultar débitos inscritos               |            |
-|                   |                                      | HS18 - Emitir DAR                                |            |
-|                   | EP07 - Parcelamentos Administrativos | HS19 - Consultar débitos inscritos               |            |
-|                   |                                      | HS20 - Emitir DAR                                |            |
-| T04 - Contato     | EP08 - Fale Conosco                  | HS21 - Enviar email                              |    Alta    |
-|                   | EP09 - Ajuda                         | HS22 - Visualizar informações sobre o aplicativo |            |
-
 <table>
 <thead>
     <tr>
@@ -102,93 +77,93 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
         <td rowspan="4"> T01 - Login </td>
         <td rowspan="4"> EP01 - Login </td>
         <td> HS01 - Efetuar login com email e senha </td>
-        <td> xxx </td>
+        <td> Alta </td>
     <tr>
         <td> HS02 - Efetuar login com gov.br </td>
-        <td> xxx </td>
+        <td> Baixa </td>
     </tr>
     <tr>
         <td> HS03 - Recuperar senha </td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td> HS04 - Efetuar logout </td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td rowspan="4"> T02 - Nota Fisca </td>
         <td rowspan="4"> EP02 - Nota Fiscal </td>
         <td> HS05 - Listar </td>
-        <td> xxx </td>
+        <td> Alta </td>
     <tr>
         <td> HS06 - Pesquisar </td>
-        <td> xxx </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td> HS07 - Visualizar detalhes</td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td> HS08 - Imprimir DANFE </td>
-        <td> xxx </td>
+        <td> Baixa </td>
     </tr>
     <tr>
         <td rowspan="12"> T03 - Débitos </td>
         <td rowspan="3"> EP03 - Veículos </td>
         <td> HS09 - Cadastrar </td>
-        <td> xxx </td>
+        <td> Alta </td>
     <tr>
         <td> HS10 - Consultar débitos de IPVA </td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td> HS11 - Emitir DAR</td>
-        <td> xxx </td>
+        <td> Média </td>
     <tr>
         <td rowspan="3"> EP04 - Imóveis </td>
         <td> HS12 - Cadastrar </td>
-        <td> xxx </td>
+        <td> Alta </td>
     <tr>
         <td> HS13 - Consultar débitos de IPTU/TLP </td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     <tr>
         <td> HS14 - Emitir DAR</td>
-        <td> xxx </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td rowspan="2"> EP05 - Dívida Ativa </td>
         <td> HS15 - Consultar débitos inscritos </td>
-        <td> xxx </td>
+        <td> Alta </td>
     <tr>
         <td> HS16 - Emitir DAR</td>
-        <td> xxx </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td rowspan="2"> EP06 - Outros Tributos </td>
         <td> HS17 - Consultar débitos inscritos </td>
-        <td> xxx </td>
+        <td> Média </td>
     <tr>
         <td> HS18 - Emitir DAR</td>
-        <td> xxx </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td rowspan="2"> EP07 - Parcelamentos Administrativos </td>
         <td> HS19 - Consultar débitos inscritos </td>
-        <td> xxx </td>
+        <td> Média </td>
     <tr>
         <td> HS20 - Emitir DAR</td>
-        <td> xxx </td>
+        <td> Média </td>
     </tr>
     <tr>
         <td rowspan="2"> T04 - Contato </td>
         <td rowspan="1"> EP08 - Fale Conosco </td>
         <td> HS21 - Enviar email </td>
-        <td> xxx </td>
+        <td> Média </td>
     <tr>
         <td rowspan="1"> EP09 - Ajuda </td>
         <td> HS22 - Visualizar informações sobre o aplicativo	 </td>
-        <td> xxx </td>
+        <td> Alta </td>
     </tr>
     </tr>
     
@@ -200,14 +175,12 @@ Eu, como usuário, desejo obter informações sobre o aplicativo para aprender a
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
-## Referências Bibliográficas
-
-> [1] SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 015): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf Acesso em: 28/10/2023.
-> 
 
 ## Bibliografia
 
 > Lichess. Backlog. Grupo Lichess da disciplina Requisitos de Software, dispoível em: <https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>. Acesso em: 28 de outubro de 2023.
+>
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 015): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf Acesso em: 28/10/2023.
 
 ## Histórico de Versões
 
