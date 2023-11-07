@@ -30,7 +30,7 @@ Para a criação do artefacto, foi efetuado uma reunião com os membros disponí
 
 <div style="text-align: center">
 
-<p>Tabela 1: Participantes da reunião de histórias do usuário.</p>
+<p><b>Tabela 1:</b> Participantes da reunião de histórias do usuário.</p>
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Para a criação do artefacto, foi efetuado uma reunião com os membros disponí
 </table>
 
 
-<p>Fonte: Lucas Victor, 2023.</p>
+<p><b>Fonte:</b> Lucas Victor, 2023.</p>
 
 </div>
 
@@ -81,7 +81,7 @@ Na tabela 2 é possível ver um exemplo da tabela para as histórias de usuário
 
 <div style="text-align: center">
 
-<p>Tabela 2: Exemplo de tabela de História de Usuário</p>
+<p><b>Tabela 2:</b> Exemplo de tabela de História de Usuário</p>
 
 </div>
 
@@ -93,7 +93,7 @@ Na tabela 2 é possível ver um exemplo da tabela para as histórias de usuário
 
 <div style="text-align: center">
 
-<p>Fonte: Lucas Victor, 2023.</p>
+<p><b>Fonte:</b> Lucas Victor, 2023.</p>
 
 </div>
 
@@ -109,7 +109,7 @@ Em seguida, temos as histórias de usuário:
 
 <div style="text-align: center">
 
-<p>Tabela 3: História de Usuário 1</p>
+<p><b>Tabela 3:</b> História de Usuário 1</p>
 
 </div>
 
@@ -119,7 +119,7 @@ Em seguida, temos as histórias de usuário:
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023. 
+<p><b>Fonte</b> Lucas Víctor e Lucas Oliveira, 2023.</p>
    
 </div>
 
@@ -127,7 +127,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 4: História de Usuário 2</p>
+<p><b>Tabela 4:</b> História de Usuário 2</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -136,7 +136,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<p><b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.</p>
 
 </div>
 
@@ -144,7 +144,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 5: História de Usuário 3 </p>
+<p><b>Tabela 5:</b> História de Usuário 3 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -153,14 +153,14 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<p><b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.</p>
 
 </div>
 
 ### HS04 - Efetuar logout 
 
 <div style="text-align: center">
-<p>Tabela 6: História de Usuário 3 </p>
+<p><b>Tabela 6:</b> História de Usuário 3 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -169,7 +169,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<p><b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.</p>
 
 </div>
 
@@ -177,7 +177,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 7: História de Usuário 5</p>
+<p><b>Tabela 7:</b> História de Usuário 5</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -186,7 +186,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -194,7 +194,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 8: História de Usuário 6</p>
+<p><b>Tabela 8:</b> História de Usuário 6</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -203,7 +203,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -211,7 +211,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 9: História de Usuário 7 </p>
+<p><b>Tabela 9:</b> História de Usuário 7 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -220,7 +220,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -228,7 +228,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 10: História de Usuário 8</p>
+<p><b>Tabela 10:</b> História de Usuário 8</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -237,7 +237,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -245,7 +245,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 11: História de Usuário 9</p>
+<p><b>Tabela 11:</b> História de Usuário 9</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -254,7 +254,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -262,7 +262,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 12: História de Usuário 10</p>
+<p><b>Tabela 12:</b> História de Usuário 10</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -271,7 +271,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -279,7 +279,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 13: História de Usuário 11</p>
+<p><b>Tabela 13:</b> História de Usuário 11</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -288,7 +288,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -296,7 +296,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 14: História de Usuário 12</p>
+<p><b>Tabela 14:</b> História de Usuário 12</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -305,7 +305,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -313,7 +313,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 16: História de Usuário 13 </p>
+<p><b>Tabela 16:</b> História de Usuário 13 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -322,7 +322,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -330,7 +330,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 17: História de Usuário 14 </p>
+<p><b>Tabela 17:</b> História de Usuário 14 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -339,7 +339,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -347,7 +347,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 18: História de Usuário 15</p>
+<p><b>Tabela 18:</b> História de Usuário 15</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -356,7 +356,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 </div>
 
@@ -364,7 +364,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 19: História de Usuário 16 </p>
+<p><b>Tabela 19:</b> História de Usuário 16 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -373,7 +373,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-Fonte: Lucas Víctor e Lucas Oliveira, 2023.
+<b>Fonte:</b> Lucas Víctor e Lucas Oliveira, 2023.
 
 
 </div>
