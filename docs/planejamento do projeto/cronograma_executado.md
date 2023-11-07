@@ -28,16 +28,32 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td>Procurar e trazer um app para a próxima reunião com justificativas</td>
       <td>Início: 30/ago <br> Fim: 04/set</td>
       <td>Início: 30/ago <br> Fim: 04/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 05/set <br> Fim:06/set</td>
       <td>Início: 05/set <br> Fim:06/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Planejamento do Projeto</td>
       <td>Início: 06/set <br> Fim: 13/set</td>
       <td>Início: 06/set <br> Fim: 13/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
@@ -64,10 +80,24 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td>Incluir a lista de apps selecionados pelos integrantes do grupo com suas justificativas</td>
       <td>Início: 06/set <br> Fim: 13/set</td>
       <td>Início: 06/set <br> Fim: 24/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 12/out <br> Fim: 12/out</td>
       <td>Início: 13/out <br> Fim: 14/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Documentar o aplicativo escolhido para a disciplina</td>
@@ -94,13 +124,19 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td>Início: 13/set <br> Fim:14/set</td>
-       <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+       <td>
+         <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a> <br> 
+         <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+         <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+         <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
       <td>Criar um Rich Picture do aplicativo escolhido</td>
       <td>Início: 06/set <br> Fim: 13/set</td>
       <td>Início: 06/set <br> Fim: 02/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td>Início: 13/set <br> Fim:14/set</td>
       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
@@ -109,7 +145,9 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td>Definir um cronograma detalhado das atividades do projeto</td>
       <td>Início: 06/set <br> Fim: 13/set</td>
       <td>Início: 06/set <br> Fim: 15/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
       <td>Início: 13/set <br> Fim: 14/set</td>
       <td>Início: 19/set <br> Fim: 20/set</td>
       <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
@@ -127,16 +165,32 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td>Gravação 1</td>
       <td>15/set</td>
       <td>15/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>16/set</td>
       <td>16/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 1</td>
       <td>15/set</td>
       <td>15/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
       <td>15/set</td>
       <td>15/set</td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
@@ -145,10 +199,24 @@ Na tabela 1 encontram-se as datas de execução do cronograma executado para a e
       <td>Correção após a Entrega 1</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 23/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
   </tbody>
 </table>
@@ -207,46 +275,96 @@ Na tabela 2 encontram-se as datas de execução do cronograma executado para a e
       <td>Escolha e documentação das técnicas de priorização usadas</td>
       <td>Início: 16/set <br> Fim: 17/set</td>
        <td>22/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 18/set <br> Fim: 19/set</td>
       <td>25/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Definição das personas</td>
       <td>Início: 18/set <br> Fim: 19/set</td>
       <td>Início: 29/set <br> Fim: 30/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> <a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
       <td>Início: 20/set <br> Fim: 21/set</td>
       <td>01/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
       <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
       <td>Início: 18/set <br> Fim: 19/set</td>
       <td>22/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 20/set <br> Fim: 21/set</td>
       <td>25/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Brainstorming: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)</td>
       <td>Início: 20/set <br> Fim: 22/set</td>
       <td>28/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 23/set <br> Fim: 24/set</td>
       <td>Início: 29/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Observação: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)</td>
       <td>Início: 20/set <br> Fim: 22/set</td>
       <td>28/set</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
       <td>Início: 23/set <br> Fim: 24/set</td>
       <td>01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - elicitação - Brainstorming</td>
@@ -261,43 +379,72 @@ Na tabela 2 encontram-se as datas de execução do cronograma executado para a e
       <td>Documentação da participação do cliente e/ou persona - elicitação - Introspecção</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 23/set <br> Fim: 24/set</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>Início: 25/set <br> Fim: 30/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - elicitação - Observação</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>Início: 27/set <br> Fim: 28/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Definição do cronograma de priorização de requisitos com cliente/persona</td>
       <td>Início: 18/set <br> Fim: 19/set</td>
       <td>29/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 20/set <br> Fim: 21/set</td>
       <td>30/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>First Thing First: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
       <td>Início: 20/set <br> Fim: 22/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
       <td>Início: 23/set <br> Fim: 24/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>In or Out: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
       <td>Início: 20/set <br> Fim: 22/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 23/set <br> Fim: 24/set</td>
       <td>02/out</td>
       <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
@@ -306,46 +453,76 @@ Na tabela 2 encontram-se as datas de execução do cronograma executado para a e
       <td>100$: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
       <td>Início: 20/set <br> Fim: 22/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
       <td>Início: 23/set <br> Fim: 24/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - priorização - First Thing First:</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - priorização - In or Out::</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td
+        ><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - priorização - 100$:</td>
       <td>Início: 23/set <br> Fim: 26/set</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 27/set <br> Fim: 28/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td>Gravação 2</td>
       <td>29/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>30/set</td>
       <td>02/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 2</td>
@@ -360,10 +537,24 @@ Na tabela 2 encontram-se as datas de execução do cronograma executado para a e
       <td>Correção após a Entrega 2</td>
       <td>Início: 07/out <br> Fim: 10/out</td>
       <td>Início: 19/out <br> Fim: 21/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>Início: 11/out <br> Fim: 12/out</td>
       <td>Início: 22/out <br> Fim: 23/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
   </tbody>
 </table>
@@ -394,38 +585,71 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Modela
     <tr>
       <td>Especificação dos Cenários</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>Início: 08/out <br> Fim: 22/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
       <td>Início: 02/out <br> Fim: 03/out</td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>Início: 23/out <br> Fim: 24/out</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira">Lucas Oliveira</a></td>
     </tr>
     <tr>
       <td>Especificação dos léxicos</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>Início: 14/out <br> Fim: 22/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
       <td>Início: 02/out <br> Fim: 03/out</td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 23/out <br> Fim: 24/out</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Especificação dos casos de uso e diagramação</td>
       <td>Início: 30/set <br> Fim: 01/out</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Início: 09/out <br> Fim: 22/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
       <td>Início: 02/out <br> Fim: 03/out</td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Início: 23/out <br> Fim: 24/out</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso</td>
       <td>Início: 02/out <br> Fim: 03/out</td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Início: 20/out <br> Fim: 22/out</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
       <td>Início: 04/out <br> Fim: 05/out</td>
-      <td>Início: 04/out <br> Fim: 05/out</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Início: 23/out <br> Fim: 24/out</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a>
+      </td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -440,10 +664,24 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Modela
       <td>Gravação 3</td>
       <td>20/out</td>
       <td>23/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       <td>21/out</td>
       <td>24/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 3</td>
@@ -460,6 +698,103 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Modela
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+## Entrega 4 - Modelagem de Requisitos Ágil - Data de Entrega: 06/nov/2023
+
+Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Modelagem de Requisitos - Ágil.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma planejado para a etapa de Modelagem de Requisitos - Ágil</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Definição de histórias de usuário</td>
+      <td>Início: 14/out <br> Fim: 17/out</td>
+      <td>Início: 03/nov <br> Fim: 05/nov</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+      </td>
+      <td>Início: 18/out <br> Fim: 19/out</td>
+      <td>Início: 05/nov <br> Fim: 06/nov</td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+      <td>Definição de backlogs</td>
+      <td>Início: 14/out <br> Fim: 17/out</td>
+      <td>28/out</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 18/out <br> Fim: 19/out</td>
+      <td>Início: 29/out <br> Fim: 30/out</td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> 
+      </td>
+    </tr>
+    <tr>
+      <td>Definição de NFR Framework</td>
+      <td>Início: 14/out <br> Fim: 17/out</td>
+      <td>Início: 02/nov <br> Fim: 04/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 18/out <br> Fim: 19/out</td>
+      <td>Início: 05/nov <br> Fim: 06/nov</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Víctor</a> <br> 
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 4</td>
+      <td>01/nov</td>
+      <td>05/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>02/nov</td>
+      <td>06/nov</td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 4</td>
+      <td>01/nov</td>
+      <td>05/nov</td>
+      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>01/nov</td>
+      <td>06/nov</td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+
 ## Bibliografia
 
 > Cronograma Bilheteria Digital. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/cronograma.md>>. Acesso em 15 de setembro de 2023.
@@ -474,3 +809,4 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Modela
 | `1.1`  | 15/09/2023 | Inclusão dos nomes dos responsáveis e revisores. | [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.2`  | 02/10/2023 | Inclusão das datas da entrega 2                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.3`  | 25/10/2023 | Inclusão das datas da entrega 3                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.4`  | 06/11/2023 | Inclusão das datas da entrega 4                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
