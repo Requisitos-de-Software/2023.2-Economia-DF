@@ -288,7 +288,7 @@ O Softgoal Interdependency Grap do softgoal "Suporte" pode ser visto na figura 9
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 9:</b> Softgoal Interdependency Grap do softgoal "Suporte".</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte.png" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte.png?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -300,7 +300,7 @@ A propagação de impactos do softgoal "Suporte" pode ser visto na figura 10.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 10:</b> Propagação de impactos do softgoal "Suporte"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte-nfr.jpg" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Suporte-nfr.jpg?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
@@ -369,7 +369,7 @@ O Softgoal Interdependency Graph do Softgoal "Restrições de Design" pode ser v
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 11:</b> Softgoal Interdependency Grap do Softgoal "Restrições de Design".</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design.png" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -381,7 +381,7 @@ A propagação de impactos do softgoal "Restrições de Design" pode ser visto n
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 12:</b> Propagação de impactos do Softgoal "Restrições de Design"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design-2.png" style="width: 85%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/nfr-restricoes-de-design-2.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

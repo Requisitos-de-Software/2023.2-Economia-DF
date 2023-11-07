@@ -26,13 +26,35 @@ Dessa forma, as funcionalidades foram documentadas de maneira ágil e padronizad
 
 ## Participantes
 
-Para a criação do artefacto, foi efetuado uma reunião com os seguintes membros:
+Para a criação do artefacto, foi efetuado uma reunião com os membros disponíveis na tabela 1.
 
-| Nome                                          | Cargo                     |
-| --------------------------------------------- | ------------------------- |
-| [Lucas Víctor](https://github.com/Lucas13032003)| Desenvolvedor             |
-| [Lucas Oliveira](#)                           | Desenvolvedor             |
-| [Wallace Oliveira](https://github.com/itsmewall)| PO                      |
+<div style="text-align: center">
+
+<p>Tabela 1: Participantes da reunião de histórias do usuário.</p>
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Cargo</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+    <td>Desenvolvedor</td>
+  </tr>
+  <tr>
+    <td>Lucas Oliveira</td>
+    <td>Desenvolvedor</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/itsmewall">Wallace Oliveira</a></td>
+    <td>PO</td>
+  </tr>
+</table>
+
+
+<p>Fonte: Lucas Victor, 2023.</p>
+
+</div>
 
 
 ## Padrão de História de Usuário
@@ -53,7 +75,15 @@ Ao escrever as histórias de usuário para este projeto, é crucial seguir as di
 
 ## Exemplo de tabela:
 
+Na tabela 2 é possível ver um exemplo da tabela para as histórias de usuário.
+
 ### HS0X - [Nome da história]
+
+<div style="text-align: center">
+
+<p>Tabela 2: Exemplo de tabela de História de Usuário</p>
+
+</div>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI) |
 |---------------------|------|------------------------|------------|------|
@@ -61,7 +91,15 @@ Ao escrever as histórias de usuário para este projeto, é crucial seguir as di
 | Eu, como [usuário], desejo [realizar algo] para que [alcance algum objetivo] | [Tema] | - [Critério 1] | Média | Média |
 | Eu, como [usuário], desejo [realizar algo] para que [alcance algum objetivo] | [Tema] | - [Critério 1] | Baixa | Alta |
 
+<div style="text-align: center">
+
+<p>Fonte: Lucas Victor, 2023.</p>
+
+</div>
+
 Seguir este padrão ao criar as histórias de usuário garantirá uma documentação clara e consistente, facilitando o entendimento e a execução eficiente das tarefas do projeto.
+
+
 
 ## História de Usuário
 
@@ -71,7 +109,8 @@ Em seguida, temos as histórias de usuário:
 
 <div style="text-align: center">
 
-<p>Tabela 1: História de Usuário 1</p>
+<p>Tabela 3: História de Usuário 1</p>
+
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -88,7 +127,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 2: História de Usuário 2</p>
+<p>Tabela 4: História de Usuário 2</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -105,7 +144,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 3: História de Usuário 3 </p>
+<p>Tabela 5: História de Usuário 3 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -121,7 +160,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 ### HS04 - Efetuar logout 
 
 <div style="text-align: center">
-<p>Tabela 3: História de Usuário 3 </p>
+<p>Tabela 6: História de Usuário 3 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -138,7 +177,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 5: História de Usuário 5</p>
+<p>Tabela 7: História de Usuário 5</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -155,7 +194,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 6: História de Usuário 6</p>
+<p>Tabela 8: História de Usuário 6</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -172,7 +211,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 7: História de Usuário 7 </p>
+<p>Tabela 9: História de Usuário 7 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -189,7 +228,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 8: História de Usuário 8</p>
+<p>Tabela 10: História de Usuário 8</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -206,7 +245,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 9: História de Usuário 9</p>
+<p>Tabela 11: História de Usuário 9</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -223,7 +262,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 10: História de Usuário 10</p>
+<p>Tabela 12: História de Usuário 10</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -240,7 +279,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 11: História de Usuário 11</p>
+<p>Tabela 13: História de Usuário 11</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -257,7 +296,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 12: História de Usuário 12</p>
+<p>Tabela 14: História de Usuário 12</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -274,7 +313,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 13: História de Usuário 13 </p>
+<p>Tabela 16: História de Usuário 13 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -291,7 +330,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 14: História de Usuário 14 </p>
+<p>Tabela 17: História de Usuário 14 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -308,7 +347,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 15: História de Usuário 15</p>
+<p>Tabela 18: História de Usuário 15</p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
@@ -325,7 +364,7 @@ Fonte: Lucas Víctor e Lucas Oliveira, 2023.
 
 <div style="text-align: center">
 
-<p>Tabela 16: História de Usuário 16 </p>
+<p>Tabela 19: História de Usuário 16 </p>
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
