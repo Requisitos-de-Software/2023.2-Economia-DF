@@ -6,7 +6,7 @@ O brainstorming é uma técnica amplamente utilizada na elicitação de requisit
 
 ## Metodologia
 
-O brainstorming foi realizado no dia 28/09/2023 e contou com a participação de todos os integrantes da equipe, a princinpio o moderador [Lucas Víctor](https://github.com/Lucas13032003) fez uma breve introdução do Nota legal e Economia DF e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](canva.com), para cada uma das seis perguntas que guiaram o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas. Por se tratar do Nota Legal, os requisitos elicitados nesse processo também podem ser usados no aplicativo Economia DF.
+O brainstorming foi realizado no dia 28/09/2023, iniciando no horário 18:13 e finalizando ás 19:00, ela  e contou com a participação de todos os integrantes da equipe, a princinpio o moderador [Lucas Víctor](https://github.com/Lucas13032003) fez uma breve introdução do Nota legal e Economia DF e explicou como seria realizada a sessão. Foi preparado um quadro de post-it's, na plataforma [Canva](canva.com), para cada uma das seis perguntas que guiaram o brainstorming. O mediador então fazia a introdução da pergunta e pedia para os participantes colarem post-it's com ideias sobre aquele assunto e ao final a equipe falava um pouco sobre as ideias levantadas. Por se tratar do Nota Legal, os requisitos elicitados nesse processo também podem ser usados no aplicativo Economia DF.
 
 ## Desenvolvimento
 
@@ -111,3 +111,4 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 |`1.0`|29/09/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.1`|01/10/2023|Add metodologia e as perguntas|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Víctor](https://github.com/Lucas13032003)|
 |`1.2`| 02/10/2023 | Adiçao do link da gravação | [Lucas Ribeiro](https://github.com/lucassouzs) | [Gabriel Rosa](https://github.com/gabrielrosa09) |
+|`1.3`| 08/11/2023 | Correção | [Lucas Víctor](https://github.com/Lucas13032003) | [Gabriel Rosa](https://github.com/gabrielrosa09) |
