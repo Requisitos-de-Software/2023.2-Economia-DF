@@ -38,6 +38,8 @@ As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Econ
 
 ## Checklists
 
-## Referências
+## Referências bibliográficas
+
+## Bibliografia
 >
 > FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 09 de novembro de 2021.
