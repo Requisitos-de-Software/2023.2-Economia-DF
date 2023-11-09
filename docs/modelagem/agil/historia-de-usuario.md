@@ -103,7 +103,7 @@ Seguir este padrão ao criar as histórias de usuário garantirá uma documenta�
 
 ## História de Usuário
 
-Em seguida, temos as histórias de usuário:
+Em seguida, iniciando na tabela 3 e indo até a tabela 19, temos as histórias do usuário detalhadas.
 
 ### HS01 - Efetuar login com email e senha
 
