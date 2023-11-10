@@ -253,6 +253,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 >
 > VIEIRA, Zenilda. [Planejamento de Verificação da Entrega 3](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2.md?plain=1), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
+> CARTEIRA DIGITAL DE TRÂNSITO. [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
 
 ## Histórico de Versões
 
