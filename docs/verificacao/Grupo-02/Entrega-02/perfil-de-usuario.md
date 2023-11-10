@@ -10,7 +10,7 @@ A meta principal desta verificação é identificar e abordar possíveis problem
 
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos dois checklists: um geral, aplicável a todos os artefatos, e um específico, direcionado ao artefato em análise. Todo o planejamento e definição de métodos foram detalhadamente estabelecidos no documento de [Planejamento da Verificação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md#verifica%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o---entrega-3).
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos dois checklists: um geral, aplicável a todos os artefatos, e um específico, direcionado ao artefato em análise. Todo o planejamento e definição de métodos foram detalhadamente estabelecidos no documento de [Planejamento da Verificação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md#verifica%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o---entrega-3). Vale ressaltar que esta verificação englobará todos os artefatos utilizados no estabelecimento do [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario).
 
 
 
@@ -35,47 +35,47 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -100,97 +100,97 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>1</td>
       <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O perfil de usuário identifica características relevantes?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>O perfil de usuário inclui informações sobre as funções desempenhadas pelos usuários?</td>
-      <td></td>
+      <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>10</td>
       <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>11</td>
       <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>12</td>
       <td>O perfil de usuário considera a faixa etária dos usuários?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>13</td>
       <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>14</td>
       <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>15</td>
       <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>16</td>
       <td>As características identificadas nos perfis foram priorizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>17</td>
       <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>18</td>
       <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>19</td>
       <td>Foi definido um prazo para o preenchimento do questionário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -201,9 +201,36 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ## Problemas Encontrados
 
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario) elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
 ### Checklist Geral
 
+- **ID 02:** 	O artefato possui bibliografia e/ou referência bibliográfica?
+    - **Avaliação:** Incompleto
+    - **Observação:** O artefato contém exclusivamente a seção de Bibliografia; no entanto, seria apropriado incluir também a seção de Referências Bibliográficas, incorporando informações sobre o software utilizado para criar o formulário.
+
 ### Checklist Específico
+
+- **ID 10:** O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?
+  - **Avaliação:** Não
+  - **Observação:** O perfil de usuário não aborda informações sobre o nível de instrução dos usuários.
+
+- **ID 13:** O perfil de usuário avalia a relação dos usuários com a tecnologia?
+  - **Avaliação:** Não
+  - **Observação:** A avaliação da relação dos usuários com a tecnologia não está contemplada no perfil de usuário.
+
+- **ID 15:** O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?
+  - **Avaliação:** Incompleto
+  - **Observação:** A avaliação da relação dos usuários com as principais tarefas realizadas está incompleta no perfil de usuário.
+
+- **ID 18:** Foi estabelecido um cronograma para a elaboração do questionário?
+  - **Avaliação:** Não
+  - **Observação:** Não há um cronograma definido para a elaboração do questionário.
+
+- **Observação:** O artefato [Análise de documentos](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario/AnaliseDocumento.md#an%C3%A1lise-de-documentos) apresenta quebras de estilo e de figura.
+### Conclusão
+
+A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
 
 ## Bibliografia
 >
@@ -216,3 +243,4 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.0`  | 10/11/2023 | Avaliação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
