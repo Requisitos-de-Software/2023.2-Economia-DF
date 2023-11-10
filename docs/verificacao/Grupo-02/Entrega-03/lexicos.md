@@ -130,7 +130,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>7</td>
       <td>Cada léxico apresenta seu sinônimo correto?</td>
-      <td>Não</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
@@ -145,7 +145,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-O artefato apresenta uma boa qualidade, uma boa formatação e uma boa padronização. Porém, a definição dos léxicos está parcialmente correta. Os termos classificados como verbos são compostos de verbos e complemento verbal, caracterizando a repetição do verbo em mais de um léxico. 
+O artefato apresenta uma boa qualidade, uma boa formatação e uma boa padronização. Porém, a definição dos léxicos está parcialmente correta. Os termos classificados como verbos são compostos de verbos e complemento verbal, caracterizando a repetição do verbo em mais de um léxico. Deveriam ter sido explorados, também, termos mais técnicos do contexto do aplicativo e menos termos comuns do dia a dia dos usuários.
 
 A seguir são listados os problemas encontrados durante a verificação do artefato em estudo.
 
@@ -157,13 +157,13 @@ A seguir são listados os problemas encontrados durante a verificação do artef
 
 ### Checklist Específico
 
-- **ID 04:** Há menção sobre o princípio circular e alguns léxicos estão em negrito, ficou faltando apenas os hyperlinks.
+- **ID 04:** Há menção sobre o princípio circular e alguns léxicos estão em negrito, porém ficou faltando os hyperlinks.
 
-- **ID 05:** .
+- **ID 05:** Os sinônimos foram nomeados de "Dicionário" o que causou uma certa confusão na compreensão dos termos usados.
 
-- **ID 07:** .
+- **ID 07:** Como citado no problema anterior, o título da coluna "Dicionário" causou uma certa incompreensão do significado da mesma.
 
-- **ID 08:** .
+- **ID 08:** Em alguns léxicos sim, em outros não, devido mais a léxicos que foram definidos de forma incorreta como citado anteriormente.
 
 ## Bibliografia
 >
