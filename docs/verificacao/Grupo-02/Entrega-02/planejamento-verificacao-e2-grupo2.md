@@ -193,7 +193,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perrfil de Usuário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -303,6 +303,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 </table>
 </div>
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
 </div>
 
 
