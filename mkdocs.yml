@@ -57,6 +57,35 @@ nav:
     - Backlog: modelagem/agil/backlog.md
     - Histórias de Usuário: modelagem/agil/historia-de-usuario.md
     - NFR Framework: modelagem/agil/nfr-framework.md
+  - Verificação:
+    - Grupo 2:
+      - Entrega 1:
+        - Planejamento da verificação: verificacao/Grupo-02/Entrega-01/planejamento-verificacao-e1-grupo2.md
+        - Ferramentas: verificacao/Grupo-02/Entrega-01/ferramentas.md
+        - Cronograma: verificacao/Grupo-02/Entrega-01/cronograma.md
+        - Aplicativos: verificacao/Grupo-02/Entrega-01/aplicativos.md
+        - Heatmap de disponibilidade: verificacao/Grupo-02/Entrega-01/heatmap.md
+        - Rich Picture: verificacao/Grupo-02/Entrega-01/rich_picture.md
+      - Entrega 2:
+        - Planejamento da verificação: verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md
+        - Perfil do usuário:
+          - Questionário: verificacao/Grupo-02/Entrega-02/questionario.md
+        - Personas: verificacao/Grupo-02/Entrega-02/personas.md
+        - Elicitação de requisitos: 
+          - Storyboard: verificacao/Grupo-02/Entrega-02/storyboard.md
+          - Glossário: verificacao/Grupo-02/Entrega-02/glossario.md
+          - Entrevista: verificacao/Grupo-02/Entrega-02/entrevista.md
+          - Instrospecção: verificacao/Grupo-02/Entrega-02/introspecçao.md
+          - Requisitos elicitados: verificacao/Grupo-02/Entrega-02/requisitos-elicitados.md
+      - Entrega 3:
+        - Planejamento da verificação: verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2.md
+        - Casos de uso: verificacao/Grupo-02/Entrega-03/casos-de-uso.md
+        - Especificação suplementar: verificacao/Grupo-02/Entrega-03/especificacao-suplementar.md
+      - Entrega 4:
+        - Planejamento da verificação: verificacao/Grupo-02/Entrega-04/planejamento-verificacao-e4-grupo2.md
+        - NFR Framework: verificacao/Grupo-02/Entrega-04/nfr_framework.md
+        - Product backlog: verificacao/Grupo-02/Entrega-04/product-backlog.md
+        - Histórias de usuário: verificacao/Grupo-02/Entrega-04/historias-do-usuario.md
 
 theme:
   name: material
