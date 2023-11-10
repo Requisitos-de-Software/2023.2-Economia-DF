@@ -10,12 +10,6 @@
 
 ### Checklist Geral
 
-### Checklist Específico
-
-## Problemas Encontrados
-
-### Checklist Geral
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Geral do artefato "Questionário"</p></font>
 
@@ -77,6 +71,12 @@
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
+
+### Checklist Específico
+
+## Problemas Encontrados
+
+### Checklist Geral
 
 ### Checklist Específico
 
