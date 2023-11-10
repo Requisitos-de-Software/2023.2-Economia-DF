@@ -6,11 +6,21 @@ Este documento apresenta os resultados da inspeção realizada no artefato "[Glo
 
 ## Objetivo
 
+O propósito desta avaliação é identificar e abordar quaisquer possíveis problemas que possam comprometer a conformidade do objeto em questão com os critérios de qualidade previamente estabelecidos. Este processo de verificação reflete o comprometimento com a entrega de resultados de alta qualidade, garantindo que o produto ou serviço em análise atenda não apenas às expectativas, mas também supere as normas estabelecidas, proporcionando assim uma experiência superior e confiável.
+
 ## Metodologia
+
+A metodologia adotada neste documento será a de inspeção por meio de um checklist, em que cada elemento da lista será examinado. Caso algum problema seja identificado durante essa avaliação, será devidamente registrado na seção designada para problemas encontrados. Vale ressaltar que serão empregados dois checklists distintos: um checklist geral e um checklist específico, destinado exclusivamente à avaliação do artefato em foco.
+
+A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md).
 
 ## Apresentação dos Dados
 
+Nesta etapa, os resultados serão expostos conforme o checklist empregado. Para cada elemento do checklist, será divulgado o resultado alcançado e, em casos de resultado negativo, será descrito o problema identificado.
+
 ### Checklist Geral
+
+Na Tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "Glossário" em relação ao checklist geral.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Geral do artefato "Glossário"</p></font>
@@ -74,10 +84,13 @@ Este documento apresenta os resultados da inspeção realizada no artefato "[Glo
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-
 ### Checklist Específico
 
+Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Glossário" em relação ao checklist específico.
+
 ## Problemas Encontrados
+
+Nesta seção, serão apresentados os problemas identificados durante a inspeção do artefato "Glossário".
 
 ### Checklist Geral
 
