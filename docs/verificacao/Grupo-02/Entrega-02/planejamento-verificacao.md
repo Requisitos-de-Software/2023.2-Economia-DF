@@ -46,7 +46,6 @@ A tabela abaixo apresenta os artefatos que serão inspecionados durante o proces
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de Artefatos </p></font>
-</div>
 
 <table>
 
@@ -116,8 +115,6 @@ A tabela abaixo apresenta os artefatos que serão inspecionados durante o proces
 </tbody>
 </table>
 
-
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
@@ -304,7 +301,6 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-</div>
 
 
 ## Checklist Introspecção
@@ -358,6 +354,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
