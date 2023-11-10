@@ -35,47 +35,47 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
 </table>
 
@@ -99,47 +99,77 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>1</td>
       <td>O artefato inclui um cronograma detalhado (data e horário) e local para a realização da elicitação dos requisitos?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Há registro da atividade de elicitação dos requisitos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Os requisitos elicitados foram categorizados entre funcionais e não-funcionais?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Foi explicitado o motivo da escolha da técnica de elicitação? (Observação: A técnica é explicada, mas não o motivo de sua escolha.)</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Considerou-se que a técnica pode não refletir totalmente a visão do usuário, dado que é conduzida por membros da equipe do projeto?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Cada membro que participou apresentou uma explicação detalhada sobre como executou a técnica?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Os requisitos elicitados foram identificados por meio de IDs?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
+
 ## Problemas Encontrados
 
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Introspeccao.md#introspec%C3%A7%C3%A3o) elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+## Problemas Encontrados
+
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Introspeccao.md#introspec%C3%A7%C3%A3o) elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
 ### Checklist Geral
+- **ID 01:** 	O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?
+    - **Avaliação:** Incompleto
+    - **Observação:** O artefato não segue o padrão dos demais documentos no repositório, e o histórico contém erros na tabela.
 
 ### Checklist Específico
+
+- **ID: 01**
+  - **Avaliação:** Não
+  - **Observação:** O artefato não inclui um cronograma detalhado (data e horário) e local para a realização da elicitação dos requisitos.
+
+- **ID: 04**
+  - **Avaliação:** Não
+  - **Observação:** Não foi explicitado o motivo da escolha da técnica de elicitação. A técnica é explicada, mas não o motivo de sua escolha.
+
+- **ID: 05**
+  - **Avaliação:** Não
+  - **Observação:** Não foi considerado que a técnica pode não refletir totalmente a visão do usuário, dado que é conduzida por membros da equipe do projeto.
+
+- **ID: 06**
+  - **Avaliação:** Não
+  - **Observação:** Cada membro que participou não apresentou uma explicação detalhada sobre como executou a técnica.
+
+### Conclusão
+
+A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Introspeccao.md#introspec%C3%A7%C3%A3o). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
 
 ## Bibliografia
 >
@@ -152,3 +182,4 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 10/11/2023 | Analise do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
