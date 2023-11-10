@@ -67,7 +67,7 @@ nav:
         - Heatmap de disponibilidade: verificacao/Grupo-02/Entrega-01/heatmap.md
         - Rich Picture: verificacao/Grupo-02/Entrega-01/rich_picture.md
       - Entrega 2:
-        - Planejamento da verificação: verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md
+        - Planejamento da verificação: verificacao/Grupo-02/Entrega-02/planejamento-verificacao.md
         - Perfil do usuário:
           - Questionário: verificacao/Grupo-02/Entrega-02/questionario.md
         - Personas: verificacao/Grupo-02/Entrega-02/personas.md
@@ -77,10 +77,13 @@ nav:
           - Entrevista: verificacao/Grupo-02/Entrega-02/entrevista.md
           - Instrospecção: verificacao/Grupo-02/Entrega-02/introspecçao.md
           - Requisitos elicitados: verificacao/Grupo-02/Entrega-02/requisitos-elicitados.md
+        - Priorização: verificacao/Grupo-02/Entrega-02/priorizacao.md
       - Entrega 3:
         - Planejamento da verificação: verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2.md
         - Casos de uso: verificacao/Grupo-02/Entrega-03/casos-de-uso.md
         - Especificação suplementar: verificacao/Grupo-02/Entrega-03/especificacao-suplementar.md
+        - Cenários: verificacao/Grupo-02/Entrega-03/cenarios.md
+        - Léxicos: verificacao/Grupo-02/Entrega-03/lexicos.md
       - Entrega 4:
         - Planejamento da verificação: verificacao/Grupo-02/Entrega-04/planejamento-verificacao-e4-grupo2.md
         - NFR Framework: verificacao/Grupo-02/Entrega-04/nfr_framework.md

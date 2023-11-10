@@ -60,11 +60,10 @@ A tabela abaixo apresenta os artefatos que serão inspecionados durante o proces
 </thead>
 <tbody>
     <tr>
-        <td>   </td>
+        <td>  Perfil de Usuário </td>
         <td></td>
         <td></td>
         <td></td>
-    </tr>
     <tr>
         <td>  Introspecção </td>
         <td></td>
@@ -128,7 +127,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 ## Checklist geral
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -184,6 +183,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
       <td></td>
     </tr>
+    <tbody>
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
