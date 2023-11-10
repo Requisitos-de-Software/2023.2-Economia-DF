@@ -1,8 +1,8 @@
-# Verificação do artefato "Cenários"
+# Verificação do artefato "Léxicos"
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)" elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. Será analisada a versão 1.1 do documento, de 06/11/2023, feito por [Mayara Alves](https://github.com/Mayara-tech).
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/)" elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. Será analisada a versão 1.1 do documento, de 22/10/2023, feito por [Luis Miranda](https://github.com/LuisMiranda10) e [Vinícius Mendes](https://github.com/yabamiah).
 
 ## Metodologia
 
@@ -43,12 +43,12 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td>Sim</td>
+      <td>Não se aplica, não há referências bibliográficas</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas?</td>
-      <td>Sim</td>
+      <td>Não se aplica, não há referências bibliográficas</td>
     </tr>
     <tr>
       <td>5</td>
@@ -58,12 +58,12 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>8</td>
@@ -86,7 +86,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Léxicos</p></font>
 
 <table>
   <thead>
@@ -99,63 +99,43 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   <tbody>
     <tr>
       <td>1</td>
-      <td>O artefato possui as especificações dos cenários para o projeto em estudo?</td>
+      <td>O artefato possui a especificação dos léxicos?</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios?</td>
-      <td>Sim</td>
+      <td>Os Léxicos possuem a especificação (definição) dos usuários da aplicação?</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>O título do cenário é autoexplicativo?</td>
+      <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)?</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>O objetivo do cenário é condizente com seu título?</td>
-      <td>Sim</td>
+      <td>Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>O contexto é descrito em função de local, tempo e pré-condições?</td>
-      <td>Sim</td>
+      <td>Cada léxico possui classificação, noção, impacto e sinônimo?</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>O cenário descreve situações realistas e relevantes de interação do sistema?</td>
+      <td>Cada léxico apresenta sua classificação correta?</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Os atores são condizentes com o contexto do cenário?</td>
-      <td>Sim</td>
+      <td>Cada léxico apresenta seu sinônimo correto?</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Existe uma ligação entre os cenários e os léxicos?</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>O artefato cita as técnicas utilizadas para especificação dos cenários do projeto?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>O artefato cita os participantes e seus papéis (usuário, personas, Eng. de Requisitos etc) na especificação dos cenários do projeto?</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>O artefato cita local/data/horário dos participantes para especificação dos cenários do projeto?</td>
-      <td>Não</td>
+      <td>As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação?</td>
+      <td>Incompleto</td>
     </tr>
   </tbody>
 </table>
@@ -165,27 +145,31 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Problemas encontrados
 
-O artefato apresenta uma boa qualidade, uma boa formatação e uma boa padronização. Recomenda-se verificar a ortografia das palavras e as normas cultas da língua portuguesa com uma revisão minuciosa para corrigir algumas falhas contidas no documento.
+O artefato apresenta uma boa qualidade, uma boa formatação e uma boa padronização. Porém, a definição dos léxicos está parcialmente correta. Os termos classificados como verbos são compostos de verbos e complemento verbal, caracterizando a repetição do verbo em mais de um léxico. 
 
 A seguir são listados os problemas encontrados durante a verificação do artefato em estudo.
 
 ### Checklist geral
 
-- Não foram encontrados problemas nos itens verificados.
+- **ID 06:** Nas fontes das tabelas 01 e 02 constam a expressão "Autores". No contexto da disciplina de Requistos de Software recomenda-se alterar para o nome dos integrantes do grupo.
+
+- **ID 07:** As tabelas não são referenciadas no texto.
 
 ### Checklist Específico
 
-- **ID 09:** Não há nenhuma referência nem hyperlinks relacionando os léxicos e os termos utilizados nos cenários.
+- **ID 04:** Há menção sobre o princípio circular e alguns léxicos estão em negrito, ficou faltando apenas os hyperlinks.
 
-- **ID 11:** Não há nenhuma referência sobre participação de usuários ou personas no processo de especificação dos cenários.
+- **ID 05:** .
 
-- **ID 12:** Da mesma forma, não há referência a participantes e nem cronograma de participação dos mesmos.
+- **ID 07:** .
+
+- **ID 08:** .
 
 ## Bibliografia
 >
 > ALVES, Izabella; VIEIRA, Zenilda. [Planejamento de Verificação da Entrega 3](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2.md?plain=1), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
-> CARTEIRA DIGITAL DE TRÂNSITO. [Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+> CARTEIRA DIGITAL DE TRÂNSITO. [Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
 
 ## Histórico de Versões
 
