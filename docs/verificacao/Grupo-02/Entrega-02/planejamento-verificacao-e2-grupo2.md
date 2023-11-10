@@ -193,7 +193,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perrfil de Usuário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -206,17 +206,107 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   <tbody>
     <tr>
       <td>1</td>
+      <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O perfil de usuário identifica características relevantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>O perfil de usuário inclui informações sobre as funções desempenhadas pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O perfil de usuário considera a faixa etária dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>As características identificadas nos perfis foram priorizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foi definido um prazo para o preenchimento do questionário?</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+</div>
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 
 ## Checklist Introspecção
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para Introspecção da Entrega 2</p></font>
@@ -232,7 +322,37 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   <tbody>
     <tr>
       <td>1</td>
+      <td>O artefato inclui um cronograma detalhado (data e horário) e local para a realização da elicitação dos requisitos?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Há registro da atividade de elicitação dos requisitos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Os requisitos elicitados foram categorizados entre funcionais e não-funcionais?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Foi explicitado o motivo da escolha da técnica de elicitação? (Observação: A técnica é explicada, mas não o motivo de sua escolha.)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Considerou-se que a técnica pode não refletir totalmente a visão do usuário, dado que é conduzida por membros da equipe do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Cada membro que participou apresentou uma explicação detalhada sobre como executou a técnica?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os requisitos elicitados foram identificados por meio de IDs?</td>
       <td></td>
     </tr>
   </tbody>
@@ -240,9 +360,7 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-
 ## Checklist Entrevista
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para Entrevista da Entrega 2</p></font>
@@ -258,7 +376,57 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   <tbody>
     <tr>
       <td>1</td>
+      <td>O artefato possui uma introdução condizente com o conteúdo do texto?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Todas as bibliografias/referências bibliográficas são utilizadas no texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As diretrizes foram seguidas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foi explicada como seria feita a entrevista?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Houve preparação para a entrevista?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Formato da entrevista definido e adequado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Forma de registro adequado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Foram registradas as respostas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Finalização organizada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Houve consentimento do entrevistado?</td>
       <td></td>
     </tr>
   </tbody>
@@ -268,7 +436,6 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 
 ## Checklist Personas
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para Personas da Entrega 2</p></font>
@@ -284,7 +451,77 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   <tbody>
     <tr>
       <td>1</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>É informado o motivo de se ter personas no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>É mostrado como as personas serão usadas no projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A persona foi definida usando o perfil de usuário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>A persona é um personagem fictício?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A persona primária representa o público-alvo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>A persona apresenta as características esperadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>A persona possui citações para melhor entendimento do que ela precisa?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>A persona é bem detalhada?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Foi definido um elenco de personas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>É informado o porquê da quantidade de personas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>No texto, é explicitado a metodologia utilizada para a criação das personas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Todas as personas foram descritas de modo pessoal, técnico e profissional?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Foram descritas as motivações de cada persona?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Houve algum registro de gravação no processo de criação das personas?</td>
       <td></td>
     </tr>
   </tbody>
@@ -434,3 +671,4 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 10/11/2023 | Adição das tabelas    | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
