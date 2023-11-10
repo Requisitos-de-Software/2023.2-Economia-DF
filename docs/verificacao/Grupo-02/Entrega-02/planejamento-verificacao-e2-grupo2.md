@@ -211,9 +211,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Introspecção
 
@@ -237,9 +237,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Entrevista
 
@@ -263,9 +263,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Personas
 
@@ -289,9 +289,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Priorização
 
@@ -315,9 +315,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Glossário
 
@@ -341,9 +341,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Questionário
 
@@ -367,9 +367,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Requisitos Elicitados
 
@@ -393,9 +393,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Checklist Storyboard
 
@@ -419,9 +419,9 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
 ## Bibliografia
 >
