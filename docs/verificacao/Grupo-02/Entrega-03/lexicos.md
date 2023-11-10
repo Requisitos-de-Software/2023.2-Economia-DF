@@ -157,6 +157,8 @@ A seguir são listados os problemas encontrados durante a verificação do artef
 
 ### Checklist Específico
 
+- **ID 02:** Não há um léxico "usuário" especificado no artefato.
+
 - **ID 04:** Há menção sobre o princípio circular e alguns léxicos estão em negrito, porém ficou faltando os hyperlinks.
 
 - **ID 05:** Os sinônimos foram nomeados de "Dicionário" o que causou uma certa confusão na compreensão dos termos usados.
