@@ -44,6 +44,54 @@ Nesta etapa, serão verificados os seguintes artefatos:
 
 - [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), na versão 1.0, de 22/10/2023.
 
+## Cronograma
+
+A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 1.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
+
+<table>
+<thead>
+    <tr>
+        <th>Data</th>
+        <th>Descrição</th>
+        <th>Responsável</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>  09/10/2023 </td>
+        <td>  Planejamento da verificação </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td>  10/10/2023 </td>
+        <td>  Verificação do artefato "Cenários" </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td>  10/10/2023 </td>
+        <td>  Verificação do artefato "Léxicos" </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td>  10/10/2023 </td>
+        <td>  Verificação do artefato "Casos de Uso" </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
+    </tr>
+    <tr>
+        <td>  10/10/2023 </td>
+        <td>  Verificação do artefato "Especificação Suplementar" </td>
+        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
+    </tr>
+</tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 ## Checklists
 
 Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com Sim, Não, Incompleto ou Não Se Aplica.
@@ -54,10 +102,10 @@ Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino
 
 ### Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Na tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 3</p></font>
 
 <table>
   <thead>
@@ -121,10 +169,10 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ### Checklist de Cenários
 
-Na tabela 2, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para o artefato de Cenários</p></font>
 
 <table>
   <thead>
@@ -203,11 +251,11 @@ Na tabela 2, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Léxicos
 
-Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para o artefato de Léxicos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Léxicos</p></font>
 
 <table>
   <thead>
@@ -266,10 +314,10 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Casos de Uso
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Casos de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Casos de Uso</p></font>
 
 
 <table>
@@ -404,10 +452,10 @@ Na tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Especificação de Uso
 
-Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Especificação de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Especificação de Uso</p></font>
 
 <table>
   <thead>
@@ -545,22 +593,21 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
 </div>
 
 ## Bibliografia
->
+
 > FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
-> 
+>
+> Bilheteria Digital. Planejamento da Verificação da Entrega 3 do Grupo 2. Grupo Bilheteria Digital da disciplina Requisitos de Software, disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/planejamento-verificacao-e3-grupo2/>. Acesso em: 09 de novembro de 2023.
+>
 > Artefato: Especificações Suplementares. Centro de Informática - UFPE. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html>. Acesso em: 09 de novembro de 2023.
-> 
-> Slides da aula “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf Acesso em: 05 de junho de 2023.
-> 
-> Lucidchart - Diagrama de caso de uso UML. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em: 05 de junho de 2023.
-> 
-> REINEHR, Sheila. Engenharia de requisitos. [Insert Publisher Location]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 07 junho 2023.
-> 
-> SOMMERVILLE, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007
-> 
-> BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
-> 
-> LEITE, J.C.S.d.P., ROSSI, G., BALAGUER, F. et al. Enhancing a requirements baseline with scenarios. Requirements Eng 2, 44–53 (1997).
+>
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 09 de novembro de 2022.
+>
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 11. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2692803/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 09 de novembro de 2022.
+>
+> Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019.  Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 09 de novembro de 2023.
+>
 
 ## Histórico de Versões
 
