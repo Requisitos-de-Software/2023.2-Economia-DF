@@ -20,6 +20,78 @@ A definição do método utilizado e o planejamento da verificação em questão
 Nesta etapa, os resultados obtidos serão apresentados de acordo com o checklist utilizado. Para cada item do checklist, será apresentado o resultado obtido e, caso o resultado seja negativo, será apresentado também o problema encontrado.
 
 
+### Checklist geral
+
+Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[NFR Framework](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/modelagem/agil/framework.md)" em relação ao checklist geral.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela do checklist geral do artefato "NFR Framework" </p></font>
+</div>
+
+<table>
+
+<thead>
+    <tr>
+        <th>ID</th>
+        <th>Descrição</th>
+        <th>Avaliação</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>  1 </td>
+        <td> O histórico de versão padronizado?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  2 </td>
+        <td> O(s) autor(es) e o(s) revisor(es) para
+cada artefato?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  3 </td>
+        <td> Referências bibliográficas e/ou bibliografia
+em todos os artefatos?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  4 </td>
+        <td> O vídeo de apresentação na categoria “não listado” no youtube?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  5 </td>
+        <td> As tabelas e/ou imagens possuem legenda e fonte e elas chamadas dentro dos texto?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  6 </td>
+        <td> Um texto fazendo uma introdução dos artefatos?  </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  7 </td>
+        <td>  O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
+construção/realização do artefato/atividade. </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  8 </td>
+        <td>  A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc) </td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>  9 </td>
+        <td>  A gravação da reunião do grupo </td>
+        <td>Sim</td>
+    </tr>
+</tbody>
+</table>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
 ### Checklist Específico
 
 Na tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "[Product Backlog](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/)" em relação ao checklist específico.
@@ -40,87 +112,87 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>O histórico de versão padronizado?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>O vídeo de apresentação na categoria “não listado” no youtube?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>As tabelas e/ou imagens possuem legenda e fonte e elas chamadas dentro dos texto?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Um texto fazendo uma introdução dos artefatos?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>	A gravação da reunião do grupo</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>10</td>
       <td>O backlog possui épicos e temas bem definidos e descritos?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>11</td>
       <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>13</td>
       <td>As tabelas e figuras possuem legenda e fonte?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>14</td>
       <td>As tabelas e figuras são chamadas dentro dos texto?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Possui aplicativos avaliados para a escolha do projeto?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>16</td>
       <td>Possui justificativa para a escolha do aplicativo?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>17</td>
       <td>Possui termo de uso permitidindo o uso do aplicativo escolhido para estudos?	</td>
-      <td>-</td>
+      <td>Sim</td>
     </tr>
     <tr>
 
@@ -135,8 +207,14 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Product Backlog](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/)".
 
+
+### Checklist Geral
+
+No Checklist geral não encontrei nenhum defeito no documento, está muito bem feito, coerente e padronizado.
+
 ### Checklist Específico
 
+O Checklist específico também não apresenta defeitos, acredito que tá tudo bem documentado, principalmente os epícos deles, está muito coerente e os temas também,
 
 ## Bibliografia
 >
