@@ -30,76 +30,542 @@ Nesta verificação, chegaremos até a etapa de Reunião de Inspeção, onde, se
 
 ## Participantes
 
-As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 4 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 4 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 3 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 ## Objetos de verificação
 
-## Cronograma
+Nesta etapa, serão verificados os seguintes artefatos:
+
+- [Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), na versão 1.1, de 06/11/2023.
+
+- [Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), na versão 1.1, de 22/10/2023.
+
+- [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), na versão 1.3, de 21/10/2023.
+
+- [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), na versão 1.0, de 22/10/2023.
 
 ## Checklists
 
-### Verificação do documento de Cenários
+Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com Sim, Não, Incompleto ou Não Se Aplica.
 
-| ID | Descrição | Avaliação | Observações |
-| 1 | O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores? |  |  |
-| 2 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  |
-| 3 | As referências bibliográficas seguem a ordem de chamada do texto?  |  |  |
-| 4 | Todas as referências bibliográficas são chamadas? |  |  |
-| 5 | O artefato possui introdução? |  |  |
-| 6 | Todas as tabelas possuem legendas e fontes padronizadas? |  |  |
-| 7 | Todas as tabelas são referenciadas no texto? |  |  |
-| 8 | Todas as figuras possuem legendas e fontes padronizadas  e todas utilizam a palavra "figura" e não "imagem"? |  |  |
-| 9 | Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?  |  |  |
-| 10 | O artefato possui as especificações dos cenários para o projeto em estudo? |  |  |
-| 11 | Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? |  |  |
-| 12 | O título do cenário é autoexplicativo? |  |  |
-| 13 | O objetivo do cenário é condizente com seu título? |  |  |
-| 14 | O contexto é descrito em função de local, tempo e pré-condições? |  |  |
-| 15 | O cenário descreve situações realistas e relevantes de interação do sistema? |  |  |
-| 16 | Os atores são condizentes com o contexto do cenário?  |  |  |
-| 17 | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?  |  |  |
-| 18 | Existe uma ligação entre os cenários e os léxicos? |  |  |
-| 11 | O artefato cita as técnicas utilizadas para especificação dos cenários do projeto? |  |  |
-| 12 | O artefato cita os participantes e seus papéis (usuário, personas, Eng. de Requisitos etc) na especificação dos cenários do projeto? |  |  |
+Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
 
-### Verificação do documento de Léxicos
+Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Requisitos de Softwre [1], bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
 
-| ID | Descrição | Avaliação | Observações |
-| 1 | O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores? |  |  |
-| 2 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  |
-| 3 | As referências bibliográficas seguem a ordem de chamada do texto?  |  |  |
-| 4 | Todas as referências bibliográficas são chamadas? |  |  |
-| 5 | O artefato possui introdução? |  |  |
-| 6 | Todas as tabelas possuem legendas e fontes padronizadas? |  |  |
-| 7 | Todas as tabelas são referenciadas no texto? |  |  |
-| 8 | Todas as figuras possuem legendas e fontes padronizadas  e todas utilizam a palavra "figura" e não "imagem"? |  |  |
-| 9 | Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?  |  |  |
-| 10 | O artefato possui a especificação dos léxicos? |  |  |
-| 11 | Os Léxicos possuem a especificação (definição) dos usuários da aplicação? |  |  |
-| 12 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)? |  |  |
-| 13 | Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado? |  |  |
-| 14 | Cada léxico possui classificação, noção,impacto e  sinônimo? |  |  |
-| 15 | Cada léxico apresenta sua classificação correta? |  |  |
-| 16 | Cada léxico apresenta seu sinônimo correto? |  |  |
-| 17 | As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação? |  |  |
+### Checklist Geral
 
-### Verificação do documento de Caso de Uso
+Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 3</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Todas as referências bibliográficas são chamadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O artefato possui introdução?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Todas as tabelas são referenciadas no texto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+### Checklist de Cenários
+
+Na tabela 2, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cenários</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui as especificações dos cenários para o projeto em estudo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O título do cenário é autoexplicativo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O objetivo do cenário é condizente com seu título?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O contexto é descrito em função de local, tempo e pré-condições?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O cenário descreve situações realistas e relevantes de interação do sistema?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os atores são condizentes com o contexto do cenário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Existe uma ligação entre os cenários e os léxicos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O artefato cita as técnicas utilizadas para especificação dos cenários do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O artefato cita os participantes e seus papéis (usuário, personas, Eng. de Requisitos etc) na especificação dos cenários do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O artefato cita local/data/horário dos participantes para especificação dos cenários do projeto?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+### Checklist de Léxicos
+
+Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para o artefato de Léxicos</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui a especificação dos léxicos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os Léxicos possuem a especificação (definição) dos usuários da aplicação?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cada léxico possui classificação, noção, impacto e sinônimo?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Cada léxico apresenta sua classificação correta?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Cada léxico apresenta seu sinônimo correto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+### Checklist de Casos de Uso
+
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Casos de Uso</p></font>
 
 
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato possui um diagrama de casos de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O artefato cita a técnica utilizada para elaboração do diagrama de caso de uso do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O artefato cita os participantes e seus papéis (usuário, personas, Eng. de Requisitos etc) na elaboração do diagrama de uso do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O artefato cita local/data/horário dos participantes para elaboração do diagrama de uso do projeto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O diagrama de caso de uso possui os atores principais e atores secundários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>No diagrama de Caso de Uso há pontos de extensão corretamente representados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>As elipses do diagrama representam ações com o uso de verbos no infinitivo e não substantivos?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>No diagrama há relacionamentos de extend, include e generalization?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O nome do ator principal condiz com o usuário associado a ele?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Quando o ator é um software ou um hardware, há a tag << system >>?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O artefato cita a participação do cliente e/ou persona na validação do Diagrama de Caso de Uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O artefato cita a técnica utilizada na validação do Diagrama de Casa de Uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O artefato possui a especificação de cada caso de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Cada caso de uso é uma funcionalidade completa (requisito funcional) que fornece um resultado observável e de valor para os atores ou stakeholders?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>A especificação dos casos de uso consistem no detalhamento de execução dos casos de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Os elementos de atores, sistema e metas estão presentes nos casos de uso?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>A especificação de cada caso de uso possui: nome, descrição, atores, pré-condição, pós-condição?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Existem fluxos como: principal, alternativo e de exceção?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Cada especificação de caso uso tem somente um fluxo principal que representa como o usuário usaria a funcionalidade de forma primária?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Os fluxos alternativos são possibilidades de caminhos alternativos ao fluxo principal?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Os fluxos de exceção demonstram como o sistema reagirá na presença de situações incomuns ou anormais?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-### Verificação do documento de Especificação de Uso
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
+### Checklist de Especificação de Uso
 
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
-## Referências bibliográficas
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Especificação de Uso</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato contém a especificação suplementar?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A especificação suplementar segue o modelo FURPS+?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O artefato possui um tópico de Funcionalidade? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>O artefato possui um tópico de Usabilidade? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Os requisitos apresentados facilitam as tarefas realizadas pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O artefato possui um tópico de Confiabilidade?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os requisitos apresentados aumentam a confiabilidade do sistema?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>O artefato especifica o Tempo Médio entre Falhas (MTBF)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O artefato especifica o Tempo Médio para Reparo (MTTR)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Os requisitos relacionados à segurança são apresentados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O artefato possui um tópico de Desempenho? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Os requisitos sobre os tempos de respostas são apresentados com esses respectivos tempos especificados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O artefato especifica tempo de resposta de uma transação (médio, máximo)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O artefato especifica tempo de resposta de Taxa de transferência (ex: transações por segundo)?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Os requisitos sobre a disponibilidade são apresentados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>O artefato possui um tópico de Suportabilidade? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>É apresentado os sistemas operacionais que o sistema funcionará?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>O artefato possui um tópico de Restrições de Design? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Os requisitos apresentados específica ou restringe o design do sistema?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>O artefato possui um tópico de Requisitos de Implementação? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>O artefato possui um tópico de Requisitos de Interface? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>O artefato possui um tópico de Requisitos Físicos? Ele contém requisitos testáveis?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>As características físicas de onde o sistema funcionará são apresentadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>O artefato especifica qual plataforma o aplicativo pode ser executado?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
 
 ## Bibliografia
 >
-> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976. Acesso em: 09 de novembro de 2021.
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+> 
+> Artefato: Especificações Suplementares. Centro de Informática - UFPE. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html>. Acesso em: 09 de novembro de 2023.
+> 
+> Slides da aula “Requisitos – Aula 11” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf Acesso em: 05 de junho de 2023.
+> 
+> Lucidchart - Diagrama de caso de uso UML. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em: 05 de junho de 2023.
+> 
+> REINEHR, Sheila. Engenharia de requisitos. [Insert Publisher Location]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 07 junho 2023.
+> 
+> SOMMERVILLE, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2007
+> 
+> BERGMANN, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. 2003. Tese de Doutorado (Departamento de Informática) - Pontifícia Universidade Católica do Rio de Janeiro, [S. l.], 2003. p. 47-50.
+> 
+> LEITE, J.C.S.d.P., ROSSI, G., BALAGUER, F. et al. Enhancing a requirements baseline with scenarios. Requirements Eng 2, 44–53 (1997).
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 09/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Lucas Ribeiro](https://github.com/lucassouzs) |
-| `1.1`  | 09/11/2023 | Criação do documento  | [Izabella Alves](https://github.com/izabellaalves) | [Lucas Ribeiro](https://github.com/lucassouzs) |
+| `1.0`  | 09/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 09/11/2023 | Introdução, objetivos, metodologia, participantes e descrição checklist | [Izabella Alves](https://github.com/izabellaalves) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 09/11/2023 | Objetos, cronograma, checklist geral e específicos | [Zenilda Vieira](https://github.com/zenildavieira) | [Gabriel Zaranza](https://github.com/GZaranza) |
