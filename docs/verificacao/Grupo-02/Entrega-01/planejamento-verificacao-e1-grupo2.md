@@ -29,7 +29,7 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos </p></font>
-</div>
+
 
 <table>
 
@@ -67,12 +67,6 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
         <td> Limírio Correia </td>
     </tr>
     <tr>
-        <td>  Metodologia </td>
-        <td>  1.0 </td>
-        <td> 18/09/2023 </td>
-        <td> Breno Queiroz </td>
-    </tr>
-    <tr>
         <td>  Rich Picture </td>
         <td>  1.1 </td>
         <td> 19/09/2023 </td>
@@ -85,15 +79,16 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 </table>
 
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Cronograma
 A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos </p></font>
-</div>
+
 
 <table>
 
@@ -132,11 +127,6 @@ A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades 
     </tr>
     <tr>
         <td>  10/10/2023 </td>
-        <td>  Verificação do artefato "Metodologia" </td>
-        <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
-    </tr>
-    <tr>
-        <td>  10/10/2023 </td>
         <td>  Verificação do artefato "Rich Picture" </td>
         <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
@@ -145,7 +135,6 @@ A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades 
 </table>
 
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
@@ -156,9 +145,12 @@ As listas de critérios (checklists) serão utilizadas para guiar a inspeção d
 A elaboração das checklists foi feita com base nos critérios de avaliação da Entrega 1 fornecida pelo professor e a partir dos feedbakcs dados pelos monitores pós-apresentações.
 
 ### Ferramentas
+
+O checklist do artefatos "Ferramentas" pode ser encontrado na Tabela 3.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela do checklist do artefato "Ferramentas" </p></font>
-</div>
+
 
 <table>
 
@@ -215,15 +207,17 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Cronograma
 
+O checklist do artefatos "Cronograma" pode ser encontrado na Tabela 4.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Tabela do checklist do artefato "Cronograma" </p></font>
-</div>
+
 
 <table>
 
@@ -290,15 +284,16 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Aplicativos
 
+O checklist do artefatos "Aplicativos" pode ser encontrado na Tabela 5.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela do checklist do artefato "Aplicativos" </p></font>
-</div>
+
 
 <table>
 
@@ -358,15 +353,16 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Heatmap
 
+O checklist do artefatos "Heatmap" pode ser encontrado na Tabela 6.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Tabela do checklist do artefato "Aplicativos" </p></font>
-</div>
+
 
 <table>
 
@@ -421,67 +417,17 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
-</div>
 
-### Metodologia
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tabela do checklist do artefato "Aplicativos" </p></font>
-</div>
-
-<table>
-
-<thead>
-    <tr>
-        <th>ID</th>
-        <th>Descrição</th>
-        <th>Avaliação</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>  1 </td>
-        <td> O histórico de versão padronizado?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  2 </td>
-        <td> O(s) autor(es) e o(s) revisor(es) para
-cada artefato?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  3 </td>
-        <td> Referências bibliográficas e/ou bibliografia
-em todos os artefatos?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  4 </td>
-        <td> As tabelas e figuras possuem legenda e
-fonte?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  5 </td>
-        <td> As tabelas e figuras são chamadas dentro
-dos texto?  </td>
-        <td>  </td>
-    </tr>
-</tbody>
-</table>
-
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ### Rich Picture
 
+O checklist do artefatos "Rich Picture" pode ser encontrado na Tabela 7.
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Tabela do checklist do artefato "Aplicativos" </p></font>
-</div>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tabela do checklist do artefato "Aplicativos" </p></font>
+
 
 <table>
 
@@ -546,11 +492,13 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
+>
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 ## Histórico de versões
 
