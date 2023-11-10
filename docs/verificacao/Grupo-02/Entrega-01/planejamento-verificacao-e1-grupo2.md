@@ -10,7 +10,7 @@
 
 ## Participantes
 
-## Objetivos de verificação
+## Objetos de verificação
 
 ## Cronograma
 
