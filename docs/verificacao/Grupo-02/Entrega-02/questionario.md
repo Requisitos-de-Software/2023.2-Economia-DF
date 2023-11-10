@@ -10,9 +10,7 @@ O propósito desta avaliação é identificar e abordar quaisquer possíveis pro
 
 ## Metodologia
 
-A metodologia adotada neste documento será a de inspeção por meio de um checklist, em que cada elemento da lista será examinado. Caso algum problema seja identificado durante essa avaliação, será devidamente registrado na seção designada para problemas encontrados. Vale ressaltar que serão empregados dois checklists distintos: um checklist geral e um checklist específico, destinado exclusivamente à avaliação do artefato em foco.
-
-A definição do método utilizado e o planejamento da verificação em questão foram definidos no documento de [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md).
+A metodologia adotada neste documento será a de inspeção por meio de um checklist, em que cada elemento da lista será examinado. Caso algum problema seja identificado durante essa avaliação, será devidamente registrado na seção designada para problemas encontrados. Vale ressaltar que serão empregados dois checklists distintos: um checklist geral e um checklist específico, destinado exclusivamente à avaliação do artefato em foco. A definição do método utilizado e o planejamento da verificação em questão, foram definidos no documento de [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md).
 
 ## Apresentação dos Dados
 
