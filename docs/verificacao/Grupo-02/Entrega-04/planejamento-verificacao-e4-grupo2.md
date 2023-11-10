@@ -445,7 +445,7 @@ dos texto?  </td>
 
 ## Referências Bibliográficas
 
-> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 06 de setembro de 2023.
+> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf>>. Acesso em 06 de setembro de 2023.
 
 ## Histórico de versões
 
