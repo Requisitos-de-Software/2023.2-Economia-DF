@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)" elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. A versão que será analisada será a versão 1.4 do documento, adicionada ao histórico de versões com a data 06/11/2023.
+Este documento apresenta os resultados da verificação por inspeção realizada sobre o artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)" elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. A versão que será analisada será a versão 1.0 do documento, adicionada ao histórico de versões com a data 06/11/2023.
 
 ## Objetivo
 
@@ -97,7 +97,7 @@ construção/realização do artefato/atividade. </td>
 Na tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)" em relação ao checklist específico.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela do checklist específica do artefato "Histórias de Usuári" </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela do checklist específica do artefato "Histórias de Usuário" </p></font>
 </div>
 
 <table>
@@ -112,37 +112,37 @@ Na tabela 2, é possível visualizar os resultados obtidos na verificação do a
     <tr>
         <td>  1 </td>
         <td>  Os títulos das histórias de usuário são auto-explicativo?</td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  2 </td>
         <td> O “quem”, “o que” e o “por que” estão definidos na história de usuário?	 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  3 </td>
         <td> A participação do cliente e/ou persona na validação das histórias de usuário?	 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  4 </td>
         <td> A história possui critérios de aceitação?	 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  5 </td>
         <td> Os critérios de aceitação das histórias foram definidos ?	 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  6 </td>
         <td> A participação do cliente e/ou persona na elicitação de requisitos?		 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>  7 </td>
         <td> Todas as histórias de usuárioos podem ser testadas?			 </td>
-        <td>-</td>
+        <td>Sim</td>
     </tr>
   
 </tbody>
@@ -162,6 +162,8 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 - A unica observação quanto ao Checklist Geral é um pequeno erro que o grupo cometeu ao colocar a data de criação do documento, eles colocaram como "06/10/2023" quando o certo seria 06/11/2023. Porém isso é só um pequeno erro de digitação, de resto documento tá muito bem padronizado.
 
 ### Checklist Específico
+
+- No Checklist Específico a unica observação é que o Vídeo deles com O PO não está abrindo no YouTube porém vi que eles colocaram tudo certo lá no documento, os títulos das histórias são auto- explicativos, o “quem”, “o que” e o “por que” estão bem definidos e todas as histórias de usuários deles podem ser devidamente testadas.   
 
 
 ## Bibliografia
