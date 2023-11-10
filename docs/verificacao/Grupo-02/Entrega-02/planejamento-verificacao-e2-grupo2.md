@@ -189,11 +189,11 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-## Checklist 
+## Checklist Perfil de Usuário
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para  da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
 
 <table>
   <thead>
