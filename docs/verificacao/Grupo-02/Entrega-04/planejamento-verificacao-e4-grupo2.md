@@ -111,7 +111,7 @@ A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades 
 </table>
 
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
@@ -127,7 +127,6 @@ A tabela 3 mostra o checklist do artefato de NFR Framework.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela do checklist do artefato "NFR Framework" </p></font>
-</div>
 
 <table>
 
@@ -215,7 +214,7 @@ construção/realização do artefato/atividade. </td>
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
@@ -326,7 +325,7 @@ construção/realização do artefato/atividade. </td>
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
@@ -336,7 +335,7 @@ A tabela 5 mostra o checklist do artefato de Backlogs.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela do checklist do artefato "Backlogs" </p></font>
-</div>
+
 
 <table>
 
@@ -444,7 +443,7 @@ dos texto?  </td>
 </tbody>
 </table>
 
-<div align="center">
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
