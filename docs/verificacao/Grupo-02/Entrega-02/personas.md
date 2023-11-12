@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Personas](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/entrevista.md#entrevista) desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.0 desse documento, incluída no histórico em 20/10/2023.
+Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Personas](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/entrevista.md#entrevista) desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.1 desse documento, incluída no histórico em 20/10/2023.
 
 ## Objetivo
 

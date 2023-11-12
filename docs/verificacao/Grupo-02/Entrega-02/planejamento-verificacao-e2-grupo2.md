@@ -49,61 +49,73 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
 
 <table>
   <thead>
-      <tr>
+      <tr align="center">
           <th>Artefato</th>
           <th>Versão</th>
           <th>Data</th>
-          <th>Autor</th>
+          <th>Autor(es)</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>  Introspecção </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Introspecção</td>
+          <td align="center">1.0</td>
+          <td align="center">21/10/2023</td>
+          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a>, <a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a> e <a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
       </tr>
       <tr>
-          <td>  Entrevista </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Entrevista</td>
+          <td align="center">1.0</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
       </tr>
       <tr>
           <td>  Personas </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td align="center">1.1</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
       </tr>
       <tr>
-          <td>  Priorização </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Priorização 100$</td>
+          <td align="center">1.0</td>
+          <td align="center">04/10/2023</td>
+          <td align="center"><a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a></td>
       </tr>
       <tr>
-          <td>  Glossário </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Priorização First Things First</td>
+          <td align="center">2.3</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/MilenaBaruc'>Milena Baruc</a></td>
       </tr>
       <tr>
-          <td>  Questionário </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Priorização Three Level Scale</td>
+          <td align="center">1.1</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
       </tr>
       <tr>
-          <td>  Requisitos Elicitados </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Glossário</td>
+          <td align="center">1.2</td>
+          <td align="center">22/10/2023</td>
+          <td align="center"><a href='https://github.com/yabamiah'>Vinícius Mendes</a></td>
       </tr>
       <tr>
-          <td>  Storyboard </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Questionário</td>
+          <td align="center">1.0</td>
+          <td align="center">30/09/23</td>
+          <td align="center"><a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a></td>
+      </tr>
+      <tr>
+          <td>Requisitos Elicitados</td>
+          <td align="center">1.2</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>Storyboard</td>
+          <td align="center">2.0</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a></td>
       </tr>
   </tbody>
 </table>
