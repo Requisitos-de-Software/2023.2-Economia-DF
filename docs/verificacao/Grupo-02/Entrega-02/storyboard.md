@@ -87,7 +87,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
 Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Storyboard" em relação ao checklist específico.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Especifico</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Storyboard</p></font>
 
 <table>
   <thead>
