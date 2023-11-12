@@ -72,7 +72,9 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 </div>
 
 ## Cronograma
+
 A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos </p></font>
 
@@ -224,7 +226,7 @@ A tabela 4 mostra o checklist do artefato de Histórias de Usuário.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Tabela do checklist do artefato "Histórias de Usuário" </p></font>
-</div>
+
 
 <table>
 
@@ -325,7 +327,6 @@ construção/realização do artefato/atividade. </td>
 </tbody>
 </table>
 
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
@@ -335,7 +336,6 @@ A tabela 5 mostra o checklist do artefato de Backlogs.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela do checklist do artefato "Backlogs" </p></font>
-
 
 <table>
 
@@ -443,10 +443,8 @@ dos texto?  </td>
 </tbody>
 </table>
 
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
-
 
 ## Referências Bibliográficas
 
