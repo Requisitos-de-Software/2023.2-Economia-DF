@@ -450,12 +450,12 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
-### Checklist de Especificação de Uso
+### Checklist de Especificação Suplementar
 
 Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Especificação de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Especificação Suplementar</p></font>
 
 <table>
   <thead>
