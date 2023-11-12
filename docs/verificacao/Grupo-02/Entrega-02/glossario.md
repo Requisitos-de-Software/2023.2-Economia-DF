@@ -166,3 +166,4 @@ Não foram identificados problemas em relação ao Checklist Geral. Todos os cas
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 12/11/2023 | Conclusão do documento  | [Lucas Ribeiro](https://github.com/lucassouzs)| [Gabriel Zaranza](https://github.com/GZaranza) |

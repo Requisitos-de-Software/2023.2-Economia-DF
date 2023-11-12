@@ -115,7 +115,7 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
           <td>Storyboard</td>
           <td align="center">2.0</td>
           <td align="center">20/10/2023</td>
-          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a></td>
+          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a> </td>
       </tr>
   </tbody>
 </table>
@@ -980,3 +980,4 @@ Na Tabela 13, estão listados os critérios que devem ser verificados no artefat
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
 | `1.1`  | 10/11/2023 | Adição das tabelas    | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
+| `1.2`  | 12/11/2023 | Adição das tabelas de alguns artefatos    | [Lucas Ribeiro](https://github.com/lucassouzs)| [Lucas Oliveira](https://github.com/) |
