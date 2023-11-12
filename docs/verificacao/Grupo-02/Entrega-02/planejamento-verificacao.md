@@ -37,7 +37,7 @@ A metodologia de Fagan enfatiza a coleta de métricas e dados sobre o processo d
 Nesta verificação, chegaremos até a etapa de Reunião de Inspeção. Serão apresentados aos redatores dos artefatos verificados os problemas encontrados, permitindo que eles possam corrigi-los. Este processo visa garantir a detecção precoce de possíveis defeitos, contribuindo para a melhoria contínua da qualidade do software em desenvolvimento.
 
 ## Participantes
-As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 2 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) são [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 2 e documentarão os resultados encontrados, que serão revisados por [Lucas oliveira](https://github.com/), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Os integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 2 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) são [Lucas Víctor](https://github.com/Lucas13032003) e [Lucas Ribeiro](https://github.com/). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 2 e documentarão os resultados encontrados, que serão revisados por [Lucas oliveira](https://github.com/), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 
 ## Objetos de Verificação
