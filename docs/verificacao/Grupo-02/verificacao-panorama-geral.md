@@ -209,9 +209,13 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 </body>
 </html>
 
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
+
+## Bibliografia
+
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+>
 
 ## Histórico de Versões
 
