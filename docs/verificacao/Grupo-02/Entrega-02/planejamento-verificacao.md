@@ -42,86 +42,90 @@ As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Econ
 
 ## Objetos de Verificação
 
-A tabela abaixo apresenta os artefatos que serão inspecionados durante o processo de verificação.
+A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de verificação da Entrega 2 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/). Nela, estão listados os critérios que devem ser verificados em todos os artefatos, garantindo uma análise abrangente e eficiente.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de Artefatos </p></font>
 
 <table>
-
-<thead>
-    <tr>
-        <th>Artefato</th>
-        <th>Versão</th>
-        <th>Data</th>
-        <th>Autor</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>  Perfil de Usuário </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    <tr>
-        <td>  Introspecção </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Entrevista </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Personas </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Priorização </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Glossário </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Questionário </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Requisitos Elicitados </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>  Storyboard </td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-
-</tbody>
+  <thead>
+      <tr align="center">
+          <th>Artefato</th>
+          <th>Versão</th>
+          <th>Data</th>
+          <th>Autor(es)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Introspecção</td>
+          <td align="center">1.0</td>
+          <td align="center">21/10/2023</td>
+          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a>, <a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a> e <a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>Entrevista</td>
+          <td align="center">1.0</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>  Personas </td>
+          <td align="center">1.1</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>Priorização 100$</td>
+          <td align="center">1.0</td>
+          <td align="center">04/10/2023</td>
+          <td align="center"><a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a></td>
+      </tr>
+      <tr>
+          <td>Priorização First Things First</td>
+          <td align="center">2.3</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/MilenaBaruc'>Milena Baruc</a></td>
+      </tr>
+      <tr>
+          <td>Priorização Three Level Scale</td>
+          <td align="center">1.1</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>Glossário</td>
+          <td align="center">1.2</td>
+          <td align="center">22/10/2023</td>
+          <td align="center"><a href='https://github.com/yabamiah'>Vinícius Mendes</a></td>
+      </tr>
+      <tr>
+          <td>Questionário</td>
+          <td align="center">1.0</td>
+          <td align="center">30/09/23</td>
+          <td align="center"><a href='https://github.com/LimirioGuimaraes'>Limirio Correia</a></td>
+      </tr>
+      <tr>
+          <td>Requisitos Elicitados</td>
+          <td align="center">1.2</td>
+          <td align="center">25/10/2023</td>
+          <td align="center"><a href='https://github.com/Mayara-tech'>Mayara Alves</a></td>
+      </tr>
+      <tr>
+          <td>Storyboard</td>
+          <td align="center">2.0</td>
+          <td align="center">20/10/2023</td>
+          <td align="center"><a href='https://github.com/brenob6'>Breno Queiroz</a> </td>
+      </tr>
+  </tbody>
 </table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
+## Checklist Geral
 
-Na tabela 1, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
-
-## Checklist geral
+Na Tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do Grupo 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 2</p></font>
@@ -180,7 +184,6 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
       <td></td>
     </tr>
-    <tbody>
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
@@ -188,9 +191,10 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 
 ## Checklist Perfil de Usuário
 
+Na Tabela 3, estão listados os critérios que devem ser verificados no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -301,12 +305,14 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-
+</div>
 
 ## Checklist Introspecção
 
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Introspeccao.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para Introspecção da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para Introspecção da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -354,14 +360,15 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
     </tr>
   </tbody>
 </table>
-
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ## Checklist Entrevista
 
+Na Tabela 5, estão listados os critérios que devem ser verificados no artefato [Entrevista](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/entrevista.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para Entrevista da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para Entrevista da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -432,11 +439,12 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-
 ## Checklist Personas
 
+Na Tabela 6, estão listados os critérios que devem ser verificados no artefato [Personas](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/personas.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para Personas da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para Personas da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -527,12 +535,12 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
+## Checklist Priorização '100$'
 
-## Checklist Priorização
-
+Na Tabela 7, estão listados os critérios que devem ser verificados no artefato [Priorização '100$'](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/100.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para Priorização da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para Priorização '100'$' da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -544,21 +552,178 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
-      <td></td>
+      <td align="center">1</td>
+      <td>A prorização foi realizada em conjunto com um usuário real?</td>
+      <td align="center"></td>
     </tr>
-  </tbody>
+    <tr>
+      <td align="center">2</td>
+      <td>O usuário que participou se enquadrava no perfil de usuário estabelecido?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Os requisitos priorizados foram previamente eleicitados?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Os requisitos prioizados passaram por algum processo de validação?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os requisitos piorizados tinham ID identificando de qual técnica de elicitação eles eram provenientes?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Utilizou-se $100 para serem distribuidos entre os requisitos a fim de prioriza-los?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>O processo de priorização levou em consideração a dependêcia entre requisitos?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Os requisitos foram, posteriormente, separados por nível de prioridade?</td>
+      <td align="center"></td>
+    </tr>
 </table>
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+## Checklist Priorização 'First Things First'
+
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato [Priorização 'First Things First'](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/first_things_first.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para Priorização 'First Things First' da Entrega 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>A técnica que foi utilizada para priorização é descrita?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Há uma explicação de cada tipo de prioridade?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Os requisitos estão ordenados em ordem de prioridade?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>A fórmula para o cálculo do valor está correta?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>A tabela possui os pesos relativos e sua justificativa?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Os requisitos são unicos e não se repetem?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Os cálculos estão corretos?</td>
+      <td align="center"></td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+## Checklist Priorização 'Three Level Scale'
+
+Na Tabela 9, estão listados os critérios que devem ser verificados no artefato [Priorização 'Three Level Scale'](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/first_things_first.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para Priorização 'Three Level Scale' da Entrega 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>A técnica que foi utilizada para priorização é descrita?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Os requisitos são identificados em funcionais e não funcionais?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Os níveis de priorização foram divididos em 'Alta', 'Média' e 'Baixa'?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Foi usado um esquema de quadrantes para organizar os requisitos, tipo prioridade 'Alta' no primeiro quadrante, 'Média' no segundo, 'Baixa' no terceiro e requisitos sem valor no projeto no quarto?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>As dependências de requisitos foram levadas em consideração no processo de ranqueamento?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Os requisitos funcionais descrevem as funções que o software deve executar?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Os requisitos não funcionais são restrições ou requisitos de qualidade?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Os requisitos são unicos e não se repetem?</td>
+      <td align="center"></td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 ## Checklist Glossário
 
+Na Tabela 10, estão listados os critérios que devem ser verificados no artefato [Glossário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/glossario.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para Glossário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist para Glossário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -570,21 +735,56 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
-      <td></td>
+      <td align="center">1</td>
+      <td>O artefato possui uma introdução condizente com o conteúdo do texto?</td>
+      <td align="center"></td>
     </tr>
-  </tbody>
+    <tr>
+      <td align="center">2</td>
+      <td>Todas as bibliografias/referências bibliográficas são utilizadas no texto?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>O glossário foi bem definido?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Foi explicado o que cada termo significa dentro do aplicativo?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Foram definidos requisitos a partir do glossário?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Os requisitos foram classificados corretamente?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>São apresentados requisitos que não foram implementados?</td>
+      <td align="center"></td>
+    </tr>
 </table>
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-</div>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 ## Checklist Questionário
 
+Na Tabela 11, estão listados os critérios que devem ser verificados no artefato [Questionário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/questionario.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para Questionário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para Questionário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -596,21 +796,71 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
-      <td></td>
+      <td align="center">1</td>
+      <td>Foi informado o motivo da escolha do questionário?</td>
+      <td align="center"></td>
     </tr>
-  </tbody>
+    <tr>
+      <td align="center">2</td>
+      <td>Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>O questionário apresenta um termo de consentimento onde a pessoa permite a utilização das informações que ira fornecer?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>O questionário apresenta mais perguntas fechadas do que perguntas abertas?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os resultados foram tratados e apresentados?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>O perfil de usuário apresenta os pontos principais requisitados?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>É explicado no artefato como o questionário será utilizado?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>As perguntas apresentam alguma ordem ou padrão estratégico?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">9</td>
+      <td>Apresenta no texto os locais onde o questionário foi distribuído?	</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>Apresenta no texto o prazo em que ficou aberto?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td>Houve o cuidado para não haver perguntas pessoais ou evasivas?	</td>
+      <td align="center"></td>
+    </tr>
 </table>
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-</div>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 ## Checklist Requisitos Elicitados
 
+Na Tabela 12, estão listados os critérios que devem ser verificados no artefato [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/requisitos_elicitados.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para Requisitos Elicitados da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para Requisitos Elicitados da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -622,21 +872,46 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
-      <td></td>
+      <td align="center">1</td>
+      <td>Existem uma introdução condizente com o conteúdo apresentado no artefato?</td>
+      <td align="center"></td>
     </tr>
-  </tbody>
+    <tr>
+      <td align="center">2</td>
+      <td>Os requisitos foram diferenciados entre "Funcionais" e "Não Funcionais"?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Nos requisitos elicitados, mostram como eles foram elicitados?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>É mostrado se os requisitos já são implementados ou não?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os requisitos elicitados estão classificados e organizados corretamente?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Todos os requisitos possuem uma rastreabilidade mínimo?</td>
+      <td align="center"></td>
+    </tr>
 </table>
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-</div>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 ## Checklist Storyboard
 
+Na Tabela 13, estão listados os critérios que devem ser verificados no artefato [Storyboard](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/storyboard.md) do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para Storyboard da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para Storyboard da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -648,13 +923,48 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td></td>
-      <td></td>
+      <td align="center">1</td>
+      <td>Foi mostrado como o storyboard foi criado?</td>
+      <td align="center"></td>
     </tr>
-  </tbody>
+    <tr>
+      <td align="center">2</td>
+      <td>O storyboard apresenta a utilização típica do aplicativo?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Foi mostrado os requisitos elicitados com os storyboards?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Os requisitos elicitados foram classificados corretamente?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Foram elicitados requisitos que não estavam presentes no aplicativo?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Todos os requisitos são testáveis?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>É definido os atores do documento?</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>As histórias são de fato relevante para a equipe de desenvolvimento?</td>
+      <td align="center"></td>
+    </tr>
 </table>
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 
@@ -670,3 +980,4 @@ Na tabela 1, estão listados os critérios que devem ser verificados em todos os
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
 | `1.1`  | 10/11/2023 | Adição das tabelas    | [Lucas Víctor](https://github.com/Lucas13032003)| [Lucas Oliveira](https://github.com/) |
+| `1.2`  | 12/11/2023 | Adição das tabelas de alguns artefatos    | [Lucas Ribeiro](https://github.com/lucassouzs)| [Lucas Oliveira](https://github.com/) |
