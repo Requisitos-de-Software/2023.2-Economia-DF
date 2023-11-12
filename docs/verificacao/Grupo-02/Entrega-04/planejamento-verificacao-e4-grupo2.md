@@ -75,7 +75,6 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos </p></font>
-</div>
 
 <table>
 

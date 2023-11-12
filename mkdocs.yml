@@ -18,6 +18,7 @@ nav:
     - Reunião 11: atas/Reuniao11-18.10.2023.md
     - Reunião 12: atas/Reuniao12-24.10.2023.md
     - Reunião 13: atas/Reuniao13-01.11.2023.md
+    - Reunião 14: atas/Reuniao14-10.11.2023.md
   - Apresentação:
     - Apresentação 1: apresentacoes/Apresentação 1 - 15.09.2023.md
     - Apresentação 2: apresentacoes/Apresentação 2 - 29.09.2023.md
@@ -59,6 +60,7 @@ nav:
     - NFR Framework: modelagem/agil/nfr-framework.md
   - Verificação:
     - Grupo 2:
+      - Panorama geral: verificacao/Grupo-02/verificacao-panorama-geral.md
       - Entrega 1:
         - Planejamento da verificação: verificacao/Grupo-02/Entrega-01/planejamento-verificacao-e1-grupo2.md
         - Ferramentas: verificacao/Grupo-02/Entrega-01/ferramentas.md
