@@ -74,7 +74,7 @@ A tabela 1 mostra os artefatos que serão inspecionados durante o processo de ve
 ## Cronograma
 A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos </p></font>
 </div>
 
 <table>
@@ -123,6 +123,9 @@ As listas de critérios (checklists) serão utilizadas para guiar a inspeção d
 A elaboração das checklists foi feita com base nos critérios de avaliação da Entrega 4 fornecida pelo professor e a partir dos feedbakcs dados pelos monitores pós-apresentações.
 
 ### NFR Framework
+
+A tabela 3 mostra o checklist do artefato de NFR Framework.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela do checklist do artefato "NFR Framework" </p></font>
 </div>
@@ -218,6 +221,8 @@ construção/realização do artefato/atividade. </td>
 </div>
 
 ### Histórias de Usuário
+
+A tabela 4 mostra o checklist do artefato de Histórias de Usuário.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Tabela do checklist do artefato "Histórias de Usuário" </p></font>
@@ -327,6 +332,8 @@ construção/realização do artefato/atividade. </td>
 </div>
 
 ### Backlogs
+
+A tabela 5 mostra o checklist do artefato de Backlogs.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela do checklist do artefato "Backlogs" </p></font>
