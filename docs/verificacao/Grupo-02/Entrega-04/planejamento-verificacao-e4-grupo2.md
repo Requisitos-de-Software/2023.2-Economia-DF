@@ -451,10 +451,10 @@ dos texto?  </td>
 ## Referências Bibliográficas
 
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf>>. Acesso em 06 de setembro de 2023.
+> 
 
 ## Histórico de versões
 
-
-| Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
+| Versão | Data       | Descrição                           | Autor(es)                     | Revisor(es)                    |
+| ------ | ---------- | ------------------------------ | ----------------------------------------------------- | --------------------- |
 | `1.0`  | 10/11/2023 | Criação do documento                | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|
