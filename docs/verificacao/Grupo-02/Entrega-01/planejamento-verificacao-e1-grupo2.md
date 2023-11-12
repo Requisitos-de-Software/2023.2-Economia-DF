@@ -23,7 +23,7 @@ O método a ser empregado para a verificação dos artefatos é o de insepeção
 Para essa entrega, os inspetores realizarão até a etapa "Inspeção", pois as etapas seguintes são de responsabilidade dos autores dos artefatos.
 
 ## Participantes
-A verificação dessa Etapa será realizada pelo integrande [Gabriel Zaranza](https://github.com/GZaranza), que será responsável pelo planejamento e execução da inspeção.
+A verificação dessa Etapa será realizada pelo integrante [Gabriel Zaranza](https://github.com/GZaranza), que será responsável pelo planejamento e execução da inspeção.
 ## Objetos de verificação
 A tabela 1 mostra os artefatos que serão inspecionados durante o processo de verificação.
 
