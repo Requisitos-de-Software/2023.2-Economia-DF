@@ -1,8 +1,8 @@
-# Verificação do Artefato "Questionário"
+# Verificação do Artefato "First Things First"
 
 ## Introdução
 
-Este documento apresenta os resultados da inspeção realizada no artefato "[Questionário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/questionario.md)", desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. A versão objeto de análise é a 1.0, datada de 30/09/23, conforme registrada no histórico de versões.
+Este documento apresenta os resultados da inspeção realizada no artefato "[First Things First](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/first_things_first.md)", desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. A versão objeto de análise é a 2.3, datada de 25/10/2023, conforme registrada no histórico de versões.
 
 ## Objetivo
 
@@ -18,7 +18,7 @@ Nesta etapa, os resultados serão expostos conforme o checklist empregado. Para 
 
 ### Checklist Geral
 
-Na Tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "Questionário" em relação ao checklist geral.
+Na Tabela 1, é possível visualizar os resultados obtidos na verificação do artefato "First Things First" em relação ao checklist geral.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Geral</p></font>
@@ -55,7 +55,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td align="center">5</td>
       <td>O artefato possui introdução?</td>
-      <td align="center">Incompleto</td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">6</td>
@@ -70,12 +70,12 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td align="center">8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td align="center">Incompleto</td>
+      <td align="center">Não se aplica</td>
     </tr>
     <tr>
       <td align="center">9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
-      <td align="center">Sim</td>
+      <td align="center">Não se aplica</td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
 
 ### Checklist Específico
 
-Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Questionário" em relação ao checklist específico.
+Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "First Things First" em relação ao checklist específico.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Especifico</p></font>
@@ -100,57 +100,42 @@ Na Tabela 2, é possível visualizar os resultados obtidos na verificação do a
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>Foi informado o motivo da escolha do questionário?</td>
-      <td align="center">Não</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td>Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?</td>
-      <td align="center">Incompleto</td>
-    </tr>
-    <tr>
-      <td align="center">3</td>
-      <td>O questionário apresenta um termo de consentimento onde a pessoa permite a utilização das informações que ira fornecer?</td>
-      <td align="center">Não</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td>O questionário apresenta mais perguntas fechadas do que perguntas abertas?</td>
-      <td align="center">Incompleto</td>
-    </tr>
-    <tr>
-      <td align="center">5</td>
-      <td>Os resultados foram tratados e apresentados?</td>
+      <td>A técnica que foi utilizada para priorização é descrita?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
+      <td align="center">2</td>
+      <td>Há uma explicação de cada tipo de prioridade?</td>
+      <td align="center">Não</td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Os requisitos estão ordenados em ordem de prioridade?</td>
+      <td align="center">Sim</td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>A fórmula para o cálculo do valor está correta?</td>
+      <td align="center">Sim</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>A tabela possui os pesos relativos e sua justificativa?</td>
+      <td align="center">Incompleto</td>
+    </tr>
+    <tr>
       <td align="center">6</td>
-      <td>O perfil de usuário apresenta os pontos principais requisitados?</td>
+      <td>Os requisitos são unicos e não se repetem?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>É explicado no artefato como o questionário será utilizado?</td>
-      <td align="center">Não</td>
-    </tr>
-    <tr>
-      <td align="center">8</td>
-      <td>As perguntas apresentam alguma ordem ou padrão estratégico?</td>
+      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">9</td>
-      <td>Apresenta no texto os locais onde o questionário foi distribuído?	</td>
-      <td align="center">Não</td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td>Apresenta no texto o prazo em que ficou aberto?</td>
-      <td align="center">Incompleto</td>
-    </tr>
-    <tr>
-      <td align="center">11</td>
-      <td>Houve o cuidado para não haver perguntas pessoais ou evasivas?	</td>
+      <td align="center">8</td>
+      <td>Os cálculos estão corretos?</td>
       <td align="center">Sim</td>
     </tr>
 </table>
@@ -160,22 +145,16 @@ Na Tabela 2, é possível visualizar os resultados obtidos na verificação do a
 
 ## Problemas Encontrados
 
-Nesta seção, serão apresentados os problemas identificados durante a inspeção do artefato "Questionário".
+Nesta seção, serão apresentados os problemas identificados durante a inspeção do artefato "First Things First".
 
 ### Checklist Geral
 
-- **ID 05**: O artefato até tem introdução, porém está bem simples e reduzida, contendo apenas uma frase de um autor. Uma introdução bem feita é de grande importância, para introduzir o que virá a ter no artefato, ja dando uma grande explicada de maneira simples e de fácil entendimento.
-- **ID 08**: Em relação as legendas, todas as figuras possuem, porém elas estão meio bagunçadas, o padrão seria a legenda em cima da figura, e a fonte abaixo, porém estão uma de cada lado da figura.
+Não foram identificados problemas em relação ao Checklist Geral. Todos os casos atendem aos critérios estabelecidos pelo professor de acordo com o checklist para a Entrega 2.
 
 ### Checklist Específico
 
-- **ID 01**: A falta de informação sobre o motivo da escolha do questionário no artefato cria uma lacuna significativa na compreensão dos fundamentos e objetivos subjacentes à pesquisa. 
-- **ID 02**: Embora haja uma impressão favorável de que o questionário foi elaborado de maneira cuidadosa, a falta de informações detalhadas no artefato sobre o processo de criação das perguntas impede uma conclusão concreta.
-- **ID 03**: O artefato não apresenta um termo de consentimento, elemento crucial em pesquisas que envolvem a participação de indivíduos.
-- **ID 04**: De acordo com as informações apresentadas no artefato, não tem como saber exatamente a quantidade de perguntas fechadas e abertas, causando essa dúvida na cabeça de quem está lendo. A importância de usar mais questões fechadas é mais por práticidade, precisão e facilidade na análise dos dados.
-- **ID 07**: No artefato, não fala exatamente sobre como o questionário irá ajudar futuramente. Essa explicação detalhada é essencial para compreender o valor prático e as implicações do questionário no contexto mais amplo.
-- **ID 09**: Não existe a informação de quais locais o questionário foi distribuído. Isso é importante para garantir a representatividade local da amostra e contextualizar adequadamente os resultados obtidos.
-- **ID 10**: No artefato até mostra que o questionário ficou aberto por um curto tempo, porém não cita detalhadamente qual foi esse tempo, que é essencial para avaliar adequadamente a eficácia do questionário.
+- **ID 02**: No artefato, não existe uma explicação fornecida para cada tipo de prioridade, o que é importante para uma compreensão clara e consistente do contexto de priorização.
+- **ID 05**: Não é mostrado a justificativa para os pesos relativos, o que é essencial para compreender as razões por trás das decisões de priorização.
 
 ## Bibliografia
 >
