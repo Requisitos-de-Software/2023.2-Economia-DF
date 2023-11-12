@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 3 do Grupo 2
+# Verificação dos artefatos entregues pelo Grupo 2
 
 ## Introdução
 
