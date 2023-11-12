@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A Verificação e Validação (V&V) são etapas cruciais no desenvolvimento de software, desempenhando um papel fundamental na garantia da qualidade e confiabilidade dos artefatos produzidos. Nesse contexto, a verificação refere-se à avaliação sistemática dos artefatos de software para assegurar sua conformidade com os requisitos e padrões especificados. Este documento visa realizar a verificação da entrega 3 realizada pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. O projeto em questão trata-se do desenvolvimento de um aplicativo denominado "Carteira Digital de Trânsito". Este processo de verificação visa garantir que a entrega 3 atenda aos padrões estabelecidos, assegurando a qualidade do produto em desenvolvimento. 
+A Verificação e Validação (V&V) são etapas cruciais no desenvolvimento de software, desempenhando um papel fundamental na garantia da qualidade e confiabilidade dos artefatos produzidos. Nesse contexto, a verificação refere-se à avaliação sistemática dos artefatos de software para assegurar sua conformidade com os requisitos e padrões especificados. Este documento visa realizar a verificação da entrega 2 realizada pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) na disciplina de Requisitos de Software. O projeto em questão trata-se do desenvolvimento de um aplicativo denominado "Carteira Digital de Trânsito". Este processo de verificação visa garantir que a entrega 2 atenda aos padrões estabelecidos, assegurando a qualidade do produto em desenvolvimento. 
 
 ## Objetivos 
 
-O objetivo desta verificação é assegurar que a entrega 3 cumpra os padrões estabelecidos, garantindo a qualidade e confiabilidade do aplicativo. Qualquer discrepância ou área de melhoria identificada será comunicada para ajustes, visando o contínuo aprimoramento do projeto. Este processo de verificação é essencial para garantir a conformidade do produto em desenvolvimento e contribuir para o sucesso contínuo do projeto.
+O objetivo desta verificação é assegurar que a entrega 2 cumpra os padrões estabelecidos, garantindo a qualidade e confiabilidade do aplicativo. Qualquer discrepância ou área de melhoria identificada será comunicada para ajustes, visando o contínuo aprimoramento do projeto. Este processo de verificação é essencial para garantir a conformidade do produto em desenvolvimento e contribuir para o sucesso contínuo do projeto.
 
 ## Metodologia
 
