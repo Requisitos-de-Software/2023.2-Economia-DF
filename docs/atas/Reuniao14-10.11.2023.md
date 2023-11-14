@@ -57,7 +57,7 @@ Na figura 1 encontram-se as atividades definidas e os responsáveis por cada uma
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Atividades a serem desenvolvidas</p></font>
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues-IHC5-24-10-2023.png?raw=true">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/imagens/atas/issues-IHC_7-10-11-2023.png?raw=true">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
