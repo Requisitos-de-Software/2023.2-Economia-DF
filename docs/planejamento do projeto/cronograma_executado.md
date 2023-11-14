@@ -703,7 +703,7 @@ Na tabela 3 encontram-se as datas do cronograma executado para a etapa de Modela
 Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Modelagem de Requisitos - Ágil.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma planejado para a etapa de Modelagem de Requisitos - Ágil</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma planejado para a etapa de Modelagem de Requisitos - Ágil</p></font>
 
 <table>
   <thead>
@@ -794,6 +794,75 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Modela
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1 - Grupo 2 - Data de Entrega: 13/nov/2023
+
+Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Análise de Requisitos: Verificação e Validação 1.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma executado para a etapa de Análise de Requisitos: Verificação e Validação 1</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Análise de Requisitos: Verificação e Validação 1</td>
+      <td>Início: 04/nov <br> Fim: 07/nov</td>
+      <td>Início: 09/nov <br> Fim: 12/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+      </td>
+      <td>Início: 08/nov <br> Fim: 09/nov</td>
+      <td>Início: 11/nov <br> Fim: 12/nov</td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 5.1</td>
+      <td>08/nov</td>
+      <td>12/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+      </td>
+      <td>09/nov</td>
+      <td>13/nov</td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 5.1</td>
+      <td>08/nov</td>
+      <td>12/nov</td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>08/nov</td>
+      <td>13/nov</td>
+      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 
 ## Bibliografia
 
@@ -810,3 +879,4 @@ Na tabela 4 encontram-se as datas do cronograma executado para a etapa de Modela
 | `1.2`  | 02/10/2023 | Inclusão das datas da entrega 2                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Gabriel Zaranza](https://github.com/GZaranza) |
 | `1.3`  | 25/10/2023 | Inclusão das datas da entrega 3                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.4`  | 06/11/2023 | Inclusão das datas da entrega 4                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
+| `1.5`  | 13/11/2023 | Inclusão das datas da entrega 5.1                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
