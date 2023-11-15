@@ -15,7 +15,7 @@ Os requisitos podem estar ligados épicos, temas, histórias do usuário, léxic
 A tabela X representa a matriz de rastreabilidade em que as linhas represetaram os requisitos e cada coluna representará o artefato criado a partir do reqiusito.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos não-funcionais elicitados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de rastreabilidade Forward-from</p></font>
 
 <table>
   <thead>
