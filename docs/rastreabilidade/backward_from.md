@@ -119,8 +119,6 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 
 ## Conclusão
 
-## Referências Bibliográficas
-
 ## Bibliografia
 
 > Requirements Engineering Fundamentals. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692881/mod_resource/content/2/Rastreabilidade.pdf>. Acesso em: 15 nov. 2023.
