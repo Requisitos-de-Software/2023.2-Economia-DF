@@ -87,7 +87,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
 Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Requisitos Elicitados" em relação ao checklist específico.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist Requisitos Elicitados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist Requisitos Elicitados</p></font>
 
 <table>
   <thead>
@@ -150,7 +150,7 @@ Nesta seção, serão apresentados os problemas identificados durante a inspeç�
 >
 > VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
-> CARTEIRA DIGITAL DE TRÂNSITO. [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+> CARTEIRA DIGITAL DE TRÂNSITO. [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/requisitos_elicitados.md), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
 
 ## Histórico de Versões
 
