@@ -24,7 +24,7 @@ Na tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade d
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade. </p></font>
-
+</div>
 
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
@@ -43,7 +43,7 @@ Na tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade d
 | RNF     | Requisitos não Funcionais |
 | OBS     | Observação                |
 
-
+<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Izabella Alves, Lucas Ribeiro, Lucas Victor, 2023. </p></font>
 </div>
 
@@ -69,15 +69,15 @@ Na tabela 2, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 | INT09 | RF     | O usuário poderá cadastrar um veículo                               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário     | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim | OBS         | [Caso de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc11-consultar-ve%C3%ADculo), [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-ve%C3%ADculos), [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs) e [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hist%C3%B3ria-de-usu%C3%A1rio)     | [Link para elo]     |
-| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                  | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT13 | RF     | O usuário poderá cadastrar um imóvel                                | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário      | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário | Sim | OBS     | [Link para artefato]      | [Link para elo]     |
-| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário | Sim        | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário             | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente               | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário              | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
-| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF | Sim | OBS          | [Link para artefato]      | [Link para elo]     |
+| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                  | Sim          | OBS                | [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs) e [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar)      | [Link para elo]     |
+| INT13 | RF     | O usuário poderá cadastrar um imóvel                                | Sim          | OBS                | [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos), [Especificacao suplementar](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#especifica%C3%A7%C3%A3o-suplementar), [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis), [Casos de Uuso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel), [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar) e [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs)       | [Link para elo]     |
+| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário      | Sim          | OBS                | [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar) e [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs)         | [Link para elo]     |
+| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário | Sim | OBS     | [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis), [Casos de Uuso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel), [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar) e [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs)       | [Link para elo]     |
+| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário | Sim        | OBS                |  [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos) e [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis)       | [Link para elo]     |
+| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário             | Sim          | OBS                |  [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos) e [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis)      | [Link para elo]     |
+| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente               | Sim          | OBS                |    [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs) e [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar)     | [Link para elo]     |
+| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário              | Sim          | OBS                |  [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos) e [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis)    | [Link para elo]     |
+| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF | Sim | OBS          |[Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis), [Casos de Uuso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel), [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar) e [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs)       | [Link para elo]     |
 | INT21 | RF     | O aplicativo deverá ter um meio de fornecer ajuda ao usuário         | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal | Não        | O, IS            | [Link para artefato]      | [Link para elo]     |
 | INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal         | Não          | O, IS, BS        | [Link para artefato]      | [Link para elo]     |
@@ -101,5 +101,6 @@ Na tabela 2, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|15/11/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
-|`1.0`|15/11/2023|Adição da legenda|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
+|`1.1`|15/11/2023|Adição da legenda|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
+|`1.2`|15/11/2023|Adição dos artefatos 11 ao 20|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
 
