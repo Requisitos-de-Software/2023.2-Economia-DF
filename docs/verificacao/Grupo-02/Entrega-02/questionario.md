@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os resultados da inspeção realizada no artefato "[Questionário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/questionario.md)", desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. A versão objeto de análise é a 1.0, datada de 30/09/23, conforme registrada no histórico de versões.
+Este documento apresenta os resultados da inspeção realizada no artefato "[Questionário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/questionario.md)", desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. A versão objeto de análise é a 1.0, datada de 30/09/2023, conforme registrada no histórico de versões.
 
 ## Objetivo
 
