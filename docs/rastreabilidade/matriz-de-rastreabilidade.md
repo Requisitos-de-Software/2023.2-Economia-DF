@@ -35,6 +35,7 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 | ENT     | Entrevista                |
 | RF      | Requisitos Funcionais     |
 | RNF     | Requisitos não Funcionais |
+| OBS     | Observação                |
 
 
 ## Matriz de Rastreabilidade
@@ -57,16 +58,16 @@ Na tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 | INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT09 | RF     | O usuário poderá cadastrar um veículo                               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário     | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim | O         | [Link para artefato]      | [Link para elo]     |
-| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                  | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT13 | RF     | O usuário poderá cadastrar um imóvel                                | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário      | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário | Sim | O     | [Link para artefato]      | [Link para elo]     |
-| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário | Sim        | O                | [Link para artefato]      | [Link para elo]     |
-| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário             | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário              | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF | Sim | O          | [Link para artefato]      | [Link para elo]     |
+| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim | OBS         | [Link para artefato]      | [Link para elo]     |
+| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                  | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT13 | RF     | O usuário poderá cadastrar um imóvel                                | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário      | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário | Sim | OBS     | [Link para artefato]      | [Link para elo]     |
+| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário | Sim        | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário             | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente               | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário              | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
+| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF | Sim | OBS          | [Link para artefato]      | [Link para elo]     |
 | INT21 | RF     | O aplicativo deverá ter um meio de fornecer ajuda ao usuário         | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal | Não        | O, IS            | [Link para artefato]      | [Link para elo]     |
 | INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal         | Não          | O, IS, BS        | [Link para artefato]      | [Link para elo]     |
