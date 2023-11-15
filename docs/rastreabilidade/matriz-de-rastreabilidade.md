@@ -18,6 +18,24 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 - Artefatos: Quais artefatos fazem referência ao requisito em questão.
 - Elos: Ligação entre requisitos e artefatos mapeados nos documentos [Backward From]() e [Forward From]().
 
+## Legenda
+
+| Legenda | Artefato                  |
+| ------- | ------------------------- |
+| E       | Épico                     |
+| P       | Personas                  |
+| US      | Histórias de usuário      |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
+| INT     | Introspecção              |
+| Q       | Questionário              |
+| B       | Brainstorming             |
+| ENT     | Entrevista                |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
+
 
 ## Matriz de Rastreabilidade
 
@@ -71,4 +89,6 @@ Na tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|15/11/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.0`|15/11/2023|Criação do documento|[Izabella Alves](https://github.com/izabellaalves) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
+|`1.0`|15/11/2023|Adição da legenda|[Lucas Víctor](https://github.com/Lucas13032003) |[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)| 
+
