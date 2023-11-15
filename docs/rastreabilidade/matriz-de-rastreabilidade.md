@@ -20,6 +20,12 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 
 ## Legenda
 
+Na tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade dos requisitos do Economia DF.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade. </p></font>
+
+
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
 | E       | Épico                     |
@@ -38,12 +44,16 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 | OBS     | Observação                |
 
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Izabella Alves, Lucas Ribeiro, Lucas Victor, 2023. </p></font>
+</div>
+
+
 ## Matriz de Rastreabilidade
 
-Na tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Economia DF.
+Na tabela 2, é possível ver a Matriz de Rastreabilidade dos requisitos do Economia DF.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de Rastreabilidade de requisitos do Economia - DF. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade de requisitos do Economia - DF. </p></font>
 </div>
 
 | ID    | Código | Descrição                                                          | Implementado | Pré-rastreabilidade | Artefatos                 | Elos                |
@@ -58,7 +68,7 @@ Na tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 | INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT09 | RF     | O usuário poderá cadastrar um veículo                               | Sim          | O                | [Link para artefato]      | [Link para elo]     |
 | INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário     | Sim          | O                | [Link para artefato]      | [Link para elo]     |
-| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim | OBS         | [Link para artefato]      | [Link para elo]     |
+| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim | OBS         | [Caso de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc11-consultar-ve%C3%ADculo), [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-ve%C3%ADculos), [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs) e [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hist%C3%B3ria-de-usu%C3%A1rio)     | [Link para elo]     |
 | INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                  | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
 | INT13 | RF     | O usuário poderá cadastrar um imóvel                                | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
 | INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário      | Sim          | OBS                | [Link para artefato]      | [Link para elo]     |
