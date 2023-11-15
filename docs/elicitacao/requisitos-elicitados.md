@@ -74,7 +74,7 @@ A legenda para cada sigla é a seguinte:
 | INT13 | RF     | O usuário poderá cadastrar um imóvel                                                 | Sim          | O               |
 | INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário                       | Sim          | O               |
 | INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário   | Sim          | O               |
-| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário   | Sim          | O               |
+| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário       | Sim          | O               |
 | INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário                              | Sim          | O               |
 | INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente                                | Sim          | O               |
 | INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário                               | Sim          | O               |
