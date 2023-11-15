@@ -12,7 +12,7 @@ A abordagem adotada neste documento consiste em uma inspeção por meio de check
 
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verififcado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações em .
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verififcado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 

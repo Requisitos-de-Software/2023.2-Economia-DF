@@ -98,7 +98,7 @@ Nesta etapa, será definido um checklist de verificação geral, que deve ser ap
 
 Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
 
-Os checklists criados se baseiam nos critérios estabelecidos no Plano de Ensino da disciplina Requisitos de Softwre [1], bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
+Os checklists criados se baseiam nos critérios estabelecidos na bibliografia recomendada, no Plano de Ensino da disciplina Requisitos de Software, bem como na observação dos projetos dos semestres anteriores e dos feedbacks dados pelos monitores e pelo Professor após as apresentações.
 
 ### Checklist Geral
 
