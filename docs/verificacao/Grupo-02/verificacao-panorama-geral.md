@@ -193,7 +193,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
       <td>1.0</td>
       <td>05/11/2023</td>
       <td><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira Rosa</a></td>
     </tr>
     <tr>
       <td></td>
@@ -201,7 +201,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
       <td>1.0</td>
       <td>06/11/2023</td>
       <td><a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira Rosa</a></td>
     </tr>
   </tbody>
 </table>
