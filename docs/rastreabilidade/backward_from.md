@@ -37,24 +37,35 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos funcionais elicitados</p></font>
 
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Rastreabilidade</th>
-      <th>Implementado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+
+| ID    | Código | Descrição                                                                            | Implementado | Rastreabilidade |
+| ----- | ------ | ------------------------------------------------------------------------------------ | ------------ | --------------- |
+| INT01 | RF     | O aplicativo deve possuir login com email e senha                                    | Sim          |               |
+| INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          |            |
+| INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          |         |
+| INT04 | RF     | O usuário poderá se deslogar do aplicativo                                           | Sim          |              |
+| INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário    | Sim          |        |
+| INT06 | RF     | O usuário poderá pesquisar por uma nota fiscal                                       | Sim          |                |
+| INT07 | RF     | O usuário poderá visualizar as notas fiscais e suas informações                      | Sim          |                |
+| INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal                                 | Sim          |                |
+| INT09 | RF     | O usuário poderá cadastrar um veículo                                                | Sim          |               |
+| INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário                      | Sim          |                |
+| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim          |               |
+| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                                  | Sim          |               |
+| INT13 | RF     | O usuário poderá cadastrar um imóvel                                                 | Sim          |                |
+| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário                       | Sim          |               |
+| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário   | Sim          |               |
+| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário       | Sim          |               |
+| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário                              | Sim          |                |
+| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente                                | Sim          |               |
+| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário                               | Sim          |               |
+| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF       | Sim          |     |
+| INT21 | RF     | O aplicativo deverá ter um meio de fornecer ajuda ao usuário                         | Sim          |       |
+| INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal                | Não          |       |
+| INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal                         | Não          |       |
+| INT24 | RF     | O aplicativo deve possuir login com CPF e senha                                      | Sim          |       |
+| INT25 | RF     | Possibilitar que o usuário aumente a fonte                                           | Não          |               |
+| INT26 | RF     | O usuário deve conseguir emitir a segunda via da dívida ativa                                                    | Não | |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
 </div>
@@ -71,15 +82,33 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Rastreabilidade</th>
       <th>Implementado</th>
+      <th>Rastreabilidade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>INT01</td>
+      <td>Garantir que ao fechar o aplicativo o usuário seja deslogado</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT02</td>
+      <td>O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT03</td>
+      <td>  O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT04</td>
+      <td>O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel </td>
+      <td>Não</td>
       <td></td>
     </tr>
   </tbody>
@@ -119,6 +148,10 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 
 ## Conclusão
 
+
+
+
+
 ## Bibliografia
 
 > Requirements Engineering Fundamentals. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692881/mod_resource/content/2/Rastreabilidade.pdf>. Acesso em: 15 nov. 2023.
@@ -131,3 +164,4 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 |`1.0`|15/11/2023|Criação do documento|[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.1`|15/11/2023|Adição da introdução |[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.2`|15/11/2023|Adição das outras secções|[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.3`|15/11/2023|Adição dos Requisitos Funcionais|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
