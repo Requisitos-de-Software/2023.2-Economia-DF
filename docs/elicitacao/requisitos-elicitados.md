@@ -8,7 +8,7 @@ O aplicativo Economia DF é um sistema que visa oferecer aos cidadãos do Distri
 
 A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada. Nesta tabela, cada requisito é identificado por um ID exclusivo, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como a [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) e [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observação.md).
 
-Foram elicitados x requisitos através dessas técnicas citadas, tanto para o site Nota Legal da disciplina de Interação Humano-Computador quanto para o aplicativo Economia-DF da disciplina Requisistos de Software. Após a apresentação da entrega e o feedback do professor e do monitor, o grupo escolheu 30 requsitos para trabalhar no projeto. Na tabela 2 constam esses requisitos.
+Foram elicitados 51 requisitos através dessas técnicas citadas, tanto para o site Nota Legal da disciplina de Interação Humano-Computador quanto para o aplicativo Economia-DF da disciplina Requisistos de Software. Após a apresentação da entrega e o feedback do professor e do monitor, o grupo escolheu 30 requisitos para trabalhar no projeto. O critério utilizado foi escolher os requisitos funcionais e não-funcionais já implementados no aplicativo Economia-DF e alguns requisitos do Nota Legal não implementados no aplicativo em estudo. Na tabela 2 constam esses requisitos.
 
 Essa abordagem de registro em tabela oferece uma visão organizada e estruturada dos requisitos do projeto, permitindo uma fácil referência e acompanhamento ao longo do ciclo de desenvolvimento. Ela promove a rastreabilidade, o que significa que é possível rastrear a origem de cada requisito, garantindo que todas as necessidades dos stakeholders sejam devidamente consideradas e atendidas no projeto.
 
@@ -60,10 +60,10 @@ A legenda para cada sigla é a seguinte:
 | ID    | Código | Descrição                                                                            | Implementado | Rastreabilidade |
 | ----- | ------ | ------------------------------------------------------------------------------------ | ------------ | --------------- |
 | INT01 | RF     | O aplicativo deve possuir login com email e senha                                    | Sim          | O               |
-| INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          | O               |
-| INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          | O               |
+| INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          | O, BS           |
+| INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          | O, IS, BS       |
 | INT04 | RF     | O usuário poderá se deslogar do aplicativo                                           | Sim          | O               |
-| INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário    | Sim          | O               |
+| INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário    | Sim          | O, IS, BS       |
 | INT06 | RF     | O usuário poderá pesquisar por uma nota fiscal                                       | Sim          | O               |
 | INT07 | RF     | O usuário poderá visualizar as notas fiscais e suas informações                      | Sim          | O               |
 | INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal                                 | Sim          | O               |
@@ -83,7 +83,7 @@ A legenda para cada sigla é a seguinte:
 | INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal                | Não          | O, IS           |
 | INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal                         | Não          | O, IS, BS       |
 | INT24 | RNF    | Garantir que ao fechar o aplicativo o usuário seja deslogado                         | Não          | BS              |
-| INT25 | RF     | Garantir que o usuário consiga realizar login com a conta do GOV                     | Não          | BS              |
+| INT25 | RF     | O aplicativo deve possuir login com CPF e senha                                      | Sim          | O, IS, BS       |
 | INT26 | RF     | Possibilitar que o usuário aumente a fonte                                           | Não          | BS              |
 | INT27 | RNF    | O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo | Não | BS, O |
 | INT28 | RNF    | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Não | BS, O |
@@ -101,3 +101,4 @@ A legenda para cada sigla é a seguinte:
 | `1.0`  | 29/09/2023 | Criação do documento e adição de tabela                                          | [Izabella Alves](https://github.com/izabellaalves) |   [Gabriel Zaranza](https://github.com/gzaranza)   |
 | `1.1`  | 29/09/2023 | Adição da introdução, metodologia e inserindo rastreabilidade da tabela          | [Gabriel Rosa](https://github.com/gabrielrosa09)   | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.2`  | 22/10/2023 | Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas | [Zenilda Vieira](https://github.com/zenildavieira) |   [Gabriel Zaranza](https://github.com/GZaranza)   |
+| `2.0`  | 29/10/2023 | Correção após a entrega 3 | [Zenilda Vieira](https://github.com/zenildavieira) e <br>   [Gabriel Zaranza](https://github.com/GZaranza)   |  [Izabella Alves](https://github.com/izabellaalves) | 
