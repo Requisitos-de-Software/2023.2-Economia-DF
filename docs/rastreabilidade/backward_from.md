@@ -82,15 +82,33 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Rastreabilidade</th>
       <th>Implementado</th>
+      <th>Rastreabilidade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>INT01</td>
+      <td>Garantir que ao fechar o aplicativo o usuário seja deslogado</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT02</td>
+      <td>O usuário não deve conseguir colocar uma quantidade diferente de 7 caracteres ao cadastrar a placa de um veículo</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT03</td>
+      <td>  O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo</td>
+      <td>Não</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>INT04</td>
+      <td>O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel </td>
+      <td>Não</td>
       <td></td>
     </tr>
   </tbody>
