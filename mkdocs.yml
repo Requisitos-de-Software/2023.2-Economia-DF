@@ -19,12 +19,14 @@ nav:
     - Reunião 12: atas/Reuniao12-24.10.2023.md
     - Reunião 13: atas/Reuniao13-01.11.2023.md
     - Reunião 14: atas/Reuniao14-10.11.2023.md
+    - Reunião 15: atas/Reuniao15-15.11.2023.md
   - Apresentação:
     - Apresentação 1: apresentacoes/Apresentação 1 - 15.09.2023.md
     - Apresentação 2: apresentacoes/Apresentação 2 - 29.09.2023.md
     - Apresentação 3: apresentacoes/Apresentação 3 - 24.10.2023.md
     - Apresentação 4: apresentacoes/Apresentação 4 - 07.11.2023.md
-    - Apresentação 5: apresentacoes/Apresentação 5.1 - 14.11.2023.md
+    - Apresentação 5.1: apresentacoes/Apresentação 5.1 - 14.11.2023.md
+
   - Planejamento do projeto:
     - Heatmap de disponibilidade: planejamento do projeto/heatmap-disponibilidade.md
     - Ferramentas do projeto: planejamento do projeto/ferramentas.md
@@ -80,7 +82,10 @@ nav:
           - Entrevista: verificacao/Grupo-02/Entrega-02/entrevista.md
           - Instrospecção: verificacao/Grupo-02/Entrega-02/introspecçao.md
           - Requisitos elicitados: verificacao/Grupo-02/Entrega-02/requisitos-elicitados.md
-        - Priorização: verificacao/Grupo-02/Entrega-02/priorizacao.md
+        - Priorização:
+          - $100: verificacao/Grupo-02/Entrega-02/priorizacao/100$.md
+          - First Things First: verificacao/Grupo-02/Entrega-02/priorizacao/first_things_first.md
+          - Three Level Scale: verificacao/Grupo-02/Entrega-02/priorizacao/three_level_scale.md
       - Entrega 3:
         - Planejamento da verificação: verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2.md
         - Casos de uso: verificacao/Grupo-02/Entrega-03/casos-de-uso.md
