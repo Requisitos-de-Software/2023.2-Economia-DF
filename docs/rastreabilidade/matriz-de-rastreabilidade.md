@@ -24,29 +24,76 @@ Na Tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade d
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade. </p></font>
-</div>
 
-| Legenda | Artefato                  |
-| ------- | ------------------------- |
-| E       | Épico                     |
-| P       | Personas                  |
-| US      | Histórias de usuário      |
-| UC      | Casos de Uso              |
-| C       | Cenários                  |
-| L       | Léxico                    |
-| ES      | Especificação Suplementar |
-| INT     | Introspecção              |
-| Q       | Questionário              |
-| BS       | Brainstorming             |
-| ENT     | Entrevista                |
-| RF      | Requisitos Funcionais     |
-| RNF     | Requisitos não Funcionais |
-| OBS     | Observação                |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Legenda</th>
+      <th align="center">Artefato</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>E</td>
+      <td>Épico</td>
+    </tr>
+    <tr>
+      <td>P</td>
+      <td>Personas</td>
+    </tr>
+    <tr>
+      <td>US</td>
+      <td>Histórias de usuário</td>
+    </tr>
+    <tr>
+      <td>UC</td>
+      <td>Casos de Uso</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Cenários</td>
+    </tr>
+    <tr>
+      <td>L</td>
+      <td>Léxico</td>
+    </tr>
+    <tr>
+      <td>ES</td>
+      <td>Especificação Suplementar</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td>Introspecção</td>
+    </tr>
+    <tr>
+      <td>Q</td>
+      <td>Questionário</td>
+    </tr>
+    <tr>
+      <td>BS</td>
+      <td>Brainstorming</td>
+    </tr>
+    <tr>
+      <td>ENT</td>
+      <td>Entrevista</td>
+    </tr>
+    <tr>
+      <td>RF</td>
+      <td>Requisitos Funcionais</td>
+    </tr>
+    <tr>
+      <td>RNF</td>
+      <td>Requisitos não Funcionais</td>
+    </tr>
+    <tr>
+      <td>OBS</td>
+      <td>Observação</td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023. </p></font>
 </div>
-
 
 ## Matriz de Rastreabilidade
 
