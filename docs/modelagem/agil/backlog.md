@@ -16,10 +16,10 @@ Através dessa análise, foi desenvolvida a tabela 1, onde é possível ver os t
 
 Após a etapa de análise de requisitos, foram definidos quatro temas:
 
-* Login
-* Nota Fiscal
-* Débitos
-* Contato
+* T01 - Login
+* T02 - Nota Fiscal
+* T03 - Débitos
+* T04 - Contato
 
 ### Épicos
 
