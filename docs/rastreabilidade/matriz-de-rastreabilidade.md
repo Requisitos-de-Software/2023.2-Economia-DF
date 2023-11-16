@@ -23,7 +23,7 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 Na Tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade dos requisitos do Economia DF.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de Rastreabilidade. </p></font>
 
 <table>
   <thead>
