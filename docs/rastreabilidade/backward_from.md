@@ -90,6 +90,21 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 Este seguimento é destinado para a elaboração da tabela de rastreamento de requisitos não-funcionais, que está sendo demonstrado na tabela 2 a seguir:
 
+**Legendas:**
+
+> - RF: Requisito Funcional
+> - RNF: Requisito Não Funcional
+> - BS: Brainstorm
+> - ENT: Entrevista
+> - INT: Instrospecção
+> - IS: Introspecção
+> - C: Cenários
+> - E: Épico
+> - T: Tema
+> - HS: Histórias de Usuário
+> - UC: Casos de Uso
+> - L: Léxicos 
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos não-funcionais elicitados</p></font>
 
@@ -181,3 +196,4 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 |`1.1`|15/11/2023|Adição da introdução |[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.2`|15/11/2023|Adição das outras secções|[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|15/11/2023|Adição dos Requisitos Funcionais|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.4`|17/11/2023|Adição da Rastreabilidade|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
