@@ -334,7 +334,7 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
   <tr>
     <td>ELO29</td>
     <th>RNF03</th>
-    <td>Derivação</td>
+    <td>Recurso</td>
     <td> Este requisito não-funcional especifica que o aplicativo deve ser rápido. Ele tem como fonte a necessidade do usuário de ter suas solicitações atendidas em um tempo razoável. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
   <tr>
