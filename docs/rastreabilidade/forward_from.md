@@ -356,16 +356,16 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td>INT01<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td>><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT01</td>
     </tr>
     <tr>
       <td>INT03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs03-hs03---recuperar-senha">HS03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td>INT01<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT01</td>
     </tr>
     <tr>
       <td>INT04</td>
@@ -388,32 +388,32 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs06---pesquisar">HS06</a</td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td></td>
-      <td>INT05<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT05</td>
     </tr>
     <tr>
       <td>INT07</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs07---visualizar-detalhes">HS07</a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td></td>
-      <td>INT05<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT05</td>
     </tr>
     <tr>
       <td>INT08</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs08---imprimir-danfe">HS08</a></a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td></td>
-      <td>INT05<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT05</td>
     </tr>
     <tr>
       <td>INT09</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a></td>
       <td></td>
-      <td></td>
-      <td>INT10<br>INT11<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT10<br>INT11<br></td>
     </tr>
     <tr>
       <td>INT10</td>
@@ -421,7 +421,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-veiculo">Cenário - Consultar Veículos<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc11-consultar-ve%C3%ADculo">UC11</a></td>
       <td></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td>INT09</td>
     </tr>
     <tr>
       <td>INT11</td>
@@ -429,7 +429,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a></td>
       <td></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td>INT09</td>
     </tr>
     <tr>
       <td>INT12</td>
@@ -453,7 +453,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc09-consultar-im%C3%B3vel">UC09</a></td>
       <td></td>
       <td><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td>INT13</td>
     </tr>
     <tr>
       <td>INT15</td>
@@ -461,7 +461,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td></td>
       <td><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td>INT13</td>
     </tr>
     <tr>
       <td>INT16</td>
@@ -538,15 +538,15 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td>INT01<br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
+      <td>INT01</td>
     </tr>
     <tr>
       <td>INT26</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#usabilidade">NFR- Usabilidade</a></td>
       <td></td>
     </tr>
     <tr>
