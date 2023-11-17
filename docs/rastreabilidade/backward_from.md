@@ -150,137 +150,215 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabelas 1 e 2. De acordo com a metodologia mencionada, todos os requisitos serão categorizados com base no tipo de vínculo. No entanto, é importante observar que todos esses requisitos identificados pertencem à categoria de Desenvolvimento. Eles derivam de artefatos criados durante o processo de desenvolvimento do trabalho, sem qualquer relação com a organização ou a gestão do projeto. A partir desses requisitos, compilamos a tabela 3, que apresenta todos os vínculos (elos) envolvidos.
 
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade.</p></font>
 
 <table border="0.6">
   <tr>
     <th>ID</th>
+     <th>Requisitos</th>
     <th>Tipo de elo</th>
     <th>Descrição do elo</th>
   </tr>
   <tr>
-    <td>INT01</td>
+    <td>ELO01</td>
+    <th>RF01</th>
+    <td>Representação</td>
+    <td>O requisito RF01, que diz que o aplicativo deve possuir login com email e senha, tem como fonte a introspecção do grupo, que é um método de elicitação de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
+  </tr>
+  <tr>
+    <td>ELO02</td>
+    <th>RF02</th>
+    <td>Representação</td>
+    <td>O requisito RF02, que diz que o aplicativo deve possuir cadastro com email, senha e CPF, tem como fonte a introspecção do grupo, que é um método de elicitação de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
+  </tr>
+  <tr>
+    <td>ELO03</td>
+    <th>RF03</th>
+    <td>Representação</td>
+    <td>O requisito RF03, que diz que o aplicativo deve permitir que o usuário recupere sua senha por meio do email cadastrado, tem como fonte a observação do aplicativo, que é um método de análise de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
+  </tr>
+  <tr>
+    <td>ELO04</td>
+    <th>RF4</th>
+    <td>Representação</td>
+    <td>O requisito RF04, que diz que o aplicativo deve permitir que o usuário altere sua senha por meio do email cadastrado, tem como fonte a observação do aplicativo, que é um método de análise de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
+  </tr>
+  <tr>
+    <td>ELO05</td>
+    <th>RF05</th>
+    <td>Satisfação</td>
+    <td>O requisito RF05, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPVA de um veículo, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a propriedade de veículos automotores. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO06</td>
+    <th>RF06</th>
+    <td>Satisfação</td>
+    <td>O requisito RF06, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPTU de um imóvel, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a propriedade predial e territorial urbana. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO07</td>
+    <th>RF07</th>
+    <td>Satisfação</td>
+    <td>O requisito RF07, que diz que o aplicativo deve permitir que o usuário consulte os débitos de ICMS de uma empresa, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a circulação de mercadorias e serviços. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO08</td>
+    <th>RF08</th>
+    <td>Satisfação</td>
+    <td>O requisito RF08, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPVA, IPTU e ICMS de forma integrada, tem como fonte a necessidade do usuário de ter uma visão geral dos seus tributos estaduais e municipais. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO09</td>
+    <th>RF09</th>
+    <td>Satisfação</td>
+    <td>O requisito RF09, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de boleto bancário, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário</td>
+  </tr>
+  <tr>
+    <td>ELO10</td>
+    <th>RF10</th>
+    <td>Satisfação</td>
+    <td>O requisito RF10, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de cartão de crédito, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO11</td>
+    <th>RF11</th>
+    <td>Satisfação</td>
+    <td>O requisito RF11, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de PIX, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO12</td>
+    <th>RF12</th>
+    <td>Satisfação</td>
+    <td>O requisito RF12, que diz que o aplicativo deve permitir que o usuário realize o parcelamento dos débitos de IPVA, IPTU e ICMS, tem como fonte a necessidade do usuário de ter mais flexibilidade e facilidade para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO13</td>
+    <th>RF13</th>
+    <td>Satisfação</td>
+    <td>O requisito RF13, que diz que o aplicativo deve permitir que o usuário consulte o histórico de pagamentos realizados, tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO14</td>
+    <th>RF14</th>
+    <td>Satisfação</td>
+    <td>O requisito RF14, que diz que o aplicativo deve permitir que o usuário consulte o extrato de pagamentos realizados, tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos.
+</td>
+  </tr>
+  <tr>
+    <td>ELO15</td>
+    <th>RF15</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte os débitos de IPVA, IPTU e ICMS de forma integrada. Ele tem como fonte a necessidade do usuário de ter uma visão geral dos seus tributos estaduais e municipais. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO16</td>
+    <th>RF16</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de boleto bancário. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO17</td>
+    <th>RF17</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de cartão de crédito. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO18</td>
+    <th>RF18</th>
+    <td>Satisfação</td>
+    <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de PIX. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO19</td>
+    <th>RF19</th>
+    <td>Satisfação</td>
+    <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o parcelamento dos débitos de IPVA, IPTU e ICMS. Ele tem como fonte a necessidade do usuário de ter mais flexibilidade e facilidade para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO20</td>
+    <th>RF20</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o histórico de pagamentos realizados. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO21</td>
+    <th>RF21</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o extrato de pagamentos realizados. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO22</td>
+    <th>RF22</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus créditos acumulados no programa. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO23</td>
+    <th>RF23</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o extrato do programa Nota Legal. Ele tem como fonte a necessidade do usuário de ter um controle e um registro das suas transações no programa. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO24</td>
+    <th>RF24</th>
+    <td>Representação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO25</td>
+    <th>RF25</th>
+    <td>Satisfação</td>
+    <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.
+</td>
+  </tr>
+  <tr>
+    <td>ELO26</td>
+    <th>RF26</th>
+    <td>Satisfação</td>
+    <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
+  </tr>
+  <tr>
+    <td>ELO27</td>
+    <th>RNF01</th>
+    <td>Recurso</td>
+    <td>Este requisito não-funcional especifica que o aplicativo deve ter uma interface amigável. Ele tem como fonte a necessidade do usuário de ter uma experiência agradável e intuitiva ao usar o aplicativo. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
+  </tr>
+  <tr>
+    <td>ELO28</td>
+    <th>RNF02</th>
+    <td>Recurso</td>
+    <td>Este requisito não-funcional especifica que o aplicativo deve ser seguro. Ele tem como fonte a necessidade do usuário de ter suas informações pessoais e financeiras protegidas. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
+  </tr>
+  <tr>
+    <td>ELO29</td>
+    <th>RNF03</th>
     <td>Derivação</td>
-    <td>O requisito INT01 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
+    <td> Este requisito não-funcional especifica que o aplicativo deve ser rápido. Ele tem como fonte a necessidade do usuário de ter suas solicitações atendidas em um tempo razoável. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
   <tr>
-    <td>INT02</td>
-    <td>Restrição</td>
-    <td>O requisito INT02 impõe uma restrição ao requisito INT23, pois limita a quantidade de caracteres que o usuário pode inserir ao cadastrar a placa de um veículo.</td>
+    <td>ELO30</td>
+    <th>RNF04</th>
+    <td>Recurso</td>
+    <td>Este requisito não-funcional especifica que o aplicativo deve ser confiável. Ele tem como fonte a necessidade do usuário de ter suas informações pessoais e financeiras protegidas. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
-  <tr>
-    <td>INT03</td>
-    <td>Restrição</td>
-    <td>O requisito INT03 impõe uma restrição ao requisito INT23, pois limita a quantidade de números que o usuário pode inserir ao cadastrar o renavan de um veículo.</td>
-  </tr>
-  <tr>
-    <td>INT04</td>
-    <td>Restrição</td>
-    <td>O requisito INT04 impõe uma restrição ao requisito INT23, pois limita a quantidade de números que o usuário pode inserir ao cadastrar a inscrição de um imóvel.</td>
-  </tr>
-  <tr>
-    <td>INT05</td>
-    <td>Derivação</td>
-    <td>O requisito INT05 deriva do requisito INT22, pois ambos estão relacionados ao saldo do usuário no programa Nota Legal.</td>
-  </tr>
-  <tr>
-    <td>INT06</td>
-    <td>Derivação</td>
-    <td>O requisito INT06 deriva do requisito INT22, pois ambos estão relacionados ao saldo do usuário no programa Nota Legal.</td>
-  </tr>
-  <tr>
-    <td>INT07</td>
-    <td>Derivação</td>
-    <td>O requisito INT07 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT08</td>
-    <td>Derivação</td>
-    <td>O requisito INT08 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT09</td>
-    <td>Derivação</td>
-    <td>O requisito INT09 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT10</td>
-    <td>Derivação</td>
-    <td>O requisito INT10 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT11</td>
-    <td>Derivação</td>
-    <td>O requisito INT11 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT12</td>
-    <td>Derivação</td>
-    <td>O requisito INT12 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT13</td>
-    <td>Derivação</td>
-    <td>O requisito INT13 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT14</td>
-    <td>Derivação</td>
-    <td>O requisito INT14 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT15</td>
-    <td>Derivação</td>
-    <td>O requisito INT15 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT16</td>
-    <td>Derivação</td>
-    <td>O requisito INT16 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT17</td>
-    <td>Derivação</td>
-    <td>O requisito INT17 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT18</td>
-    <td>Derivação</td>
-    <td>O requisito INT18 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT19</td>
-    <td>Derivação</td>
-    <td>O requisito INT19 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT20</td>
-    <td>Derivação</td>
-    <td>O requisito INT20 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT21</td>
-    <td>Derivação</td>
-    <td>O requisito INT21 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT22</td>
-    <td>Derivação</td>
-    <td>O requisito INT22 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
-  </tr>
-  <tr>
-    <td>INT23</td>
-    <td>Derivação</td>
-    <td>O requisito INT23 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
-  </tr>
+ 
 </table>
-
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
 </div>
 
+
+
+
+
+
+
+
+
 ## Conclusão
+
 
 
 
