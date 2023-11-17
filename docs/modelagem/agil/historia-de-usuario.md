@@ -20,7 +20,7 @@ Posteriormente, foi efetuado a priorização dos requisitos elicitados com as te
 
 - [100$](#)
 - [First Thing First](#)
-- [In our Out](#)
+- [In or Out](#)
 
 Dessa forma, as funcionalidades foram documentadas de maneira ágil e padronizada, alinhadas com as especificações definidas no [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#backlogs). Por fim, realizou-se uma validação do documento em uma reunião com o representante do cliente no projeto, assegurando a conformidade com as necessidades do usuário.
 
