@@ -40,7 +40,6 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 > - RNF: Requisito Não Funcional
 > - BS: Brainstorm
 > - ENT: Entrevista
-> - INT: Instrospecção
 > - IS: Introspecção
 > - C: Cenários
 > - E: Épico
@@ -96,7 +95,6 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 > - RNF: Requisito Não Funcional
 > - BS: Brainstorm
 > - ENT: Entrevista
-> - INT: Instrospecção
 > - IS: Introspecção
 > - C: Cenários
 > - E: Épico
