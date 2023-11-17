@@ -352,6 +352,8 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 
 ## Conclusão
 
+Considerando o Meta-modelo de Toranzo como referência, este documento apresenta 30 elos de rastreabilidade que permitem avaliar a qualidade e a coerência dos requisitos elicitados para o projeto do aplicativo do Economia-Df. Esses elos abrangem as diferentes dimensões e níveis de abstração dos requisitos, bem como as relações entre eles. Assim, é possível verificar se os requisitos atendem às necessidades e expectativas dos stakeholders, se são consistentes e completos, e se estão alinhados com os objetivos do projeto.
+
 
 ## Referência Bibliografia
 
