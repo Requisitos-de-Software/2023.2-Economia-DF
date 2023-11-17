@@ -34,6 +34,21 @@ Para auxiliar na criação do meta-modelo de Toranzo, foram elaboradas as **tabe
 
 Este seguimento é destinado para a elaboração da tabela de rastreamento de requisitos funcionais, que está sendo demonstrado na tabela 1 a seguir:
 
+**Legendas:**
+
+> - RF: Requisito Funcional
+> - RNF: Requisito Não Funcional
+> - BS: Brainstorm
+> - ENT: Entrevista
+> - INT: Instrospecção
+> - ST: Story Teling
+> - C: Cenários
+> - E: Épico
+> - F: Feature
+> - US: Histórias de Usuário
+> - UC: Casos de Uso
+> - L: Léxicos 
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos funcionais elicitados</p></font>
 
