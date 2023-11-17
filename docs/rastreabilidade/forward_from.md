@@ -74,7 +74,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
-      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
       <td></td>
@@ -87,7 +87,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs03-hs03---recuperar-senha">HS03</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
       <td></td>
@@ -100,7 +100,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs04---efetuar-logout">HS04</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -311,7 +311,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep07---parcelamentos-administrativos">EP07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen06---consultar-parcelamentos-administrativos">CEN06</a></td>
       <td></td>
@@ -374,7 +374,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep08---fale-conosco">EP08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs15---enviar-email">HS15</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc14-entrar-em-contato">UC14</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc15-enviar-e-mail">UC15</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen07---fale-conosco">CEN07</a></td>
       <td></td>
@@ -387,7 +387,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep09---ajuda">EP09</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs16---visualizar-informa%C3%A7%C3%B5es-sobre-o-aplicativo">HS16</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc13-consultar-ajuda">UC13</a></td>
       <td></td>
       <td></td>
@@ -431,7 +431,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs04---efetuar-logout">HS04</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -444,7 +444,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
       <td></td>
@@ -457,7 +457,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></td>
       <td></td>
       <td></td>
-      <td><a href="">L0</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
       <td></td>
