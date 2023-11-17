@@ -58,7 +58,7 @@ A legenda para cada sigla é a seguinte:
 </div >
 
 | ID    | Código | Descrição                                                                            | Implementado | Rastreabilidade |
-| ----- | ------ | ------------------------------------------------------------------------------------ | ------------ | --------------- |
+| :---: | :----: | ------------------------------------------------------------------------------------ | :----------: | :-------------: |
 | INT01 | RF     | O aplicativo deve possuir login com email e senha                                    | Sim          | O               |
 | INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          | O, BS           |
 | INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          | O, IS, BS       |
