@@ -335,7 +335,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>INT01</td>
       <td></td>
     </tr>
     <tr>
@@ -343,7 +343,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>INT01</td>
       <td></td>
     </tr>
     <tr>
@@ -357,7 +357,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT05</td>
       <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-nota-fiscal">Cenário - Consultar Notal Fiscal<br></a</a></td>
       <td></td>
       <td></td>
       <td>INT06<br>INT07<br>INT08</td>
@@ -365,23 +365,23 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT06</td>
       <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT07</td>
-      <td></td>
-      <td></td>
+      <td></a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT08</td>
-      <td></td>
-      <td></td>
+      <td></a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -389,7 +389,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT09</td>
       <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a></td>
       <td></td>
       <td></td>
       <td>INT10<br>INT11</td>
@@ -397,15 +397,15 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT10</td>
       <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-veiculo">Cenário - Consultar Veículos<br></a></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>INT09</td>
     </tr>
     <tr>
       <td>INT11</td>
       <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -421,30 +421,30 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT13</td>
       <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-imovel">Cenário - Consultar Imóvel<br></a></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>INT14<br>INT15</td>
+      <td>INT14<br>INT15<br>INT29</td>
     </tr>
     <tr>
       <td>INT14</td>
-      <td></td>
-      <td></td>
+      <td>INT13</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT15</td>
-      <td></td>
-      <td></td>
+      <td>INT13</td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT16</td>
-      <td></td>
+      <td>INT19</td>
       <td></td>
       <td></td>
       <td></td>
@@ -453,10 +453,10 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT17</td>
       <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-divida-ativa">Cenário - Consultar dívida ativa<br></a></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>INT30</td>
     </tr>
     <tr>
       <td>INT18</td>
@@ -469,7 +469,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT19</td>
        <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-parcelamentos-administrativos">Cenário - Consultar Parcelamentos Administrativos<br></a></td>
       <td></td>
       <td></td>
       <td>INT16</td>
@@ -477,7 +477,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT20</td>
       <td></td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#fale-conosco">Cenário - Fale conosco<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -518,7 +518,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
      <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>INT01</td>
       <td></td>
     </tr>
     <tr>
@@ -547,7 +547,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT29</td>
-     <td></td>
+     <td>INT13</td>
       <td></td>
       <td></td>
       <td></td>
@@ -555,7 +555,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT30</td>
-     <td></td>
+     <td>INT17</td>
       <td></td>
       <td></td>
       <td></td>
