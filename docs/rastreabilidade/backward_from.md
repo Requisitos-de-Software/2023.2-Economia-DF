@@ -153,27 +153,134 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade.</p></font>
 
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Requisito</th>
-      <th>Tipo de Elo</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ELO01</td>
-      <td>RF01</td>
-      <td></td>
-    </tr>
-  </tbody>
+<table border="0.6">
+  <tr>
+    <th>ID</th>
+    <th>Tipo de elo</th>
+    <th>Descrição do elo</th>
+  </tr>
+  <tr>
+    <td>INT01</td>
+    <td>Derivação</td>
+    <td>O requisito INT01 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT02</td>
+    <td>Restrição</td>
+    <td>O requisito INT02 impõe uma restrição ao requisito INT23, pois limita a quantidade de caracteres que o usuário pode inserir ao cadastrar a placa de um veículo.</td>
+  </tr>
+  <tr>
+    <td>INT03</td>
+    <td>Restrição</td>
+    <td>O requisito INT03 impõe uma restrição ao requisito INT23, pois limita a quantidade de números que o usuário pode inserir ao cadastrar o renavan de um veículo.</td>
+  </tr>
+  <tr>
+    <td>INT04</td>
+    <td>Restrição</td>
+    <td>O requisito INT04 impõe uma restrição ao requisito INT23, pois limita a quantidade de números que o usuário pode inserir ao cadastrar a inscrição de um imóvel.</td>
+  </tr>
+  <tr>
+    <td>INT05</td>
+    <td>Derivação</td>
+    <td>O requisito INT05 deriva do requisito INT22, pois ambos estão relacionados ao saldo do usuário no programa Nota Legal.</td>
+  </tr>
+  <tr>
+    <td>INT06</td>
+    <td>Derivação</td>
+    <td>O requisito INT06 deriva do requisito INT22, pois ambos estão relacionados ao saldo do usuário no programa Nota Legal.</td>
+  </tr>
+  <tr>
+    <td>INT07</td>
+    <td>Derivação</td>
+    <td>O requisito INT07 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT08</td>
+    <td>Derivação</td>
+    <td>O requisito INT08 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT09</td>
+    <td>Derivação</td>
+    <td>O requisito INT09 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT10</td>
+    <td>Derivação</td>
+    <td>O requisito INT10 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT11</td>
+    <td>Derivação</td>
+    <td>O requisito INT11 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT12</td>
+    <td>Derivação</td>
+    <td>O requisito INT12 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT13</td>
+    <td>Derivação</td>
+    <td>O requisito INT13 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT14</td>
+    <td>Derivação</td>
+    <td>O requisito INT14 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT15</td>
+    <td>Derivação</td>
+    <td>O requisito INT15 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT16</td>
+    <td>Derivação</td>
+    <td>O requisito INT16 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT17</td>
+    <td>Derivação</td>
+    <td>O requisito INT17 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT18</td>
+    <td>Derivação</td>
+    <td>O requisito INT18 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT19</td>
+    <td>Derivação</td>
+    <td>O requisito INT19 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT20</td>
+    <td>Derivação</td>
+    <td>O requisito INT20 deriva do requisito INT23, pois ambos estão relacionados ao cadastro de veículos e imóveis no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT21</td>
+    <td>Derivação</td>
+    <td>O requisito INT21 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT22</td>
+    <td>Derivação</td>
+    <td>O requisito INT22 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
+  </tr>
+  <tr>
+    <td>INT23</td>
+    <td>Derivação</td>
+    <td>O requisito INT23 deriva do requisito INT24, pois ambos estão relacionados ao login do usuário no aplicativo.</td>
+  </tr>
 </table>
+
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
 </div>
 
 ## Conclusão
-
 
 
 
