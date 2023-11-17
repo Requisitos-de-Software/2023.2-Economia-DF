@@ -40,7 +40,7 @@ Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagr
 ## NFR Framework
 
 
-### Usabilidade 
+### NFR01 - Usabilidade 
 
 Usabilidade, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários.
 
@@ -119,7 +119,7 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
 <p><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023.</p>
 </div>
 
-###  Confiabilidade (Reliability)
+###  NFR02 - Confiabilidade (Reliability)
 A "Confiabilidade" em um aplicativo é uma característica crucial que se refere à capacidade do aplicativo de funcionar de maneira consistente, estável e sem falhas. Isso assegura que os [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) possam confiar que o aplicativo estará disponível e operando corretamente sempre que precisarem utilizá-lo. A confiabilidade desempenha um papel essencial para garantir uma experiência positiva do usuário, evitando erros, interrupções inesperadas e mantendo a credibilidade do aplicativo. Como a "Ajuda e Documentação" são recursos essenciais para orientar os usuários, a confiabilidade é o alicerce que sustenta a confiança dos usuários no aplicativo, permitindo que eles utilizem as informações da "Ajuda e Documentação" com segurança e eficácia.
 
 #### Softgoal Interdependency Graph
@@ -197,7 +197,7 @@ Na tabela 2, temos o cartão de especificação do Softgoal "Confiabilidade (Rel
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-### Desempenho
+### NFR03 - Desempenho
 
 O desempenho em um aplicativo se refere à capacidade do aplicativo de executar suas funções de forma eficaz e eficiente. Ele envolve diversos aspectos, incluindo a velocidade de resposta, a eficiência do uso de recursos, a estabilidade e a capacidade de lidar com cargas de trabalho variáveis.
 
@@ -277,7 +277,7 @@ Na tabela 3, temos o cartão de especificação do softgoal "Desempenho".
 </div>
 
 
-### Suporte
+### NFR04 - Suporte
 
 O suporte de sistema é responsável por ajudar os usuários a resolver problemas, manter sistemas funcionando sem problemas, garantir a segurança e a eficiência dos sistemas de computador, além de treinar usuários e colaborar com equipes de desenvolvimento. É uma função essencial para o bom funcionamento de uma organização que depende de tecnologia da informação.
 
@@ -358,7 +358,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Suporte".
 
 
 
-### Restrições de Design
+### NFR05 - Restrições de Design
 
 As "Restrições de Design" em um aplicativo referem-se às limitações ou condições específicas que os designers e desenvolvedores precisam levar em consideração ao criar a interface do usuário e a experiência dos usuários, sendo fundamentais para garantir a usabilidade, acessibilidade e compatibilidade de um aplicativo.
 
@@ -437,7 +437,7 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
 </div>
 
 
-### Ajuda e documentação
+### NFR06 - Ajuda e documentação
 
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 
@@ -515,7 +515,7 @@ Na tabela 6, temos o cartão de especificação do softgoal "Ajuda e Documentaç
 <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023.</p>
 </div>
 
-### Interfaces
+### NFR07 - Interfaces
 
 O aplicativo deve possuir uma interface simples, de fácil navegação e padronizada para que os usuários possam atingir seus objetivos. Os requisitos não-funcionais para interfaces foram classificados em três frentes: interface de usuário, interface de hardware e interface de comunicação.
 
