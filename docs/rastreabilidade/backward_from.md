@@ -159,14 +159,11 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
   <thead>
     <tr>
       <th>ID</th>
-      <th>Descrição</th>
-      <th>Rastreabilidade</th>
-      <th>Implementado</th>
-    </tr>
+      <th>Requisito</th>
+      <th>Tipo de Elo</th>
   </thead>
   <tbody>
     <tr>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
