@@ -39,208 +39,362 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
   <thead>
     <tr>
       <th>Requisito</th>
+      <th>Tipo</th>
+      <th>Implementado</th>
       <th>Épico</th>
       <th>Tema</th>
       <th>História de usuário</th>
       <th>Léxico</th>
       <th>Casos de Uso</th>
       <th>Cenários</th>
+      <th>NFR Framework</th>
+      <th>Especificação Suplementar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>INT01</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs01---efetuar-login-com-email-e-senha">HS01</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT02</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT03</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs03-hs03---recuperar-senha">HS03</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT04</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs04---efetuar-logout">HS04</a></td>
+      <td><a href="">L0</a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT05</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs05---listar">HS05</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#notafiscal">L01</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfe">L07</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfce">L08</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#bpe">L09</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN05</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT06</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs06---pesquisar">HS06</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#notafiscal">L01</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfe">L07</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfce">L08</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#bpe">L09</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN05</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT07</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs07---visualizar-detalhes">HS07</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#notafiscal">L01</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfe">L07</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfce">L08</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#bpe">L09</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc06-visualizar-nfc-e-detalhada">UC06</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN05</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT08</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs08---imprimir-danfe">HS08</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#notafiscal">L01</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfe">L07</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#nfce">L08</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#bpe">L09</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#danfe">L11</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc05-imprimir-danfe">UC05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN05</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT09</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT10</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc11-consultar-ve%C3%ADculo">UC11</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT11</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs10---consultar-d%C3%A9bitos-de-ipva">HS10</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT12</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>,
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#dar">L10</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT13</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#imovel">L04</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel">UC10</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT14</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#imovel">L04</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc09-consultar-im%C3%B3vel">UC09</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT15</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs13---consultar-d%C3%A9bitos-de-iptutlp">HS13</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#imovel">L04</a>, 
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT16</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep07---parcelamentos-administrativos">EP07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen06---consultar-parcelamentos-administrativos">CEN06</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT17</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc07-consultar-divida-ativa">UC07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT18</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08,</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT19</td>
+      <td>RF</td>
+      <td>Sim</td>
        <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep07---parcelamentos-administrativos">EP07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen06---consultar-parcelamentos-administrativos">CEN06</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT20</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep08---fale-conosco">EP08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs15---enviar-email">HS15</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc14-entrar-em-contato">UC14</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc15-enviar-e-mail">UC15</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen07---fale-conosco">CEN07</a></td>
-    </tr>
+      <td></td>
+      <td></td>
+     </tr>
     <tr>
       <td>INT21</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep09---ajuda">EP09</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs16---visualizar-informa%C3%A7%C3%B5es-sobre-o-aplicativo">HS16</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc13-consultar-ajuda">UC13</a></td>
       <td></td>
+      <td></td>
+       <td></td>
     </tr>
     <tr>
       <td>INT22</td>
+      <td>RF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
+      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#saldo">L05</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#consultar">L12</a>
+      </td>
       <td></td>
       <td></td>
       <td></td>
@@ -248,35 +402,52 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT23</td>
+      <td>RF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
       <td></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#saldo">L05</a>
+      </td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT24</td>
+      <td>RNF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs04---efetuar-logout">HS04</a></td>
+      <td><a href="">L0</a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT25</td>
+      <td>RF</td>
+      <td>Sim</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
-      <td></td>
+      <td><a href="">L0</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>INT26</td>
+      <td>RF</td>
+      <td>Não</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td><a href="">L0</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -284,39 +455,64 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT27</td>
+      <td>RNF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>INT28</td>
+      <td>RNF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#veiculo">L02</a>, 
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>INT29</td>
+      <td>RNF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
-      <td></td>
+      <td>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a>
+          <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#imovel">L04</a>, 
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel">UC10</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>INT30</td>
+      <td>RF</td>
+      <td>Não</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
       <td></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
