@@ -367,7 +367,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT05</td>
       <td></td>
     </tr>
     <tr>
@@ -375,7 +375,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT05</td>
       <td></td>
     </tr>
     <tr>
@@ -383,7 +383,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT05</td>
       <td></td>
     </tr>
     <tr>
@@ -399,15 +399,15 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a><br><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#consultar-veiculo">Cenário - Consultar Veículos<br></a></td>
       <td></td>
-      <td></td>
       <td>INT09</td>
+      <td></td>
     </tr>
     <tr>
       <td>INT11</td>
       <td></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Veículo<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT09</td>
       <td></td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT13</td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT13</td>
       <td></td>
     </tr>
     <tr>
@@ -439,7 +439,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT13</td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Imóvel<br></a></td>
       <td></td>
-      <td></td>
+      <td>INT13</td>
       <td></td>
     </tr>
     <tr>
@@ -550,7 +550,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
      <td>INT13</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>INT13</td>
       <td></td>
     </tr>
     <tr>
