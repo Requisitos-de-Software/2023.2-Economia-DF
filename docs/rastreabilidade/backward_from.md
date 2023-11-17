@@ -40,6 +40,7 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 > - RNF: Requisito Não Funcional
 > - BS: Brainstorm
 > - O: Observação
+> - IS: Introspecção
 
 
 <div align="center">
