@@ -52,7 +52,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT03</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs03-hs03---recuperar-senha">HS03</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -115,7 +115,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT10</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -133,7 +133,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT12</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -142,7 +142,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT13</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -151,7 +151,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT14</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -160,7 +160,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT15</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs13---consultar-d%C3%A9bitos-de-iptutlp">HS13</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -169,7 +169,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT16</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep07---parcelamentos-administrativos">EP07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -178,7 +178,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT17</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -187,7 +187,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT18</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -196,7 +196,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT19</td>
        <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep07---parcelamentos-administrativos">EP07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs14---consultar-d%C3%A9bitos-inscritos">HS14</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -205,7 +205,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT20</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep08---fale-conosco">EP08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs15---enviar-email">HS15</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -214,7 +214,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT21</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep09---ajuda">EP09</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T04</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs16---visualizar-informa%C3%A7%C3%B5es-sobre-o-aplicativo">HS16</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -223,7 +223,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT22</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
-      <td><a href="">HS</a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -232,7 +232,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT23</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep02---nota-fiscal">EP02</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T02</td>
-      <td><a href="">HS</a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -240,7 +240,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT24</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs04---efetuar-logout">HS04</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -249,7 +249,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT25</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep01---login">EP01</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T01</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs02-hs02---efetuar-login-com-govbr">HS02</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -267,7 +267,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT27</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -276,7 +276,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT28</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep03---ve%C3%ADculos">EP03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#us09---cadastrar">HS09</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -285,7 +285,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT29</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep04---im%C3%B3veis">EP04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar">HS12</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -294,7 +294,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td>INT30</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#ep05---d%C3%ADvida-ativa">EP05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md#temas">T03</td>
-      <td><a href="">HS</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs11---emitir-dar">HS11</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -308,7 +308,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
 ## Elos
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de rastreabilidade Forward-from</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de rastreabilidade Forward-from</p></font>
 
 <table>
   <thead>
@@ -577,4 +577,6 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|15/11/2023|Criação do documento|[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|`1.1`|15/11/2023|Requisitos de 1 a 15|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.1`|15/11/2023| Matriz de rastreabilidade Forward-from|[Zenilda Vieira](https://github.com/zenildavieira)|[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|`1.2`|16/11/2023| Elos de rastreabilidade |[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+
