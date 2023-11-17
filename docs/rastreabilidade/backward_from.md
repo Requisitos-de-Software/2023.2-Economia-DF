@@ -55,32 +55,33 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 | ID    | Código | Descrição                                                                            | Implementado | Rastreabilidade |
 | ----- | ------ | ------------------------------------------------------------------------------------ | ------------ | --------------- |
-| INT01 | RF     | O aplicativo deve possuir login com email e senha                                    | Sim          |               |
-| INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          |            |
-| INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          |         |
-| INT04 | RF     | O usuário poderá se deslogar do aplicativo                                           | Sim          |              |
-| INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário    | Sim          |        |
-| INT06 | RF     | O usuário poderá pesquisar por uma nota fiscal                                       | Sim          |                |
-| INT07 | RF     | O usuário poderá visualizar as notas fiscais e suas informações                      | Sim          |                |
-| INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal                                 | Sim          |                |
-| INT09 | RF     | O usuário poderá cadastrar um veículo                                                | Sim          |               |
-| INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário                      | Sim          |                |
-| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim          |               |
-| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                                  | Sim          |               |
-| INT13 | RF     | O usuário poderá cadastrar um imóvel                                                 | Sim          |                |
-| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário                       | Sim          |               |
-| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário   | Sim          |               |
-| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário       | Sim          |               |
-| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário                              | Sim          |                |
-| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente                                | Sim          |               |
-| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário                               | Sim          |               |
-| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF       | Sim          |     |
-| INT21 | RF     | O aplicativo deverá ter um meio de fornecer ajuda ao usuário                         | Sim          |       |
-| INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal                | Não          |       |
-| INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal                         | Não          |       |
-| INT24 | RF     | O aplicativo deve possuir login com CPF e senha                                      | Sim          |       |
-| INT25 | RF     | Possibilitar que o usuário aumente a fonte                                           | Não          |               |
-| INT26 | RF     | O usuário deve conseguir emitir a segunda via da dívida ativa                                                    | Não | |
+| INT01 | RF     | O aplicativo deve possuir login com email e senha                                    | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br                             | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), BS           |
+| INT03 | RF     | O usuário poderá alterar a senha de login                                            | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), IS, BS       |
+| INT04 | RF     | O usuário poderá se deslogar do aplicativo                                           | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário    | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), IS, BS       |
+| INT06 | RF     | O usuário poderá pesquisar por uma nota fiscal                                       | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT07 | RF     | O usuário poderá visualizar as notas fiscais e suas informações                      | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT08 | RF     | O usuário poderá imprimir a DANFE de uma nota fiscal                                 | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT09 | RF     | O usuário poderá cadastrar um veículo                                                | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT10 | RF     | O aplicativo deverá listas os veículos cadastrados pelo usuário                      | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT11 | RF     | O aplicativo deverá mostrar os débitos pendentes do veículo cadastrados pelo usuário | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT12 | RF     | O usuário poderá emitir o DAR de um débito pendente                                  | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT13 | RF     | O usuário poderá cadastrar um imóvel                                                 | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT14 | RF     | O aplicativo deverá listar os imóveis cadastrados pelo usuário                       | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT15 | RF     | O aplicativo deverá mostrar os débitos pendentes do imóvel cadastrado pelo usuário   | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT16 | RF     | O aplicativo deverá mostrar os débitos pendentes de um parcelamento do usuário       | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT17 | RF     | O aplicativo deverá listar as dívidas ativas do usuário                              | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT18 | RF     | O usuário poderá imprimir o DAR de um débito pendente                                | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT19 | RF     | O aplicativo deverá listar os parcelamentos do usuário                               | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT20 | RF     | O aplicativo deverá ter um meio do usuário entrar em contato com o Economia DF       | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT21 | RF     | O aplicativo deverá ter um meio de fornecer ajuda ao usuário                         | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)               |
+| INT22 | RF     | O aplicativo deverá mostrar o saldo do usuário no programa Nota Legal                | Não          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), IS           |
+| INT23 | RF     | O usuário poderá realizar a indicação do saldo do Nota Legal                         | Não          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), IS, BS       |
+| INT24 | RF     | O aplicativo deve possuir login com CPF e senha                                      | Sim          | [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), IS, BS       |
+| INT25 | RF     | Possibilitar que o usuário aumente a fonte                                           | Não          | BS              |
+| INT26 | RF     | O usuário deve conseguir emitir a segunda via da dívida ativa                                                    | Não | BS, [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) |
+
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
 </div>
