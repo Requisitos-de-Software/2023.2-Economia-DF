@@ -326,7 +326,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <tr>
       <td>INT01</td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs01---efetuar-login-com-email-e-senha">HS01</a></td>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>INT02<br>INT03</td>
