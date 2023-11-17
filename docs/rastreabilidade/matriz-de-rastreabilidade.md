@@ -18,96 +18,19 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 - Artefatos: Quais artefatos fazem referência ao requisito em questão.
 - Elos: Ligação entre requisitos e artefatos mapeados nos documentos [Backward From]() e [Forward From]().
 
-## Legenda
-
-Na Tabela 1, é possível ver a legenda da tabela de Matriz de Rastreabilidade dos requisitos do Economia DF.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de Rastreabilidade. </p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Legenda</th>
-      <th align="center">Artefato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>E</td>
-      <td>Épico</td>
-    </tr>
-    <tr>
-      <td>P</td>
-      <td>Personas</td>
-    </tr>
-    <tr>
-      <td>US</td>
-      <td>Histórias de usuário</td>
-    </tr>
-    <tr>
-      <td>UC</td>
-      <td>Casos de Uso</td>
-    </tr>
-    <tr>
-      <td>C</td>
-      <td>Cenários</td>
-    </tr>
-    <tr>
-      <td>L</td>
-      <td>Léxico</td>
-    </tr>
-    <tr>
-      <td>ES</td>
-      <td>Especificação Suplementar</td>
-    </tr>
-    <tr>
-      <td>INT</td>
-      <td>Introspecção</td>
-    </tr>
-    <tr>
-      <td>Q</td>
-      <td>Questionário</td>
-    </tr>
-    <tr>
-      <td>BS</td>
-      <td>Brainstorming</td>
-    </tr>
-    <tr>
-      <td>ENT</td>
-      <td>Entrevista</td>
-    </tr>
-    <tr>
-      <td>RF</td>
-      <td>Requisitos Funcionais</td>
-    </tr>
-    <tr>
-      <td>RNF</td>
-      <td>Requisitos não Funcionais</td>
-    </tr>
-    <tr>
-      <td>OBS</td>
-      <td>Observação</td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023. </p></font>
-</div>
-
 ## Matriz de Rastreabilidade
 
-Na Tabela 2, é possível ver a Matriz de Rastreabilidade dos requisitos do Economia DF.
+Na Tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Economia DF.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de Rastreabilidade de requisitos do Economia - DF. </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de Rastreabilidade de requisitos do Economia - DF. </p></font>
 </div>
 
 | ID    | Código | Descrição                                                          | Implementado | Pré-rastreabilidade | Artefatos                 | Elos                |
 |-------|--------|--------------------------------------------------------------------|--------------|------------------|---------------------------|---------------------|
-| INT01 | RF     | O aplicativo deve possuir login com email e senha                  | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) e [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)               | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/), [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha), [Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/#metodologia).  | [Link para elo]     |
+| INT01 | RF     | O aplicativo deve possuir login com email e senha                  | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) e [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)               | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/), [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha), [Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/#metodologia).  | [ELO01](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md)     |
 | INT02 | RF     | O usuário poderá logar no aplicativo utilizando o gov.br          | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)            | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha).      | [Link para elo]     |
-| INT03 | RF     | O usuário poderá alterar a senha de login                           | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), [IS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)        | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha).       | [Link para elo]     |
+| INT03 | RF     | O usuário poderá alterar a senha de login                           | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), [IS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)        | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha).       | [ELO03](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md)    |
 | INT04 | RF     | O usuário poderá se deslogar do aplicativo                         | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)                |   [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha), [Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/#metodologia).   | [Link para elo]     |
 | INT05 | RF     | O aplicativo deve listar as notas fiscais de compras realizadas no CPF do usuário | Sim | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md), [IS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md), [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md) | [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha), [Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/#metodologia).     | [Link para elo]     |
 | INT06 | RF     | O usuário poderá pesquisar por uma nota fiscal                      | Sim          | [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)   e [IS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/instrospeccao.md)           | [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/#hs01-efetuar-login-com-email-e-senha), [Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/#metodologia), [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/)     | [Link para elo]     |
