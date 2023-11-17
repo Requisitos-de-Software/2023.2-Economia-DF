@@ -164,8 +164,8 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>ELO01</td>
+      <td>RF01</td>
       <td></td>
     </tr>
   </tbody>
