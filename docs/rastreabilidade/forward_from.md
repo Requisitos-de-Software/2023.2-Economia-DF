@@ -325,7 +325,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
   <tbody>
     <tr>
       <td>INT01</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/#objetoso">Léxico -  Notal Fiscal<br></td>
       <td></td>
       <td></td>
       <td></td>
@@ -477,7 +477,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT20</td>
-      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#ajuda-e-documentacao">AD03<br></a><BR><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao_3">NFR04<br></a></td>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/#fale-conosco">Cenário - Fale conosco<br></a></td>
       <td></td>
       <td></td>
@@ -485,7 +485,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT21</td>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#ajuda-e-documentacao">AD03<br></a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#ajuda-e-documentacao">AD03<br></a><BR><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao_3">NFR04<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -532,7 +532,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT27</td>
-     <td></td>
+     <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao_4">NFR05<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -540,7 +540,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT28</td>
-     <td></td>
+     <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao_4">NFR05<br></a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -548,7 +548,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     </tr>
     <tr>
       <td>INT29</td>
-     <td>INT13</td>
+     <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/#cartao-de-especificacao_4">NFR05<br></a></td>
       <td></td>
       <td></td>
       <td>INT13</td>
@@ -567,6 +567,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
+
 
 
 ## Referências Bibliográficas

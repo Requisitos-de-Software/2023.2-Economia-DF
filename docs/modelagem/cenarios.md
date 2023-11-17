@@ -66,7 +66,7 @@ A elaboração dos cenários foi realizada a partir da identificação das princ
 
 ## Cenários
 
-### Consultar dívida ativa
+### CEN01 - Consultar dívida ativa
 
 O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 1.
 
@@ -89,7 +89,7 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
-### Consultar veículos
+### CEN02 - Consultar veículos
 
 O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 2.
 
@@ -113,7 +113,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Consultar imóveis
+### CEN03 - Consultar imóveis
 
 O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 3.
 
@@ -137,7 +137,7 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 
 </div>
 
-### Consultar notas fiscais
+### CEN04 - Consultar notas fiscais
 
 Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 4.
 
@@ -160,7 +160,7 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-### Consultar outros Tributos
+### CEN05 - Consultar outros Tributos
 
 Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 5.
 
@@ -182,7 +182,7 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
-### Consultar Parcelamentos Administrativos
+### CEN06 - Consultar Parcelamentos Administrativos
 
 Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 6.
 
@@ -204,7 +204,7 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Fale conosco
+### CEN07 - Fale conosco
 
 Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 7.
 
