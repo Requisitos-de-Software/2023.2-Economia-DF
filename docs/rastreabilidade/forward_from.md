@@ -548,7 +548,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
 A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definidos nos forward-from.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Matriz de rastreabilidade Forward-from</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elos de rastreabilidade Forward-from</p></font>
 
 <table>
   <thead>
