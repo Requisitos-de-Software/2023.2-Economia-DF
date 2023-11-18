@@ -540,7 +540,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Elos
@@ -803,7 +803,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos definido
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 
