@@ -30,7 +30,7 @@ Nesta verificação, chegaremos até a etapa de Correção e Reinspeção, pois,
 
 ## Participantes
 
-As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 3 do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/). Além disso, o integrante [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), também do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), participará da verificação como observador, auxiliando na identificação de erros e na documentação dos resultados.
+As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/). Além disso, o integrante [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), também do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), participará da verificação como observador, auxiliando na identificação de erros e na documentação dos resultados.
 
 ## Objetos de verificação
 
@@ -417,7 +417,7 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
 Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Validação dos Casos de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Validação dos Casos de Uso</p></font>
 
 <table>
   <thead>
@@ -456,7 +456,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Especificação Suplementar
 
-Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Especificação Suplementar</p></font>
