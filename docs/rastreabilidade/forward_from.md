@@ -6,18 +6,18 @@ Esse documento aborda a aplicação do método de rastreabilidade forward-from. 
 
 ## Metodologia
 
-A metodologia a ser usada será a matriz de rastreabilidade com o uso de referências cruzadas [1], aplicada aos [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/) e os artefatos desenvolvidos após o processo de elicitação nas etapas [modelagem de requisitos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/) e [ágil](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/). A relação entre um requisito e um tipo de artefato não é da ordem de um para um, por exemplo, um requisito pode estar presente em mais de um caso de uso. A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representará o artefato criado a partir do requisito.
+A metodologia a ser usada será a matriz de rastreabilidade com o uso de referências cruzadas [1], aplicada aos [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/) e os artefatos desenvolvidos após o processo de elicitação nas etapas [modelagem de requisitos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/) e [ágil](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/). A relação entre um requisito e um tipo de artefato não é da ordem de um para um, por exemplo, um requisito pode estar presente em mais de um caso de uso. A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representa o artefato criado a partir do requisito.
 
-Os requisitos podem estar ligados a épicos, temas, histórias do usuário, léxicos, casos de usos e cenários. Esses artefatos serão representados nas colunas da matriz de rastreabilidade e são preenchidas com o id/nome do artefato.
+Os requisitos podem estar ligados a épicos, temas, histórias do usuário, léxicos, casos de usos, cenários, especificação suplementar e NFR Framework. Esses artefatos serão representados nas colunas da matriz de rastreabilidade e são preenchidas com o id/nome do artefato.
 
-Na execução da rastreabilidade dos elos, utilizamos o meta-modelo proposto por Toranzo. Esse meta-modelo classifica os requisitos elicitados pelo grupo em níveis e elos. Com base nos slides 19 da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da professora Milene Serrano[2], os níveis são: 
+Na execução da rastreabilidade dos elos, utilizamos o meta-modelo proposto por Toranzo. Esse meta-modelo classifica os requisitos elicitados pelo grupo em níveis e elos. Com base no slide 19 da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da professora Milene Serrano [2], os níveis são:
 
 - **_Ambiental_**: Essas informações provêm do ambiente e contexto nos quais a organização está inserida.
 - **_Organizacional_**: São dados relacionados à própria organização.
 - **_Gerencial_**: Engloba informações que auxiliam na gestão do projeto.
 - **_Desenvolvimento_**: Refere-se às informações associadas aos diversos artefatos gerados durante o processo de desenvolvimento.
 
-Com base nos slides 21 da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da professora Milene Serrano [2], os principais **elos de rastreabilidade** são os seguintes:
+Com base no slide 21 da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da professora Milene Serrano [2], os principais **elos de rastreabilidade** são os seguintes:
 
 1. **Satisfação**: Indica que a classe de origem depende da satisfação proporcionada pela classe de destino.
 2. **Recurso**: Reflete a dependência de recursos da classe de origem em relação à classe de destino.
@@ -26,11 +26,11 @@ Com base nos slides 21 da [aula 26](https://aprender3.unb.br/pluginfile.php/2692
 5. **Alocado**: Relaciona a classe de origem a uma classe de destino que representa um subsistema.
 6. **Agregação**: Indica a "composição" de elementos.
 
-Para auxiliar na criação do meta-modelo de Toranzo, foram elaboradas as **tabelas 1 e 2**, que dividem os requisitos a serem rastreados em funcionais (RF) e não-funcionais (RNF).
+Para auxiliar na criação do meta-modelo de Toranzo, foram elaboradas as tabelas 1 e 2 a seguir.
 
 ## Matriz de rastreabilidade Forward-From
 
-A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representará o artefato criado a partir do requisito. Os elos do tipo "representação serão colocados após a prototipação de alta fidelidade.
+A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representa o artefato criado a partir do requisito.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de rastreabilidade Forward-from</p></font>
@@ -43,12 +43,12 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <th>Implementado</th>
       <th>Épico</th>
       <th>Tema</th>
-      <th>História de usuário</th>
+      <th>História de<br>usuário</th>
       <th>Léxico</th>
-      <th>Casos de Uso</th>
-      <th>Cenários</th>
-      <th>NFR Framework</th>
-      <th>Especificação Suplementar</th>
+      <th>Caso de<br>Uso</th>
+      <th>Cenário</th>
+      <th>Especificação<br>Suplementar</th>
+      <th>NFR<br>Framework</th>
     </tr>
   </thead>
   <tbody>
@@ -64,8 +64,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#r-confiabilidade-reliability">R</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr02---confiabilidade-reliability">NFR02</a></td>
     </tr>
     <tr>
       <td>INT02</td>
@@ -77,8 +77,9 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, 
+      <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#r-confiabilidade-reliability">R</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr02---confiabilidade-reliability">NFR02</a></td>
     </tr>
     <tr>
       <td>INT03</td>
@@ -90,8 +91,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr04---suporte">NFR04</a></td>
     </tr>
     <tr>
       <td>INT04</td>
@@ -103,7 +104,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
     </tr>
     <tr>
@@ -122,7 +123,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN04</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -142,7 +143,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN04</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -162,7 +163,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc04-consultar-notas-fiscais">UC04</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc06-visualizar-nfc-e-detalhada">UC06</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN04</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -183,7 +184,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc05-imprimir-danfe">UC05</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen04---consultar-notas-fiscais">CEN04</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -200,7 +201,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -217,7 +218,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc11-consultar-ve%C3%ADculo">UC11</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -233,7 +234,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -251,7 +252,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -268,7 +269,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel">UC10</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -285,7 +286,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc09-consultar-im%C3%B3vel">UC09</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -301,7 +302,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -314,7 +315,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen06---consultar-parcelamentos-administrativos">CEN06</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -331,7 +332,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc07-consultar-divida-ativa">UC07</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -348,7 +349,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -364,7 +365,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen06---consultar-parcelamentos-administrativos">CEN06</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -377,7 +378,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc14-entrar-em-contato">UC14</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc15-enviar-e-mail">UC15</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen07---fale-conosco">CEN07</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
      </tr>
     <tr>
@@ -390,8 +391,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc13-consultar-ajuda">UC13</a></td>
       <td></td>
-      <td></td>
-       <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#-ajuda-e-documenta%C3%A7%C3%A3o">+AD</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr06---ajuda-e-documenta%C3%A7%C3%A3o">NFR06</a></td>
     </tr>
     <tr>
       <td>INT22</td>
@@ -407,7 +408,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
     </tr>
     <tr>
@@ -423,7 +424,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
     </tr>
     <tr>
@@ -436,8 +437,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#r-confiabilidade-reliability">R</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr02---confiabilidade-reliability">NFR02</a></td>
     </tr>
     <tr>
       <td>INT25</td>
@@ -449,8 +450,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc01-fazer-login">UC01, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc02-exibir-erro-de-login">UC02, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc03-verificar-dados-de-login">UC03</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#r-confiabilidade-reliability">R</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr02---confiabilidade-reliability">NFR02</a></td>
     </tr>
     <tr>
       <td>INT26</td>
@@ -462,8 +463,11 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td></td>
       <td></td>
+      <td>
+        <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, 
+        <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#u-usabilidade-usability">U</a>
+      </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr01---usabilidade">NFR01</a></td>
-      <td></td>
     </tr>
     <tr>
       <td>INT27</td>
@@ -479,8 +483,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#u-usabilidade-usability">U</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr01---usabilidade">NFR01</a></td>
     </tr>
     <tr>
       <td>INT28</td>
@@ -496,8 +500,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc12-cadastrar-ve%C3%ADculo">UC12</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen02---consultar-ve%C3%ADculos">CEN02</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#u-usabilidade-usability">U</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr01---usabilidade">NFR01</a></td>
     </tr>
     <tr>
       <td>INT29</td>
@@ -513,8 +517,8 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel">UC10</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen03---consultar-im%C3%B3veis">CEN03</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#u-usabilidade-usability">U</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr01---usabilidade">NFR01</a></td>
     </tr>
     <tr>
       <td>INT30</td>
@@ -530,7 +534,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       </td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc08-emitir-2%C2%AA-via">UC08</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#cen01---consultar-d%C3%ADvida-ativa">CEN01</a></td>
-      <td></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a></td>
       <td></td>
     </tr>
   </tbody>
