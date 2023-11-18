@@ -4,7 +4,7 @@
 
 A verificação e validação (V&V) são processos fundamentais no desenvolvimento de software, desempenhando papéis cruciais na garantia da qualidade e confiabilidade dos artefatos produzidos. A verificação refere-se à avaliação sistemática dos artefatos de software para garantir que eles atendam aos requisitos e padrões especificados. Este processo concentra-se na análise estática e dinâmica do código, na conformidade com as diretrizes de codificação, na identificação de erros e na garantia de que o software seja construído de acordo com as expectativas.
 
-Dito isso, este documento fará a verificação da entrega 3 realizada pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), que está trabalhando com o aplicativo Carteira Digital de Trânsito, na disciplina Requisitos de Software.
+Dito isso, este documento fará a verificação da entrega 3 realizada pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), que está trabalhando com o aplicativo Economia DF, na disciplina Requisitos de Software.
 
 ## Objetivos
 
