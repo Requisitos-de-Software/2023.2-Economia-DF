@@ -152,184 +152,184 @@ Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabela
     <th>Descrição do elo</th>
   </tr>
   <tr>
-    <td>ELO01</td>
+    <td>ELOB01</td>
     <th>RF01</th>
     <td>Representação</td>
     <td>O requisito RF01, que diz que o aplicativo deve possuir login com email e senha, tem como fonte a introspecção do grupo, que é um método de elicitação de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
   </tr>
   <tr>
-    <td>ELO02</td>
+    <td>ELOB02</td>
     <th>RF02</th>
     <td>Representação</td>
     <td>O requisito RF02, que diz que o aplicativo deve possuir cadastro com email, senha e CPF, tem como fonte a introspecção do grupo, que é um método de elicitação de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
   </tr>
   <tr>
-    <td>ELO03</td>
+    <td>ELOB03</td>
     <th>RF03</th>
     <td>Representação</td>
     <td>O requisito RF03, que diz que o aplicativo deve permitir que o usuário recupere sua senha por meio do email cadastrado, tem como fonte a observação do aplicativo, que é um método de análise de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
   </tr>
   <tr>
-    <td>ELO04</td>
-    <th>RF4</th>
+    <td>ELOB04</td>
+    <th>RF04</th>
     <td>Representação</td>
     <td>O requisito RF04, que diz que o aplicativo deve permitir que o usuário altere sua senha por meio do email cadastrado, tem como fonte a observação do aplicativo, que é um método de análise de requisitos. O tipo de elo que liga o requisito à sua fonte é o de representação, pois ele captura a forma como os requisitos são representados ou modelados em outras linguagens.</td>
   </tr>
   <tr>
-    <td>ELO05</td>
+    <td>ELOB05</td>
     <th>RF05</th>
     <td>Satisfação</td>
     <td>O requisito RF05, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPVA de um veículo, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a propriedade de veículos automotores. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO06</td>
+    <td>ELOB06</td>
     <th>RF06</th>
     <td>Satisfação</td>
     <td>O requisito RF06, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPTU de um imóvel, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a propriedade predial e territorial urbana. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO07</td>
+    <td>ELOB07</td>
     <th>RF07</th>
     <td>Satisfação</td>
     <td>O requisito RF07, que diz que o aplicativo deve permitir que o usuário consulte os débitos de ICMS de uma empresa, tem como fonte a necessidade do usuário de verificar se há pendências em relação ao imposto sobre a circulação de mercadorias e serviços. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO08</td>
+    <td>ELOB08</td>
     <th>RF08</th>
     <td>Satisfação</td>
     <td>O requisito RF08, que diz que o aplicativo deve permitir que o usuário consulte os débitos de IPVA, IPTU e ICMS de forma integrada, tem como fonte a necessidade do usuário de ter uma visão geral dos seus tributos estaduais e municipais. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO09</td>
+    <td>ELOB09</td>
     <th>RF09</th>
     <td>Satisfação</td>
     <td>O requisito RF09, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de boleto bancário, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário</td>
   </tr>
   <tr>
-    <td>ELO10</td>
+    <td>ELOB10</td>
     <th>RF10</th>
     <td>Satisfação</td>
     <td>O requisito RF10, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de cartão de crédito, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO11</td>
+    <td>ELOB11</td>
     <th>RF11</th>
     <td>Satisfação</td>
     <td>O requisito RF11, que diz que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de PIX, tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO12</td>
+    <td>ELOB12</td>
     <th>RF12</th>
     <td>Satisfação</td>
     <td>O requisito RF12, que diz que o aplicativo deve permitir que o usuário realize o parcelamento dos débitos de IPVA, IPTU e ICMS, tem como fonte a necessidade do usuário de ter mais flexibilidade e facilidade para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO13</td>
+    <td>ELOB13</td>
     <th>RF13</th>
     <td>Satisfação</td>
     <td>O requisito RF13, que diz que o aplicativo deve permitir que o usuário consulte o histórico de pagamentos realizados, tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO14</td>
+    <td>ELOB14</td>
     <th>RF14</th>
     <td>Satisfação</td>
     <td>O requisito RF14, que diz que o aplicativo deve permitir que o usuário consulte o extrato de pagamentos realizados, tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos.
 </td>
   </tr>
   <tr>
-    <td>ELO15</td>
+    <td>ELOB15</td>
     <th>RF15</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte os débitos de IPVA, IPTU e ICMS de forma integrada. Ele tem como fonte a necessidade do usuário de ter uma visão geral dos seus tributos estaduais e municipais. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO16</td>
+    <td>ELOB16</td>
     <th>RF16</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de boleto bancário. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO17</td>
+    <td>ELOB17</td>
     <th>RF17</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de cartão de crédito. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO18</td>
+    <td>ELOB18</td>
     <th>RF18</th>
     <td>Satisfação</td>
     <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio de PIX. Ele tem como fonte a necessidade do usuário de quitar suas dívidas tributárias de forma prática e segura. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO19</td>
+    <td>ELOB19</td>
     <th>RF19</th>
     <td>Satisfação</td>
     <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o parcelamento dos débitos de IPVA, IPTU e ICMS. Ele tem como fonte a necessidade do usuário de ter mais flexibilidade e facilidade para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO20</td>
+    <td>ELOB20</td>
     <th>RF20</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o histórico de pagamentos realizados. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO21</td>
+    <td>ELOB21</td>
     <th>RF21</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o extrato de pagamentos realizados. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus tributos pagos. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO22</td>
+    <td>ELOB22</td>
     <th>RF22</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de ter um controle e um registro dos seus créditos acumulados no programa. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO23</td>
+    <td>ELOB23</td>
     <th>RF23</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário consulte o extrato do programa Nota Legal. Ele tem como fonte a necessidade do usuário de ter um controle e um registro das suas transações no programa. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO24</td>
-    <th>RF24</th>
+    <td>ELOB24</td>
+    <th>RF25</th>
     <td>Representação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO25</td>
-    <th>RF25</th>
+    <td>ELOB25</td>
+    <th>RF26</th>
     <td>Satisfação</td>
     <td> Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.
 </td>
   </tr>
   <tr>
-    <td>ELO26</td>
-    <th>RF26</th>
+    <td>ELOB26</td>
+    <th>RF30</th>
     <td>Satisfação</td>
     <td>Este requisito especifica que o aplicativo deve permitir que o usuário realize o pagamento dos débitos de IPVA, IPTU e ICMS por meio do saldo do programa Nota Legal. Ele tem como fonte a necessidade do usuário de utilizar seus créditos acumulados no programa para quitar suas dívidas tributárias. O tipo de elo que liga o requisito à sua fonte é o de satisfação, pois ele expressa como o requisito contribui para a satisfação de uma necessidade do usuário.</td>
   </tr>
   <tr>
-    <td>ELO27</td>
-    <th>RNF01</th>
+    <td>ELOB27</td>
+    <th>RNF24</th>
     <td>Recurso</td>
     <td>Este requisito não-funcional especifica que o aplicativo deve ter uma interface amigável. Ele tem como fonte a necessidade do usuário de ter uma experiência agradável e intuitiva ao usar o aplicativo. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
   <tr>
-    <td>ELO28</td>
-    <th>RNF02</th>
+    <td>ELOB28</td>
+    <th>RNF25</th>
     <td>Recurso</td>
     <td>Este requisito não-funcional especifica que o aplicativo deve ser seguro. Ele tem como fonte a necessidade do usuário de ter suas informações pessoais e financeiras protegidas. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
   <tr>
-    <td>ELO29</td>
-    <th>RNF03</th>
+    <td>ELOB29</td>
+    <th>RNF26</th>
     <td>Recurso</td>
     <td> Este requisito não-funcional especifica que o aplicativo deve ser rápido. Ele tem como fonte a necessidade do usuário de ter suas solicitações atendidas em um tempo razoável. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
   <tr>
-    <td>ELO30</td>
-    <th>RNF04</th>
+    <td>ELOB30</td>
+    <th>RNF27</th>
     <td>Recurso</td>
     <td>Este requisito não-funcional especifica que o aplicativo deve ser confiável. Ele tem como fonte a necessidade do usuário de ter suas informações pessoais e financeiras protegidas. O tipo de elo que liga o requisito à sua fonte é o de recurso, pois ele expressa como o requisito contribui para a disponibilidade de um recurso no sistema.</td>
   </tr>
@@ -359,3 +359,4 @@ Considerando o Meta-modelo de Toranzo como referência, este documento apresenta
 |`1.2`|15/11/2023|Adição das outras secções|[Gabriel Rosa](https://github.com/gabrielrosa09) e [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.3`|15/11/2023|Adição dos Requisitos Funcionais|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |`1.4`|17/11/2023|Adição da Rastreabilidade|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|`1.5`|17/11/2023|Adição dos Elos|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09)|[Lucas Ribeiro](https://github.com/lucassouzs)|
