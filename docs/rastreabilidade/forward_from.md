@@ -32,6 +32,19 @@ Para auxiliar na criação do meta-modelo de Toranzo, foram elaboradas as tabela
 
 A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representa o artefato criado a partir do requisito.
 
+**Legenda:**
+
+> - RF: Requisito Funcional
+> - RNF: Requisito Não Funcional
+> - EP: Épico
+> - T: Tema
+> - HS: História de usuário
+> - L - Léxico
+> - UC - Caso de Uso
+> - CEN - Cenário
+> - F, U, R, AD - Especificação de Uso
+> - NFR - NFR Framework
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de rastreabilidade Forward-from</p></font>
 
@@ -391,7 +404,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#usuario">L03</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc13-consultar-ajuda">UC13</a></td>
       <td></td>
-      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#-ajuda-e-documenta%C3%A7%C3%A3o">+AD</a></td>
+      <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#f-funcionalidade-functionality">F</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#-ajuda-e-documenta%C3%A7%C3%A3o">AD</a></td>
       <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/nfr-framework.md#nfr06---ajuda-e-documenta%C3%A7%C3%A3o">NFR06</a></td>
     </tr>
     <tr>
