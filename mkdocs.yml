@@ -97,6 +97,10 @@ nav:
         - NFR Framework: verificacao/Grupo-02/Entrega-04/nfr_framework.md
         - Product backlog: verificacao/Grupo-02/Entrega-04/product-backlog.md
         - Histórias de usuário: verificacao/Grupo-02/Entrega-04/historias-do-usuario.md
+  - Rastreabilidade:
+    - Backward From: rastreabilidade/backward_from.md
+    - Foward From: rastreabilidade/forward_from.md
+    - Matriz de Rastreabilidade: rastreabilidade/matriz-de-rastreabilidade.md
 
 theme:
   name: material

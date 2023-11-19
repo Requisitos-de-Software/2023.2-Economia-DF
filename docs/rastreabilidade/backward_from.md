@@ -45,7 +45,7 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos funcionais elicitados</p></font>
-
+</div>
 
 | ID    | Código | Descrição                                                                            | Implementado | Rastreabilidade |
 | ----- | ------ | ------------------------------------------------------------------------------------ | ------------ | --------------- |
@@ -76,7 +76,7 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 | INT26 | RF     | Possibilitar que o usuário aumente a fonte                                           | Não          | [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md)              |
 | INT30 | RF     | O usuário deve conseguir emitir a segunda via da dívida ativa                                                    | Não | [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [O](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) |
 
-
+<div align="center">
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
 </div>
 
