@@ -863,6 +863,93 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Análi
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 20/nov/2023
+
+Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Pós-Rastreabilidade.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma executado para a etapa de Pós-Rastreabilidade</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pós-Rastreabilidade - Bacward-from</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 15/nov <br> Fim: 17/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 18/nov <br> Fim: 19/nov</td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></td>
+    </tr>
+      <td>Pós-Rastreabilidade - Forward-from</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 17/nov <br> Fim: 18/nov</td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+    </tr>
+      <td>Pós-Rastreabilidade - Matriz de rastreabilidade</td>
+      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 15/nov <br> Fim: 18/nov</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
+      </td>
+      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 18/nov <br> Fim: 19/nov</td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 6</td>
+      <td>15/nov</td>
+      <td>19/nov</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+      </td>
+      <td>16/nov</td>
+      <td>20/nov</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 6</td>
+      <td>15/nov</td>
+      <td>20/nov</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></a></td>
+      <td>15/nov</td>
+      <td>21/nov</td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a</td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 
 ## Bibliografia
 
@@ -880,3 +967,4 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Análi
 | `1.3`  | 25/10/2023 | Inclusão das datas da entrega 3                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.4`  | 06/11/2023 | Inclusão das datas da entrega 4                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |
 | `1.5`  | 13/11/2023 | Inclusão das datas da entrega 5.1                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.6`  | 20/11/2023 | Inclusão das datas da entrega 6                   | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
