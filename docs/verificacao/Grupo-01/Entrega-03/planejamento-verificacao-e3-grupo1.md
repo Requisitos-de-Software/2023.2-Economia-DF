@@ -30,28 +30,68 @@ Nesta verificação, chegaremos até a etapa de Correção e Reinspeção, pois,
 
 ## Participantes
 
-As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/). Além disso, o integrante [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), também do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), participará da verificação como observador, auxiliando na identificação de erros e na documentação dos resultados.
+As integrantes do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) responsáveis por fazer a verificação da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) são [Izabella Alves](https://github.com/izabellaalves) e [Zenilda Vieira](https://github.com/zenildavieira). Estas participantes farão a verificação de todos os documentos produzidos na Entrega 3 e documentarão os resultados encontrados, que serão revisados por [Gabriel Zaranza](https://github.com/GZaranza), também integrante do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/). Além disso, os integrantes [Lucas Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) e [Gabriel Rosa](https://github.com/gabrielrosa09), também do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/), participarão da verificação como observadores, auxiliando na identificação de erros e na documentação dos resultados.
 
 ## Objetos de verificação
 
-Nesta etapa, serão verificados os seguintes artefatos:
+Nesta etapa, serão verificados os seguintes artefatos da tabela 1:
 
-- [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/), na versão 1.8, de 22/10/2023.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos </p></font>
 
-- [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/), na versão 1.9, de 22/10/2023.
+<table>
 
-- [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), na versão 1.14, de 22/10/2023.
+<thead>
+    <tr>
+        <th>Artefato</th>
+        <th>Versão</th>
+        <th>Data</th>
+        <th>Autor</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/">Cenários</a> </td>
+        <td> 1.8</td>
+        <td> 22/10/2023 </td>
+        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+    <tr>
+        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/)">Léxicos</a> </td>
+        <td> 1.9  </td>
+        <td> 22/10/2023 </td>
+        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/">Casos de Uso</a> </td>
+        <td> 1.14 </td>
+        <td> 22/10/2023 </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/">Validação dos Casos de Uso</a> </td>
+        <td> 1.2 </td>
+        <td> 22/10/2023 </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação Suplementar</a> </td>
+        <td> 1.9 </td>
+        <td> 05/11/2023 </td>
+        <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> 
+ </td>
+    </tr>
+</tbody>
+</table>
 
-- [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/), na versão 1.2, de 22/10/2023.
-
-- [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/), na versão 1.9, de 05/11/2023.
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/isabellaalves">Izabella Alves</a>, 2023</p></font>
+</div>
 
 ## Cronograma
 
-A verificação será executada nos dias XX/11/2023 e XX/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 1.
+A verificação será executada nos dias XX/11/2023 e XX/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
 
 <table>
 <thead>
@@ -71,12 +111,12 @@ A verificação será executada nos dias XX/11/2023 e XX/11/2023, as atividades 
     <tr>
         <td>  XX/10/2023 </td>
         <td>  Verificação do artefato "Cenários" </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td>  XX/10/2023 </td>
         <td>  Verificação do artefato "Léxicos" </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
         <td>  XX/10/2023 </td>
@@ -109,10 +149,10 @@ Os checklists criados se baseiam nos critérios estabelecidos na bibliografia re
 
 ### Checklist Geral
 
-Na tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para todos os artefatos da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 3</p></font>
 
 <table>
   <thead>
@@ -176,10 +216,10 @@ Na tabela 2, estão listados os critérios que devem ser verificados em todos os
 
 ### Checklist de Cenários
 
-Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Cenários</p></font>
 
 <table>
   <thead>
@@ -233,11 +273,11 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Léxicos
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Léxicos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Léxicos</p></font>
 
 <table>
   <thead>
@@ -296,10 +336,10 @@ Na tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Casos de Uso
 
-Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Casos de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Casos de Uso</p></font>
 
 
 <table>
@@ -414,10 +454,10 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Validação dos Casos de Uso
 
-Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Validação dos Casos de Uso</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Validação dos Casos de Uso</p></font>
 
 <table>
   <thead>
@@ -456,10 +496,10 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Especificação Suplementar
 
-Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 8, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Especificação Suplementar</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato de Especificação Suplementar</p></font>
 
 <table>
   <thead>
