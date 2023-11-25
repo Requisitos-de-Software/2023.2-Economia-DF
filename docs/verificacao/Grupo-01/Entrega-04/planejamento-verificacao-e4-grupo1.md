@@ -191,12 +191,12 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-### Checklist de Cenários
+### Checklist do Backlog
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Backlog</p></font>
 
 <table>
   <thead>
@@ -209,52 +209,52 @@ Na tabela 4, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
-      <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3] </td>
+      <td>O backlog possui épicos e temas bem definidos e descritos?</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>O contexto é descrito em função de local, tempo e pré-condições? [3]</td>
+      <td>As histórias possuem rastreabilidade?</td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>O cenário descreve situações realistas e relevantes de interação do sistema? [3]</td>
+      <td>Existe uma relação entre temas, épicos e histórias?	</td>
       <td></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Os atores são condizentes com o contexto do cenário? [3]</td>
+      <td>Os épicos estão priorizados e ordenados?	</td>
       <td></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Os episódios do cenário estão coerentes e seguem uma ordem cronológica e fluída para atingir o objetivo? [3]</td>
+      <td>O backlog atende a necessidade do usuário?	</td>
       <td></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>O artefato cita as técnicas utilizadas para especificação dos cenários do projeto?</td>
+      <td>O backlog foi validado com o usuário ou PO?	</td>
       <td></td>
     </tr>
     <tr>
       <td>7</td>
-      <td>O cenário possui um ator principal e um objetivo em definido? [3]</td>
+      <td>Os eṕicos estão granularizados o suficiente para gerar historias de usuários?</td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
-### Checklist de Léxicos
+### Checklist de História de Usuário
 
-Na tabela 5, estão listados os critérios que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 5, estão listados os critérios que devem ser verificados no artefato [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de Léxicos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato de História de Usuário</p></font>
 
 <table>
   <thead>
@@ -267,166 +267,141 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td>1</td>
-      <td>O artefato possui a especificação dos léxicos?</td>
+      <td>Os títulos das histórias de usuário são auto-explicativos?</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Os Léxicos possuem a especificação (definição) dos usuários da aplicação?</td>
+      <td>O "quem", "o que" e o "por que" estão definidos na história de usuário?</td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)? [4]</td>
+      <td>A história possui critérios de aceitação? [4]</td>
       <td></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?</td>
+      <td>Os critérios de aceitação das histórias foram definidos?</td>
       <td></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Cada léxico possui classificação, noção, impacto e sinônimo? [4]</td>
+      <td>A participação do cliente e/ou persona na elicitação de requisitos? [4]</td>
       <td></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Cada léxico apresenta sua classificação correta? [4]</td>
+      <td>Todas as histórias de usuário podem ser testadas? [4]</td>
       <td></td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Cada léxico apresenta seu sinônimo correto? [4]</td>
+      <td>Uma fonte de onde foram retiradas as histórias? [4]</td>
       <td></td>
     </tr>
     <tr>
       <td>8</td>
-      <td>As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação? [4] </td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-</div>
-
-### Checklist de Casos de Uso
-
-Na tabela 6, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Casos de Uso</p></font>
-
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>O artefato possui um diagrama de casos de uso?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O artefato cita a técnica utilizada para elaboração do diagrama de caso de uso do projeto?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O diagrama de caso de uso possui os atores principais e atores secundários? [5]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? [6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? [5]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>No diagrama de Caso de Uso há pontos de extensão corretamente representados? [6]</td>
+      <td>As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades? [4] </td>
       <td></td>
     </tr>
     <tr>
       <td>9</td>
-      <td>As elipses do diagrama representam ações com o uso de verbos no infinitivo e não substantivos? [5] </td>
+      <td>As histórias de usuário estão divididas em tarefas menores ou subtarefas? [4] </td>
       <td></td>
     </tr>
     <tr>
       <td>10</td>
-      <td>No diagrama há relacionamentos de extend, include e generalization? [5] </td>
+      <td> As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema? [4] </td>
       <td></td>
     </tr>
     <tr>
       <td>11</td>
-      <td>O nome do ator principal condiz com o usuário associado a ele?</td>
+      <td>As histórias de usuário possuem estimativas de esforço ou pontos de história? [4] </td>
       <td></td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Quando o ator é um software ou um hardware, há a tag << system >>? [6]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>O artefato possui a especificação de cada caso de uso?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>Cada caso de uso é uma funcionalidade completa (requisito funcional) que fornece um resultado observável e de valor para os atores ou stakeholders? [5]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>A especificação dos casos de uso consistem no detalhamento de execução dos casos de uso?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Os elementos de atores, sistema e metas estão presentes nos casos de uso? [5] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>A especificação de cada caso de uso possui: nome, descrição, atores, pré-condição, pós-condição? [7] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>Existem fluxos como: principal, alternativo e de exceção? [5] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Cada especificação de caso uso tem somente um fluxo principal que representa como o usuário usaria a funcionalidade de forma primária? [5]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>Os fluxos alternativos são possibilidades de caminhos alternativos ao fluxo principal? [5] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>Os fluxos de exceção demonstram como o sistema reagirá na presença de situações incomuns ou anormais? [5] </td>
+      <td>As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? [4] </td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
+### Checklist de NFR Framework
+
+Na tabela 6, estão listados os critérios que devem ser verificados no artefato [NFR Framework](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-04/nfr_framework.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de NFR Framework</p></font>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Os softgoals condizem com o contexto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Softgoals representam metas bem definidas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Os impactos foram corretamente propagados? [5]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe rastreabilidade em relação aos requisitos nele apresentados? [6]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Faz conexão com o artefato Especificação Suplementar?  [5]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O objetivo do artefato é bem definido? [6]</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os graus de satisfação foram indicados? [5] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals? [5] </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O sentido das setas e sinalizações do softgoal é coerente?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Existe uma conclusão? [6]</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Checklist de Validação dos Casos de Uso
