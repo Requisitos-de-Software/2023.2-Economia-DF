@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,37 +100,37 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>1</td>
       <td>O backlog possui épicos e temas bem definidos e descritos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>As histórias possuem rastreabilidade?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Existe uma relação entre temas, épicos e histórias?	</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os épicos estão priorizados e ordenados?	</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O backlog atende a necessidade do usuário?	</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O backlog foi validado com o usuário ou PO?	</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Os eṕicos estão granularizados o suficiente para gerar historias de usuários?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -143,7 +143,13 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist geral
 
+- Não foi encontrado nenhum erro durante a inspeção.
+
 ### Checklist Específico
+
+- **ID-02**: Não foi possível identificar a rastreabilidade das histórias, não aparece na tabela.
+
+- **ID-06**: Não foi escrito em nenhum lugar do documento se foi validado com o usuário.
 
 ## Referências Bibliográficas
 
