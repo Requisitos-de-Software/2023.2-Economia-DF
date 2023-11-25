@@ -158,6 +158,20 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
 
+## Gravação do Documento de Verificação "Backlog"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Backlog" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=DMT16o0xyN4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Backlog".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMT16o0xyN4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+
+</div>
+
 ## Bibliografia
 
 > Economia-DF. [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
