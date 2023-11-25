@@ -62,7 +62,7 @@ Nesta etapa, serão verificados os seguintes artefatos da tabela 1:
         <td> <a href="https://github.com/Lucas13032003">Lucas Víctor</a> </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/">NFR Framework</a> </td>
+        <td> <a href="https://requisitos-de-software.github.io/2023.github.com/Requisitos-de-Software/2023.2-Economia-DF/tree/main/docs/verificacao/Grupo-01">NFR Framework</a> </td>
         <td> 1.6 </td>
         <td> 22/10/2023 </td>
         <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
