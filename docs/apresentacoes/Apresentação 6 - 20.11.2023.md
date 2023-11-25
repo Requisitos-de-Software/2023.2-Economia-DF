@@ -10,7 +10,7 @@ O propósito desta página é hospedar a apresentação da Sexta Entrega em form
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=TriP4aKu2ZY" target="blanket"><b>Vídeo 1:</b> Requisitos - Apresentação 6</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TriP4aKu2ZY" title="Apresentação 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TriP4aKu2ZY" title="Apresentação 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div >
