@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -100,52 +100,47 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>1</td>
       <td>Os softgoals condizem com o contexto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Softgoals representam metas bem definidas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Os impactos foram corretamente propagados?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Existe rastreabilidade em relação aos requisitos nele apresentados?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Faz conexão com o artefato Especificação Suplementar?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O objetivo do artefato é bem definido?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Os graus de satisfação foram indicados?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>O sentido das setas e sinalizações do softgoal é coerente?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Existe uma conclusão?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -158,7 +153,11 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist geral
 
+- Não foi encontrado nenhum erro durante a inspeção.
+
 ### Checklist Específico
+
+- Não foi encontrado nenhum erro durante a inspeção.
 
 ## Referências Bibliográficas
 

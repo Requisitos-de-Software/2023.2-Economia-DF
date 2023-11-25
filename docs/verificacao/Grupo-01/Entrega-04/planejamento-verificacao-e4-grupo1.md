@@ -393,11 +393,6 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
       <td>O sentido das setas e sinalizações do softgoal é coerente?</td>
       <td></td>
     </tr>
-    <tr>
-      <td>10</td>
-      <td>Existe uma conclusão? [5]</td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
