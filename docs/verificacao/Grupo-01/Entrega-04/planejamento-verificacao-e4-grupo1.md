@@ -420,7 +420,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 ## Bibliografia
 
 >
-> VLC. Planejamento da Verificação da Entrega 4 do Grupo 2. Grupo Bilheteria Digital da disciplina Requisitos de Software, disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/verificacao/entrega_4>. Acesso em: 09 de novembro de 2023.
+> VLC. Planejamento da Verificação da Entrega 4 do Grupo da Caesb. Grupo Bilheteria Digital da disciplina Requisitos de Software, disponível em: <https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/verificacao/entrega_4>. Acesso em: 09 de novembro de 2023.
 >
 > Artefato: Especificações Suplementares. Centro de Informática - UFPE. Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html>. Acesso em: 09 de novembro de 2023.
 
