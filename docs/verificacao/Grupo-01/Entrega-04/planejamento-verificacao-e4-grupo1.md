@@ -75,7 +75,7 @@ Nesta etapa, serão verificados os seguintes artefatos da tabela 1:
 
 ## Cronograma
 
-A verificação será executada no período de 18/11/2023 a 27/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+A verificação será executada no período de 25/11/2023 a 27/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
@@ -90,40 +90,30 @@ A verificação será executada no período de 18/11/2023 a 27/11/2023, as ativi
 </thead>
 <tbody>
     <tr>
-        <td>  18/11/2023 </td>
+        <td>  25/11/2023 </td>
         <td>  Planejamento da verificação </td>
-        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
-    </tr>
-    <tr>
-        <td>  24/11/2023 </td>
-        <td>  Verificação do artefato "Cenários" </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>
+         </td>
     </tr>
     <tr>
         <td>  25/11/2023 </td>
-        <td>  Verificação do artefato "Léxicos" </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+        <td>  Verificação do artefato "Backlog" </td>
+        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
-        <td>  XX/11/2023 </td>
-        <td>  Verificação do artefato "Casos de Uso" </td>
-        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> </td>
+        <td>  25/11/2023 </td>
+        <td>  Verificação do artefato "História de Usuário" </td>
+        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
     </tr>
     <tr>
-        <td>  XX/11/2023 </td>
-        <td>  Verificação do artefato "Validação do Diagrama de Casos de Uso" </td>
-        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-        <td>  XX/11/2023 </td>
-        <td>  Verificação do artefato "Especificação Suplementar" </td>
-        <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+        <td>  25/11/2023 </td>
+        <td>  Verificação do artefato "NFR Framework" </td>
+        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
 </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Checklists
@@ -136,10 +126,10 @@ Os checklists criados se baseiam nos critérios estabelecidos na bibliografia re
 
 ### Checklist Geral
 
-Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 3 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 4</p></font>
 
 <table>
   <thead>
@@ -198,12 +188,12 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Checklist de Cenários
 
-Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 4, estão listados os critérios que devem ser verificados no artefato [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Cenários</p></font>
