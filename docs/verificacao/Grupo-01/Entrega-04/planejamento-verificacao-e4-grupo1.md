@@ -395,7 +395,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
     </tr>
     <tr>
       <td>10</td>
-      <td>Existe uma conclusão? [6]</td>
+      <td>Existe uma conclusão? [5]</td>
       <td></td>
     </tr>
   </tbody>
@@ -403,167 +403,6 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
-
-### Checklist de Validação dos Casos de Uso
-
-Na tabela 7, estão listados os critérios que devem ser verificados no artefato [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato de Validação dos Casos de Uso</p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>O artefato cita a participação do cliente e/ou persona na validação do Diagrama de Caso de Uso? [7]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O artefato cita a técnica utilizada na validação do Diagrama de Casa de Uso?</td>
-      <td></td>
-    </tr>
-     <tr>
-      <td>3</td>
-      <td>O artefato possui um cronograma detalhado de gravação da validação dos casos de uso?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>O artefato possui a gravação da validação dos casos de uso?</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-</div>
-
-### Checklist de Especificação Suplementar
-
-Na tabela 8, estão listados os critérios que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato de Especificação Suplementar</p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>O artefato contém a especificação suplementar?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>A especificação suplementar segue o modelo FURPS+? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O artefato possui um tópico de Funcionalidade? Ele contém requisitos testáveis? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>O artefato possui um tópico de Usabilidade? Ele contém requisitos testáveis? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Os requisitos apresentados facilitam as tarefas realizadas pelos usuários? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>O artefato possui um tópico de Confiabilidade? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Os requisitos apresentados aumentam a confiabilidade do sistema? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>O artefato especifica o Tempo Médio entre Falhas (MTBF)? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>O artefato especifica o Tempo Médio para Reparo (MTTR)? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Os requisitos relacionados à segurança são apresentados? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>O artefato possui um tópico de Desempenho? Ele contém requisitos testáveis? [8] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Os requisitos sobre os tempos de respostas são apresentados com esses respectivos tempos especificados? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-    <tr>
-      <td>13</td>
-      <td>Os requisitos sobre a disponibilidade são apresentados? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>O artefato possui um tópico de Suportabilidade? Ele contém requisitos testáveis? [8]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>É apresentado os sistemas operacionais que o sistema funcionará? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>O artefato possui um tópico de Restrições de Design? Ele contém requisitos testáveis? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>O artefato possui um tópico de Requisitos de Interface? Ele contém requisitos testáveis? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>As características físicas de onde o sistema funcionará são apresentadas? [9]</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>O artefato especifica qual plataforma o aplicativo pode ser executado? [9]</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
-</div>
-
 
 ## Referências Bibliográficas
 
@@ -577,13 +416,6 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
 >
 > [5] SERRANO, Maurício. SERRANO, Milene. Slide “Requisitos - Aula 13”. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Acesso em: 18 de novembro de 2023.
 >
-> [6] Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 18 de novembro 2023.
->
-> [7] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 18 novembro 2023.
->
-> [8] SERRANO, et al. Requisitos - Aula 13. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Acesso em 18 de novembro 2023.
->
-> [9] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 18 de novembro de 2023.
 
 ## Bibliografia
 
