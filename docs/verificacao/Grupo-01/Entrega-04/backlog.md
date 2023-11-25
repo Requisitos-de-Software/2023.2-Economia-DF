@@ -19,7 +19,7 @@ Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item ve
 Na tabela 1, encontram-se os resultados obtidos na verificação do checklist geral do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Checklist para todos os artefatos da Entrega 4</p></font>
 
 <table>
   <thead>
@@ -33,52 +33,52 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Checklist Específico
@@ -86,7 +86,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Backlog</p></font>
 
 <table>
   <thead>
@@ -99,43 +99,43 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   <tbody>
     <tr>
       <td>1</td>
-      <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3] </td>
-      <td>Sim</td>
+      <td>O backlog possui épicos e temas bem definidos e descritos?</td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>O contexto é descrito em função de local, tempo e pré-condições? [3]</td>
-      <td>Sim</td>
+      <td>As histórias possuem rastreabilidade?</td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>O cenário descreve situações realistas e relevantes de interação do sistema? [3]</td>
-      <td>Sim</td>
+      <td>Existe uma relação entre temas, épicos e histórias?	</td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Os atores são condizentes com o contexto do cenário? [3]</td>
-      <td>Sim</td>
+      <td>Os épicos estão priorizados e ordenados?	</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Os episódios do cenário estão coerentes e seguem uma ordem cronológica e fluída para atingir o objetivo? [3]</td>
-      <td>Sim</td>
+      <td>O backlog atende a necessidade do usuário?	</td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>O artefato cita as técnicas utilizadas para especificação dos cenários do projeto?</td>
-      <td>Sim</td>
+      <td>O backlog foi validado com o usuário ou PO?	</td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
-      <td>O cenário possui um ator principal e um objetivo bem definido? [3]</td>
-      <td>Sim</td>
+      <td>Os eṕicos estão granularizados o suficiente para gerar historias de usuários?</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ## Problemas encontrados
@@ -143,19 +143,11 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist geral
 
-- tabela com numeração errada
-
 ### Checklist Específico
-
-- **ID 09:** .
-
-- cenário 5 - usuário duplicado
-- metodologia: necessecitam 
-- padronização dos atores
 
 ## Referências Bibliográficas
 
-> [1] ALVES, Izabella; VIEIRA, Zenilda. [Planejamento da Verificação da Etapa 3 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md), GAMA, FGA, 2023. Acesso em: 22 de novembro de 2023.
+> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
@@ -164,7 +156,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Bibliografia
 
-> Economia-DF. [Cenários](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/), FGA, GAMA, 2023. Acesso em: 22 de novembro de 2023.
+> Economia-DF. [Backlog](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/backlog.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 
 ## Histórico de Versões
