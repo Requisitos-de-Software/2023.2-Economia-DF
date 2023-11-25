@@ -161,4 +161,4 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 22/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira)| [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 22/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09)| [Izabella Alves](https://github.com/izabellaalves) |
