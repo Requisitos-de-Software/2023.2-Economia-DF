@@ -1,8 +1,8 @@
-# Verificação do artefato "Cronograma Planejado"
+# Verificação do artefato "Cronograma Executado"
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Cronograma Planejado](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão, 1.5, de 17/10/2023.
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[Cronograma Executado](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão, 1.6, de 20/11/2023.
 
 ## Metodologia
 
@@ -86,7 +86,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cronograma Planejado</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cronograma Executado</p></font>
 
 <table>
 
@@ -165,7 +165,7 @@ dos texto?  </td>
 
 ## Bibliografia
 
-> Economia-DF. [Cronograma Planejado](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
+> Economia-DF. [Cronograma Executado](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 
 ## Histórico de Versões
