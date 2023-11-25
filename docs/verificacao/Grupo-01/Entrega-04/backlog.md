@@ -151,8 +151,6 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
-> [3] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
->
 
 ## Bibliografia
 
