@@ -88,7 +88,7 @@ Nesta etapa, serão verificados os seguintes artefatos da tabela 1:
 
 ## Cronograma
 
-A verificação será executada nos dias XX/11/2023 e XX/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+A verificação será executada no período de 18/11/2023 a 27/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
@@ -103,33 +103,33 @@ A verificação será executada nos dias XX/11/2023 e XX/11/2023, as atividades 
 </thead>
 <tbody>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  18/11/2023 </td>
         <td>  Planejamento da verificação </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e
         <a href="https://github.com/zenildavieira">Zenilda Vieira</a> </td>
     </tr>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  24/11/2023 </td>
         <td>  Verificação do artefato "Cenários" </td>
         <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  25/11/2023 </td>
         <td>  Verificação do artefato "Léxicos" </td>
-        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+        <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  XX/11/2023 </td>
         <td>  Verificação do artefato "Casos de Uso" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> </td>
     </tr>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  XX/11/2023 </td>
         <td>  Verificação do artefato "Validação do Diagrama de Casos de Uso" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
-        <td>  XX/10/2023 </td>
+        <td>  XX/11/2023 </td>
         <td>  Verificação do artefato "Especificação Suplementar" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
