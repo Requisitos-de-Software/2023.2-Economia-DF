@@ -430,4 +430,7 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 18/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.0`  | 25/11/2023 | Criação do documento  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.1`  | 25/11/2023 | Inserção do cheklist de Backlog  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.2`  | 25/11/2023 | Inserção do cheklist de História de Usuário  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
+| `1.3`  | 25/11/2023 | Inserção do cheklist de NFR Framework  | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Gabriel Zaranza](https://github.com/GZaranza) |
