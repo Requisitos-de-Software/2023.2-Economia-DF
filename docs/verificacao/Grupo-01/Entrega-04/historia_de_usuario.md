@@ -170,6 +170,49 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist Específico
 
+## Resultados
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+
+### Checklist geral
+
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/)" em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Histórias de Usuário" no checklist geral.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Geral_Backlog.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Histórias de Usuário" no checklist específico.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Específico_Backlog.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+
+</div>
+
+## Gravação do Documento de Verificação "Histórias de Usuário"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Histórias de Usuário" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=DMT16o0xyN4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Histórias de Usuário".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMT16o0xyN4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
