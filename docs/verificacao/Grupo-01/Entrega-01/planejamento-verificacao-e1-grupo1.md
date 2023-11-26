@@ -255,56 +255,30 @@ O checklist do artefatos "Cronograma Planejado" pode ser encontrado na Tabela 4.
 <tbody>
     <tr>
         <td>  1 </td>
-        <td> O histórico de versão padronizado?  </td>
+        <td>  O cronograma planejado possui um cronograma geral com todas as datas disponibilizadas no plano de ensino? </td>
         <td>  </td>
     </tr>
     <tr>
         <td>  2 </td>
-        <td> O(s) autor(es) e o(s) revisor(es) para
-cada artefato?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  3 </td>
-        <td> Referências bibliográficas e/ou bibliografia
-em todos os artefatos?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  4 </td>
-        <td> As tabelas e figuras possuem legenda e
-fonte?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  5 </td>
-        <td> As tabelas e figuras são chamadas dentro
-dos texto?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  6 </td>
-        <td> Possui cronograma planejado e executado?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  7 </td>
         <td>  O cronograma planejado possui datas de todas atividades de todas as etapas? </td>
         <td>  </td>
     </tr>
     <tr>
-        <td>  8 </td>
+        <td>  3 </td>
         <td>  O cronograma planejado possui período de correção pós-entrega? </td>
         <td>  </td>
     </tr>
     <tr>
-        <td>  9 </td>
-        <td>  O cronograma executado possui datas de execução e revisão das atividades de cada etapa? </td>
+        <td>  4 </td>
+        <td>  O cronograma planejado possui os responsáveis destinado de cada artefato? </td>
         <td>  </td>
     </tr>
-
-        
-    
+    <tr>
+        <td>  5 </td>
+        <td>  O cronograma planejado possui os responsáveis com seus respectivos nomes invés de "Todos"? </td>
+        <td>  </td>
+    </tr>
+          
 </tbody>
 </table>
 
@@ -331,56 +305,29 @@ O checklist do artefatos "Cronograma Executado" pode ser encontrado na Tabela 4.
 <tbody>
     <tr>
         <td>  1 </td>
-        <td> O histórico de versão padronizado?  </td>
+        <td>  O documento possui introdução? </td>
         <td>  </td>
-    </tr>
+    </tr> 
     <tr>
         <td>  2 </td>
-        <td> O(s) autor(es) e o(s) revisor(es) para
-cada artefato?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  3 </td>
-        <td> Referências bibliográficas e/ou bibliografia
-em todos os artefatos?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  4 </td>
-        <td> As tabelas e figuras possuem legenda e
-fonte?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  5 </td>
-        <td> As tabelas e figuras são chamadas dentro
-dos texto?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  6 </td>
-        <td> Possui cronograma planejado e executado?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  7 </td>
-        <td>  O cronograma planejado possui datas de todas atividades de todas as etapas? </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  8 </td>
-        <td>  O cronograma planejado possui período de correção pós-entrega? </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  9 </td>
         <td>  O cronograma executado possui datas de execução e revisão das atividades de cada etapa? </td>
         <td>  </td>
-    </tr>
-
-        
-    
+    </tr>       
+    <tr>
+        <td>  3 </td>
+        <td>  O cronograma executado possui os responsáveis que exucutaram cada documento? </td>
+        <td>  </td>
+    </tr>  
+    <tr>
+        <td>  4 </td>
+        <td>  O cronograma executado possui um coluna de revisão planejada e revisão executada? </td>
+        <td>  </td>
+    </tr>  
+    <tr>
+        <td>  5 </td>
+        <td>  O cronograma executado possui os revisores responsáveis por cada documento? </td>
+        <td>  </td>
+    </tr> 
 </tbody>
 </table>
 

@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,46 +100,28 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 <tbody>
     <tr>
         <td>  1 </td>
-        <td> O histórico de versão padronizado?  </td>
-        <td>  </td>
+        <td>  O cronograma planejado possui um cronograma geral com todas as datas disponibilizadas no plano de ensino? </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>  2 </td>
-        <td> O(s) autor(es) e o(s) revisor(es) para o artefato?  </td>
-        <td>  </td>
+        <td>  O cronograma planejado possui datas de todas atividades de todas as etapas? </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>  3 </td>
-        <td> Referências bibliográficas e/ou bibliografia
-no artefato?  </td>
-        <td>  </td>
+        <td>  O cronograma planejado possui período de correção pós-entrega? </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>  4 </td>
-        <td> As tabelas e figuras possuem legenda e
-fonte?  </td>
-        <td>  </td>
+        <td>  O cronograma planejado possui os responsáveis destinado de cada artefato? </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>  5 </td>
-        <td> As tabelas e figuras são chamadas dentro
-dos texto?  </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  6 </td>
-        <td>  O cronograma planejado possui datas de todas atividades de todas as etapas? </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  7 </td>
-        <td>  O cronograma planejado possui período de correção pós-entrega? </td>
-        <td>  </td>
-    </tr>
-    <tr>
-        <td>  8 </td>
-        <td>  O cronograma executado possui datas de execução e revisão das atividades de cada etapa? </td>
-        <td>  </td>
+        <td>  O cronograma planejado possui os responsáveis com seus respectivos nomes invés de "Todos"? </td>
+        <td> Sim </td>
     </tr>
           
 </tbody>
@@ -154,7 +136,11 @@ dos texto?  </td>
 
 ### Checklist geral
 
+- Não foi possível identificar nenhum erro durante a inspeção.
+
 ### Checklist Específico
+
+- Não foi possível identificar nenhum erro durante a inspeção.
 
 ## Referências Bibliográficas
 
