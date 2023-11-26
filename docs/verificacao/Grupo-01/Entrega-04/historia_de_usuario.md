@@ -185,7 +185,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Histórias de Usuário" no checklist geral.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Geral_Backlog.jpg" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Geral_Historia.png" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 </div>
@@ -197,7 +197,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Histórias de Usuário" no checklist específico.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Específico_Backlog.jpg" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Especifico_Historia.jpg" style="width: 45%;">
 
 <p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
 
