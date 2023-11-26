@@ -119,17 +119,17 @@ A verificação será executada no período de 18/11/2023 a 27/11/2023, as ativi
         <td> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
-        <td>  XX/11/2023 </td>
+        <td>  26/11/2023 </td>
         <td>  Verificação do artefato "Casos de Uso" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> </td>
     </tr>
     <tr>
-        <td>  XX/11/2023 </td>
+        <td>  26/11/2023 </td>
         <td>  Verificação do artefato "Validação do Diagrama de Casos de Uso" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
-        <td>  XX/11/2023 </td>
+        <td>  26/11/2023 </td>
         <td>  Verificação do artefato "Especificação Suplementar" </td>
         <td> <a href="https://github.com/izabellaalves">Izabella Alves</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
