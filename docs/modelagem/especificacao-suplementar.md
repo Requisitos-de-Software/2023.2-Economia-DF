@@ -28,10 +28,10 @@ Na tabela 1, é possível ver os Requisitos Não Funcionais para Usabilidade do 
 
 | ID  | Descrição |
 |-----|-----------|
-| RU01 | O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com eficiência e sem necessidade de treinamento extensivo. |
+| RU01 | O aplicativo deve ser fácil de usar e intuitivo, permitindo que os usuários realizem suas tarefas com no máximo 5 cliques ao entrar no site.|
 | RU02 | O aplicativo deve fornecer feedback imediato após cada ação do usuário, para que eles saibam se a ação foi bem-sucedida ou não. |
 | RU03 | O aplicativo deve permitir que os usuários desfaçam ações sempre que possível. Isso pode ser implementado como uma opção “desfazer” no menu ou como um botão de “voltar”. |
-| RU04 | O aplicativo deve ser consistente em seu design e comportamento. Isso inclui o uso consistente de cores, fontes, ícones e terminologia, bem como a consistência na localização dos elementos da interface do usuário.. |
+| RU04 | O aplicativo deve ser consistente em seu design e comportamento. Isso inclui o uso consistente de cores, fontes, ícones e terminologia, bem como a consistência na localização dos elementos da interface do usuário. |
 | RU05 | O aplicativo deve ser acessível para usuários com diferentes habilidades e necessidades. Isso pode incluir suporte para tecnologias assistivas, como leitores de tela, e conformidade com as diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). |
 
 <div align="center">
@@ -69,12 +69,28 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos não funcionais sobre Desempenho</p></font>
 </div>
 
-| ID  | Descrição |
-|-----|-----------|
-| PE01  | O tempo de resposta do menu principal do aplicativo deve ser inferior 500 ms |
-| PE02  | O tempo para emitir um documento deve ser inferior a 1 segundo  |
-| PE03  | O tempo de autenticação do login deve ser inferior a 3 segundos |
-| PE04  | O tempo de resposta de uma pesquisa de documentos tem que ser inferior a 1 segundo |
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>PE01</td>
+        <td>O tempo de resposta do menu principal do aplicativo deve ser inferior a 500 ms.</td>
+    </tr>
+    <tr>
+        <td>PE02</td>
+        <td>O tempo para emitir um documento deve ser inferior a 1 segundo.</td>
+    </tr>
+    <tr>
+        <td>PE03</td>
+        <td>O tempo de autenticação do login deve ser inferior a 3 segundos.</td>
+    </tr>
+    <tr>
+        <td>PE04</td>
+        <td>O tempo de resposta de uma pesquisa de documentos tem que ser inferior a 1 segundo.</td>
+    </tr>
+</table>
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
@@ -82,50 +98,70 @@ O desempenho de um sistema é relacionado ao tempo para executar ações e a rap
 
 ### S: Suporte (Supportability)
 
-#### Suporte e Manutenção
+**Suporte e Manutenção:** O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
 
-O aplicativo é mantido e atualizado em uma frequência mediana, pois tem um certo tempo de sua última atualização. A última atualização foi em 23 de março de 2021, onde foram atualizados os itens de segurança e a funcionalidade de notícias. Além disso, as atualizações são para garantir que continue funcionando conforme esperado com as versões mais recentes dos sistemas operacionais e para adicionar novas funcionalidades ou corrigir bugs. Isso indica que o aplicativo tem uma boa manutenibilidade.
+**Adaptabilidade:**  O aplicativo foi projetado para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
 
-#### Adaptabilidade
+**Internacionalização:** O aplicativo atualmente oferece suporte exclusivamente ao idioma português. A ausência de informações sobre planos futuros para adicionar suporte a outros idiomas pode ser uma limitação para atingir uma base de usuários mais ampla, particularmente entre aqueles que não falam português e que vem morar na região de Brasília, se naturalizando brasileiro.
 
-O aplicativo foi projetado para atender aos contribuintes do Distrito Federal, Brasil. No entanto, a falta de informações sobre a capacidade de adaptação para outras regiões ou países sugere que a sua utilidade pode ser limitada fora dessa área geográfica. Para tornar o aplicativo mais versátil e atrativo para uma audiência global, seria necessário considerar a adaptação para outros locais.
+**Portabilidade:** É importante observar que o aplicativo está disponível apenas para dispositivos iOS, uma vez que a versão para Android foi descontinuada. Essa limitação de plataforma restringe o público-alvo do aplicativo, excluindo os usuários de dispositivos Android. Portanto, é importante considerar o desenvolvimento de uma versão para Android ou outras plataformas para aumentar o alcance do aplicativo.
 
-#### Internacionalização
+**Testabilidade**: Embora informações específicas sobre os processos de testagem do aplicativo não estejam disponíveis publicamente, a frequência das atualizações indica que os desenvolvedores estão ativamente envolvidos em testes e correções de bugs. A garantia de qualidade é um aspecto fundamental para manter a satisfação dos usuários e a estabilidade do aplicativo.
 
-O aplicativo atualmente oferece suporte exclusivamente ao idioma português. A ausência de informações sobre planos futuros para adicionar suporte a outros idiomas pode ser uma limitação para atingir uma base de usuários mais ampla, particularmente entre aqueles que não falam português e que vem morar na região de Brasília, se naturalizando brasileiro.
+**Extensibilidade:** A adição de novas funcionalidades em um curto período de tempo sugere que o aplicativo é altamente extensível. Essa abordagem é positiva, pois permite que o aplicativo evolua e atenda às crescentes necessidades dos usuários. A flexibilidade para incorporar recursos adicionais é fundamental para manter o aplicativo relevante no longo prazo.
 
-#### Portabilidade
+**Configurabilidade** Os recursos que permitem aos usuários personalizar sua experiência, como cadastrar veículos e imóveis para consulta de débitos, demonstram uma preocupação em atender às necessidades individuais. Essa configurabilidade torna o aplicativo mais prático e adaptável às preferências e necessidades dos usuários.
 
-É importante observar que o aplicativo está disponível apenas para dispositivos iOS, uma vez que a versão para Android foi descontinuada. Essa limitação de plataforma restringe o público-alvo do aplicativo, excluindo os usuários de dispositivos Android. Portanto, é importante considerar o desenvolvimento de uma versão para Android ou outras plataformas para aumentar o alcance do aplicativo.
+**Instalabilidade:** O fato de o aplicativo estar disponível apenas na Apple App Store restringe sua acessibilidade a dispositivos iOS da Apple. Isso significa que os usuários de outras plataformas não têm acesso ao aplicativo, limitando seu alcance. Considerar o desenvolvimento de versões para outras lojas de aplicativos, como o Google Play Store, seria uma estratégia importante para expandir a base de usuários.
 
-#### Testabilidade
+Na tabela 4, é possível ver os Requisitos Não Funcionais para Suportabilidade elicitados pro aplicativo "Economia DF".
 
-Embora informações específicas sobre os processos de testagem do aplicativo não estejam disponíveis publicamente, a frequência das atualizações indica que os desenvolvedores estão ativamente envolvidos em testes e correções de bugs. A garantia de qualidade é um aspecto fundamental para manter a satisfação dos usuários e a estabilidade do aplicativo.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais sobre Suportabilidade.</p></font>
+</div>
 
-#### Extensibilidade
+| ID  | Descrição |
+|-----|-----------|
+| SU01 | O aplicativo deve ser compatível e otimizado para smartphones e tablets fabricados por Samsung, Apple, Motorola, Xiaomi, entre outros principais fabricantes. |
+| SU02 | Deve ser garantido que a interface do usuário seja responsiva em diferentes tamanhos de tela e orientações. |
+| SU03 | O aplicativo deve suportar as versões mais recentes e as duas versões anteriores dos sistemas operacionais iOS (para dispositivos Apple) e Android (para dispositivos Samsung, Motorola, Xiaomi, etc.). |
+| SU04 | A compatibilidade contínua com as atualizações do sistema operacional deve ser mantida para garantir a estabilidade e segurança do aplicativo. |
+| SU05 | As atualizações do aplicativo devem ser submetidas e aprovadas de maneira oportuna nas lojas de aplicativos relevantes, como a App Store da Apple e a Google Play Store. |
+| SU06 | Devem ser realizados testes de integração em dispositivos específicos da Samsung, Apple, Motorola, Xiaomi, etc., para garantir uma experiência de usuário livre de problemas em cada plataforma. |
 
-A adição de novas funcionalidades em um curto período de tempo sugere que o aplicativo é altamente extensível. Essa abordagem é positiva, pois permite que o aplicativo evolua e atenda às crescentes necessidades dos usuários. A flexibilidade para incorporar recursos adicionais é fundamental para manter o aplicativo relevante no longo prazo.
-
-#### Configurabilidade
-
-Os recursos que permitem aos usuários personalizar sua experiência, como cadastrar veículos e imóveis para consulta de débitos, demonstram uma preocupação em atender às necessidades individuais. Essa configurabilidade torna o aplicativo mais prático e adaptável às preferências e necessidades dos usuários.
-
-#### Instalabilidade
-
-O fato de o aplicativo estar disponível apenas na Apple App Store restringe sua acessibilidade a dispositivos iOS da Apple. Isso significa que os usuários de outras plataformas não têm acesso ao aplicativo, limitando seu alcance. Considerar o desenvolvimento de versões para outras lojas de aplicativos, como o Google Play Store, seria uma estratégia importante para expandir a base de usuários.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div >
 
 ### +: Restrições de Design
 
-O sistema deve aderir estritamente aos padrões de boas práticas amplamente aceitos, incluindo os requisitos de interface para iOS. Ele deve ser desenvolvido seguindo os princípios da arquitetura limpa, garantindo não apenas funcionalidade, mas também uma estrutura de código organizada e sustentável. Além disso, é fundamental escolher uma paleta de cores que permita que pessoas com diferentes restrições visuais, como daltonismo, possam distinguir claramente os elementos, sem comprometer a identidade visual da marca. Essa abordagem não apenas promove a acessibilidade, mas também reforça a coesão da marca em todas as plataformas.
+Restrições de design referem-se a limitações específicas e condições que devem ser consideradas durante o processo de criação e desenvolvimento de um produto, seja ele um aplicativo, um site, um objeto físico ou qualquer outro artefato de design. Essas restrições podem abranger uma variedade de áreas, incluindo aspectos técnicos, estéticos, funcionais, orçamentários, temporais, culturais, entre outros. Elas são fatores que impõem limites ou direcionam as decisões de design para atender a determinados critérios ou requisitos.
+
+Na tabela 5, é possível ver os Requisitos Não Funcionais para Restrições de Design elicitados pro aplicativo "Economia DF".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Requisitos não funcionais sobre Restrições de Design.</p></font>
+</div>
+
+| ID  | Descrição |
+|-----|-----------|
+| RD01 | Todo o material visual, como imagens, ícones e gráficos, deve ser adquirido ou criado respeitando os direitos autorais e licenças correspondentes. |
+| RD02 | A interface do usuário deve ser responsiva e adaptável a diferentes tamanhos de tela e dispositivos, garantindo uma experiência consistente em smartphones e tablets. |
+| RD03 | O design deve seguir as diretrizes de acessibilidade do Web Content Accessibility Guidelines (WCAG). |
+| RD04 | A consistência visual deve ser mantida em todo o aplicativo para criar uma experiência de usuário coesa. Elementos como cores, fontes e ícones devem seguir um padrão visual. |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+</div >
 
 ### +: Ajuda e Documentação
 
 A "Ajuda e Documentação" em um aplicativo refere-se a um conjunto de recursos elaborados para orientar e fornecer informações aos [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) sobre o funcionamento, características e melhores práticas de uso do aplicativo. Essa seção é fundamental para garantir que os usuários possam usar o aplicativo de forma eficaz, resolver dúvidas e aproveitar ao máximo suas funcionalidades.
 
-Na tabela 4, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF".
+Na tabela 6, é possível ver os Requisitos Não Funcionais para Ajuda e Documentação elicitados pro aplicativo "Economia DF".
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais sobre Ajuda e Documentação</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Requisitos não funcionais sobre Ajuda e Documentação.</p></font>
 </div>
 
 | ID  | Descrição |
@@ -171,4 +207,5 @@ O aplicativo deve fornecer uma interface de usuário simples e padronizada para 
 |`1.6`|20/10/2023|Adição da seção de Usabilidade |[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.7`|21/10/2023|Adição da seção de Restrições de Design|[Lucas Ribeiro](https://github.com/lucassouzs)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
 |`1.8`|22/10/2023|Adição da seção de Funcionalidade e de Interface|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
-|`1.9`|05/11/2023|Correção histórico de versões|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|-|
+|`1.9`|05/11/2023|Correção histórico de versões|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|[Gabriel Rosa](https://github.com/gabrielrosa09)|
+|`2.0`|26/11/2023|Correção pós verificação|[Izabella Alves](https://github.com/izabellaalves)|[Gabriel Zaranza](https://github.com/gzaranza)|
