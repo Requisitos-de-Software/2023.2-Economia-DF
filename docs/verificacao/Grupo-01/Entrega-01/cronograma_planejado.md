@@ -142,6 +142,35 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 - Não foi possível identificar nenhum erro durante a inspeção.
 
+## Resultados
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+
+### Checklist geral
+
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Cronograma Planejado](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/cronograma_planejado/)" em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Cronograma Planejado" no checklist geral.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Geral_CP.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Cronograma Planejado](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/cronograma_planejado/)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Cronograma Executado" no checklist específico.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Especifico_CP.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] ZARANZA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
