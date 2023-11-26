@@ -151,12 +151,34 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 - **ID-06**: Não foi escrito em nenhum lugar do documento se foi validado com o usuário.
 
-## Referências Bibliográficas
+## Resultados
 
-> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
-> 
-> [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
->
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+
+### Checklist geral
+
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/)" em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Backlog" no checklist geral.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Geral_Backlog.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Backlog](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Backlog" no checklist específico.</p>
+
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_gabriel_rosa/Checklist_Específico_Backlog.jpg" style="width: 45%;">
+
+<p><b>Fonte:</b> Gabriel Rosa, 2023.</p>
+
+</div>
 
 ## Gravação do Documento de Verificação "Backlog"
 
@@ -171,6 +193,13 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "B
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
 </div>
+
+## Referências Bibliográficas
+
+> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
+> 
+> [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
+>
 
 ## Bibliografia
 

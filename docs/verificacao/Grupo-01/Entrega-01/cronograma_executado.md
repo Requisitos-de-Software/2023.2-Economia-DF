@@ -143,7 +143,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Cronograma Executado](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/cronograma_executado/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
 
 ### Checklist geral
 
