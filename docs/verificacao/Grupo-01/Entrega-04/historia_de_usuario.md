@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,62 +100,62 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>1</td>
       <td>Os títulos das histórias de usuário são auto-explicativos?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O "quem", "o que" e o "por que" estão definidos na história de usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>A história possui critérios de aceitação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os critérios de aceitação das histórias foram definidos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>A participação do cliente e/ou persona na elicitação de requisitos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as histórias de usuário podem ser testadas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Uma fonte de onde foram retiradas as histórias?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>9</td>
       <td>As histórias de usuário estão divididas em tarefas menores ou subtarefas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>10</td>
       <td> As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>11</td>
       <td>As histórias de usuário possuem estimativas de esforço ou pontos de história?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>12</td>
       <td>As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -168,7 +168,11 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist geral
 
+- **ID-01**: O histórico de versão não possui o título ("Histórico de Versão").
+
 ### Checklist Específico
+
+- **ID-01**: Repetição de palavra no HS02 e HS03. Os HS05, HS06, HS07, HS09, HS12 estão com títulos vagos e/ou incompletos.
 
 ## Resultados
 
