@@ -97,7 +97,7 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativos avaliados</p></font>
 
- <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/0c29e527-86b5-48f1-8138-d1cdd31bbc12" style="width: 45%;">
+ <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/6ae6d67b-2154-46d3-8258-f0319871fa18" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
