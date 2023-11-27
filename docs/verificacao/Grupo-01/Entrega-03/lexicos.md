@@ -33,47 +33,47 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td >Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -100,42 +100,42 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
     <tr>
       <td>1</td>
       <td>O artefato possui a especificação dos léxicos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os Léxicos possuem a especificação (definição) dos usuários da aplicação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Cada léxico possui classificação, noção, impacto e sinônimo? [3]</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Cada léxico apresenta sua classificação correta? [3]</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Cada léxico apresenta seu sinônimo correto? [3]</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>8</td>
       <td>As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação? [3] </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -149,11 +149,13 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ### Checklist geral
 
--  **ID 06:** 
+-  **ID 06:** as tabelas 2 e 3 estão com a numeração trocada e a palavra "Fonte" não está em negrito, fugindo do padrão que vem sendo utilizado nos documentos.
 
 ### Checklist específico
 
-- 
+-  **ID 04:** Nem todos os links estão presentes. É necessário completar com todos os links que estão faltando.
+
+-  **ID 05 e 07:** O L19 está sem sinônimo, é preciso completar essa informação.
 
 ## Referências Bibliográficas
 

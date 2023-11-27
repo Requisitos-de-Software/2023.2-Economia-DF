@@ -12,7 +12,7 @@ A abordagem adotada neste documento consiste em uma inspeção por meio de check
 
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verififcado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 
@@ -78,7 +78,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ### Checklist Específico
@@ -135,23 +135,22 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 ## Problemas encontrados
 
+De um modo geral, o documento está bem feito, bem organizado e formatado. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: "necessecitam", "caracteríssticas", " boleto nacário", "O usuário O usuário abre", "dispositivo móvel.l". Quanto ao conteúdo, a teoria foi apresentada corretamente com referência bibliográfica. 
 
 ### Checklist geral
 
-- tabela com numeração errada
+- **ID 06:** a numeração das tabelas está com o número 1 repetido, é necessário renomear todas as tabelas a partir da "segunda" tabela 1.
 
 ### Checklist Específico
 
-- **ID 09:** .
+Todos os itens do checklist específico foram atendidos. Só cabe uma observação:
 
-- cenário 5 - usuário duplicado
-- metodologia: necessecitam 
-- padronização dos atores
+- **ID 04:** todos os atores estão como "Usuário brasileiro com CPF ativo" com exceção do cenário 5 que está "Usuário do aplicativo Economia DF". Para padronização, seria interessante ou colocar todos iguais: "Usuário brasileiro com CPF ativo" ou mesclar os dois em todos os cenários: "Usuário do aplicativo Economia-DF, brasileiro, com CPF ativo", pois o aplicativo é o mesmo.
 
 ## Referências Bibliográficas
 
