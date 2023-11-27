@@ -207,9 +207,14 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
+Todo  o artefato está padronizado. 
+
 
 ### Checklist Específico
 
+- **Item 10** (Nível de Instrução dos Usuários):
+  - **Problema:** Avaliação como "Incompleto".
+  - **Recomendação:** Rever e fornecer uma avaliação clara sobre o nível de instrução dos usuários no perfil.
 
 ### Checklist geral
 
@@ -218,7 +223,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Perfil de Usuário" no checklist geral.</p>
 
-  <img src="/home/lv/Área de Trabalho/Requisitos/2023.2-Economia-DF/docs/imagens/verifificação_LV/Perfil_usuarioa_1.png" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verififica%C3%A7%C3%A3o_LV/Perfil_usuarioa_1.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
@@ -230,7 +235,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Perfil de Usuário" no checklist específico.</p>
 
-  <img src="/home/lv/Área de Trabalho/Requisitos/2023.2-Economia-DF/docs/imagens/verifificação_LV/Perfil_usuarioa.png" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verififica%C3%A7%C3%A3o_LV/Perfil_usuarioa.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
@@ -242,9 +247,9 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "P
 
 <div align="center">
   
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=DMT16o0xyN4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Perfil de Usuário".</a></p>
+<p style="text-align: center"><a href="https://youtu.be/XuWAXNaY39U4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Perfil de Usuário".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMT16o0xyN4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuWAXNaY39U?si=W0D9_VF4qMdW6WtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
@@ -252,7 +257,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "P
 
 ## Referências Bibliográficas
 
-> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
+> [1] Víctor, Lucas. [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 
@@ -260,11 +265,11 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "P
 >
 > VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
->
+> Economia - DF. [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Economia-DF), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 10/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
-| `1.0`  | 10/11/2023 | Avaliação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.0`  | 26/11/2023 | Criação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
+| `1.1`  | 27/11/2023 | Avaliação do documento  | [Lucas Víctor](https://github.com/Lucas1303200)| [Lucas Oliveira](https://github.com/) |
