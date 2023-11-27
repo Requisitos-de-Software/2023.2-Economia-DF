@@ -192,7 +192,7 @@ Os problemas identificados nos checklists foram analisados e recomendadas açõe
 
 ## Referências Bibliográficas
 
-> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
+> [1] Víctor, Lucas. [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 
