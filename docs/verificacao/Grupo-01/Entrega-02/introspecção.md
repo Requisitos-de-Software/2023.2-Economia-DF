@@ -172,7 +172,9 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Introspecção" no checklist geral.</p>
-  <!-- Inserir o gráfico ou indicar como seria representado -->
+
+ <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verififica%C3%A7%C3%A3o_LV/introspec%C3%A7%C3%A3o.png?raw=true" style="width: 45%;">
+  
   <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
@@ -182,7 +184,8 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Introspecção" no checklist específico.</p>
-  <!-- Inserir o gráfico ou indicar como seria representado -->
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verififica%C3%A7%C3%A3o_LV/introspec%C3%A7%C3%A3o_1.png?raw=true" style="width: 45%;">
+  
   <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
