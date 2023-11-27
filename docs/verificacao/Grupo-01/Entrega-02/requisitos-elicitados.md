@@ -174,7 +174,7 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 ## Gravação do Documento de Verificação "Backlog"
 
-No vídeo 1, é possível ver a gravação da avaliação da verificação do "Backlog" do aplicativo do Economia DF.
+No Vídeo 1, é possível ver a gravação da avaliação da verificação do artefato "Requisitos Elicitados" do aplicativo do Economia DF.
 
 <div align="center">
   
