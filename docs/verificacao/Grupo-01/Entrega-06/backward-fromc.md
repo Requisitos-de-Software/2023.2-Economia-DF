@@ -37,49 +37,49 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>01</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>02</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>03</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>04</td>
       <td>Todas as referências bibliográficas são chamadas no texto? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>05</td>
       <td>O artefato possui introdução? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>06</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>07</td>
       <td>Todas as tabelas são referenciadas no texto?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?  </td>
-      <td></td>
+      <td>08</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas ?  </td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>09</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -117,55 +117,55 @@ Na tabela 2, estão listados os critérios especificos que devem ser verificados
         <tr>
             <td>01</td>
             <td>O artefato utiliza os requisitos funcionais e os requisitos não funcionais?</td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>02</td>
             <td>Os requisitos presentes estão sendo ligados às suas fontes? </a></td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>03</td>
             <td>Existe a linkagem dos requisitos a sua origem?</td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>04</td>
             <td>A metodologia referencia o Meta-modelo proposto por Toranzo? </td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>05</td>
             <td>As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? </td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
+            <td>Nessa parte, tem uma pequena introdução explicando que todos os requisitos serão classificados como desenvolvimento pois todos eles derivam de artefatos criados durante o desenvolvimento. </td>
         </tr>
         <tr>
             <td>06</td>
             <td>Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? </td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>07</td>
             <td>Existe legendas para ajudar na leitura do artefato?</td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>08</td>
             <td>A Legenda está de acordo com os símbolos presentes no artefato?</td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
         <tr>
             <td>09</td>
             <td>Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? </td>
-            <td></td>
+            <td>Sim</td>
             <td></td>
         </tr>
     </tbody>
@@ -182,7 +182,10 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-Nenhum problema encontrado no checklist geral.
+**-ID 03:** No ID 03 percebe-se um erro porque as referências bibliográficas não seguem uma ordem de chamada no texto
+
+
+**-ID 04:** No ID 04 ocorre outro erro porque nenhuma referência bibliográfica é chamada no texto.
 
 ### Checklist Específico
 
