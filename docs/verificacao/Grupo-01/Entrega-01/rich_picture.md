@@ -101,6 +101,19 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 Esse artefato já tinha sido revisado após a entrega 1, seguindo o feedback dados pelo professor e pelo monitor da equipe. Portanto, não foram encontrado problemas nesse artefato.
 
+## Resultados
+
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Rich Picture](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/rich-picture/)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "não se aplica" e "incompleto" obtidos na verificação.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Ferramentas</p></font>
+
+ <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/9589af81-9dea-4f9f-ad0f-672cb26d875e" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
+
+
 ## Bibliografia
 
 > Economia - DF. [Rich Picture](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/rich-picture/), FGA, GAMA, 2023. Acesso em:  de novembro de 2023.
