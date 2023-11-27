@@ -185,7 +185,7 @@ Todos os critérios estão sendo atendidos.
 No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-perfil-usuario/grupo_de_foco.md)" em relação ao checklist geral.
 
 <div align="center">
-  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Introspecção" no checklist geral.</p>
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Questionário" no checklist geral.</p>
 
  <img src="" style="width: 45%;">
   
@@ -194,10 +194,10 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 
 #### Checklist Específico
 
-No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Grupo de foco](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-perfil-usuario/grupo_de_foco.md)" em relação ao checklist específico.
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Questionário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/questionario.md)" em relação ao checklist específico.
 
 <div align="center">
-  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Introspecção" no checklist específico.</p>
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Questionário" no checklist específico.</p>
   <img src="" style="width: 45%;">
   
   <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
@@ -213,7 +213,7 @@ Os problemas identificados nos checklists foram analisados e recomendadas açõe
 >
 > VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
-> CARTEIRA DIGITAL DE TRÂNSITO. [Questionário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/questionario.md), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+> Questionário. [Questionário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/questionario.md), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
 
 ## Histórico de Versões
 
