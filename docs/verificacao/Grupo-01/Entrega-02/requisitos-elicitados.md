@@ -182,7 +182,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "B
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_fQs54Ix-c" title="Avaliação da verificação do artefato "Requisitos Elicitados"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 
 </div>
 
