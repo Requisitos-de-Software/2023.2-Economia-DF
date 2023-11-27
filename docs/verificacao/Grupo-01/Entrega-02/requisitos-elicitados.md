@@ -180,7 +180,7 @@ No Vídeo 1, é possível ver a gravação da avaliação da verificação do ar
   
 <p style="text-align: center"><a href="https://youtu.be/O_fQs54Ix-c" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do artefato "Requisitos Elicitados".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O_fQs54Ix-c" title="Avaliação da verificação do artefato "Requisitos Elicitados"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_fQs54Ix-c" title="Avaliação da verificação do artefato Requisitos Elicitados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 
