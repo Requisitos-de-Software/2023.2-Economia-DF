@@ -175,6 +175,20 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+## Gravação da Consolidação do Artefato "Observação"
+
+No Vídeo 1, é possível ver a gravação da consolidação do artefato "Observação" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/I_92ubT0vZw" target="blanket"><b>Vídeo 1:</b> Avaliação da consolidação do artefato "Observação".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_92ubT0vZw" title="Avaliação da consolidação do artefato Observação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] VICTOR, Lucas. [Planejamento da Verificação da Etapa 2 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
