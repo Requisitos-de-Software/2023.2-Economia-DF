@@ -172,7 +172,7 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-## Gravação do Documento de Verificação "Backlog"
+## Gravação do Documento de Verificação do Artefato "Requisitos Elicitados"
 
 No Vídeo 1, é possível ver a gravação da avaliação da verificação do artefato "Requisitos Elicitados" do aplicativo do Economia DF.
 
