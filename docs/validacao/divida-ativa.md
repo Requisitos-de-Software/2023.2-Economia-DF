@@ -28,7 +28,7 @@ Neste documento, será apresentado e validado o protótipo de alta fidelidade do
     <td>Izabella Alves</td>
     <td>Elaime Rodrigues</td>
     <td>17:00</td>
-    <td>17:15</td>
+    <td>17:07</td>
     <td>25/11/2023</td>
     <td>Presencial</td>
   </tr>
