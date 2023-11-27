@@ -3,15 +3,15 @@
 
 ## Introdução
 
-Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario) desenvolvido pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.1 desse documento, incluída no histórico em 20/10/2023.
+Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Perfil de Usuário]([#](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md)) desenvolvido pelo [Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.3 desse documento, incluída no histórico em 30/09/2023.
 
 ## Objetivo
 
-A meta principal desta verificação é identificar e abordar possíveis problemas no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario) elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/). Nosso foco é garantir que o documento atenda aos rigorosos critérios de qualidade estabelecidos.
+A meta principal desta verificação é identificar e abordar possíveis problemas no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md) elaborado pelo [Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF). Nosso foco é garantir que o documento atenda aos rigorosos critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos dois checklists: um geral, aplicável a todos os artefatos, e um específico, direcionado ao artefato em análise. Todo o planejamento e definição de métodos foram detalhadamente estabelecidos no documento de [Planejamento da Verificação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md#verifica%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o---entrega-3). Vale ressaltar que esta verificação englobará todos os artefatos utilizados no estabelecimento do [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario).
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos dois checklists: um geral, aplicável a todos os artefatos, e um específico, direcionado ao artefato em análise. Todo o planejamento e definição de métodos foram detalhadamente estabelecidos no documento de [Planejamento da Verificação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md#verifica%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o---entrega-3) [1]. Vale ressaltar que esta verificação englobará todos os artefatos utilizados no estabelecimento do [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md).
 
 
 
@@ -38,46 +38,47 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
       <td>Sim</td>
     </tr>
-    <tr>
+    <tr>usuario
       <td>2</td>
-      <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td>Incompleto</td>
+      <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de chamada do texto?</td>
-      <td>Sim</td>
+      <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Todas as referências bibliográficas são chamadas?</td>
-      <td>Sim</td>
+      <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>O artefato possui introdução?</td>
+      <td>O artefato possui introdução? [2]</td>
       <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td>Não se aplica</td>
+      <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto?</td>
-      <td>Não se aplica</td>
+      <td>Todas as tabelas são referenciadas no texto? [2] </td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
       <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"?</td>
+      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
       <td>Não se aplica</td>
     </tr>
+  </tbody>
 </table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
@@ -146,7 +147,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>10</td>
       <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
-      <td>Não</td>
+      <td>incompleto</td>
     </tr>
     <tr>
       <td>11</td>
@@ -161,7 +162,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>13</td>
       <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>14</td>
@@ -171,7 +172,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>15</td>
       <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
-      <td>Incompleto</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>16</td>
@@ -186,7 +187,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     <tr>
       <td>18</td>
       <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>19</td>
@@ -202,42 +203,64 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
 
 ## Problemas Encontrados
 
-Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario) elaborado pelo [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/).
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md) elaborado pelo [Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF).
 
 ### Checklist Geral
 
-- **ID 02:** 	O artefato possui bibliografia e/ou referência bibliográfica?
-    - **Avaliação:** Incompleto
-    - **Observação:** O artefato contém exclusivamente a seção de Bibliografia; no entanto, seria apropriado incluir também a seção de Referências Bibliográficas, incorporando informações sobre o software utilizado para criar o formulário.
 
 ### Checklist Específico
 
-- **ID 10:** O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?
-  - **Avaliação:** Não
-  - **Observação:** O perfil de usuário não aborda informações sobre o nível de instrução dos usuários.
 
-- **ID 13:** O perfil de usuário avalia a relação dos usuários com a tecnologia?
-  - **Avaliação:** Não
-  - **Observação:** A avaliação da relação dos usuários com a tecnologia não está contemplada no perfil de usuário.
+### Checklist geral
 
-- **ID 15:** O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?
-  - **Avaliação:** Incompleto
-  - **Observação:** A avaliação da relação dos usuários com as principais tarefas realizadas está incompleta no perfil de usuário.
+No gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md)" em relação ao checklist geral.
 
-- **ID 18:** Foi estabelecido um cronograma para a elaboração do questionário?
-  - **Avaliação:** Não
-  - **Observação:** Não há um cronograma definido para a elaboração do questionário.
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Perfil de Usuário" no checklist geral.</p>
 
-- **Observação:** O artefato [Análise de documentos](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario/AnaliseDocumento.md#an%C3%A1lise-de-documentos) apresenta quebras de estilo e de figura.
-### Conclusão
+  <img src="/home/lv/Área de Trabalho/Requisitos/2023.2-Economia-DF/docs/imagens/verifificação_LV/Perfil_usuarioa_1.png" style="width: 45%;">
 
-A verificação identificou alguns pontos que requerem atenção e melhorias no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/tree/main/docs/elicita%C3%A7%C3%A3o/PerfildeUsuario). Recomenda-se uma revisão e ajustes conforme os problemas relatados.
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
+### Checklist específico
+
+No gráfico 2, é possível visualizar os resultados obtidos na verificação do artefato "[Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md)" em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Perfil de Usuário" no checklist específico.</p>
+
+  <img src="/home/lv/Área de Trabalho/Requisitos/2023.2-Economia-DF/docs/imagens/verifificação_LV/Perfil_usuarioa.png" style="width: 45%;">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
+## Gravação do Documento de Verificação "Perfil de Usuário"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Perfil de Usuário" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=DMT16o0xyN4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Perfil de Usuário".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMT16o0xyN4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
+</div>
+
+## Referências Bibliográficas
+
+> [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
+> 
+> [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 
 ## Bibliografia
 >
 > VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
-> CARTEIRA DIGITAL DE TRÂNSITO. [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+>
 
 ## Histórico de Versões
 

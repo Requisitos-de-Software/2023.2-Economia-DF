@@ -189,7 +189,19 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
   <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-### Considerações Finais
+## Gravação do Documento de Verificação "Introspecção"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Introspecção" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/KTodwgoxI1I" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Introspecção".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTodwgoxI1I?si=ADnDeXFgc3Ciws51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+## Considerações Finais
 
 Os problemas identificados nos checklists foram analisados e recomendadas ações corretivas. A verificação geral e específica fornece uma visão abrangente do estado do artefato, permitindo melhorias contínuas no processo de elaboração de documentos.
 
@@ -204,6 +216,7 @@ Os problemas identificados nos checklists foram analisados e recomendadas açõe
 > VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 10 de novembro de 2023.
 >
 > Economia - DF. [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Economia-DF), FGA, GAMA, 2023. Acesso em: 10 de novembro de 2023.
+
 
 ## Histórico de Versões
 
