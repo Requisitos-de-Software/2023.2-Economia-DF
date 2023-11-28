@@ -42,7 +42,7 @@ Como pode ser visto no Vídeo 1, foram seguidos os príncipios éticos de pesqui
 
 ## Validação
 
-A validação aconteceu de forma presencial, onde, no Vídeo 1 é possível ver como aconteceu essa validação.
+A validação foi conduzida de maneira presencial, e no Vídeo 1, é possível visualizar todo o processo de validação em detalhes.
 
 <div align="center">
 
