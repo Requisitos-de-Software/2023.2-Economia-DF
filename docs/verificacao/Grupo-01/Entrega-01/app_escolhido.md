@@ -76,11 +76,11 @@ dos texto?  </td>
     <tr>
         <td>  8 </td>
         <td>  Possui termo de uso permitidindo o uso do aplicativo escolhido para estudos? </td>
-        <td>Sim  </td>
+        <td>   Não  </td>
     </tr>
      <tr>
         <td>  9 </td>
-        <td>  O aplicativo não foi trabalhado no semestre anterior? </td>
+        <td>  O aplicativo não foi trabalhado nos semestres anteriores? </td>
         <td> Sim </td>
     </tr>
        
@@ -103,7 +103,7 @@ dos texto?  </td>
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/app-selecionado/)"
 
-O artafato em questão já tinha sido revisado uma vez, após a entrega 1 utilizando o feedback do professor e do monitor da equipe.
+
 
 ## Resultados
 
@@ -112,7 +112,7 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Escolhido</p></font>
 
- <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/415add17-7d65-4ab2-a709-c43c4a80d931" style="width: 45%;">
+ <img src="" style="width: 45%;">
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
