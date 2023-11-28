@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão 1.2, de 02/10/2023.
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão 1.1, de 01/10/2023.
 
 ## Metodologia
 
