@@ -8,6 +8,37 @@ A principal finalidade de um protótipo de alta fidelidade é fornecer uma visã
 
 ## Metodologia
 
+Neste documento, apresentamos e validamos o protótipo de alta fidelidade referente ao [Requisito INT26](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados), que estipula que "O sistema deve possibilitar que o usuário aumente a fonte". O protótipo foi desenvolvido utilizando a ferramenta Figma, mostrado na Figura 2, e passou por um processo de validação com a usuária Ana Clara, utilizando o método de entrevista. Detalhes sobre o cronograma da entrevista estão disponíveis na Tabela 1 abaixo:
+
+Neste documento, será apresentado e validado o protótipo de alta fidelidade do [Requisito INT26](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados), que diz "O usuário deve conseguir emitir a segunda via da dívida ativa". O protótipo de alta fidelidade foi criado na ferramenta Canva, e validado com o usuário Gilmar P. dos Santos através do método de entrevista. Um cronograma da entrevista está disponível abaixo na tabela 1:
+
+<div align="center">
+<p><b>Tabela 1 -</b> Cronograma executado da entrevista.</p>
+  
+  <table>
+  <tr>
+    <th></th>
+    <th>Avaliador</th>
+    <th>Entrevistado</th>
+    <th>Horário de Início</th>
+    <th>Horário de Término</th>
+    <th>Data</th>
+    <th>Local</th>
+  </tr>
+  <tr>
+    <td>Cronograma Executado</td>
+    <td>Lucas Ribeiro</td>
+    <td>Ana Clara</td>
+    <td>23:00</td>
+    <td>23:10</td>
+    <td>27/11/2023</td>
+    <td>Presencial</td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Protótipo de Alta Fidelidade
 
 Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para o requisito "Aumentar a Fonte".
