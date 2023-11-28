@@ -194,7 +194,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "B
 
 </div>
 
-## Gravação do Documento de Verificação "Backlog"
+## Gravação do Documento de Consolidação "Backlog"
 
 No vídeo 2, é possível ver a gravação da avaliação da consolidação da "Backlog" do aplicativo do Economia DF.
 
