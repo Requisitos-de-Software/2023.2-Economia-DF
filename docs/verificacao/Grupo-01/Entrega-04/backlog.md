@@ -194,6 +194,20 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "B
 
 </div>
 
+## Gravação do Documento de Verificação "Backlog"
+
+No vídeo 2, é possível ver a gravação da avaliação da consolidação da "Backlog" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=JCVVcaXRtNE" target="blanket"><b>Vídeo 2:</b> Avaliação da consolidação da "Backlog".</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCVVcaXRtNE" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+
+</div>
+
 ## Referências Bibliográficas
 
 > [1] ROSA, Gabriel. [Planejamento da Verificação da Etapa 4 do Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md), GAMA, FGA, 2023. Acesso em: 25 de novembro de 2023.
