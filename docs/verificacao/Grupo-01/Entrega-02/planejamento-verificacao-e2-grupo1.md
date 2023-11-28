@@ -115,7 +115,7 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
       </tr>
       <tr>
           <td>Requisitos Priorizados</td>
-          <td align="center">1.1/td>
+          <td align="center">1.1</td>
           <td align="center">01/10/2023</td>
           <td align="center"><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       </tr>
