@@ -61,7 +61,7 @@ fonte?  </td>
         <td>  5 </td>
         <td> As tabelas e figuras são chamadas dentro
 dos texto?  </td>
-        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td>  6 </td>
@@ -76,7 +76,7 @@ dos texto?  </td>
     <tr>
         <td>  8 </td>
         <td>  Possui termo de uso permitidindo o uso do aplicativo escolhido para estudos? </td>
-        <td>   Não  </td>
+        <td>   Incompleto  </td>
     </tr>
      <tr>
         <td>  9 </td>
@@ -103,7 +103,8 @@ dos texto?  </td>
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/app-selecionado/)"
 
-
+- **ID-05** : A figura 1 não foi chamada em nenhum texto, é necessário fazer a chamada dessa figura em alguma parte do texto.
+- **ID-08** : O termo de uso do aplicativo não está presente no artefato.
 
 ## Resultados
 
@@ -112,7 +113,8 @@ Nesta seção, serão apresentados os resultados obtidos na verificação do art
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Escolhido</p></font>
 
- <img src="" style="width: 45%;">
+ <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/cbd05ff1-4c4b-4380-b475-0127dcb3e087" style="width: 45%;">
+
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
