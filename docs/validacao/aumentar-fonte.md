@@ -59,4 +59,4 @@ A validação foi conduzida de maneira presencial, e no Vídeo 1, é possível v
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 27/11/2023 |  Criação do documento |  Lucas Ribeiro](https://github.com/lucassouzs)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
+| `1.0`  | 27/11/2023 |  Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
