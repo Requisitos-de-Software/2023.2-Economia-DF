@@ -153,8 +153,8 @@ Na Tabela 2, estão listados os critérios que devem ser verificados em todos os
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2</td>
