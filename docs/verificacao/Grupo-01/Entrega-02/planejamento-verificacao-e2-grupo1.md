@@ -423,43 +423,43 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
       <td align="center">1</td>
       <td>Os objetivos da observação são estabelecidos? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%201.png"></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os participantes são selecionados a partir do perfil de usuários? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png"></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png"></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>São apresentadas as atividades a serem observadas? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%204.png"></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>É definida a postura do observador? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%205.png"></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%206.png"></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>A observação foi realizada com mais de uma pessoa? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%207.png"></td>
     </tr>
 </table>
 
