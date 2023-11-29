@@ -427,7 +427,7 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>Os participantes são selecionados a partir do perfil de usuários [4]</td>
+      <td>Os participantes são selecionados a partir do perfil de usuários? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
