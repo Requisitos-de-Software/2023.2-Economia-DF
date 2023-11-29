@@ -204,6 +204,236 @@ Na Tabela 2, estão listados os critérios que devem ser verificados em todos os
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+### Checklist de 100$
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [100$](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/100%24.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato 100$</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>A prorização foi realizada em conjunto com um usuário real?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>O usuário que participou se enquadrava no perfil de usuário estabelecido?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Os requisitos priorizados foram previamente elicitados?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Os requisitos priorizados passaram por algum processo de validação?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os requisitos piorizados tinham ID identificando de qual técnica de elicitação eles eram provenientes?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Utilizou-se $100 para serem distribuidos entre os requisitos a fim de prioriza-los?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>O processo de priorização levou em consideração a dependêcia entre requisitos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Os requisitos foram, posteriormente, separados por nível de prioridade?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+### Checklist de First Thing First
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato First Thing First</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>A técnica que foi utilizada para priorização é descrita?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Os requisitos estão ordenados em ordem de prioridade?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>A fórmula para o cálculo do valor está correta?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>A tabela possui os pesos relativos e sua justificativa?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os requisitos são únicos e não se repetem?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Os cálculos estão corretos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+### Checklist de In our Out
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato In our Out</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">ID</th>
+      <th align="center">Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>É identificado a gravação e os registros da atividade de priorização dos requisitos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Os requisitos priorizados estão identificados por IDs?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Todos os requisitos elicitados tiveram sua prioridade definida?</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Há um grupo de stakeholds?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>O grupo definiou o critério de ser in or out?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+### Checklist de Observação
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Observação</p></font>
+
+
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+### Checklist de Requisitos Elicitados
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Elicitados</p></font>
+
+
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
+### Checklist de Requisitos Priorizados
+
+Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Requisitos Priorizados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos_priorizados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Priorizados</p></font>
+
+
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Referências Bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
