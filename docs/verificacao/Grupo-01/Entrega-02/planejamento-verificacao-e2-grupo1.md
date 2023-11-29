@@ -223,50 +223,50 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>A prorização foi realizada em conjunto com um usuário real?</td>
-      <td></td>
+      <td>A prorização foi realizada em conjunto com um usuário real [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>O usuário que participou se enquadrava no perfil de usuário estabelecido?</td>
-      <td></td>
+      <td>O usuário que participou se enquadrava no perfil de usuário estabelecido? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>Os requisitos priorizados foram previamente elicitados?</td>
-      <td></td>
+      <td>Os requisitos priorizados foram previamente elicitados? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>Os requisitos priorizados passaram por algum processo de validação?</td>
-      <td></td>
+      <td>Os requisitos priorizados passaram por algum processo de validação? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Os requisitos piorizados tinham ID identificando de qual técnica de elicitação eles eram provenientes?</td>
-      <td></td>
+      <td>Os requisitos piorizados tinham ID identificando de qual técnica de elicitação eles eram provenientes? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>Utilizou-se $100 para serem distribuidos entre os requisitos a fim de prioriza-los?</td>
-      <td></td>
+      <td>Utilizou-se $100 para serem distribuidos entre os requisitos a fim de prioriza-los? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>O processo de priorização levou em consideração a dependêcia entre requisitos?</td>
-      <td></td>
+      <td>O processo de priorização levou em consideração a dependêcia entre requisitos? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">8</td>
-      <td>Os requisitos foram, posteriormente, separados por nível de prioridade?</td>
-      <td></td>
+      <td>Os requisitos foram, posteriormente, separados por nível de prioridade? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
 </table>
@@ -297,44 +297,44 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>A técnica que foi utilizada para priorização é descrita?</td>
+      <td>A técnica que foi utilizada para priorização é descrita? [3]</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>Os requisitos estão ordenados em ordem de prioridade?</td>
+      <td>Os requisitos estão ordenados em ordem de prioridade? [3]</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>A fórmula para o cálculo do valor está correta?</td>
-      <td></td>
+      <td>A fórmula para o cálculo do valor está correta? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>A tabela possui os pesos relativos e sua justificativa?</td>
-      <td></td>
+      <td>A tabela possui os pesos relativos e sua justificativa? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Os requisitos são únicos e não se repetem?</td>
-      <td></td>
+      <td>Os requisitos são únicos e não se repetem? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos?</td>
-      <td></td>
+      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>Os cálculos estão corretos?</td>
-      <td></td>
+      <td>Os cálculos estão corretos? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
 </table>
@@ -361,38 +361,38 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>É identificado a gravação e os registros da atividade de priorização dos requisitos?</td>
-      <td></td>
+      <td>É identificado a gravação e os registros da atividade de priorização dos requisitos? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os requisitos priorizados estão identificados por IDs?</td>
-      <td></td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?</td>
-      <td></td>
+      <td>Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>Todos os requisitos elicitados tiveram sua prioridade definida?</td>
-      <td></td>
+      <td>Todos os requisitos elicitados tiveram sua prioridade definida? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Há um grupo de stakeholds?</td>
-      <td></td>
+      <td>Há um grupo de stakeholds? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>O grupo definiou o critério de ser in or out?</td>
-      <td></td>
+      <td>O grupo definiou o critério de ser in or out? [3]</td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
 </table>
@@ -576,6 +576,7 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 >
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
+> [3] WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.
 
 ## Bibliografia
 
