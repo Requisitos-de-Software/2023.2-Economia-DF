@@ -335,7 +335,7 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
       <td align="center">7</td>
       <td>Os cálculos estão corretos? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%201.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png"></td>
     </tr>
 </table>
 
