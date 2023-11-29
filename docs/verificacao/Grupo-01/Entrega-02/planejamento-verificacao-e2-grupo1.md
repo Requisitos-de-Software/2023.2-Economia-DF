@@ -274,6 +274,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+### Checklist de Grupo de Foco
+
+### Checklist de Brainstorming
+
 ### Checklist de First Thing First
 
 Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
@@ -396,6 +400,8 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+### Checklist de Introspecção
+
 ### Checklist de Observação
 
 Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
@@ -459,6 +465,12 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
+
+### Checklist de Perfil de Usuário
+
+### Checklist de Personas
+
+### Checklist de Questionário
 
 ### Checklist de Requisitos Elicitados
 
