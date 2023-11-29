@@ -576,19 +576,6 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 >
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
-> [3] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
->
-> [4] SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 10. Acesso em: 18 de novembro de 2022.
->
-> [5] SERRANO, Maurício. SERRANO, Milene. Slide “Requisitos - Aula 13”. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Acesso em: 18 de novembro de 2023.
->
-> [6] Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 18 de novembro 2023.
->
-> [7] REINEHR, Sheila. Engenharia de requisitos. Porto Alegre: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 18 novembro 2023.
->
-> [8] SERRANO, et al. Requisitos - Aula 13. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Acesso em 18 de novembro 2023.
->
-> [9] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 18 de novembro de 2023.
 
 ## Bibliografia
 
