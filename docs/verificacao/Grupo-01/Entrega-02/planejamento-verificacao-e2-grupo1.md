@@ -298,13 +298,13 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td align="center">1</td>
       <td>A técnica que foi utilizada para priorização é descrita? [3]</td>
-      <td></td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os requisitos estão ordenados em ordem de prioridade? [3]</td>
-      <td></td>
+      <td>WIEGERS, Karl. BEATTY Joy. Software Requirements Third Edition. 2013.</td>
       <td></td>
     </tr>
     <tr>
