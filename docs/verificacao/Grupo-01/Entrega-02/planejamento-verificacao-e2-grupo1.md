@@ -348,8 +348,8 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <table>
   <thead>
     <tr>
-      <th align="center">ID</th>
-      <th align="center">Descrição</th>
+      <th>ID</th>
+      <th>Descrição</th>
       <th>Fonte</th>
       <th>Foto</th>
     </tr>
@@ -378,8 +378,6 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
       <td>Todos os requisitos elicitados tiveram sua prioridade definida?</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">5</td>
@@ -405,7 +403,59 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Observação</p></font>
 
-
+<table>
+  <thead>
+    <tr>
+      <th align="center">ID</th>
+      <th align="center">Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Os objetivos da observação são estabelecidos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Os participantes são selecionados a partir do perfil de usuários</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>São apresentadas as atividades a serem observadas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>É definida a postura do observador?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>A observação foi realizada com mais de uma pessoa?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -417,7 +467,53 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Elicitados</p></font>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Existem uma introdução condizente com o conteúdo apresentado no artefato?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Os requisitos foram diferenciados entre "Funcionais" e "Não Funcionais"?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Nos requisitos elicitados, mostram como eles foram elicitados?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>É mostrado se os requisitos já são implementados ou não?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os requisitos elicitados estão classificados e organizados corretamente?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Todos os requisitos possuem uma rastreabilidade mínimo?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -429,7 +525,35 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Priorizados</p></font>
 
-
+<table>
+  <thead>
+    <tr>
+      <th align="center">ID</th>
+      <th align="center">Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Existem uma introdução condizente com o conteúdo apresentado no artefato?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>No artefato, é mostrado as 3 técnicas de priorização que serão utilizadas pelo grupo?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Existe um link para cada técnica em si?</td>
+      <td></td>
+      <td></td>
+    </tr>
+</table>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
