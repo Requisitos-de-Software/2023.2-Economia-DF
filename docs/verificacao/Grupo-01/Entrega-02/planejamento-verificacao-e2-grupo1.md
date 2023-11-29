@@ -298,43 +298,43 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td align="center">1</td>
       <td>A técnica que foi utilizada para priorização é descrita? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%201.png"></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os requisitos estão ordenados em ordem de prioridade? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%202.png"></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>A fórmula para o cálculo do valor está correta? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png"></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>A tabela possui os pesos relativos e sua justificativa? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%204.png"></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Os requisitos são únicos e não se repetem? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%205.png"></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%206.png"></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Os cálculos estão corretos? [3]</td>
-      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.</td>
+      <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png"></td>
     </tr>
 </table>
@@ -421,44 +421,44 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>Os objetivos da observação são estabelecidos?</td>
-      <td></td>
+      <td>Os objetivos da observação são estabelecidos? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>Os participantes são selecionados a partir do perfil de usuários</td>
-      <td></td>
+      <td>Os participantes são selecionados a partir do perfil de usuários [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho?</td>
-      <td></td>
+      <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>São apresentadas as atividades a serem observadas?</td>
-      <td></td>
+      <td>São apresentadas as atividades a serem observadas? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>É definida a postura do observador?</td>
-      <td></td>
+      <td>É definida a postura do observador? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? </td>
-      <td></td>
+      <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>A observação foi realizada com mais de uma pessoa?</td>
-      <td></td>
+      <td>A observação foi realizada com mais de uma pessoa? [4]</td>
+      <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
       <td></td>
     </tr>
 </table>
@@ -576,8 +576,9 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 >
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
-> [3] SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 25 de novembro de 2022.
+> [3] SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.
 >
+> [4] VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.
 
 ## Bibliografia
 
