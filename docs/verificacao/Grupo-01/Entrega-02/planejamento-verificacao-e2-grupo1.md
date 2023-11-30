@@ -769,7 +769,122 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Checklist de Perfil de Usuário
+
+### Checklist Perfil de Usuário
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perrfil de Usuário da Entrega 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Foram utilizados estudos, como entrevistas ou questionários, para coletar dados para o perfil de usuário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os dados coletados foram agrupados por faixas e grupos nos quais os usuários se encaixam?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Foi elaborado um perfil de usuários com base nos dados agregados?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Existe uma proporção calculada para os usuários em cada perfil identificado?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Os usuários foram categorizados em grupos considerando idade, experiência, atitudes e tarefas primárias?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O perfil de usuário identifica características relevantes?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>O perfil de usuário inclui informações sobre cargos ocupados pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>O perfil de usuário inclui informações sobre as atitudes desempenhadas pelos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O perfil de usuário abrange informações sobre a experiência dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O perfil de usuário inclui detalhes sobre o nível de instrução dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O perfil de usuário descreve as atividades principais dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O perfil de usuário considera a faixa etária dos usuários?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O perfil de usuário avalia a relação dos usuários com a tecnologia?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>O perfil de usuário considera a relação dos usuários com o domínio do produto?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O perfil de usuário avalia a relação dos usuários com as principais tarefas realizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>As características identificadas nos perfis foram priorizadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Foi designada uma responsabilidade específica para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foi estabelecido um cronograma para a elaboração do questionário?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foi definido um prazo para o preenchimento do questionário?</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ### Checklist de Personas
 
