@@ -184,7 +184,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Matriz de Rastreabilidade" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Grafico%20geral-%20Matriz%20de%20Rastreabilidade.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
 </div>
@@ -196,7 +196,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Matriz de Rastreabilidade" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Grafico%20especifico-%20Matriz%20de%20Rastreabilidade.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 
@@ -211,3 +211,4 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 25/11/2023 | Criação do documento  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
+| `1.1`  | 30/11/2023 | Adição do link dos videos e dos graficos  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
