@@ -98,37 +98,37 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>Os objetivos da observação são estabelecidos?</td>
+      <td>Os objetivos da observação são estabelecidos? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>Os participantes são selecionados a partir do perfil de usuários</td>
+      <td>Os participantes são selecionados a partir do perfil de usuários? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho?</td>
+      <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>São apresentadas as atividades a serem observadas?</td>
+      <td>São apresentadas as atividades a serem observadas? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>É definida a postura do observador?</td>
+      <td>É definida a postura do observador? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? </td>
+      <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>A observação foi realizada com mais de uma pessoa?</td>
+      <td>A observação foi realizada com mais de uma pessoa? [3]</td>
       <td align="center">Sim</td>
     </tr>
 </table>
@@ -195,6 +195,7 @@ No Vídeo 1, é possível ver a gravação da consolidação do artefato "Observ
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
+> [3] VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.
 
 ## Bibliografia
 
