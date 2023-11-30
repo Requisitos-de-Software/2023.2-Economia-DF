@@ -97,37 +97,37 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>A técnica que foi utilizada para priorização é descrita?</td>
+      <td>A técnica que foi utilizada para priorização é descrita? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>Os requisitos estão ordenados em ordem de prioridade?</td>
+      <td>Os requisitos estão ordenados em ordem de prioridade? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>A fórmula para o cálculo do valor está correta?</td>
+      <td>A fórmula para o cálculo do valor está correta? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>A tabela possui os pesos relativos e sua justificativa?</td>
+      <td>A tabela possui os pesos relativos e sua justificativa? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Os requisitos são únicos e não se repetem?</td>
+      <td>Os requisitos são únicos e não se repetem? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos?</td>
+      <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos? [3]</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>Os cálculos estão corretos?</td>
+      <td>Os cálculos estão corretos? [3]</td>
       <td align="center">Sim</td>
     </tr>
 </table>
@@ -180,7 +180,8 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 > 
 > [2] Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.
 >
-
+> [3] SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.
+>
 ## Bibliografia
 
 > Economia-DF. [First Thing First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
