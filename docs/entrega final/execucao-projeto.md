@@ -6,6 +6,27 @@ O propósito fundamental deste artefato reside na otimização da compreensão e
 
 ## Resumo da Execução do Projeto
 
+A execução detalhada do projeto fornece um resumo abrangente de cada etapa crítica, acompanhada dos artefatos associados. Essa abordagem proporciona uma compreensão clara das atividades envolvidas, permitindo um acompanhamento preciso do progresso. A estrutura organizada da tabela não só facilita a visualização das etapas do projeto, mas também destaca as entregas específicas esperadas em cada fase. Essa documentação meticulosa não apenas serve como um guia eficiente para a equipe, mas também contribui para a eficácia global do projeto. Na Tabela 1, é possível ver uma visão mais detalhada das etapas e dos artefatos relacionados.
+
+<div align="center">
+<p><b>Tabela 1:</b> Execução do Projeto.</p>
+  
+  <table>
+  <tr align="center">
+    <th>Etapas do Projeto</th>
+    <th>Definição</th>
+    <th>Artefato(s) Produzido(s)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
