@@ -1,4 +1,4 @@
-# Verificação e Validação - Entrega 2
+# Planejamento Verificação e Validação - Entrega 2
 
 ## Introdução
 
@@ -362,9 +362,163 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Checklist de Grupo de Foco
+### Checklist Grupo de Foco
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Os objetivos do Grupo de Foco foram claramente definidos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>A metodologia do Grupo de Foco foi adequada para traçar o perfil do usuário?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A agenda da reunião do Grupo de Foco foi comunicada antecipadamente e de forma clara?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Os membros do Grupo de Foco foram bem recrutados, representando adequadamente o público-alvo?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O roteiro da entrevista utilizado no Grupo de Foco abordou questões relevantes para a elaboração do perfil do usuário?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A condução da reunião foi imparcial e permitiu a expressão livre das opiniões dos participantes?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>A documentação do Grupo de Foco, incluindo gravações, está completa e organizada?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>As informações fornecidas pelos participantes do Grupo de Foco foram significativas e agregaram valor?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O documento final do Grupo de Foco reflete de maneira precisa as conclusões e sugestões dos participantes?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O link da gravação foi compartilhado de maneira acessível e compreensível?</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Checklist de Brainstorming
+
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th>Fonte</th>
+      <th>Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Os objetivos do Brainstorming foram claramente definidos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Os participantes do Brainstorming foram selecionados considerando sua relevância para o tema?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A sessão de Brainstorming foi bem facilitada para encorajar a participação ativa?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Todas as ideias foram registradas sem julgamento durante a sessão de Brainstorming?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Foram exploradas diversas perspectivas e abordagens durante o Brainstorming?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A quantidade de tempo dedicada ao Brainstorming foi apropriada para a complexidade do problema?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>O registro das ideias do Brainstorming é claro e compreensível?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>As ideias geradas no Brainstorming foram avaliadas de forma eficaz para seleção das melhores?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O documento final do Brainstorming reflete as ideias prioritárias e decisões tomadas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O Brainstorming contribuiu de maneira efetiva para a resolução do problema ou geração de novas ideias?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Os participantes do Brainstorming expressaram satisfação com o processo?</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Checklist de First Thing First
 
@@ -490,6 +644,67 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Introspecção
 
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th align="center">Fonte</th>
+      <th align="center">Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O artefato inclui um cronograma detalhado (data e horário) e local para a realização da elicitação dos requisitos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Há registro da atividade de elicitação dos requisitos?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Os requisitos elicitados foram categorizados entre funcionais e não-funcionais?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Foi explicitado o motivo da escolha da técnica de elicitação? (Observação: A técnica é explicada, mas não o motivo de sua escolha.)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Considerou-se que a técnica pode não refletir totalmente a visão do usuário, dado que é conduzida por membros da equipe do projeto?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Cada membro que participou apresentou uma explicação detalhada sobre como executou a técnica?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os requisitos elicitados foram identificados por meio de IDs?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Para cada requisito funcional, foi indicado se foi implementado ou não.?</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Checklist de Observação
 
 Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
@@ -558,7 +773,194 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Personas
 
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th align="center">Fonte</th>
+      <th align="center">Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>É informado o motivo de se ter personas no projeto?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>É mostrado como as personas serão usadas no projeto?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A persona foi definida usando o perfil de usuário?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>A persona é um personagem fictício?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>A persona primária representa o público-alvo?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>A persona apresenta as características esperadas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>A persona possui citações para melhor entendimento do que ela precisa?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>A persona é bem detalhada?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Foi definido um elenco de personas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>É informado o porquê da quantidade de personas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>No texto, é explicitado a metodologia utilizada para a criação das personas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Todas as personas foram descritas de modo pessoal, técnico e profissional?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Foram descritas as motivações de cada persona?</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Houve algum registro de gravação no processo de criação das personas?</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+
 ### Checklist de Questionário
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descrição</th>
+      <th align="center">Fonte</th>
+      <th align="center">Foto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Foi informado o motivo da escolha do questionário?</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>O questionário apresenta um termo de consentimento onde a pessoa permite a utilização das informações que ira fornecer?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>O questionário apresenta mais perguntas fechadas do que perguntas abertas?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Os resultados foram tratados e apresentados?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>O perfil de usuário apresenta os pontos principais requisitados?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>É explicado no artefato como o questionário será utilizado?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>As perguntas apresentam alguma ordem ou padrão estratégico?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">9</td>
+      <td>Apresenta no texto os locais onde o questionário foi distribuído?	</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>Apresenta no texto o prazo em que ficou aberto?</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td>Houve o cuidado para não haver perguntas pessoais ou evasivas?	</td>
+      <td align="center"></td>
+      <td align="center"></td>  
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
+
 
 ### Checklist de Requisitos Elicitados
 
