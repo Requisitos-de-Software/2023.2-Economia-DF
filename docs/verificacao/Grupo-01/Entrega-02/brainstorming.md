@@ -83,7 +83,7 @@ Na Tabela 1, é possível visualizar os resultados obtidos na verificação do a
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-### Checklist Geral
+### Checklist Brainstorming
 
 Na Tabela 2, é possível visualizar os resultados obtidos na verificação do artefato "Brainstorming" em relação ao checklist específico.
 
