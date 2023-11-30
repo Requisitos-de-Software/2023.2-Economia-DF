@@ -106,6 +106,10 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
 
 A implementação do artefato de visualização das etapas do projeto representa não apenas uma ferramenta eficaz para a gestão do empreendimento, mas também para o seu sucesso. Ao proporcionar uma compreensão clara e abrangente da organização temporal e lógica das atividades, essa abordagem não só promove a transparência, mas também permite uma identificação proativa de desafios e a alocação eficiente de recursos. A documentação detalhada apresentada na tabela não apenas serve como um guia essencial para a equipe, facilitando o acompanhamento preciso do progresso, mas também contribui para a eficácia do projeto. Em última análise, a combinação de uma visão completa do projeto, destacando suas etapas críticas e entregas específicas, consolida este método como um elemento vital para orientar o desenvolvimento do projeto, culminando em uma gestão mais eficiente e no alcance de seus objetivos.
 
+## Bibliografia
+
+> Economia DF. Disponível em: https://github.com/Requisitos-de-Software/2023.2-Economia-DF/tree/main. Acesso em 30 de novembro de 2023.
+
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
