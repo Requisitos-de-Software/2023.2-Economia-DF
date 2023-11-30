@@ -14,13 +14,59 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
   <table>
   <tr align="center">
     <th>Etapas do Projeto</th>
-    <th>Definição</th>
+    <th colspan="2">Definição</th>
     <th>Artefato(s) Produzido(s)</th>
   </tr>
   <tr>
+    <td>Planejamento</td>
+    <td colspan="2">O planejamento do projeto envolveu a análise dos potenciais aplicativos para a disciplina, a seleção de um deles, a elaboração do cronograma, a definição das ferramentas a serem utilizadas e o agendamento das reuniões semanais pela equipe.</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Pré-rastrabilidade</td>
+    <td colspan="2">A pré-rastreabilidade engloba um procedimento de entendimento da arquitetura do aplicativo, visando identificar potenciais requisitos alinhados ao contexto específico em questão.</td>
     <td></td>
+  </tr>
+  <tr>
+    <td rowspan="6">Elicitação</td>
+    <td rowspan="6">A fase de elicitação pode ser subdividida em dois procedimentos distintos: o primeiro consiste na coleta de requisitos por meio de diversas técnicas, enquanto o segundo se concentra na priorização dos requisitos identificados.</td>
+  </tr>
+  <tr>
+    <td>Artefatos Auxiliares</td>
     <td></td>
+  </tr>
+    <td>Técnicas de Elicitação</td>
+    <td></td>
+  </tr>
+    <td>Técnicas de Priorização</td>
+    <td></td>
+  </tr>
+    <td>Requisitos Elicitados</td>
+    <td></td>
+  </tr>
+  </tr>
+    <td>Requisitos Priorizados</td>
+    <td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Cabeçalho 1</th>
+    <th>Cabeçalho 2</th>
+    <th>Cabeçalho 3</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Item 1</td>
+    <td>Item 2</td>
+    <td>Item 2</td>
+  </tr>
+  <tr>
+    <td>Item 7</td>
+    <td>Item 8</td>
+  </tr>
+  <tr>
+    <td colspan="3">Item 3</td>
   </tr>
 </table>
 
