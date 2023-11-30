@@ -39,12 +39,12 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?  </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
@@ -54,32 +54,32 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?  </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?  </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? </td>
-      <td>Não se aplica</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
