@@ -26,10 +26,10 @@ Neste documento, será apresentado e validado o protótipo de alta fidelidade do
   <tr>
     <td>Cronograma Executado</td>
     <td>Lucas Víctor</td>
-    <td>-</td>
-    <td>00:00</td>
-    <td>00:00</td>
-    <td>28/11/2023</td>
+    <td>Antônio José</td>
+    <td>15:00</td>
+    <td>15:10</td>
+    <td>30/11/2023</td>
     <td>Presencial</td>
   </tr>
 </table>
@@ -63,7 +63,7 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/kkkrNsJEQNc?si=rKy0mNH0Mn-TAMiD" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Emitir Segunda Via da Dívida Ativa"</a></p>
+<p style="text-align: center"><a href="https://youtu.be/kkkrNsJEQNc?si=rKy0mNH0Mn-TAMiD" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Cadastro de imóvel com apenas 8 números"</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkkrNsJEQNc?si=yWhxY-sr8yWkVCQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
