@@ -159,7 +159,23 @@ Nenhum problema encontrado no checklist específico.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Matriz de Rastreabilidade](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/matriz-de-rastreabilidade.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[Matriz de Rastreabilidade](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/matriz-de-rastreabilidade.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não se aplica" obtidos na verificação. Também nessa seção se encontra o gravação do documento de Verificação.
+
+
+## Gravação do Documento de Verificação "Matriz de Rastreabilidade"
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Matriz de Rastreabilidade" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/alrc_HNT2BY" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Matriz de Rastreabilidade".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/alrc_HNT2BY" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+
+</div>
+
 
 ### Checklist geral
 
