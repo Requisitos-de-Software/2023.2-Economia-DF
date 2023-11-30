@@ -128,17 +128,18 @@ Os checklists criados se baseiam nos critérios estabelecidos na bibliografia re
 
 ### Checklist Geral
 
-Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 4 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 6 do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 4</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 3</p></font>
 
 <table>
   <thead>
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
@@ -146,46 +147,49 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-2.png"></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-5.png"></td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
-      <td></td>
+      <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
+     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
     </tr>
   </tbody>
 </table>
