@@ -4,14 +4,14 @@
 
 O propósito fundamental deste artefato reside na otimização da compreensão e visualização da estruturação das diversas etapas que compõem o projeto em questão. Por meio dessa ferramenta, busca-se proporcionar uma visão mais clara e abrangente da organização temporal e lógica das atividades, permitindo aos stakeholders e membros da equipe uma compreensão mais profunda do fluxo de trabalho. Ao facilitar a visualização das interconexões entre as etapas, esse artefato contribui para uma gestão mais eficaz, possibilitando a identificação precoce de possíveis desafios, a alocação eficiente de recursos e a tomada de decisões informadas ao longo do desenvolvimento do projeto. Em suma, sua implementação visa promover uma maior transparência e clareza na condução das atividades, impulsionando a eficiência e o sucesso global do empreendimento.
 
-## Resumo da Execução do Projeto
+## Síntese da Realização do Projeto
 
 A execução detalhada do projeto fornece um resumo abrangente de cada etapa crítica, acompanhada dos artefatos associados. Essa abordagem proporciona uma compreensão clara das atividades envolvidas, permitindo um acompanhamento preciso do progresso. A estrutura organizada da tabela não só facilita a visualização das etapas do projeto, mas também destaca as entregas específicas esperadas em cada fase. Essa documentação meticulosa não apenas serve como um guia eficiente para a equipe, mas também contribui para a eficácia global do projeto. Na Tabela 1, é possível ver uma visão mais detalhada das etapas e dos artefatos relacionados.
 
 <div align="center">
 <p><b>Tabela 1:</b> Execução do Projeto.</p>
   
-  <table>
+<table>
   <tr align="center">
     <th align="center">Etapas do Projeto</th>
     <th colspan="2" align="center">Definição</th>
@@ -105,6 +105,10 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
 ## Conclusão
 
 A implementação do artefato de visualização das etapas do projeto representa não apenas uma ferramenta eficaz para a gestão do empreendimento, mas também para o seu sucesso. Ao proporcionar uma compreensão clara e abrangente da organização temporal e lógica das atividades, essa abordagem não só promove a transparência, mas também permite uma identificação proativa de desafios e a alocação eficiente de recursos. A documentação detalhada apresentada na tabela não apenas serve como um guia essencial para a equipe, facilitando o acompanhamento preciso do progresso, mas também contribui para a eficácia do projeto. Em última análise, a combinação de uma visão completa do projeto, destacando suas etapas críticas e entregas específicas, consolida este método como um elemento vital para orientar o desenvolvimento do projeto, culminando em uma gestão mais eficiente e no alcance de seus objetivos.
+
+## Bibliografia
+
+> Economia DF. Disponível em: https://github.com/Requisitos-de-Software/2023.2-Economia-DF/tree/main. Acesso em 30 de novembro de 2023.
 
 ## Histórico de Versões
 
