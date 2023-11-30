@@ -63,7 +63,9 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 
 <div align="center">
 
-<p style="text-align: center"><a href="#" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Emitir Segunda Via da Dívida Ativa"</a></p>
+<p style="text-align: center"><a href="https://youtu.be/kkkrNsJEQNc?si=rKy0mNH0Mn-TAMiD" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Emitir Segunda Via da Dívida Ativa"</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkkrNsJEQNc?si=yWhxY-sr8yWkVCQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
