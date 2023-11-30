@@ -20,12 +20,17 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
   <tr>
     <th align="center">Planejamento</th>
     <td colspan="2">O planejamento do projeto envolveu a análise dos potenciais aplicativos para a disciplina, a seleção de um deles, a elaboração do cronograma, a definição das ferramentas a serem utilizadas e o agendamento das reuniões semanais pela equipe.</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/heatmap-disponibilidade/">Heatmap</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/ferramentas/">Ferramentas Utilizadas</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/lista-apps-avaliados/">Aplicativos Avaliados</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/app-selecionado/">Aplicativo Escolhido</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/cronograma_planejado/">Cronograma Planejado</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/cronograma_planejado/">Cronograma Executado</a></td>
   </tr>
   <tr>
     <th align="center">Pré-rastrabilidade</th>
     <td colspan="2">A pré-rastreabilidade engloba um procedimento de entendimento da arquitetura do aplicativo, visando identificar potenciais requisitos alinhados ao contexto específico em questão.</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/rich-picture/">Rich Picture</a></td>
   </tr>
   <tr>
     <th rowspan="6" align="center">Elicitação</th>
@@ -33,20 +38,27 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
   </tr>
   <tr>
     <td align="center">Artefatos Auxiliares</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/perfil_usuario/">Perfil de Usuário</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/personas/">Personas</a></td>
   </tr>
     <td align="center">Técnicas de Elicitação</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/brainstorming/">Brainstorming</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/instrospeccao/">Instrospecção</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o/">Observação</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/grupo_de_foco/">Grupo de Foco</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/">Questionário</a></td>
   </tr>
     <td align="center">Técnicas de Priorização</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/first-thing-first/">First Thing First</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/in%20our%20out/">In our Out</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/100%24/">100$</a></td>
   </tr>
     <td align="center">Requisitos Elicitados</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">Requisitos Elicitados</a></td>
   </tr>
   </tr>
     <td align="center">Requisitos Priorizados</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos_priorizados/">Requisitos Priorizados</a></td>
   </tr>
   <tr>
     <th rowspan="3" align="center">Modelagem</th>
@@ -54,27 +66,36 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
   </tr>
   <tr>
     <td align="center">Modelagem de Requisitos</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/">Cenários</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/">Casos de Uso</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/">Validação dos Casos de Uso</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação Suplementar</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/">Léxicos</a></td>
   </tr>
   <tr>
     <td align="center">Modelagem Ágil</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/">Backlogs</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/">Histórias de Usuário</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/">NFR Framework</a></td>
   </tr>
   <tr>
     <th align="center">Verificação</th>
     <td colspan="2">O processo de verificação dos artefatos, utilizando o método de inspeção de Fagan, destaca-se como uma abordagem estruturada e minuciosa para assegurar a qualidade ao longo do ciclo de desenvolvimento, visando identificar potenciais defeitos e garantir a conformidade dos artefatos com os requisitos estabelecidos.</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/verificacao-panorama-geral/">Grupo 01</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/verificacao-panorama-geral/">Grupo 02</a></td>
   </tr>
   <tr>
     <th align="center">Validação</th>
     <td colspan="2">A validação dos requisitos implica na análise do alinhamento destes com as demandas expressas pelos stakeholders, verificando sua conformidade em um ambiente real de aplicação.</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/">Validação</a></td>
   </tr>
   <tr>
   <tr>
     <th align="center">Pós-rastreabilidade</th>
     <td colspan="2">A pós-rastreabilidade desempenha um papel importante na integração eficiente dos requisitos ao longo da jornada do projeto, consistindo na ligação dos requisitos aos artefatos criados durante a execução, estabelecendo uma trilha clara que permite rastrear a evolução e implementação de cada demanda.</td>
-    <td></td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/">Backward-From</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/">Forward-From</a>,
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/">Matriz de Rastreabilidade</a></td>
   </tr>
 </table>
 
