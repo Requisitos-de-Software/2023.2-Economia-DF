@@ -87,7 +87,7 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
   <tr>
     <th align="center">Validação</th>
     <td colspan="2">A validação dos requisitos implica na análise do alinhamento destes com as demandas expressas pelos stakeholders, verificando sua conformidade em um ambiente real de aplicação.</td>
-    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/">Validação</a></td>
+    <td align="center"><a href="">Validação</a></td>
   </tr>
   <tr>
   <tr>
