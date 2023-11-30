@@ -11,7 +11,7 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
 <div align="center">
 <p><b>Tabela 1:</b> Execução do Projeto.</p>
   
-  <table>
+<table>
   <tr align="center">
     <th align="center">Etapas do Projeto</th>
     <th colspan="2" align="center">Definição</th>
