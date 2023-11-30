@@ -142,70 +142,70 @@ A verificação será executada no período de 26/11/2023 a 30/11/2023, as ativi
 </thead>
 <tbody>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Planejamento da verificação</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e
         <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "100$"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Grupo de Foco"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Brainstorming"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "First Thing First"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "In our Out"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Introspecção"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "Observação"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Perfil de Usuário"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Personas"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>27/11/2023</td>
+        <td align="center">27/11/2023</td>
         <td>Verificação do artefato "Questionário"</td>
-        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td align="center"><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "Requisitos Elicitados"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>
-        <td>26/11/2023</td>
+        <td align="center">26/11/2023</td>
         <td>Verificação do artefato "Requisitos Priorizados"</td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
 </tbody>
 </table>
