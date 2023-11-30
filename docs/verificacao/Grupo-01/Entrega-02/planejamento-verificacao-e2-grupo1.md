@@ -125,6 +125,94 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
+## Cronograma
+
+A verificação será executada no período de 26/11/2023 a 30/11/2023, as atividades desenvolvidas nesse processo estão na Tabela 2.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cronograma do planejamento da verificação dos artefatos </p></font>
+
+<table>
+<thead>
+    <tr>
+        <th>Data</th>
+        <th>Descrição</th>
+        <th>Responsável</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Planejamento da verificação</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> e
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "100$"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Grupo de Foco"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Brainstorming"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "First Thing First"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "In our Out"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Introspecção"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "Observação"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Perfil de Usuário"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Personas"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>27/11/2023</td>
+        <td>Verificação do artefato "Questionário"</td>
+        <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "Requisitos Elicitados"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>26/11/2023</td>
+        <td>Verificação do artefato "Requisitos Priorizados"</td>
+        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+</tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ## Checklists
 
 Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com Sim, Não, Incompleto ou Não Se Aplica.
