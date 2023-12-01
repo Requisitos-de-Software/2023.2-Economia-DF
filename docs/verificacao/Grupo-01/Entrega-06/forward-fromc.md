@@ -9,7 +9,7 @@ Este documento apresenta os resultados da verificação por inspeção realizada
 
 O objetivo desta verificação é identificar possíveis problemas no artefato "[Forward-From](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/forward_from.md)" elaborado pelo [Grupo 1](https://interacao-humano-computador.github.io/2023.2-NotaLegal/), de forma a garantir que o mesmo atenda aos critérios de qualidade estabelecidos.
 
-## Metodologia
+## Metodologia 
 
 A metodologia seguida neste documento será a de inspeção por checklist, onde cada item do checklist será verificado e, caso seja identificado algum problema, o mesmo será registrado na seção de problemas encontrados. Ao todo, serão utilizados 2 checklists, sendo um checklist geral, que será aplicado em todos os artefatos, e um checklist específico, que será aplicado apenas no artefato em questão.
 
@@ -39,47 +39,47 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"?  </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Todas as figuras são referenciadas no texto e todas utilizam a palavra "figura" e não "imagem"? </td>
-      <td></td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
@@ -115,32 +115,27 @@ Na tabela 2, estão listados os critérios especificos que devem ser verificados
         <tr>
             <td>01</td>
             <td>O artefato possui legendas para a identificação dos requisitos ou de outros artefatos?</td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>02</td>
             <td>Existe a representação dos requisitos funcionais e não funcionais?</td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>03</td>
             <td>Cada integrante do grupo elaborou um prototipo para um requistos não implementado?</td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>04</td>
             <td>No artefato diz se o requisito foi implementado ou não?</td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
         </tr>
         <tr>
             <td>05</td>
             <td>Os requistos estão alinhados com os requistos do backward-from?</td>
-            <td></td>
-            <td></td>
+            <td>Sim</td>
         </tr>
     </tbody>
 </table>
