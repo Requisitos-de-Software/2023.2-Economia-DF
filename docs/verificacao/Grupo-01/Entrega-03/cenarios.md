@@ -153,7 +153,7 @@ No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
 
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/edaeec4238fa1a5e61228479cda753242f031de7/docs/imagens/verificacao_Zenilda/Cenarios_CheckGeral.jpg" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_Zenilda/Cenarios_CheckGeral.jpg" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
@@ -169,7 +169,7 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/edaeec4238fa1a5e61228479cda753242f031de7/docs/imagens/verificacao_Zenilda/Cenarios_CheckEsp.jpg" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verificacao_Zenilda/Cenarios_CheckEsp.jpg" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
