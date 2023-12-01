@@ -82,10 +82,16 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/">NFR Framework</a></td>
   </tr>
   <tr>
-    <th align="center">Verificação</th>
-    <td colspan="2">O processo de verificação dos artefatos, utilizando o método de inspeção de Fagan, destaca-se como uma abordagem estruturada e minuciosa para assegurar a qualidade ao longo do ciclo de desenvolvimento, visando identificar potenciais defeitos e garantir a conformidade dos artefatos com os requisitos estabelecidos.</td>
-    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/verificacao-panorama-geral/">Grupo 01</a>,
-    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/verificacao-panorama-geral/">Grupo 02</a></td>
+    <th rowspan="3" align="center">Verificação</th>
+    <td rowspan="3">O processo de verificação dos artefatos, utilizando o método de inspeção de Fagan, destaca-se como uma abordagem estruturada e minuciosa para assegurar a qualidade ao longo do ciclo de desenvolvimento, visando identificar potenciais defeitos e garantir a conformidade dos artefatos com os requisitos estabelecidos.</td>
+  </tr>
+  <tr>
+    <th align="center">Grupo 01</th>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/verificacao-panorama-geral/#objetos-de-verificacao">Panorama Geral da Verificação dos Artefatos Entregues pelo Grupo 1</a></td>
+  </tr>
+  <tr>
+    <th align="center">Grupo 02</th>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/verificacao-panorama-geral/#objetos-de-verificacao">Panorama Geral da Verificação dos Artefatos Entregues pelo Grupo 2</a></td>
   </tr>
   <tr>
     <th align="center">Validação</th>
