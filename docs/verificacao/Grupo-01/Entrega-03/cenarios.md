@@ -12,7 +12,7 @@ A abordagem adotada neste documento consiste em uma inspeção por meio de check
 
 Nesse documento específico, a verificação foi feita em dupla por [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados.
 
-## Apresentação dos dados
+## Apresentação dos Dados
 
 Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica", onde "Sim" e "Não" significam que o artefato está em conformidade ou não com o item do checklist. Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
@@ -140,11 +140,11 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
-## Problemas encontrados
+## Problemas Encontrados
 
-De um modo geral, o documento está bem feito, bem organizado e formatado. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: "necessecitam", "caracteríssticas", " boleto nacário", "O usuário O usuário abre", "dispositivo móvel.l". Quanto ao conteúdo, a teoria foi apresentada corretamente com referência bibliográfica. 
+De um modo geral, o documento está bem feito, bem organizado e formatado. Foram encontrados alguns erros de digitação que passaram despercebidos na revisão final, como: _"necessecitam"_, _"caracteríssticas"_, _" boleto nacário"_, _"O usuário O usuário abre"_, _"dispositivo móvel.l"_. Quanto ao conteúdo, a teoria foi apresentada corretamente com referência bibliográfica. 
 
-### Checklist geral
+### Checklist Geral
 
 - **ID 06:** a numeração das tabelas está com o número 1 repetido, é necessário renomear todas as tabelas a partir da "segunda" tabela 1.
 
@@ -176,7 +176,7 @@ No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relaç
 
 ## Vídeo da Verificação do Artefato
 
-No vídeo 1 a seguir é possível assistir à verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).
+No vídeo 1 a seguir é possível assistir a verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).
 
 <div align="center">
 
@@ -186,8 +186,6 @@ No vídeo 1 a seguir é possível assistir à verificação do artefato que foi 
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
-
-
 
 ## Referências Bibliográficas
 
