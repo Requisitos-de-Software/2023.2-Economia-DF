@@ -97,7 +97,19 @@ dos texto?  </td>
 </div>
 
 
+## Gravação do Documento de Verificação "Aplicativo Selecionado"
 
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Rich Picture" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/Q3K6Z1wllZ4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Aplicativo Selecionado".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/Q3K6Z1wllZ4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+
+</div>
 
 ## Problemas encontrados
 
