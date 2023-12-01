@@ -10,7 +10,7 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
-Nesse documento específico, a verificação foi feita em dupla por [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados.
+Nesse documento específico, a verificação foi feita em dupla por [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados. Foi feita também a entrega da inspeção para o autor do documento. Como esse documento foi feito por todos os integrantes do grupo, foi o escolhido o integrante [Gabriel Zaranza](https://github.com/GZaranza) para representar o grupo 01 e discutir os problemas encontrados. Por serem problemas simples, ficou acordado que as correções serão feitas por quem executou a verificação e apresentadas posteriormente ao grupo.
 
 ## Apresentação dos Dados
 
@@ -60,7 +60,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Incompleto</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7</td>
@@ -183,6 +183,19 @@ No vídeo 1 a seguir é possível assistir a verificação do artefato que foi f
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=GrWg2NFjubo" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GrWg2NFjubo" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+## Vídeo da Consolidação da Inspeção e da Correção
+
+No vídeo 2 é possível assistir a consolidação da inspeção do artefato com o integrante do grupo [Gabriel Zaranza](https://github.com/GZaranza).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=905NiYArGxM" target="blanket"><b>Vídeo 2:</b> Consolidação da Inspeção e da Correção</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/905NiYArGxM" title="Consolidação da Inspeção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
