@@ -10,9 +10,11 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
+Nesse documento específico, a verificação foi feita em dupla por [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados.
+
 ## Apresentação dos dados
 
-Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica". Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
+Os resultados obtidos são apresentados a seguir nas tabelas 1 e 2. Cada item verificado foi respondido com "Sim", "Não", "Incompleto" ou "Não Se Aplica", onde "Sim" e "Não" significam que o artefato está em conformidade ou não com o item do checklist. Quando necessário, foram feitas observações no tópico Problemas Encontrados mais adiante.
 
 ### Checklist Geral
 
@@ -58,7 +60,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7</td>
@@ -78,7 +80,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ### Checklist Específico
@@ -86,7 +88,7 @@ Na tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato de Cenários</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de Cenários</p></font>
 
 <table>
   <thead>
@@ -135,7 +137,7 @@ Na tabela 2, encontram-se os resultados obtidos na verificação do checklist es
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
 ## Problemas encontrados
@@ -146,11 +148,46 @@ De um modo geral, o documento está bem feito, bem organizado e formatado. Foram
 
 - **ID 06:** a numeração das tabelas está com o número 1 repetido, é necessário renomear todas as tabelas a partir da "segunda" tabela 1.
 
+No Gráfico 1, encontra-se o percentual de conformidade desse artefato em relação ao checklist geral.
+
+<div align="center">
+  <p><b>Gráfico 1:</b> Resultados da verificação do checklist geral.</p>
+
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/edaeec4238fa1a5e61228479cda753242f031de7/docs/imagens/verificacao_Zenilda/Cenarios_CheckGeral.jpg" style="width: 45%;">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 ### Checklist Específico
 
 Todos os itens do checklist específico foram atendidos. Só cabe uma observação:
 
 - **ID 04:** todos os atores estão como "Usuário brasileiro com CPF ativo" com exceção do cenário 5 que está "Usuário do aplicativo Economia DF". Para padronização, seria interessante ou colocar todos iguais: "Usuário brasileiro com CPF ativo" ou mesclar os dois em todos os cenários: "Usuário do aplicativo Economia-DF, brasileiro, com CPF ativo", pois o aplicativo é o mesmo.
+
+No Gráfico 2, encontra-se o percentual de conformidade desse artefato em relação ao checklist específico.
+
+<div align="center">
+  <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
+
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-NotaLegal/edaeec4238fa1a5e61228479cda753242f031de7/docs/imagens/verificacao_Zenilda/Cenarios_CheckEsp.jpg" style="width: 45%;">
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+## Vídeo da Verificação do Artefato
+
+No vídeo 1 a seguir é possível assistir à verificação do artefato que foi feita pela dupla [Zenilda Vieira](https://github.com/zenildavieira) e [Gabriel Rosa](https://github.com/gabrielrosa09).
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=TriP4aKu2ZY" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TriP4aKu2ZY" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
+
 
 ## Referências Bibliográficas
 

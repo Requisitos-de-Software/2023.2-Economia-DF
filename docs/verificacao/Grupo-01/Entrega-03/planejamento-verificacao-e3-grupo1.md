@@ -141,7 +141,7 @@ A verificação será executada no período de 18/11/2023 a 27/11/2023, as ativi
 
 ## Checklists
 
-Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com Sim, Não, Incompleto ou Não Se Aplica.
+Nesta etapa, será definido um checklist de verificação geral, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com "Sim", "Não", "Incompleto" ou "Não Se Aplica", onde "Sim" e "Não" significam que o artefato está em conformidade ou não com o item do checklist.
 
 Além disso, as observações devem ser registradas após a tabela, indicando o ID respectivo que gerou a observação.
 
