@@ -41,6 +41,7 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/perfil_usuario/">Perfil de Usuário</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/personas/">Personas</a></td>
   </tr>
+  <tr>
     <td align="center">Técnicas de Elicitação</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/brainstorming/">Brainstorming</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/instrospeccao/">Instrospecção</a>,
@@ -48,15 +49,17 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/grupo_de_foco/">Grupo de Foco</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/">Questionário</a></td>
   </tr>
+  <tr>
     <td align="center">Técnicas de Priorização</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/first-thing-first/">First Thing First</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/in%20our%20out/">In our Out</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/100%24/">100$</a></td>
   </tr>
+  <tr>
     <td align="center">Requisitos Elicitados</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">Requisitos Elicitados</a></td>
   </tr>
-  </tr>
+  <tr>
     <td align="center">Requisitos Priorizados</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos_priorizados/">Requisitos Priorizados</a></td>
   </tr>
@@ -89,7 +92,6 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <td colspan="2">A validação dos requisitos implica na análise do alinhamento destes com as demandas expressas pelos stakeholders, verificando sua conformidade em um ambiente real de aplicação.</td>
     <td align="center"><a href="">Validação</a></td>
   </tr>
-  <tr>
   <tr>
     <th align="center">Pós-rastreabilidade</th>
     <td colspan="2">A pós-rastreabilidade desempenha um papel importante na integração eficiente dos requisitos ao longo da jornada do projeto, consistindo na ligação dos requisitos aos artefatos criados durante a execução, estabelecendo uma trilha clara que permite rastrear a evolução e implementação de cada demanda.</td>
