@@ -180,9 +180,9 @@ No vídeo 1 a seguir é possível assistir à verificação do artefato que foi 
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=TriP4aKu2ZY" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=GrWg2NFjubo" target="blanket"><b>Vídeo 1:</b> Verificação do artefato em estudo</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TriP4aKu2ZY" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrWg2NFjubo" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
