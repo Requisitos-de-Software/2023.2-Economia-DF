@@ -37,12 +37,12 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <td rowspan="6">A fase de elicitação pode ser subdividida em dois procedimentos distintos: o primeiro consiste na coleta de requisitos por meio de diversas técnicas, enquanto o segundo se concentra na priorização dos requisitos identificados.</td>
   </tr>
   <tr>
-    <td align="center">Artefatos Auxiliares</td>
+    <th align="center">Artefatos Auxiliares</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/perfil_usuario/">Perfil de Usuário</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/personas/">Personas</a></td>
   </tr>
   <tr>
-    <td align="center">Técnicas de Elicitação</td>
+    <th align="center">Técnicas de Elicitação</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/brainstorming/">Brainstorming</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/instrospeccao/">Instrospecção</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o/">Observação</a>,
@@ -50,17 +50,17 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/">Questionário</a></td>
   </tr>
   <tr>
-    <td align="center">Técnicas de Priorização</td>
+    <th align="center">Técnicas de Priorização</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/first-thing-first/">First Thing First</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/in%20our%20out/">In our Out</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/100%24/">100$</a></td>
   </tr>
   <tr>
-    <td align="center">Requisitos Elicitados</td>
+    <th align="center">Requisitos Elicitados</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/">Requisitos Elicitados</a></td>
   </tr>
   <tr>
-    <td align="center">Requisitos Priorizados</td>
+    <th align="center">Requisitos Priorizados</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos_priorizados/">Requisitos Priorizados</a></td>
   </tr>
   <tr>
