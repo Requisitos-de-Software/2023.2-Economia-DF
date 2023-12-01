@@ -22,6 +22,17 @@ A figura 1 representa o protótipo de alta fidelidade feito para o requisito "Ga
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
 
+Na figura 2 é possível explorar o protótipo na própria ferramenta Figma.
+
+<div align="center">
+
+<font size="3"><b>Figura 1</b>: Figma do Protótipo de Alta Fidelidade de Cadastro de Placa</font>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/5nW6IRVVtB2bZ8Vu5EvXbP/deslogar?type=design&node-id=0%3A1&mode=design&t=zC9BtRHCBzh3BNkw-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
+</div>
+
 ## Aspectos Práticos
 
 A seleção do participante foi cuidadosamente conduzida de acordo dom os critérios estabelecidos no [perfil de usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md#defini%C3%A7%C3%A3o-do-usu%C3%A1rio) no início do projeto. Dessa forma, o usuário João Lucas foi escolhido para participar dessa validação. Apesar dele ter 28 anos, um pouco fora da faixa etária do perfil do usuário que foi traçado, ele foi escolhido por atender os demais critérios de seleção. Ele é do sexo masculino e tem experiência com tecnologia.
