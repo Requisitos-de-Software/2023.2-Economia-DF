@@ -68,7 +68,7 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <td rowspan="3">Na etapa de modelagem, são empregadas diversas técnicas para proporcionar uma visualização mais abrangente e uma compreensão mais aprofundada do comportamento do objeto em análise.</td>
   </tr>
   <tr>
-    <td align="center">Modelagem de Requisitos</td>
+    <th align="center">Modelagem de Requisitos</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/">Cenários</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/">Casos de Uso</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/">Validação dos Casos de Uso</a>,
@@ -76,7 +76,7 @@ A execução detalhada do projeto fornece um resumo abrangente de cada etapa cr�
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/">Léxicos</a></td>
   </tr>
   <tr>
-    <td align="center">Modelagem Ágil</td>
+    <th align="center">Modelagem Ágil</th>
     <td align="center"><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/">Backlogs</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/">Histórias de Usuário</a>,
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/">NFR Framework</a></td>
