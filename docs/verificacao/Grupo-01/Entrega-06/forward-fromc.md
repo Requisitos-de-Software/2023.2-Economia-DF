@@ -39,7 +39,7 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
     <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado com pelo menos data, descrição, autores e revisores?</td>
-      <td>Incompleto</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>2</td>
@@ -144,6 +144,22 @@ Na tabela 2, estão listados os critérios especificos que devem ser verificados
 </div>
 
 
+## Gravação do Documento de Verificação  "Forward-From" em dupla
+
+No vídeo 1, é possível ver a gravação da avaliação da verificação do "Matriz de Rastreabilidade" do aplicativo do Economia DF.
+
+<div align="center">
+  
+<p style="text-align: center"><a href="https://youtu.be/wR0UoCO7gY4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Forward-From".</a></p>
+
+<iframe width="560" height="315" src="https://youtu.be/wR0UoCO7gY4" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+
+</div>
+
+
+
 
 ## Problemas encontrados
 
@@ -151,7 +167,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 ### Checklist Geral
 
-Nenhum problema encontrado no checklist geral.
+**ID 01**: Foi encontrado um pequeno problema de padronização do Historico de versões. 
 
 ### Checklist Específico
 
@@ -168,7 +184,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação do artefato "Forward-From" no checklist geral.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Checklist%20Geral-%20Forward-%20From.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de OLiveira, 2023.</p>
 </div>
@@ -180,7 +196,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do artefato "Forward-From" no checklist específico.</p>
 
-  <img src="" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Checklist%20Especifico-%20Forward-%20From.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Lucas de Oliveira, 2023.</p>
 
