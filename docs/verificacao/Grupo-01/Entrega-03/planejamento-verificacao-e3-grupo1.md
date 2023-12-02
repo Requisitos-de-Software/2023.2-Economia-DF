@@ -174,43 +174,43 @@ Na tabela 3, estão listados os critérios que devem ser verificados em todos os
       <td>2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td>3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td>5</td>
       <td>O artefato possui introdução? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-2.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-2.png?raw=true"></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-5.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-5.png?raw=true"></td>
     </tr>
     <tr>
       <td>8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
+     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
     </tr>
   </tbody>
 </table>
@@ -230,43 +230,51 @@ Na tabela 4, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
       <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3] </td>
-      <td></td>
+      <td>Fonte: Barbosa, Diniz; Silva, Bruno. Interação Humano-Computador. Cap. 6, pág. 183 e 184.</td>
+      <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-cenarios-1.jpg?raw=true"></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O contexto é descrito em função de local, tempo e pré-condições? [3]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>O cenário descreve situações realistas e relevantes de interação do sistema? [3]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os atores são condizentes com o contexto do cenário? [3]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>Os episódios do cenário estão coerentes e seguem uma ordem cronológica e fluída para atingir o objetivo? [3]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>O artefato cita as técnicas utilizadas para especificação dos cenários do projeto?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>O cenário possui um ator principal e um objetivo em definido? [3]</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -288,7 +296,8 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
@@ -296,40 +305,48 @@ Na tabela 5, estão listados os critérios que devem ser verificados no artefato
       <td>1</td>
       <td>O artefato possui a especificação dos léxicos?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os Léxicos possuem a especificação (definição) dos usuários da aplicação?</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)? [4]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>Cada léxico possui classificação, noção, impacto e sinônimo? [4]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>Cada léxico apresenta sua classificação correta? [4]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Cada léxico apresenta seu sinônimo correto? [4]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação? [4] </td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -345,13 +362,13 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato de Casos de Uso</p></font>
 
-
 <table>
   <thead>
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
@@ -359,95 +376,114 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
       <td>1</td>
       <td>O artefato possui um diagrama de casos de uso?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato cita a técnica utilizada para elaboração do diagrama de caso de uso do projeto?</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>O diagrama de caso de uso possui os atores principais e atores secundários? [5]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? [6]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? [5]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>No diagrama de Caso de Uso há pontos de extensão corretamente representados? [6]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>As elipses do diagrama representam ações com o uso de verbos no infinitivo e não substantivos? [5] </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>10</td>
       <td>No diagrama há relacionamentos de extend, include e generalization? [5] </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11</td>
       <td>O nome do ator principal condiz com o usuário associado a ele?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12</td>
       <td>Quando o ator é um software ou um hardware, há a tag << system >>? [6]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>15</td>
       <td>O artefato possui a especificação de cada caso de uso?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>16</td>
       <td>Cada caso de uso é uma funcionalidade completa (requisito funcional) que fornece um resultado observável e de valor para os atores ou stakeholders? [5]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>17</td>
       <td>A especificação dos casos de uso consistem no detalhamento de execução dos casos de uso?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>18</td>
       <td>Os elementos de atores, sistema e metas estão presentes nos casos de uso? [5] </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>19</td>
       <td>A especificação de cada caso de uso possui: nome, descrição, atores, pré-condição, pós-condição? [7] </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>20</td>
       <td>Existem fluxos como: principal, alternativo e de exceção? [5] </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>21</td>
       <td>Cada especificação de caso uso tem somente um fluxo principal que representa como o usuário usaria a funcionalidade de forma primária? [5]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>22</td>
       <td>Os fluxos alternativos são possibilidades de caminhos alternativos ao fluxo principal? [5] </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>23</td>
       <td>Os fluxos de exceção demonstram como o sistema reagirá na presença de situações incomuns ou anormais? [5] </td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -468,7 +504,8 @@ Na tabela 7, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
@@ -476,20 +513,24 @@ Na tabela 7, estão listados os critérios que devem ser verificados no artefato
       <td>1</td>
       <td>O artefato cita a participação do cliente e/ou persona na validação do Diagrama de Caso de Uso? [7]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>O artefato cita a técnica utilizada na validação do Diagrama de Casa de Uso?</td>
+      <td></td>
       <td></td>
     </tr>
      <tr>
       <td>3</td>
       <td>O artefato possui um cronograma detalhado de gravação da validação dos casos de uso?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>O artefato possui a gravação da validação dos casos de uso?</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -510,7 +551,8 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <th>ID</th>
       <th>Descrição</th>
-      <th>Avaliação</th>
+      <th>Fonte</th>
+      <th>Foto</th>
     </tr>
   </thead>
   <tbody>
@@ -518,45 +560,54 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
       <td>1</td>
       <td>O artefato contém a especificação suplementar?</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>A especificação suplementar segue o modelo FURPS+? [8]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>O artefato possui um tópico de Funcionalidade? Ele contém requisitos testáveis? [8]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>O artefato possui um tópico de Usabilidade? Ele contém requisitos testáveis? [8]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>Os requisitos apresentados facilitam as tarefas realizadas pelos usuários? [8]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>O artefato possui um tópico de Confiabilidade? [8]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>Os requisitos apresentados aumentam a confiabilidade do sistema? [8]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>O artefato especifica o Tempo Médio entre Falhas (MTBF)? [9]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>O artefato especifica o Tempo Médio para Reparo (MTTR)? [9]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -568,10 +619,12 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
       <td>11</td>
       <td>O artefato possui um tópico de Desempenho? Ele contém requisitos testáveis? [8] </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>12</td>
       <td>Os requisitos sobre os tempos de respostas são apresentados com esses respectivos tempos especificados? [8]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -579,35 +632,42 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
       <td>13</td>
       <td>Os requisitos sobre a disponibilidade são apresentados? [8]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>14</td>
       <td>O artefato possui um tópico de Suportabilidade? Ele contém requisitos testáveis? [8]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>15</td>
       <td>É apresentado os sistemas operacionais que o sistema funcionará? [9]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>18</td>
       <td>O artefato possui um tópico de Restrições de Design? Ele contém requisitos testáveis? [9]</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>19</td>
       <td>O artefato possui um tópico de Requisitos de Interface? Ele contém requisitos testáveis? [9]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>20</td>
       <td>As características físicas de onde o sistema funcionará são apresentadas? [9]</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>21</td>
       <td>O artefato especifica qual plataforma o aplicativo pode ser executado? [9]</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>

@@ -248,43 +248,43 @@ Na Tabela 2, estão listados os critérios que devem ser verificados em todos os
       <td align="center">2</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>As referências bibliográficas seguem a ordem de chamada do texto? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Todas as referências bibliográficas são chamadas no texto? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-1.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-1.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>O artefato possui introdução? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-2.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-2.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Todas as tabelas possuem legendas e fontes padronizadas? [2]</td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Todas as tabelas são referenciadas no texto? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-5.png"></td>
+      <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-5.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">8</td>
       <td>Todas as figuras possuem legendas e fontes padronizadas e todas utilizam a palavra "figura" e não "imagem"? [2] </td>
       <td>Normas ABNT: 2023. Disponível em: <https://www.normasabnt.org/normas-abnt-2023/>. Acesso em: 18 de novembro de 2023.</td>
-     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/28f4bf83826a500e0f301aecac8a1e1511aff0ff/docs/imagens/e3-4.png"></td>
+     <td> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-4.png?raw=true"></td>
     </tr>
   </tbody>
 </table>
@@ -541,43 +541,43 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
       <td align="center">1</td>
       <td>A técnica que foi utilizada para priorização é descrita? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%201.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%201.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os requisitos estão ordenados em ordem de prioridade? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%202.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%202.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>A fórmula para o cálculo do valor está correta? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>A tabela possui os pesos relativos e sua justificativa? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%204.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%204.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Os requisitos são únicos e não se repetem? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%205.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%205.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Os representantes dos desenvolvedores estão participando na classificação dos custos e riscos? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%206.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%206.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Os cálculos estão corretos? [3]</td>
       <td>SERRANO, Milene. Requisitos - Aula 07. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 07. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/FTF%20-%203.png?raw=true"></td>
     </tr>
 </table>
 
@@ -726,43 +726,43 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
       <td align="center">1</td>
       <td>Os objetivos da observação são estabelecidos? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%201.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%201.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Os participantes são selecionados a partir do perfil de usuários? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png?raw=true"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Eles possuem responsabilidades e competências necessárias para a observação do seu trabalho? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.1.png?raw=true"> <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%202.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>São apresentadas as atividades a serem observadas? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%204.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%204.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>É definida a postura do observador? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%205.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%205.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>É informado aos observados que eles não serão criticados e nem sofreram penalizações? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%206.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%206.png?raw=true"></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>A observação foi realizada com mais de uma pessoa? [4]</td>
       <td>VAZQUEZ, Carlos Eduardo. SIMÕES, Guilherme Siqueira. ENGENHARIA DE REQUISITOS - SOFTWARE ORIENTADO AO NEGÓCIO. Disponível em: Requisitos - Engenharia de Requisitos. Acesso em: 29 de novembro de 2023.</td>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%207.png"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/OBS%20-%207.png?raw=true"></td>
     </tr>
 </table>
 

@@ -44,7 +44,7 @@ Na figura 1, é possível ver o protótipo de alta fidelidade feito para o requi
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de "Emitir Segunda Via da Dívida Ativa"</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/f0502f32b63b83493d1d343fdf834d0a7e3ef6b3/docs/imagens/prot-alta-requisitos.jpg" style="width: 75%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/f0502f32b63b83493d1d343fdf834d0a7e3ef6b3/docs/imagens/prot-alta-requisitos.jpg?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>

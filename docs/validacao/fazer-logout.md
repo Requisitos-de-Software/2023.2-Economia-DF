@@ -17,7 +17,7 @@ A figura 1 representa o protótipo de alta fidelidade feito para o requisito "Ga
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de Alta Fidelidade de "Garantir que ao fechar o aplicativo o usuário seja deslogado"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/prot-alta-requisitos-deslogar.jpg" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/prot-alta-requisitos-deslogar.jpg?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>

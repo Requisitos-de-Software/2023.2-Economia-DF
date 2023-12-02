@@ -138,7 +138,7 @@ No Gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Gr%C3%A1fico%20Geral%20-%20Requisitos%20Priorizados.png" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Gr%C3%A1fico%20Geral%20-%20Requisitos%20Priorizados.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
@@ -150,7 +150,7 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/gr%C3%A1fico-espec%C3%ADfico-requisitos-priorizados.png" style="width: 45%;">
+  <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/gr%C3%A1fico-espec%C3%ADfico-requisitos-priorizados.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

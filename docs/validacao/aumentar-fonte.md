@@ -44,7 +44,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito par
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de "Aumentar a Fonte"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/prototipo-aumentar-fonte.png" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/prototipo-aumentar-fonte.png?raw=true" style="width: 75%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>

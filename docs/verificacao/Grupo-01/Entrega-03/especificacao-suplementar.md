@@ -219,7 +219,7 @@ No gráfico 1, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
 
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/4b83314700c4acdd7c72cc214a8d9c8f366a2bb2/docs/imagens/verifcacao-ce-uc.png" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/4b83314700c4acdd7c72cc214a8d9c8f366a2bb2/docs/imagens/verifcacao-ce-uc.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 </div>
@@ -231,7 +231,7 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 <div align="center">
   <p><b>Gráfico 2:</b> Resultados da verificação do checklist específico.</p>
 
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/e4e4d1a2ae5ad15fafd811b59ec8e07819619aa0/docs/imagens/verifcacao-ce-es.png" style="width: 45%;">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/e4e4d1a2ae5ad15fafd811b59ec8e07819619aa0/docs/imagens/verifcacao-ce-es.png?raw=true" style="width: 45%;">
 
 <p><b>Fonte:</b> Izabella Alves, 2023.</p>
 
