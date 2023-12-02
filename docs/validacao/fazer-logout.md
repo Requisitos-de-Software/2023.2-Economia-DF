@@ -43,7 +43,7 @@ O teste de usabilidade ocorreu na residência do participante, que foi preparada
 
 ### Cronograma Final
 
-Foi agendado com o usuário um encontro presencial, no dia 30/11/23 às 10h, conforme o cronograma planejado. Porém, devido a um imprevisto, o teste foi adiado para o dia 02/12/23 e foi realizado às 20h desse dia. Na tabela 1 é possível verificar o cronograma planejado e o executado.
+Foi agendado com o usuário um encontro presencial, no dia 30/11/23 às 10h, conforme o cronograma planejado. Porém, devido a um imprevisto, o teste foi adiado para o dia 02/12/23 e foi realizado às 10h30 desse dia. Na tabela 1 é possível verificar o cronograma planejado e o executado.
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma planejado e executado do teste de usabilidade do protótipo de alta fidelidade.</p>
@@ -71,8 +71,8 @@ Foi agendado com o usuário um encontro presencial, no dia 30/11/23 às 10h, con
     <td>Cronograma Executado</td>
             <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
             <td>João Lucas Amaral</td>
-            <td>20:00</td>
-            <td>20:25</td>
+            <td>10:30</td>
+            <td>10:50</td>
             <td>02/12/2023</td>
             <td>presencial</td>
   </tr>
@@ -110,4 +110,4 @@ A validação através do teste de usabilidade pode ser assistida no vídeo 1.
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 27/11/2023 |  Criação do documento |  [Zenilda Vieira](https://github.com/zenildavieira)    |  [Gabriel Rosa](https://github.com/gabrielrosa09)|
+| `1.0`  | 01/12/2023 |  Criação do documento |  [Zenilda Vieira](https://github.com/zenildavieira)    |  [Gabriel Rosa](https://github.com/gabrielrosa09)|
