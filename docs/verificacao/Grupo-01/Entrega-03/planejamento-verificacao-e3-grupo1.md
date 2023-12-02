@@ -238,7 +238,7 @@ Na tabela 4, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>1</td>
       <td>Cada cenário possui os seguintes elementos básicos: título, metas/objetivos, contexto, atores, recursos, exceção e episódios? [3] </td>
-      <td>Fonte: Barbosa, Diniz; Silva, Bruno. Interação Humano-Computador. Cap. 6, pág. 183 e 184.</td>
+      <td>Barbosa, Diniz; Silva, Bruno. Interação Humano-Computador. Cap. 6, pág. 183 e 184.</td>
       <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-cenarios-1.jpg?raw=true"></td>
     </tr>
     <tr>
@@ -465,8 +465,8 @@ Na tabela 6, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>20</td>
       <td>Existem fluxos como: principal, alternativo e de exceção? [5] </td>
-      <td></td>
-      <td></td>
+      <td>Fonte: Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slides 12 e 18.</td>
+      <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-casos-de-uso-20.png?raw=true"></td>
     </tr>
     <tr>
       <td>21</td>
@@ -565,8 +565,8 @@ Na tabela 8, estão listados os critérios que devem ser verificados no artefato
     <tr>
       <td>2</td>
       <td>A especificação suplementar segue o modelo FURPS+? [8]</td>
-      <td></td>
-      <td></td>
+      <td>Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slide 28.</td>
+      <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/main/docs/imagens/e3-especificacao-suplementar-2.png?raw=true"></td>
     </tr>
     <tr>
       <td>3</td>
