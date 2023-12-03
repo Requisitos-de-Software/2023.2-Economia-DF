@@ -93,7 +93,7 @@ Foi pedido ao usuário que ele tentasse logar e deslogar seu usuário no aplicat
 
 A validação através do teste de usabilidade pode ser assistida no vídeo 1.
 
-<div align="center">https://youtu.be/
+<div align="center">
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=LUjKquuqL7o" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></p>
 
