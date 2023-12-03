@@ -176,7 +176,9 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
           <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> 
         </td>
-          <td><a href="https://github.com/Lucas13032003">Lucas Victor </a> *</td>
+          <td>
+            <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
+            <a href="https://github.com/Lucas13032003">Lucas Victor </a> *</td>
         <td>  100% </td>
         <td>  75% </td>
       </tr>
