@@ -169,7 +169,7 @@ A verificação será executada no período de 26/11/2023 a 30/11/2023, as ativi
     </tr>
     <tr>
         <td align="center">26/11/2023</td>
-        <td>Verificação do artefato "In our Out"</td>
+        <td>Verificação do artefato "In or Out"</td>
         <td align="center"><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
     <tr>

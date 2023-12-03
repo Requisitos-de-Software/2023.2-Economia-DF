@@ -127,12 +127,12 @@ A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades 
     <tr>
         <td>  10/10/2023 </td>
         <td>  Verificação do artefato "Cronograma Planejado" </td>
-        <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
     </tr>
   <tr>
         <td>  10/10/2023 </td>
         <td>  Verificação do artefato "Cronograma Executado" </td>
-        <td> 	<a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
     </tr>
     <tr>
         <td>  10/10/2023 </td>
@@ -152,7 +152,7 @@ A verificação será executada nos dias 09/11/2023 e 10/11/2023, as atividades 
     <tr>
         <td>  10/10/2023 </td>
         <td>  Verificação do artefato "Rich Picture" </td>
-        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Zaranza</a> e <a href="https://github.com/GZaranza">Gabriel Rosa</a> </td>
+        <td> 	<a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
 
 </tbody>
