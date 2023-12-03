@@ -83,7 +83,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  
         </td>
-        <td><a href="https://github.com/GZaranza">Gabriel Zaranza *</a></td>
+        <td><a href="https://github.com/GZaranza">Gabriel Zaranza </a> *</td>
         <td>  - </td>
         <td>  78% </td>
     </tr>
@@ -107,7 +107,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
         <td>
           <a href="https://github.com/gabrielrosa09">Gabriel Zaranza</a> <br>
-          <a href="https://github.com/GZaranza">Gabriel Rosa *</a>
+          <a href="https://github.com/GZaranza">Gabriel Rosa </a> *
         </td>
         <td>  - </td>
         <td>  100% </td>
@@ -122,7 +122,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
           <td>
             <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br> 
-            <a href="https://github.com/Lucas13032003">Lucas Victor *</a>
+            <a href="https://github.com/Lucas13032003">Lucas Victor </a> *
           </td>
         <td>  89% </td>
         <td>  88% </td>
@@ -176,7 +176,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
           <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> 
         </td>
-          <td><a href="https://github.com/Lucas13032003">Lucas Victor *</a></td>
+          <td><a href="https://github.com/Lucas13032003">Lucas Victor </a> *</td>
         <td>  100% </td>
         <td>  75% </td>
       </tr>
@@ -189,7 +189,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
         <td>
           <a href="https://github.com/lucassouzs">Lucas Ribeiro</a><br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor *</a>
+          <a href="https://github.com/Lucas13032003">Lucas Victor </a> *
         </td>
         <td>  89% </td>
         <td>  100% </td>
@@ -201,7 +201,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
         <td>
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
-          <a href="https://github.com/Lucas13032003">Lucas Victor *</a>
+          <a href="https://github.com/Lucas13032003">Lucas Victor </a> *
         <td>  100% </td>
         <td>  90% </td>
       </tr>
@@ -213,7 +213,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
         </td>
-          <td><a href="https://github.com/Lucas13032003">Lucas Victor *</a></td>
+          <td><a href="https://github.com/Lucas13032003">Lucas Victor </a> *</td>
         <td>  100% </td>
         <td>  90% </td>
       </tr>
@@ -234,7 +234,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
         </td>
-          <td><a href="https://github.com/lucassouzs">Lucas Ribeiro *</a></td>
+          <td><a href="https://github.com/lucassouzs">Lucas Ribeiro </a> *</td>
         <td>  78% </td>
         <td>  100% </td>
       </tr>
@@ -261,7 +261,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
           <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a> <br> 
-            <a href="https://github.com/gabrielrosa09">Gabriel Rosa *</a></td>
+            <a href="https://github.com/gabrielrosa09">Gabriel Rosa </a> *</td>
         <td>  100% </td>
         <td>  100% </td>
       </tr>
@@ -276,7 +276,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
         </td>
-          <td><a href="https://github.com/zenildavieira">Zenilda Vieira *</a></td>
+          <td><a href="https://github.com/zenildavieira">Zenilda Vieira </a> *</td>
         <td>  88% </td>
         <td>  63% </td>
       </tr>
@@ -333,7 +333,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
           <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
         </td>
-          <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa *</a></td>
+          <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa </a> *</td>
         <td>  100% </td>
         <td>  71% </td>
       </tr>
@@ -345,7 +345,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
           <td>
             <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
-            <a href="https://github.com/GZaranza">Gabriel Zaranza *</a>
+            <a href="https://github.com/GZaranza">Gabriel Zaranza </a> *
           </td>
         <td>  89% </td>
         <td>  92% </td>
@@ -386,7 +386,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
         </td>
           <td>
             <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> <br> 
-            <a href="https://github.com/Lucas13032003">Lucas Victor *</a> 
+            <a href="https://github.com/Lucas13032003">Lucas Victor </a> * 
           </td>
         <td>  90% </td>
         <td>  100% </td>
@@ -399,7 +399,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
           <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
         </td>
           <td>
-            <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira *</a>
+            <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira </a> *
           </td>
         <td>  100% </td>
         <td>  100% </td>
@@ -410,10 +410,11 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 </body>
 </html>
 
-<p style="text-align: left">* Vídeo disponível</p>
-
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
+
+<p style="text-align: left">* Vídeo disponível</p>
+
 
 ## Bibliografia
 
