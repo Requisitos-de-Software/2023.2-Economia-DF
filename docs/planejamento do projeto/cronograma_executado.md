@@ -819,13 +819,13 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Análi
       <td>Início: 04/nov <br> Fim: 07/nov</td>
       <td>Início: 09/nov <br> Fim: 12/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 08/nov <br> Fim: 09/nov</td>
       <td>Início: 11/nov <br> Fim: 12/nov</td>
@@ -836,13 +836,13 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Análi
       <td>08/nov</td>
       <td>12/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>09/nov</td>
       <td>13/nov</td>
@@ -888,58 +888,58 @@ Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Pós-R
       <td>Início: 11/nov <br> Fim: 14/nov</td>
       <td>Início: 15/nov <br> Fim: 17/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
       <td>Início: 18/nov <br> Fim: 19/nov</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
     </tr>
       <td>Pós-Rastreabilidade - Forward-from</td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
       <td>
-        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
       <td>Início: 17/nov <br> Fim: 18/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
       <td>Pós-Rastreabilidade - Matriz de rastreabilidade</td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
       <td>Início: 15/nov <br> Fim: 18/nov</td>
       <td>
-        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
       <td>Início: 18/nov <br> Fim: 19/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>
       <td>Gravação 6</td>
       <td>15/nov</td>
       <td>19/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel da Silva Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Pessoa Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves Pereira</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira Dias Marques Ferreira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro de Souza</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor Ferreira de Araújo</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
       </td>
       <td>16/nov</td>
       <td>20/nov</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 6</td>
       <td>15/nov</td>
       <td>20/nov</td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Pedrosa Vieira</a></a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></a></td>
       <td>15/nov</td>
       <td>21/nov</td>
       <td><a href="https://github.com/izabellaalves">Izabella Alves</a</td>
@@ -949,6 +949,85 @@ Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Pós-R
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
+
+## Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2 - Data de Entrega: 04/dez/2023
+
+Na tabela 7 encontram-se as datas do cronograma executado para a etapa de Análise de Requisitos: Verificação e Validação 2.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 2</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Análise de Requisitos: Verificação e Validação 2 <br> <br>
+            <font size="2">(**) As datas de execução e revisão parecem se sobrepor, mas na realidade, como foram vários documentos, as datas de execução e de revisão de cada um são datas em sequência que não se sobrepõem.</font></td>
+      <td>Início: 18/nov <br> Fim: 21/nov</td>
+      <td>Início: 18/nov <br> Fim: 02/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 22/nov <br> Fim: 23/nov</td>
+      <td>Início: 20/nov <br> Fim: 03/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Gravação 5.2</td>
+      <td>22/nov</td>
+      <td>03/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>23/nov</td>
+      <td>03/dez</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 5.2</td>
+      <td>22/nov</td>
+      <td>03/dez</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>22/nov</td>
+      <td>04/dez</td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+</div>
+
 
 
 ## Bibliografia
