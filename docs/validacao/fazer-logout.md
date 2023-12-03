@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Um protótipo de alta fidelidade é uma representação o mais parecida possível com o design do produto final, sendo interativa e funcional. Nesse caso específico, é representada uma nova funcionalidade do aplicativo Economia-DF proposta pelo grupo e validada com um usuário real. 
+Um protótipo de alta fidelidade é uma representação o mais parecida possível com o design do produto final, sendo interativa e funcional. Nesse caso específico, é representada uma nova funcionalidade do aplicativo Economia-DF proposta pelo grupo e validada com um usuário real. O objetivo dessa validação é verificar se o protótipo funciona corretamente e se atende a implementação do requisito não implementado escolhido.
 
 ## Metodologia
 
-Utilizando a ferramenta Figma, foi criado um protótipo de alta fidelidade do [requisito INT24](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados) não implementado: "Garantir que ao fechar o aplicativo o usuário seja deslogado" pela integrante do grupo [Zenilda Vieira](https://github.com/zenildavieira). Esse protótipo foi validado em seguida pelo usuário João Lucas utilizando o método de teste de usabilidade. 
+Utilizando a ferramenta Figma, foi criado um protótipo de alta fidelidade do [requisito INT24](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados) não implementado: "Garantir que ao fechar o aplicativo o usuário seja deslogado" pela integrante do grupo [Zenilda Vieira](https://github.com/zenildavieira). Esse protótipo foi validado em seguida pelo usuário João Lucas, utilizando o método de teste de usabilidade. 
 
 Nesse teste, foi pedido ao usuário que simulasse a realização de uma tarefa específica, nesse caso, a de sair do aplicativo Economia-DF. Durante a simulação o usuário foi orientado a usar a técnica Think aloud, falando tudo que ele estava fazendo e pensando em voz alta. Durante o teste foram feitas perguntas ao usuário sobre a usabilidade do aplicativo na tarefa em questão.
 
@@ -35,11 +35,11 @@ Na figura 2 é possível explorar o protótipo na própria ferramenta Figma.
 
 ## Aspectos Práticos
 
-A seleção do participante foi cuidadosamente conduzida de acordo com os critérios estabelecidos no [perfil do usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md#defini%C3%A7%C3%A3o-do-usu%C3%A1rio) no início do projeto. Dessa forma, o usuário João Lucas foi escolhido para participar dessa validação. Apesar dele ter 28 anos, um pouco fora da faixa etária do perfil do usuário que foi traçado, ele foi escolhido por atender os demais critérios de seleção. Ele é do sexo masculino e tem experiência com tecnologia.
+A seleção do participante foi cuidadosamente conduzida de acordo com os critérios estabelecidos no [perfil do usuário](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/perfil_usuario/) no início do projeto. Dessa forma, o usuário João Lucas foi escolhido para participar dessa validação. Apesar dele ter 28 anos, um pouco fora da faixa etária do perfil do usuário que foi traçado, ele foi escolhido por atender os demais critérios de seleção. Ele é do sexo masculino e tem experiência com tecnologia.
 
 ### Preparação
 
-O teste de usabilidade ocorreu na residência do participante, que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para a sessão e minimizou distrações externas. Além disso, a integrante do grupo chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início da sessão. Para realizar a simulação de uso foram usadas três câmeras para gravar a simulação, a primeira com foco no usuário, a segunda com foco no participante e a terceira com foco no aplicativo.
+O teste de usabilidade ocorreu na residência do participante, que foi preparada previamente com mesas e cadeiras, proporcionando conforto tanto para o participante quanto para o avaliador. A escolha deste ambiente também garantiu a privacidade necessária para a sessão e minimizou distrações externas. Além disso, a integrante do grupo chegou com antecedência para configurar os equipamentos, garantindo que tudo estivesse pronto para o início da sessão. Para realizar a simulação de uso foram usadas três câmeras para gravar a simulação, a primeira com foco no avaliador, a segunda com foco no participante e a terceira o ambiente do teste. Foi utilizado um celular para abrir o aplicativo Economia-DF e abrir o protótipo de alta fidelidade feito no aplicativo Figma.
 
 ### Cronograma Final
 
@@ -83,21 +83,21 @@ Foi agendado com o usuário um encontro presencial, no dia 30/11/23 às 10h, con
 
 ## Aspectos Éticos
 
-No início do teste, o [termo de consentimento](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario.md) foi lido para o usuário e explicado em detalhes. Após o seu consentimento, deu-se início a explicação sobre a técnica de prototipação de alta fidelidade e depois a simulação de uso foi realizada.
+No início do teste, o [termo de consentimento](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario.md) foi lido para o usuário e explicado em detalhes. Após o seu consentimento, deu-se início a explicação sobre a técnica de prototipação de alta fidelidade e depois a simulação de uso foi realizada.
 
 ## Resultados Obtidos
 
-O usuário mostrou-se satisfeito com a nova funcionalidade e ressaltou a importância de, ao sair do aplicativo, o usuário ser realmente deslogado, como medida de segurança e privacidade dos dados pessoais. No teste de uso, a funcionalidade foi executada sem problemas e sem erros.
+Foi pedido ao usuário que ele tentasse logar e deslogar seu usuário no aplicativo Economia-DF. Após o usuário perceber que não é possível deslogar do aplicativo, ou seja, que essa funcionalidade não está implementada, foi pedido a ele que utilizasse o protótipo de alta fidelidade para realizar essa mesma tarefa. A tarefa foi realizada rapidamente, sem complicações, e funcionou corretamente. O usuário então mostrou-se satisfeito com a nova funcionalidade e ressaltou a importância de conseguir sair do aplicativo e o usuário ser realmente deslogado. Além de afirmar que essa seria uma medida de segurança e uma garantia de privacidade dos dados pessoais, também chamou a atenção para os casos em que fosse preciso dois usuários usarem o mesmo aplicativo em um único celular, o que não seria possível atualmente. Seria necessário toda vez desinstalar e instalar novamente o aplicativo para trocar de usuário. Dessa forma, conclui-se que essa funcionalidade é necessária e que o protótipo de alta criado atende À sua implementação.
 
 ## Validação
 
 A validação através do teste de usabilidade pode ser assistida no vídeo 1.
 
-<div align="center">
+<div align="center">https://youtu.be/
 
-<p style="text-align: center"><a href="https://youtu.be/" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=LUjKquuqL7o" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Apresentação 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUjKquuqL7o" title="Teste de usabilidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2023</p></font>
 </div>
@@ -111,3 +111,4 @@ A validação através do teste de usabilidade pode ser assistida no vídeo 1.
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 01/12/2023 |  Criação do documento |  [Zenilda Vieira](https://github.com/zenildavieira)    |  [Gabriel Rosa](https://github.com/gabrielrosa09)|
+| `1.1`  | 02/12/2023 |  Inclusão dos resultados e do vídeo do teste de usabilidade |  [Zenilda Vieira](https://github.com/zenildavieira)    |  [Gabriel Rosa](https://github.com/gabrielrosa09)|

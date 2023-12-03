@@ -10,7 +10,7 @@ A metodologia e o planejamento da verificação desse artefato foram definidos n
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de checklist. Cada elemento do checklist será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos do planejamento da verificação, e outro específico, direcionado exclusivamente a esse artefato em foco.
 
-Nesse documento específico, a verificação foi feita individualmente por [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados.
+Nesse documento específico, a verificação foi feita individualmente por [Zenilda Vieira](https://github.com/zenildavieira). O link do vídeo dessa verificação encontra-se no final do documento, após a análise dos problemas encontrados (Vídeo 1).
 
 ## Apresentação dos Dados
 
