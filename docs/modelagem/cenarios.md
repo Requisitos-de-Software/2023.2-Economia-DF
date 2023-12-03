@@ -11,10 +11,10 @@ A elaboração dos cenários foi realizada a partir da identificação das princ
 - título: o título do cenário
 - objetivo: o objetivo a ser alcançado pela tarefa
 - contexto: descreve a localização geográfica e o estado inicial da tarefa
-- recursos: meios de apoio e dispositivos que necessecitam estar disponíveis para o cenário
+- recursos: meios de apoio e dispositivos que necessitam estar disponíveis para o cenário
 - atores: pessoa que realiza a tarefa descrita no cenário
 - episódios: frases que descrevem como o cenário acontece e seu comportamento
-- restrição: caracteríssticas que o cenário deve seguir
+- restrição: características que o cenário deve seguir
 - exceção: situações que impedem a realização do cenário
 <br>
 
@@ -68,11 +68,11 @@ A elaboração dos cenários foi realizada a partir da identificação das princ
 
 ### CEN01 - Consultar dívida ativa
 
-O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 1.
+O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua descrição detalhada está disponível na tabela 2.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cenário referente ao objetivo "Consultar dívida ativa". </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar dívida ativa". </p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
@@ -91,11 +91,11 @@ O cenário em questão diz respeito ao objetivo "Consultar dívida ativa", sua d
 
 ### CEN02 - Consultar veículos
 
-O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 2.
+O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descrição detalhada está disponível na tabela 3.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Consultar Veículos"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Veículos"</p></font>
 </div>
 
 
@@ -105,7 +105,7 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 | Contexto    | Local: em casa<br>Tempo: Aproximadamente 1 minuto<br> Pré-condições: Usuário brasileiro com CPF ativo e RENAVAM do veículo a ser consultado, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado |
 | Recursos    | Internet<br>Sistema IOS<br>Aplicativo Economia DF                                     |
 | Atores      | Usuário brasileiro com CPF ativo                                                  |
-| Episódios   | O *usuário* seleciona a opção "Veículos" na tela inicial<br>O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo<br>O *usuário* seleciona um veículo cadastrado<br>O aplicativo exibe uma tela com os débitos relacionados ao veículo<br>O *usuário* seleciona a opção Emitir Segunda Via do boleto nacário |
+| Episódios   | O *usuário* seleciona a opção "Veículos" na tela inicial<br>O aplicativo exibe uma tela com uma lista de veículos cadastrados e uma opção para cadastrar um novo veículo<br>O *usuário* seleciona um veículo cadastrado<br>O aplicativo exibe uma tela com os débitos relacionados ao veículo<br>O *usuário* seleciona a opção Emitir Segunda Via do boleto bancário |
 | Restrição   | Os veículos só aparecem se já tiverem sido cadastrados<br>Os débitos só aparecem caso o veículo possua alguma dívida ativa                          |
 | Exceção     | Erro de conexão com a internet<br>Celular com sistema Android                        |
 
@@ -115,11 +115,11 @@ O cenário em questão diz respeito ao objetivo "Consultar veículos", sua descr
 
 ### CEN03 - Consultar imóveis
 
-O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 3.
+O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descrição detalhada está disponível na tabela 4.
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Consultar Imóveis"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Imóveis"</p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
@@ -139,10 +139,10 @@ O cenário em questão diz respeito ao objetivo "Consultar imóveis", sua descri
 
 ### CEN04 - Consultar notas fiscais
 
-Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 4.
+Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição detalhada está disponível na tabela 5.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar Notas Fiscais"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar Notas Fiscais"</p></font>
 </div>
 
 
@@ -162,10 +162,10 @@ Esse cenário corresponde ao objetivo "Consultar notas fiscais", sua descrição
 
 ### CEN05 - Consultar outros Tributos
 
-Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 5.
+Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descrição detalhada está disponível na tabela 6.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Consultar outros Tributos"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar outros Tributos"</p></font>
 </div>
   
 | Elemento    | Descrição                                                                            |
@@ -173,8 +173,8 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 | Objetivo    |  O objetivo é permitir que os usuários consultem outros tributos no aplicativo Economia DF, proporcionando uma visão clara de suas obrigações fiscais.     |
 | Contexto    | Local: em casa <br> Tempo: Aproximadamente 40 segundos  <br> Pré-condições: Usuário brasileiro com CPF ativo, possuir um celular com sistema IOS, ter o aplicativo Economia DF instalado, ser usuário do programa Nota Legal e ter uma conta no aplicativo |
 | Recursos    | Internet<br>Sistema IOS<br>Dispositivo móvel com o aplicativo Economia DF instalado           | 
-| Atores      | Usuário do aplicativo Economia DF                                                      |
-| Episódios   | O *usuário* O usuário abre o aplicativo Economia DF em seu dispositivo móvel.l<br> O usuário faz login em sua conta.<br>O *usuário* navega até a seção “Outros Tributos”.<br><br>O *usuário* seleciona o tipo de tributo que deseja consultar.<br>O aplicativo exibe as informações detalhadas sobre o tributo selecionado. |
+| Atores      | Usuário brasileiro com CPF ativo                                                      |
+| Episódios   | O *usuário* abre o aplicativo Economia DF em seu dispositivo móvel.<br> O usuário faz login em sua conta.<br>O *usuário* navega até a seção “Outros Tributos”.<br><br>O *usuário* seleciona o tipo de tributo que deseja consultar.<br>O aplicativo exibe as informações detalhadas sobre o tributo selecionado. |
 | Restrição   | Aplicativo de e-mail deve estar instalado no celular que possua um sistema IOS                                 |
 | Exceção     | Se o aplicativo não estiver funcionando corretamente ou se o usuário não tiver acesso à internet, ele não poderá consultar outros tributos.<br> Celular com sistema Android|
 
@@ -184,10 +184,10 @@ Esse cenário corresponde ao objetivo "Consultar outros tributos", sua descriç�
 
 ### CEN06 - Consultar Parcelamentos Administrativos
 
-Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 6.
+Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos", sua descrição detalhada está disponível na tabela 7.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Consultar Parcelamentos Administrativos"</p></font>
 </div>
 
 | Elemento    | Descrição                                                                            |
@@ -206,10 +206,10 @@ Esse cenário corresponde ao objetivo "Consultar Parcelamentos Administrativos",
 
 ### CEN07 - Fale conosco
 
-Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 7.
+Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada está disponível na tabela 8.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Cenário referente ao objetivo "Fale conosco"</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Cenário referente ao objetivo "Fale conosco"</p></font>
 </div>
 
 
@@ -249,3 +249,4 @@ Esse cenário corresponde ao objetivo "Fale conosco", sua descrição detalhada 
 |`1.6`|12/10/2023|Adição do cenário sobre "Consultar Parcelamentos Administrativos" | [Lucas Ribeiro](https://github.com/lucassouzs)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 |`1.7`|22/10/2023|Padronizando localização dos nomes das figuras/tabelas e das fontes nas legendas|[Zenilda Vieira](https://github.com/zenildavieira)|[Gabriel Zaranza](https://github.com/GZaranza)|
 |`1.8`|22/10/2023|Revisão geral do documento|[Zenilda Vieira](https://github.com/zenildavieira)| - (revisão não precisa de revisor) |
+|`1.9`|03/12/2023|Correção do artefato - Entrega 5.2 - Verificação |[Zenilda Vieira](https://github.com/zenildavieira)| [Gabriel Zaranza](https://github.com/GZaranza) |
