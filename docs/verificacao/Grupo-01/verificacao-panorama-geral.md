@@ -427,4 +427,4 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 16/11/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 03/12/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
