@@ -282,7 +282,7 @@ O checklist do artefatos "Cronograma Planejado" pode ser encontrado na Tabela 4.
 </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Cronograma Executado
@@ -331,7 +331,7 @@ O checklist do artefatos "Cronograma Executado" pode ser encontrado na Tabela 4.
 </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
 ### Lista Aplicativos avaliados 
@@ -622,3 +622,4 @@ dos texto?  </td>
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------- |
 | `1.0`  | 22/11/2023 | Criação do documento                | [Gabriel Zaranza](https://github.com/GZaranza) | [Lucas Ribeiro](https://github.com/lucassouzs)|
+| `1.1`  | 22/11/2023 | Inserindo Checklist              | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Lucas Ribeiro](https://github.com/lucassouzs)|
