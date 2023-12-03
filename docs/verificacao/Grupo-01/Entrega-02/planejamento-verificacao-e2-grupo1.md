@@ -364,6 +364,9 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist Grupo de Foco
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
+
 <table>
   <thead>
     <tr>
@@ -437,9 +440,13 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   </tbody>
 </table>
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
+
 ### Checklist de Brainstorming
 
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
 <table>
   <thead>
     <tr>
@@ -518,6 +525,9 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     </tr>
   </tbody>
 </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 
 ### Checklist de First Thing First
@@ -644,6 +654,9 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Introspecção
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
+
 <table>
   <thead>
     <tr>
@@ -704,6 +717,9 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     </tr>
   </tbody>
 </table>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div>
 
 ### Checklist de Observação
 
@@ -887,6 +903,7 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 </div>
 
 ### Checklist de Personas
+
 
 
 <table>

@@ -97,10 +97,51 @@ nav:
         - NFR Framework: verificacao/Grupo-02/Entrega-04/nfr_framework.md
         - Product backlog: verificacao/Grupo-02/Entrega-04/product-backlog.md
         - Histórias de usuário: verificacao/Grupo-02/Entrega-04/historias-do-usuario.md
+    - Grupo 1:
+      - Entrega 1:
+        - Planejamento da verificação: verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md
+        - Ferramentas: verificacao/Grupo-01/Entrega-01/ferramentas.md
+        - Cronograma planejado: verificacao/Grupo-01/Entrega-01/cronograma_planejado.md
+        - Cronograma executado: verificacao/Grupo-01/Entrega-01/cronograma_executado.md
+        - Aplicativos Avaliados: verificacao/Grupo-01/Entrega-01/app_avaliados.md
+        - Aplicativo Selecionado: verificacao/Grupo-01/Entrega-01/app_escolhido.md
+        - Heatmap de disponibilidade: verificacao/Grupo-01/Entrega-01/heatmap.md
+        - Rich Picture: verificacao/Grupo-01/Entrega-01/rich_picture.md
+      - Entrega 2:
+        - Planejamento da verificação: verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1.md
+        - 100$: verificacao/Grupo-01/Entrega-02/100$.md
+        - Brainstorming: verificacao/Grupo-01/Entrega-02/brainstorming.md
+        - First Things First: verificacao/Grupo-01/Entrega-02/first-thing-first.md
+        - Grupo de foco: verificacao/Grupo-01/Entrega-02/Grupo-de-foco.md
+        - In or Out: verificacao/Grupo-01/Entrega-02/in-our-out.md
+        - Instrospecção: verificacao/Grupo-01/Entrega-02/instrospecção.md
+        - Observação: verificacao/Grupo-01/Entrega-02/observacao.md
+        - Perfil do Usuário: verificacao/Grupo-01/Entrega-02/perfil-de-usuario.md
+        - Personas: verificacao/Grupo-01/Entrega-02/personas.md
+        - Questionário: verificacao/Grupo-01/Entrega-02/questionario.md
+        - Requisitos Elicitados: verificacao/Grupo-01/Entrega-02/requisitos-elicitados.md
+        - Requisitos Priorizados: verificacao/Grupo-01/Entrega-02/requisitos-priorizados.md
+      - Entrega 3:
+        - Planejamento da verificação: verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1.md
+        - Casos de uso: verificacao/Grupo-01/Entrega-03/casos-de-uso.md
+        - Validação dos Casos de Uso: verificacao/Grupo-01/Entrega-03/validacao-uc.md
+        - Especificação suplementar: verificacao/Grupo-01/Entrega-03/especificacao-suplementar.md
+        - Cenários: verificacao/Grupo-01/Entrega-03/cenarios.md
+        - Léxicos: verificacao/Grupo-01/Entrega-03/lexicos.md
+      - Entrega 4:
+        - Planejamento da verificação: verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1.md
+        - NFR Framework: verificacao/Grupo-01/Entrega-04/nfr_framework.md
+        - Backlog: verificacao/Grupo-01/Entrega-04/backlog.md
+        - Histórias de usuário: verificacao/Grupo-01/Entrega-04/historia_de_usuario.md
+      - Entrega 6:
+        - Planejamento da verificação: verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1.md
+        - Backward From: verificacao/Grupo-01/Entrega-06/backward-fromc.md
+        - Foward From: verificacao/Grupo-01/Entrega-06/forward-fromc.md
+        - Matriz de Rastreabilidade: verificacao/Grupo-01/Entrega-06/matriz-de-rastreabilidade.md
   - Rastreabilidade:
     - Backward From: rastreabilidade/backward_from.md
     - Foward From: rastreabilidade/forward_from.md
-    - Matriz de Rastreabilidade: rastreabilidade/matriz-de-rastreabilidade.md
+    - Matriz de Rastreabilidade: rastreabilidade/matriz_de_rastreabilidade.md
 
 theme:
   name: material

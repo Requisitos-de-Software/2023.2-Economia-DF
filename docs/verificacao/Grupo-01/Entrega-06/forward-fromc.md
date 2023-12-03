@@ -1,5 +1,4 @@
-
-
+# Verificação do Artefato "Forward-From"
 
 ## Introdução 
 
@@ -87,12 +86,6 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
-
-
-
-</div>
-
-
 ## Checlist do artefato "Forward-From"
 
 Na tabela 2, estão listados os critérios especificos que devem ser verificados no artefatos de [Forward-From](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/forward_from.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
@@ -157,9 +150,6 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "M
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
 </div>
-
-
-
 
 ## Problemas encontrados
 

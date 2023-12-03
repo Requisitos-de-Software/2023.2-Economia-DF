@@ -1,5 +1,4 @@
-
-
+## Verificação por Inspeção do Artefato "Backward-From"
 
 ## Introdução 
 
@@ -87,14 +86,6 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
-
-
-
-</div>
-
-
-
-
 ## Checklist do artefato "Backward-From"
 
 Na tabela 2, estão listados os critérios especificos que devem ser verificados no artefatos de [Backward-From](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
@@ -173,8 +164,6 @@ Na tabela 2, estão listados os critérios especificos que devem ser verificados
 <p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p>
 </center>
 </div>
-
-
 
 ## Problemas encontrados
 
