@@ -45,7 +45,7 @@ Na Figura 1, apresentamos o protótipo de alta fidelidade de cadastro de placa, 
 
 <font size="3"><b>Figura 1</b>: Figma do Protótipo de Alta Fidelidade< de Cadastro de Placa</font>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/gxkk4Nsp8cQiwlWxwdERYl/Prot%C3%B3tipo-Alta-Fidelidade---Ve%C3%ADculo?type=design&node-id=0%3A1&mode=design&t=RVvA5lGWYlViH3Gx-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fgxkk4Nsp8cQiwlWxwdERYl%2FProt%25C3%25B3tipo-Alta-Fidelidade---Ve%25C3%25ADculo%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3Dbjnt6e1QA3y6LXYo-1" allowfullscreen></iframe>
 
 <font size="3"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 
