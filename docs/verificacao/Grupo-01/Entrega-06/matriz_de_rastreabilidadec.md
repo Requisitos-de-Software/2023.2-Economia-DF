@@ -1,5 +1,4 @@
-
-
+# Verificação do Artefato "Matriz de Rastreabilidade"
 
 ## Introdução 
 
@@ -87,12 +86,6 @@ Na tabela 1, é possível visualizar os resultados obtidos na verificação do a
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
 
-
-
-
-</div>
-
-
 ## Checklist do artefato "Matriz de Rastreabilidade"
 
 
@@ -102,7 +95,6 @@ Na tabela 6, estão listados os critérios especificos que devem ser verificados
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist específico para o artefato "Matriz de Rastreabilidade"</p></font>
 
-<center>
 <table>
     <thead>
         <tr>
@@ -139,10 +131,9 @@ Na tabela 6, estão listados os critérios especificos que devem ser verificados
         </tr>
     </tbody>
 </table>
-<p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p>
-</center>
-</div>
 
+<p style="text-align: center">Fonte: <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p>
+</div>
 
 
 ## Problemas encontrados

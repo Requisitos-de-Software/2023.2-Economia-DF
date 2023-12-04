@@ -138,7 +138,7 @@ nav:
         - Planejamento da verificação: verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1.md
         - Backward From: verificacao/Grupo-01/Entrega-06/backward-fromc.md
         - Foward From: verificacao/Grupo-01/Entrega-06/forward-fromc.md
-        - Matriz de Rastreabilidade: verificacao/Grupo-01/Entrega-06/matriz-de-rastreabilidade.md
+        - Matriz de Rastreabilidade: verificacao/Grupo-01/Entrega-06/matriz_de_rastreabilidadec.md
   - Validação:
     - Aumentar fonte: validacao/aumentar-fonte.md
     - Cadastro de Veículo: validacao/cadastro_da_placa_veiculo.md
@@ -146,10 +146,11 @@ nav:
     - Cadastro do Renavam: validacao/cadastro-renavam.md
     - Dívida Ativa: validacao/divida-ativa.md
     - Fazer Logout: validacao/fazer-logout.md
+    - Comprovação Informal: validacao/comprovacao-informal.md
   - Rastreabilidade:
     - Backward From: rastreabilidade/backward_from.md
     - Foward From: rastreabilidade/forward_from.md
-    - Matriz de Rastreabilidade: rastreabilidade/matriz_de_rastreabilidade.md
+    - Matriz de Rastreabilidade: rastreabilidade/matriz-de-rastreabilidade.md
 
 theme:
   name: material

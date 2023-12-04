@@ -16,7 +16,7 @@ A metodologia deste documento consiste na apresentação dos [requisitos elicita
 - Implementado: Indica se o requisito está ou não implementado no aplicativo.
 - Pré-rastreabilidade: Origem do requisito.
 - Artefatos: Quais artefatos fazem referência ao requisito em questão.
-- Elos: Ligação entre requisitos e artefatos mapeados nos documentos [Backward From]() e [Forward From]().
+- Elos: Ligação entre requisitos e artefatos mapeados nos documentos [Backward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/) e [Forward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/).
 
 ## Matriz de Rastreabilidade
 
@@ -25,6 +25,7 @@ Na Tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de Rastreabilidade de requisitos do Economia - DF. </p></font>
 </div>
+
 
 | ID    | Código | Descrição                                                          | Implementado | Pré-rastreabilidade | Artefatos                 | Elos                |
 |-------|--------|--------------------------------------------------------------------|--------------|------------------|---------------------------|---------------------|
@@ -58,6 +59,7 @@ Na Tabela 1, é possível ver a Matriz de Rastreabilidade dos requisitos do Econ
 | INT28 | RNF    | O usuário não deve conseguir colocar uma quantidade diferente de 11 números ao cadastrar o renavan de um veículo | Não | [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) | [Casos de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel) e [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos)| [ELOB28](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md#elos)|
 | INT29 | RNF    | O usuário não deve conseguir colocar uma quantidade diferente de 8 números ao cadastrar a inscrição de um imóvel | Não | [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) | [Casos de Uso](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/casos-de-uso.md#uc10-cadastro-im%C3%B3vel), [Especificacao suplementar](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/especificacao-suplementar.md#especifica%C3%A7%C3%A3o-suplementar), [História de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/agil/historia-de-usuario.md#hs12---cadastrar) e [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos) | [ELOB29](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md#elos)|
 | INT30 | RF     | O usuário deve conseguir emitir a segunda via da dívida ativa       | Não          | [BS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/brainstorming.md), [OBS](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md)            | [Cenários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/cenarios.md#consultar-im%C3%B3veis) e [Léxicos](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#verbos) | [ELOB30](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/rastreabilidade/backward_from.md#elos)|
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023. </p></font>
