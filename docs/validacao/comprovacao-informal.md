@@ -12,18 +12,20 @@ A validação dos artefatos produzidos, elaborados pela equipe sobre o aplicativ
 
 O e-mail em questão foi dirigido ao endereço oficial do Gmail associado ao aplicativo Economia DF, cujas informações podem ser encontradas em [inserir local]. Este método foi escolhido por sua praticidade e eficácia na transmissão de informações cruciais para a equipe responsável pela avaliação dos protótipos.
 
-O envio do e-mail ocorreu pontualmente em 03/12/2023, às 17:00, e ele pode ser visto na figura 1, assegurando que a equipe do Economia DF tivesse acesso imediato às informações essenciais. Essa temporalidade estratégica foi planejada para otimizar a eficiência da comunicação, garantindo que nesta altura, o projeto já estivesse sido verificado e os artefatos corrigidos, caso a equipe do Economia DF tivesse interesse em ler os outros artefatos produzidos pela equipe.
+O envio do e-mail ocorreu pontualmente em 03/12/2023, às 07:00, e ele pode ser visto na figura 1, assegurando que a equipe do Economia DF tivesse acesso imediato às informações essenciais. Essa temporalidade estratégica foi planejada para otimizar a eficiência da comunicação, garantindo que nesta altura, o projeto já estivesse sido verificado e os artefatos corrigidos, caso a equipe do Economia DF tivesse interesse em ler os outros artefatos produzidos pela equipe.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> E-mail de consolidação dos resultados.</p></font>
 
-<img src="#" style="width: 75%;">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/7b33f3fbc5f1ec328889680b19c4803e5e92f151/docs/imagens/comprovacao-informal.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
 </div>
 
 
 ## Resultados 
+
+Até o presente momento, não obtivemos retorno por parte da equipe responsável pelo aplicativo Economia DF em relação ao nosso contato. O e-mail enviado anteriormente foi o único meio de comunicação encontrado para estabelecermos essa conexão. Estamos ansiosos para receber uma resposta e, enquanto aguardamos, permanecemos à disposição para qualquer esclarecimento adicional que possa ser necessário. Agradecemos pela atenção e aguardamos com expectativa uma oportunidade para compartilhar as descobertas de nosso estudo com a equipe do Economia DF.
 
 ## Histórico de Versões
 
