@@ -223,7 +223,7 @@ Os checklists criados se baseiam nos critérios estabelecidos na bibliografia re
 
 ## Checklist Geral
 
-Na Tabela 2, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do Grupo 2.
+Na Tabela 3, estão listados os critérios que devem ser verificados em todos os artefatos da Entrega 2 do Grupo 2.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Checklist para todos os artefatos da Entrega 3</p></font>
@@ -364,8 +364,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist Grupo de Foco
 
+Na Tabela 5, estão listados os critérios que devem ser verificados no artefato Grupo de Foco do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Checklist para o artefato Grupo de Foco.</p></font>
 
 <table>
   <thead>
@@ -445,8 +447,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Brainstorming
 
+Na Tabela 6, estão listados os critérios que devem ser verificados no artefato Brainstorming do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Checklist para o artefato Grupo de Foco.</p></font>
 <table>
   <thead>
     <tr>
@@ -532,10 +536,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de First Thing First
 
-Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 7, estão listados os critérios que devem ser verificados no artefato [First Things First](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/first-thing-first.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato First Thing First</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Checklist para o artefato First Thing First</p></font>
 
 <table>
   <thead>
@@ -596,10 +600,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de In our Out
 
-Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato [In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato In our Out</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato In our Out</p></font>
 
 <table>
   <thead>
@@ -654,8 +658,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Introspecção
 
+Na Tabela 9, estão listados os critérios que devem ser verificados no artefato Introspecção do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Grupo de Foco.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Checklist para o artefato Grupo de Foco.</p></font>
 
 <table>
   <thead>
@@ -723,10 +729,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Observação
 
-Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 10, estão listados os critérios que devem ser verificados no artefato [Observação](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-elicitacao/observa%C3%A7%C3%A3o.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Observação</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Checklist para o artefato Observação</p></font>
 
 <table>
   <thead>
@@ -788,9 +794,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist Perfil de Usuário
 
+Na Tabela 11, estão listados os critérios que devem ser verificados no artefato Perfil de Usuário do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para Perrfil de Usuário da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Checklist para Perfil de Usuário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -898,13 +905,16 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
     </tr>
   </tbody>
 </table>
-</div>
+
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
 ### Checklist de Personas
 
+Na Tabela 12, estão listados os critérios que devem ser verificados no artefato Personas do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Checklist para Personas da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -1009,8 +1019,14 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
   </tbody>
 </table>
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div>
 
 ### Checklist de Questionário
+
+Na Tabela 13, estão listados os critérios que devem ser verificados no artefato Questionário do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Checklist para Questionário da Entrega 2</p></font>
 
 <table>
   <thead>
@@ -1096,10 +1112,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Requisitos Elicitados
 
-Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 14, estão listados os critérios que devem ser verificados no artefato [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos-elicitados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Elicitados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 14:</b> Checklist para o artefato Requisitos Elicitados</p></font>
 
 <table>
   <thead>
@@ -1154,10 +1170,10 @@ Na Tabela 4, estão listados os critérios que devem ser verificados no artefato
 
 ### Checklist de Requisitos Priorizados
 
-Na Tabela 4, estão listados os critérios que devem ser verificados no artefato [Requisitos Priorizados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos_priorizados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 15, estão listados os critérios que devem ser verificados no artefato [Requisitos Priorizados](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/requisitos_priorizados.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Checklist para o artefato Requisitos Priorizados</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 15:</b> Checklist para o artefato Requisitos Priorizados</p></font>
 
 <table>
   <thead>
