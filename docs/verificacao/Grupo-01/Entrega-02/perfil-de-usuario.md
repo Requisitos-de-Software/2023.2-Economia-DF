@@ -196,7 +196,6 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     </tr>
   </tbody>
 </table>
-</div>
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
@@ -238,7 +237,6 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
   <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/verififica%C3%A7%C3%A3o_LV/Perfil_usuarioa.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
-
 </div>
 
 ## Gravação do Documento de Verificação "Perfil de Usuário"

@@ -98,6 +98,7 @@ nav:
         - Product backlog: verificacao/Grupo-02/Entrega-04/product-backlog.md
         - Histórias de usuário: verificacao/Grupo-02/Entrega-04/historias-do-usuario.md
     - Grupo 1:
+      - Panorama geral: verificacao/Grupo-01/verificacao-panorama-geral.md
       - Entrega 1:
         - Planejamento da verificação: verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1.md
         - Ferramentas: verificacao/Grupo-01/Entrega-01/ferramentas.md
@@ -114,7 +115,7 @@ nav:
         - First Things First: verificacao/Grupo-01/Entrega-02/first-thing-first.md
         - Grupo de foco: verificacao/Grupo-01/Entrega-02/Grupo-de-foco.md
         - In or Out: verificacao/Grupo-01/Entrega-02/in-our-out.md
-        - Instrospecção: verificacao/Grupo-01/Entrega-02/instrospecção.md
+        - Instrospecção: verificacao/Grupo-01/Entrega-02/introspecção.md
         - Observação: verificacao/Grupo-01/Entrega-02/observacao.md
         - Perfil do Usuário: verificacao/Grupo-01/Entrega-02/perfil-de-usuario.md
         - Personas: verificacao/Grupo-01/Entrega-02/personas.md
@@ -138,6 +139,13 @@ nav:
         - Backward From: verificacao/Grupo-01/Entrega-06/backward-fromc.md
         - Foward From: verificacao/Grupo-01/Entrega-06/forward-fromc.md
         - Matriz de Rastreabilidade: verificacao/Grupo-01/Entrega-06/matriz-de-rastreabilidade.md
+  - Validação:
+    - Aumentar fonte: validacao/aumentar-fonte.md
+    - Cadastro de Veículo: validacao/cadastro_da_placa_veiculo.md
+    - Cadastro de Imóvel: validacao/cadastro-de-imovel.md
+    - Cadastro do Renavam: validacao/cadastro-renavam.md
+    - Dívida Ativa: validacao/divida-ativa.md
+    - Fazer Logout: validacao/fazer-logout.md
   - Rastreabilidade:
     - Backward From: rastreabilidade/backward_from.md
     - Foward From: rastreabilidade/forward_from.md
