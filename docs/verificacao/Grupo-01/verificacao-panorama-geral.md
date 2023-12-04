@@ -1,4 +1,4 @@
-# Verificação dos artefatos entregues pelo Grupo 1
+# Panorama Geral - Verificação dos artefatos entregues pelo Grupo 1
 
 ## Introdução
 
