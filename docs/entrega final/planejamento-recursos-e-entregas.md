@@ -129,13 +129,13 @@ Na tabela 3, é possível ver o cronograma executado de todo o projeto.
 | 6| Matriz de Rastreabilidade | 15/nov|17/nov |Izabella Alves, Lucas Victor, Lucas Ribeiro|Lucas de Oliveira |
 | Entrega Final| Aplicativo Selecionado| | |Gabriel Zaranza| |
 | Entrega Final| Planejamento dos Recursos e das Entregas| | |Izabella Alves| |
-| Entrega Final| Execução do projeto| | |Lucas Ribeiro| |
-| Entrega Final| Resultados alcançados| | |Lucas Oliveira| |
-| Entrega Final| Técnicas Utilizadas| | |Gabriel Rosa| |
-| Entrega Final| Artefatos criados por entrega| | |Zenilda Vieira| |
+| Entrega Final| Execução do projeto| 30/nov| 30/nov|Lucas Ribeiro| Lucas De Oliveira|
+| Entrega Final| Resultados alcançados| 02/dez| |Lucas Oliveira| Lucas Victor|
+| Entrega Final| Técnicas Utilizadas|02/dez | 02/dez|Gabriel Rosa| Lucas De Oliveira|
+| Entrega Final| Artefatos criados por entrega| 25/nov| |Zenilda Vieira| Izabella Alves |
 | Entrega Final| Método de verificação e validação| | |Gabriel Zaranza| |
 | Entrega Final| Ferramentas Utilizadas| | |Lucas Victor| |
-| Entrega Final| Apresentações| | |Zenilda Vieira| |
+| Entrega Final| Apresentações|24/nov |24/nov |Zenilda Vieira| Lucas De Oliveira |
 
 <div align="center">
         <p><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a></p>
