@@ -181,7 +181,7 @@ Este método pode ser dividido em 5 etapas:
     </tr>
     <tr>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/casos-de-uso/">Verificação do artefato Casos de Uso</a></td>
-      <td><<a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
     </tr>
     <tr>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/validacao-uc/">Verificação do artefato Validação dos casos de uso</a></td>
