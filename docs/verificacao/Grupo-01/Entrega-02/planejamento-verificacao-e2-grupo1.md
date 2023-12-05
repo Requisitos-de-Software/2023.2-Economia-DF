@@ -72,7 +72,7 @@ A Tabela 1 apresenta os artefatos que serão inspecionados durante o processo de
           <td align="center"><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
       </tr>
           <tr>
-          <td>In our Out</td>
+          <td>In or Out</td>
           <td align="center">1.3</td>
           <td align="center">20/10/2023</td>
           <td align="center"><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a></td>
@@ -598,12 +598,12 @@ Na Tabela 7, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
-### Checklist de In our Out
+### Checklist de In or Out
 
-Na Tabela 8, estão listados os critérios que devem ser verificados no artefato [In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
+Na Tabela 8, estão listados os critérios que devem ser verificados no artefato [In or Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md) do [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato In our Out</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Checklist para o artefato In or Out</p></font>
 
 <table>
   <thead>

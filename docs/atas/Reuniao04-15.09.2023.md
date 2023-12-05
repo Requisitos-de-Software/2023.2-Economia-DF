@@ -58,6 +58,7 @@ Na tabela 2 encontram-se as atividades definidas e os responsáveis por cada uma
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+</div>
 
 ## Conclusão
 

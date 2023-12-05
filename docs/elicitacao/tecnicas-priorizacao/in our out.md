@@ -1,4 +1,4 @@
-# Priorização In our Out
+# Priorização In or Out
 
 ## Introdução
 
@@ -14,7 +14,7 @@ Na tabela 1 abaixo consta o cronograma da reunião.
 
 | Data | Hora | Local | Assunto | Mediador | Participante |
 | :--: | :--: | :---: | ------- | ------------ | ----- |
-| 01/10/2023 | 10h | Teams | Priorização de requisitos elicitados utilizando a técnica In our Out |[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+| 01/10/2023 | 10h | Teams | Priorização de requisitos elicitados utilizando a técnica In or Out |[Gabriel Zaranza](https://github.com/GZaranza)|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a> e <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>

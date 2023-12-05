@@ -1,8 +1,8 @@
-# Verificação do artefato "In our Out"
+# Verificação do artefato "In or Out"
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão 1.3, de 20/10/2023.
+Este documento tem como objetivo relatar os resultados da verificação por inspeção do artefato "[In or Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" elaborado pelo [Grupo 1](https://requisitos-de-software.github.io/2023.2-Economia-DF/) na disciplina de Requisitos de Software. Será analisado o documento feito pelos integrantes do grupo em sua última versão 1.3, de 20/10/2023.
 
 ## Metodologia
 
@@ -85,7 +85,7 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação do checklist ge
 Na Tabela 2, encontram-se os resultados obtidos na verificação do checklist específico do artefato em estudo.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de In our Out</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Checklist para o artefato de In or Out</p></font>
 
 <table>
   <thead>
@@ -146,11 +146,11 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do checklist es
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "incompleto" e "não se aplica" obtidos na verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato "[In or Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não", "incompleto" e "não se aplica" obtidos na verificação.
 
 ### Checklist Geral
 
-No Gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" em relação ao checklist geral.
+No Gráfico 1, é possível visualizar os resultados obtidos na verificação do artefato "[In or Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md)" em relação ao checklist geral.
 
 <div align="center">
   <p><b>Gráfico 1:</b> Resultados da verificação checklist geral.</p>
@@ -181,7 +181,7 @@ No Gráfico 2, é possível visualizar os resultados obtidos na verificação do
 
 ## Bibliografia
 
-> Economia-DF. [In our Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
+> Economia-DF. [In or Out](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/tecnicas-priorizacao/in%20our%20out.md), FGA, GAMA, 2023. Acesso em: 25 de novembro de 2023.
 > 
 
 ## Histórico de Versões

@@ -47,7 +47,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 |Deixar explícito qual foi definido o perfil de usuário e colocar o texto de conclusão do mesmo|[Gabriel Zaranza](https://github.com/GZaranza)|
 |Deixar claro como as personas foram definidas|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), [Lucas Víctor](https://github.com/Lucas13032003)|
 |Colocar o horário no qual foi realizado o brainstorming e a observação, e documentar o cronograma na instrospecção|[Gabriel Zaranza](https://github.com/GZaranza), [Lucas Víctor](https://github.com/Lucas13032003), [Izabella Alves](https://github.com/izabellaalves)|
-|Colocar o cronograma dentro do In our Out|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
+|Colocar o cronograma dentro do In or Out|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>

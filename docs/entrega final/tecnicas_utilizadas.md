@@ -74,7 +74,7 @@ Na tabela 1 é possíver as técnicas utilizadas de acordo com a entrega e o art
     <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/tree/main/docs/elicitacao">Elicitação de Requisitos</a></td>
     <td><a href="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/tree/main/docs/elicitacao/tecnicas-priorizacao">Técnicas de Priorização</a></td>
     <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/first-thing-first/">First Thing First</a><br/>
-    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/in%20our%20out/">In our Out</a><br/>
+    <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/in%20our%20out/">In or Out</a><br/>
     <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/100%24/">100$
 </a></td>
   </tr>
