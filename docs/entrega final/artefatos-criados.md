@@ -656,7 +656,7 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
     </tr>
     <tr>
       <td rowspan="10">Etapa Final</td>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/xxx/">  Aplicativo Selecionado</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/app_escolhido/">  Aplicativo Escolhido</a> </td>
         <td>
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
       </td>
