@@ -44,7 +44,8 @@ Na figura 1, é possível ver o protótipo de alta fidelidade feito para o requi
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de "Mostrar o saldo do usuário no programa Nota Legal"</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/f0502f32b63b83493d1d343fdf834d0a7e3ef6b3/docs/imagens/prot-alta-requisitos.jpg?raw=true" style="width: 75%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/assets/116514986/c0e9516c-c792-4f1e-90fa-d37b1047b4f1" style="width: 75%;">
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
