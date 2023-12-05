@@ -20,7 +20,10 @@ blablabla
 blablabla
 
 #### Lucas Victor
-blablabla
+
+Colaborar nos projetos do site Nota Legal e do app Economia - DF trouxe benefícios significativos para nossa equipe. Abordar o mesmo tema em duas disciplinas proporcionou uma união eficaz entre elas, resultando em vantagens notáveis.
+
+A principal facilidade foi manter consistência na abordagem e implementação de conceitos compartilhados nas duas plataformas. Isso possibilitou economia de esforços ao reutilizar artefatos e ideias, maximizando a eficiência no desenvolvimento. A expertise adquirida em uma disciplina contribuiu diretamente para uma execução mais eficaz na outra, otimizando o uso de recursos.
 
 #### Lucas de Oliveira
 blablabla
@@ -59,3 +62,4 @@ blablabla
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
+| `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
