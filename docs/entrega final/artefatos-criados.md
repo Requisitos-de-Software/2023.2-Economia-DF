@@ -4,7 +4,7 @@
 
 Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos integrantes do grupo que participaram da elaboração.
 
-No total foram 133 documentos e 46 vídeos gravados pelos integrantes do grupo.
+No total foram 134 documentos e 46 vídeos gravados durante o projeto.
 
 ## Tabela de artefatos
 
@@ -30,7 +30,7 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
         </td>
     </tr>
     <tr>
-      <td rowspan="16">Atas das Reuniões</td>
+      <td rowspan="17">Atas das Reuniões</td>
         <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/atas/Reuniao01-31.08.2023/">Reunião 1</a> </td>
         <td>
             <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
@@ -122,6 +122,12 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
     </tr>
     <tr>
         <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/atas/Reuniao16-21.11.2023/">Reunião 16</a>  </td>
+        <td>
+            <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/atas/modelo/">Modelo</a>  </td>
         <td>
             <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
         </td>
