@@ -120,3 +120,4 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 24/11/2023 | Criação do documento | [Zenilda Vieira](https://github.com/zenildavieira)  |  [Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)  |
+| `1.1`  | 06/12/2023 | Inclusão dos últimos links  | [Zenilda Vieira](https://github.com/zenildavieira) |[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |

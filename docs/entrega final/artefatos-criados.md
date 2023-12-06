@@ -770,4 +770,5 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 03/12/2023 | Criação do documento  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 05/12/2023 | Inclusão dos últimos links  | [Zenilda Vieira](https://github.com/zenildavieira) | [Izabella Alves](https://github.com/izabellaalves) |
 

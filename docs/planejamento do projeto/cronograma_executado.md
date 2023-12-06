@@ -1029,6 +1029,195 @@ Na tabela 7 encontram-se as datas do cronograma executado para a etapa de Análi
 </div>
 
 
+## Entrega Final - Data de Entrega: 06/dez/2023
+
+Na tabela 8 encontram-se as datas do cronograma executado para a Entrega Final.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Cronograma planejado para a Entrega Final</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>Documento Aplicativo Selecionado</td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Planejamento dos Recursos e das Entregas</td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>02/dez</td>
+      <td>
+       <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>02/dez</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Execução do projeto</td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>30/nov</td>
+      <td>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>01/dez</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Resultados Alcançados</td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>02/dez</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>03/dez</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Técnicas Utilizadas</td>
+     <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>02/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>03/dez</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+      </td>
+  </tr>
+  <tr>
+   <td>Documento Artefatos Criados</td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>Início: 24/nov - Fim: 05/dez</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Método de Verificação</a></td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>04/dez</td>
+      <td>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>04/dez</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Ferramentas Utilizadas</a></td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Apresentações</a></td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+       <td>Início: 24/nov - Fim: 06/dez</td>
+      <td>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>06/dez</td>
+      <td>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+      </td>
+  </tr>
+  <tr>
+    <td>Documento Facilidades e Dificuldades</a></td>
+      <td>Início: 25/nov - Fim: 28/nov</td>
+       <td>05/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br>
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br>
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>Início: 29/nov - Fim: 30/nov</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br>
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br>
+      </td>
+  </tr>
+    <tr>
+      <td>Gravação Final</td>
+      <td>02/dez</td>
+      <td>05/dez</td>
+      <td>
+        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+      </td>
+      <td>03/dez</td>
+      <td>06/dez</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega Final</td>
+      <td>02/dez</td>
+      <td>06/dez</td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>02/dez</td>
+      <td>06/dez</td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> , 2023</p></font>
+</div>
+
 
 ## Bibliografia
 
@@ -1048,3 +1237,4 @@ Na tabela 7 encontram-se as datas do cronograma executado para a etapa de Análi
 | `1.5`  | 13/11/2023 | Inclusão das datas da entrega 5.1                 | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.6`  | 20/11/2023 | Inclusão das datas da entrega 6                   | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    | [Izabella Alves](https://github.com/izabellaalves) |
 | `1.7`  | 03/12/2023 | Inclusão das datas da entrega 5.2                   | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    |[Gabriel Rosa](https://github.com/gabrielrosa09)|
+| `1.8`  | 06/12/2023 | Inclusão das datas da entrega final                   | [Zenilda Vieira](https://github.com/ZenildaVieira)                                                    |[Gabriel Rosa](https://github.com/gabrielrosa09)|
