@@ -117,7 +117,6 @@ O uso das ferramentas no projeto foi crucial para melhorar a eficiência e a qua
 > [13] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: 29 de set. de 2023.
 >
 
-
 ## Bibliografia
 
 > HENRIQUE, Matheus; FERREIRA, Rafael. **Entrega Final.** Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/entrega-final/ferramentas-utilizadas.md>>. Acesso em: 05 Dezembro 2023.
