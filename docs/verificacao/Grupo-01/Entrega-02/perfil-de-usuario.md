@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Perfil de Usuário]([#](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md)) desenvolvido pelo [Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.3 desse documento, incluída no histórico em 30/09/2023.
+Neste relatório, apresentamos os resultados da inspeção realizada no artefato [Perfil de Usuário](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/elicitacao/perfil_usuario.md) desenvolvido pelo [Grupo 1](https://github.com/Requisitos-de-Software/2023.2-Economia-DF) como parte da disciplina de Requisitos de Software. Analisaremos a versão 1.3 desse documento, incluída no histórico em 30/09/2023.
 
 ## Objetivo
 
