@@ -26,9 +26,9 @@ Neste documento, será apresentado e validado o protótipo de alta fidelidade do
   <tr>
     <td>Cronograma Executado</td>
     <td>Gabriel Zaranza</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Carlos Barreto</td>
+    <td>18:35</td>
+    <td>18:39</td>
     <td>27/11/2023</td>
     <td>Presencial</td>
   </tr>
@@ -66,14 +66,13 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 
 <p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Mostrar o saldo do usuário no programa Nota Legal"</a></p>
 
-<iframe width="560" height="315" src="" title="Apresentação 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBMoO4ALVnE?si=2kbzv41pdPIPOTgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
 ## Resultados Obtidos
 
-
+O resultado da validação do protótipo de alta fidelidade dos requisitos para mostrar o saldo do usuário no programa Nota Legal foi extremamente positivo. Durante o processo, o participante envolvido na avaliação não identificou quaisquer problemas significativos. Isso evidencia a eficácia do design e a usabilidade do protótipo, indicando que a implementação final do recurso deve atender satisfatoriamente às expectativas dos usuários. A ausência de dificuldades apontadas pelo participante reforça a confiança na qualidade do desenvolvimento, sinalizando um passo importante na direção da entrega de uma experiência fluida e intuitiva para os usuários do Nota Legal.
 
 
 ## Histórico de Versões
@@ -81,3 +80,4 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 27/11/2023 |  Criação do documento |  [Gabriel Zaranza](https://github.com/GZaranza)|  [Izabella Alves](https://github.com/izabellaalves)    |
+| `1.0`  | 05/12/2023 |  Concertando o link do vídeo |  [Gabriel Zaranza](https://github.com/GZaranza)|  [Izabella Alves](https://github.com/izabellaalves)    |
