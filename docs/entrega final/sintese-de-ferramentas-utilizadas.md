@@ -83,7 +83,6 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma d
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-
 ## Conclusão
 
 O uso das ferramentas no projeto foi crucial para melhorar a eficiência e a qualidade do nosso trabalho. Recomendamos escolher ferramentas com as quais a equipe esteja familiarizada, evitando a introdução excessiva de novas, o que demanda tempo de adaptação e impacta a eficiência. A seleção cuidadosa das ferramentas contribuiu diretamente para o sucesso do projeto.
