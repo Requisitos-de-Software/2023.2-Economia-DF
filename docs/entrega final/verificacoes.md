@@ -238,7 +238,7 @@ Este método pode ser dividido em 5 etapas:
 ### Verificação Etapa 6
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela de artefatos da verificação da Entrega 5</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela de artefatos da verificação da Entrega 6</p></font>
 
 <table>
   <thead>
@@ -249,7 +249,7 @@ Este método pode ser dividido em 5 etapas:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1/">Planejamento da verificação (checklist) Etapa 5 </a></td>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1/">Planejamento da verificação (checklist) Etapa 6 </a></td>
       <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
     <tr>

@@ -7,7 +7,7 @@ Este documento detalhará cada uma dessas técnicas, além de outras que também
 
 ## Tabela de Técnicas Utilizadas
 
-Na tabela 1 é possíver as técnicas utilizadas de acordo com a entrega e o artefato relacionado.
+Na tabela 1 é possível as técnicas utilizadas de acordo com a entrega e o artefato relacionado.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Técnicas utilizadas.</p></font>
