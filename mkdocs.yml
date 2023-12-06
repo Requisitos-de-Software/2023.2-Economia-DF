@@ -40,6 +40,7 @@ nav:
     - Cronograma executado: planejamento do projeto/cronograma_executado.md 
   - Elicitação de Requisitos:
     - Definição do Perfil de Usuário:
+      - Termo de Consentimento Livre e Esclarecido: elicitacao/tecnicas-perfil-usuario/termo_de_consentimento_perfilUsuario.md
       - Grupo de Foco: elicitacao/tecnicas-perfil-usuario/grupo_de_foco.md
       - Questionário: elicitacao/tecnicas-perfil-usuario/questionario.md
       - Perfil de Usuário: elicitacao/perfil_usuario.md
@@ -77,6 +78,7 @@ nav:
       - Entrega 2:
         - Planejamento da verificação: verificacao/Grupo-02/Entrega-02/planejamento-verificacao.md
         - Perfil do usuário:
+          - Perfil do usuário: verificacao/Grupo-02/Entrega-02/perfil-de-usuario.md
           - Questionário: verificacao/Grupo-02/Entrega-02/questionario.md
         - Personas: verificacao/Grupo-02/Entrega-02/personas.md
         - Elicitação de requisitos: 
@@ -147,7 +149,7 @@ nav:
     - Cadastro de Veículo: validacao/cadastro_da_placa_veiculo.md
     - Cadastro de Imóvel: validacao/cadastro-de-imovel.md
     - Cadastro do Renavam: validacao/cadastro-renavam.md
-    - Consultar saldo: validacao\consultar-saldo-notalegal.md
+    - Consultar saldo: validacao/consultar-saldo-notalegal.md
     - Dívida Ativa: validacao/divida-ativa.md
     - Fazer Logout: validacao/fazer-logout.md
     - Comprovação Informal: validacao/comprovacao-informal.md
