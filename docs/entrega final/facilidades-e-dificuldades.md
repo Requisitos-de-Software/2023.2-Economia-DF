@@ -39,7 +39,7 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
 
 
 #### Zenilda Vieira
-
+Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito comprometido. Todos trabalharam muito, se esforçaram ao máximo para fazer o melhor possível durante todo o semestre. Aprendemos bastante. As aulas foram bem dinâmicas e o nosso projeto conseguiu evoluir bastante até o final
 
 ## Dificuldades
 
@@ -63,7 +63,7 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
 blablabla
 
 #### Zenilda Vieira
-blablabla
+Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito comprometido. Todos trabalharam muito, se esforçaram ao máximo para fazer o melhor possível durante todo o semestre. Aprendemos bastante. As aulas foram bem dinâmicas e o nosso projeto conseguiu evoluir bastante até o final
 
 ## Histórico de Versões
 
