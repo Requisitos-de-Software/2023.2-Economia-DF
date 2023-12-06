@@ -75,17 +75,20 @@ A validação foi conduzida de maneira presencial, e no Vídeo 1, é possível v
 
 <div align="center">
 
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Aumentar a Fonte"</a></p>
+<p style="text-align: center"><a href="https://youtu.be/7trWKl6m6sg" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Aumentar a Fonte"</a></p>
 
-<iframe width="560" height="315" src="" title="Aumentar a Fonte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7trWKl6m6sg" title="Aumentar a Fonte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
 </div>
 
 ## Resultados Obtidos
 
+Os resultados obtidos na validação do protótipo de alta fidelidade do requisito "Aumentar a fonte" foram extremamente positivos, refletindo uma eficácia notável na experiência do usuário. A participante expressou satisfação ao interagir com a interface, destacando a clareza na navegação e a facilidade de compreensão das etapas necessárias, e achou extremamente importante ter essa função de aumentar a fonte, pois pessoas com visão ruim pode navegar no aplicativo sem problema algum de visão. De acordo com o participante, a funcionalidade está de acordo com o aplicativo e poderia ser inserida ao mesmo.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 27/11/2023 |  Criação do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
+| `1.1`  | 06/12/2023 |  Conclusão do documento |  [Lucas Ribeiro](https://github.com/lucassouzs)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
