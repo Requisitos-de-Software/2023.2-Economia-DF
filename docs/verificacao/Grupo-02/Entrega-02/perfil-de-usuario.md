@@ -194,7 +194,7 @@ Nesta fase, exibiremos os resultados conforme o checklist adotado. Cada item do 
     </tr>
   </tbody>
 </table>
-</div>
+
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
