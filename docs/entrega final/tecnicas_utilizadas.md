@@ -185,6 +185,10 @@ Na tabela 1 é possíver as técnicas utilizadas de acordo com a entrega e o art
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
 </div>
 
+## Conclusão
+
+O sucesso de qualquer projeto de software é intrinsecamente ligado à sua fase de requisitos, e este documento detalha meticulosamente as técnicas e metodologias empregadas nessa etapa crucial. Desde o planejamento até a verificação e validação, uma gama diversificada de técnicas foi aplicada, demonstrando uma abordagem adaptativa e centrada na obtenção abrangente dos requisitos. A diversidade de abordagens utilizadas reflete a atenção cuidadosa dada a cada fase do projeto, garantindo não apenas a qualidade, mas também a profundidade na definição dos requisitos.
+
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
