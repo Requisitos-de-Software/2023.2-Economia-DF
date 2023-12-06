@@ -72,7 +72,6 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 
 ## Resultados Obtidos
 
-
 Os resultados obtidos na validação do protótipo de alta fidelidade do requisito "emitir segunda via da dívida ativa" foram extremamente positivos, refletindo uma eficácia notável na experiência do usuário. A participante expressou satisfação ao interagir com a interface, destacando a clareza na navegação e a facilidade de compreensão das etapas necessárias para emitir a segunda via. De acordo com a participante, a funcionalidade está de acordo com o aplicativo e poderia ser inserida ao mesmo.
 
 ## Histórico de Versões

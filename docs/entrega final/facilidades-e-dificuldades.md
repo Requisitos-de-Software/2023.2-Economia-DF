@@ -60,7 +60,8 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
  Um dos maiores desafios enfrentados durante o projeto foi a gestão do tempo, especialmente ao lidar com entregas de grande escala. A compressão dos prazos muitas vezes tornou difícil manter uma rotina de trabalho equilibrada e saudável. Essa pressão temporal, por vezes, impactou negativamente a qualidade do trabalho entregue. Acredita-se que essa situação seja uma consequência inevitável do encurtamento do semestre, que exige um esforço adicional para conciliar as demandas de todas as disciplinas. A busca por um equilíbrio entre as várias responsabilidades acadêmicas e a dedicação necessária ao projeto se mostrou um desafio complexo, exigindo uma organização e planejamento ainda mais rigorosos para atender às expectativas de qualidade dentro dos prazos estipulados.
 
 #### Lucas Ribeiro
-blablabla
+
+Enfrentar um semestre mais curto e repleto de disciplinas, foi um dos desafios mais significativos que experimentei no decorrer da discipina. Além disso, o curto de tempo para estudar e se dedicar às matérias tornou-se um obstáculo considerável para assimilar conceitos complexos e participar de atividades extracurriculares. Em particular, cursar as duas disciplinas (Interação Humano-Computador e Requisitos de Software) ampliou esses desafios, evidenciando a falta de tempo. Nesse contexto, a necessidade de uma organização tornou-se crucial para acompanhar ambas as disciplinas, sem deixar nenhuma delas de lado. Essa demanda adicional frequentemente exigiu um esforço suplementar, envolvendo horas de estudo adicionais diárias.
 
 #### Zenilda Vieira
 Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito comprometido. Todos trabalharam muito, se esforçaram ao máximo para fazer o melhor possível durante todo o semestre. Aprendemos bastante. As aulas foram bem dinâmicas e o nosso projeto conseguiu evoluir bastante até o final
@@ -71,4 +72,4 @@ Esse semestre foi muito proveitoso. Tive a sorte de participar de um grupo muito
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
 | `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/Lucassousz) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/izabellaalves) |

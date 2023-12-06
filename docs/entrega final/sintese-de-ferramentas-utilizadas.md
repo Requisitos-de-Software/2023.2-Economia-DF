@@ -7,7 +7,6 @@ Organizar e visualizar as ferramentas empregadas no projeto é crucial para gara
 
 A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma determinada ferramentas foi utilizada e em qual entrega foi utilizada. Cada ferramenta possui um _link_ que leva para a página da ferramenta na _web_.
 
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Ferramentas Utilizadas no Projeto.</p></font>
 
@@ -84,8 +83,6 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma d
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 </div>
 
-
-
 ## Conclusão
 
 O uso das ferramentas no projeto foi crucial para melhorar a eficiência e a qualidade do nosso trabalho. Recomendamos escolher ferramentas com as quais a equipe esteja familiarizada, evitando a introdução excessiva de novas, o que demanda tempo de adaptação e impacta a eficiência. A seleção cuidadosa das ferramentas contribuiu diretamente para o sucesso do projeto.
@@ -118,7 +115,6 @@ O uso das ferramentas no projeto foi crucial para melhorar a eficiência e a qua
 >
 > [13] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: 29 de set. de 2023.
 >
-
 
 ## Bibliografia
 
