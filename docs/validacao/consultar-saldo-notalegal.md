@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é fornecer uma visã
 
 ## Metodologia
 
-Neste documento, será apresentado e validado o protótipo de alta fidelidade do [requisito INT22](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados), que diz "O usuário deve conseguir emitir a segunda via da dívida ativa". O protótipo de alta fidelidade foi criado na ferramenta Canva, e validado com o usuário Gilmar P. dos Santos através do método de entrevista. Um cronograma da entrevista está disponível abaixo na tabela 1:
+Neste documento, será apresentado e validado o protótipo de alta fidelidade do [requisito INT22](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados), que diz "O usuário deve conseguir emitir a segunda via da dívida ativa". O protótipo de alta fidelidade foi criado na ferramenta Figma, e validado com o usuário Carlos Barreto através do método de entrevista. Um cronograma da entrevista está disponível abaixo na tabela 1:
 
 <div align="center">
 <p><b>Tabela 1 -</b> Cronograma executado da entrevista.</p>
