@@ -1,9 +1,12 @@
-# Síntese das Verificações
+# Síntese das Verificações e Validações
+
 
 ## Introdução
 Este documento visa consolidar e sintetizar as verificações efetuadas nos artefatos produzidos tanto pelo nosso próprio projeto como no projeto do [Grupo 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/). Este processo de avaliação é crucial para assegurar a qualidade, coesão e eficácia dos resultados alcançados, contribuindo para a melhora dos dois projetos.
 
-## Metodolgoia
+## Verificações
+
+### Metodolgoia
 A metodologia que foi utilizada na verificação dos artefatos dos dois projeto é a de Inspeção, desenvolvida por Michael E. Fagan [1], que é uma abordagem estruturada para revisão de código e outros artefatos de software. Essa metodologia tem como objetivo identificar e corrigir defeitos de forma eficiente durante o processo de desenvolvimento. A inspeção por Fagan é conhecida por sua abordagem sistemática e rigorosa, enfocando a detecção precoce de erros para melhorar a qualidade do software. 
 
 Este método pode ser dividido em 5 etapas:
@@ -20,9 +23,9 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-## Grupo 1 (Nosso grupo)
+#### Grupo 1 (Nosso grupo)
 
-### Verificação Etapa 1
+#### Verificação Etapa 1
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos da verificação da Entrega 1</p></font>
@@ -79,7 +82,7 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-### Verificação Etapa 2
+#### Verificação Etapa 2
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos da verificação da Entrega 2</p></font>
@@ -154,7 +157,7 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-### Verificação Etapa 3
+#### Verificação Etapa 3
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela de artefatos da verificação da Entrega 3</p></font>
@@ -199,7 +202,7 @@ Este método pode ser dividido em 5 etapas:
 </div>
 
 
-### Verificação Etapa 4
+#### Verificação Etapa 4
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Tabela de artefatos da verificação da Entrega 4</p></font>
@@ -235,7 +238,7 @@ Este método pode ser dividido em 5 etapas:
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
-### Verificação Etapa 6
+#### Verificação Etapa 6
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Tabela de artefatos da verificação da Entrega 6</p></font>
@@ -274,12 +277,12 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-## Grupo 2 
+### Grupo 2 
 
-### Verificação Etapa 1
+#### Verificação Etapa 1
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de artefatos da verificação da Entrega 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Tabela de artefatos da verificação da Entrega 1</p></font>
 
 <table>
 
@@ -325,10 +328,10 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-### Verificação Etapa 2
+#### Verificação Etapa 2
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Tabela de artefatos da verificação da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Tabela de artefatos da verificação da Entrega 2</p></font>
 
 
 <table>
@@ -392,10 +395,10 @@ Este método pode ser dividido em 5 etapas:
 
 
 
-### Verificação Etapa 3
+#### Verificação Etapa 3
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela de artefatos da verificação da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Tabela de artefatos da verificação da Entrega 3</p></font>
 
 <table>
   <thead>
@@ -433,10 +436,10 @@ Este método pode ser dividido em 5 etapas:
 </div>
 
 
-### Verificação Etapa 4
+#### Verificação Etapa 4
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Tabela de artefatos da verificação da Entrega 4</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Tabela de artefatos da verificação da Entrega 4</p></font>
 
 <table>
   <thead>
@@ -470,7 +473,59 @@ Este método pode ser dividido em 5 etapas:
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
+## Validações
 
+### Metodologia
+
+Cada integrante do grupo ficou responsável pela implementação de um protótipo de alta fidelidade de um [requisito elicitado](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/requisitos-elicitados/#tabela-de-requisitos-elicitados) não implementado. Após a prototipação, foi realizado a validação dos protótipos utilizando o teste de usabilidade com usuários do aplicativo Economia-DF. Todas as validações foram documentadas nos artefatos disponíveis com seus respectivos autores presents na Tabela 11.
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Tabela de artefatos da verificação da Entrega 4</p></font>
+
+<table>
+  <thead>
+    <tr>
+        <th>Validação</th>
+        <th>Responsável</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro_da_placa_veiculo/">Validação "Cadastro da Placa do Veículo"</a></td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/consultar-saldo-notalegal/">Validação "Mostrar o saldo do usuário no programa Nota Legal"</a></td>
+      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/divida-ativa/">Validação "Emitir Segunda Via da Dívida Ativa"</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/aumentar-fonte/">Validação "Aumentar a fonte"</a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-de-imovel/">Validação "Cadastro de imóvel com apenas 8 números"</a></td>
+      <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-renavam/">Validação "Cadastrar RENAVAM"</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/fazer-logout/">Validação "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
+</div>
 
 ## Referências Bibliográficas
 
