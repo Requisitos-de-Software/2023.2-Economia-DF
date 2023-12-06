@@ -146,6 +146,7 @@ nav:
     - Cadastro de Veículo: validacao/cadastro_da_placa_veiculo.md
     - Cadastro de Imóvel: validacao/cadastro-de-imovel.md
     - Cadastro do Renavam: validacao/cadastro-renavam.md
+    - Consultar saldo: validacao\consultar-saldo-notalegal.md
     - Dívida Ativa: validacao/divida-ativa.md
     - Fazer Logout: validacao/fazer-logout.md
     - Comprovação Informal: validacao/comprovacao-informal.md
