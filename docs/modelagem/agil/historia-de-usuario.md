@@ -382,6 +382,17 @@ Em seguida, iniciando na tabela 3 e indo até a tabela 19, temos as histórias d
 
 Para validar as histórias de usuário, conduzimos uma entrevista com o nosso [representante-chave](https://github.com/itsmewall) disponível para consulta [neste link](https://youtu.be/N9drF4rqA88). A reunião foi realizada através da plataforma Teams no dia 03 de novembro de 2023, às 21:00 hrs. Após a entrevista, procedemos com as modificações necessárias para garantir que as histórias estejam alinhadas com as expectativas e necessidades do usuário. 
 
+No vídeo 1 encontra-se a gravação da entrevista.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/N9drF4rqA88" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 05</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N9drF4rqA88" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
+</div >
+
+
 ### Bibliografia
 
 

@@ -161,7 +161,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "M
   
 <p style="text-align: center"><a href="https://youtu.be/alrc_HNT2BY" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Matriz de Rastreabilidade".</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/alrc_HNT2BY" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/alrc_HNT2BY" title="Apresentação 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 
@@ -202,4 +202,4 @@ No gráfico 2, é possível visualizar os resultados obtidos na verificação do
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 25/11/2023 | Criação do documento  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
-| `1.1`  | 30/11/2023 | Adição do link dos videos e dos graficos  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |
+| `1.1`  | 30/11/2023 | Adição do link dos vídeos e dos graficos  | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Gabriel Zaranza](https://github/GZaranza)  |

@@ -78,7 +78,7 @@ A validação foi conduzida de maneira presencial, e no Vídeo 1, é possível v
 
 <p style="text-align: center"><a href="https://youtu.be/3AYn1BNygIQ" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Cadastrar RENAVAM de Veiculo"</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/3AYn1BNygIQ" title="Cadastrar RENAVAM de Veiculo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/3AYn1BNygIQ" title="Cadastrar RENAVAM de Veiculo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
 </div>
@@ -99,4 +99,4 @@ Com esses resultados, podemos afirmar que o protótipo cumpriu os objetivos prop
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
 | `1.0`  | 02/12/2023 |  Criação do documento |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
-| `1.1`  | 03/12/2023 |  Adição do link dos videos e do figma |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    |  [Gabriel Zaranza](https://github.com/GZaranza)|
+| `1.1`  | 03/12/2023 |  Adição do link dos vídeos e do figma |  [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)    |  [Gabriel Zaranza](https://github.com/GZaranza)|

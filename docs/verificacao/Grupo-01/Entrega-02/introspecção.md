@@ -197,7 +197,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "I
   
 <p style="text-align: center"><a href="https://youtu.be/KTodwgoxI1I" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Introspecção".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KTodwgoxI1I?si=ADnDeXFgc3Ciws51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTodwgoxI1I?si=ADnDeXFgc3Ciws51" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

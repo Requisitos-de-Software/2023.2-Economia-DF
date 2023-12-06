@@ -43,7 +43,7 @@ Na tabela 1 consta o horário de início e o horário de término previsto da re
 | Atividades       | Responsável   |
 | ---------------- | ------------- |
 |Conferir se o histórico de versão está padronizado.|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|
-|Publicar o video da apresentação 2 e criar o documento da apresentação 2|[Lucas Ribeiro](https://github.com/lucassouzs)|
+|Publicar o vídeo da apresentação 2 e criar o documento da apresentação 2|[Lucas Ribeiro](https://github.com/lucassouzs)|
 |Conferir as referências bibliográficas e/ou bibliografia nos artefatos: Grupo de foco, 100$ e Personas|[Gabriel Rosa](https://github.com/gabrielrosa09), [Lucas Ribeiro](https://github.com/lucassouzs), [Lucas Víctor](https://github.com/Lucas13032003)|
 |Deixar explícito qual foi definido o perfil de usuário e colocar o texto de conclusão do mesmo|[Gabriel Zaranza](https://github.com/GZaranza)|
 |Deixar claro como as personas foram definidas|[Lucas De Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira), [Lucas Víctor](https://github.com/Lucas13032003)|

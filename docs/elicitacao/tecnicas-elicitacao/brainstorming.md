@@ -97,7 +97,15 @@ Na elicitação de requisitos para o aplicativo "Economia DF" (Nota Legal), util
 
 ## Link da Gravação
 
-[Requisitos - Brainstoming](https://youtu.be/wPMoeSRbOjA)
+No vídeo 1 encontra-se a gravação da reunião.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/wPMoeSRbOjA" target="blanket"><b>Vídeo 1:</b> Requisitos - Brainstoming</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wPMoeSRbOjA" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a>, 2023</p></font>
+</div >
 
 ## Bibliografia
 

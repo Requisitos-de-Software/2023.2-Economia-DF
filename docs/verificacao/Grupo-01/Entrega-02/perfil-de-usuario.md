@@ -247,7 +247,7 @@ No vídeo 1, é possível ver a gravação da avaliação da verificação do "P
   
 <p style="text-align: center"><a href="https://youtu.be/XuWAXNaY39U4" target="blanket"><b>Vídeo 1:</b> Avaliação da verificação do "Perfil de Usuário".</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XuWAXNaY39U?si=W0D9_VF4qMdW6WtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuWAXNaY39U?si=W0D9_VF4qMdW6WtA" title="VErificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2023</p></font>
 
