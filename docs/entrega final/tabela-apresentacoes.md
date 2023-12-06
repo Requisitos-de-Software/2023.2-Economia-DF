@@ -1,4 +1,4 @@
-# Síntese das apresentações das entregas das etapas do projeto
+# Síntese das Apresentações
 
 ## Introdução
 
@@ -99,7 +99,8 @@ Na tabela 1 encontram-se os links de todos os vídeos gravados.
     </tr>
     <tr>
       <td>Final</td>
-      <td></td>
+      <td><iframe width="560" height="315" src="https://www.youtube.com/embed/VdL50AvR_1I" title="Apresentação Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
       <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
           <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 

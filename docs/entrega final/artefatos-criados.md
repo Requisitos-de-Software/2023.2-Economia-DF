@@ -1,10 +1,10 @@
-# Síntese dos artefatos criados nas entregas das etapas do projeto
+# Síntese dos Artefatos Criados
 
 ## Introdução
 
-Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos participantes do grupo que participaram da elaboração.
+Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos integrantes do grupo que participaram da elaboração.
 
-No total foram 126 documentos e 46 vídeos gravados pelos integrantes do grupo.
+No total foram 133 documentos e 46 vídeos gravados pelos integrantes do grupo.
 
 ## Tabela de artefatos
 
@@ -493,7 +493,7 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-04/historias-do-usuario/">Verificação do artefato Histórias do usuário</a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
     </tr>
-    <td rowspan="35">Etapa 5.2 - Verificação dos Artefatos I - Grupo 1</td>
+    <td rowspan="42">Etapa 5.2 - Verificação dos Artefatos I - Grupo 1</td>
         <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação (checklist) Etapa 1</a></td>
         <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
     </tr>
@@ -632,6 +632,34 @@ Na tabela 1 estão os artefatos criados pelo Grupo 1.
     <tr>
       <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/matriz_de_rastreabilidadec/">Verificação do artefato Matriz de rastreabilidade</a></td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro_da_placa_veiculo/">Validação "Cadastro da Placa do Veículo"</a></td>
+      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/consultar-saldo-notalegal/">Validação "Mostrar o saldo do usuário no programa Nota Legal"</a></td>
+      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/divida-ativa/">Validação "Emitir Segunda Via da Dívida Ativa"</a></td>
+      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/aumentar-fonte/">Validação "Aumentar a fonte"</a></td>
+      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-de-imovel/">Validação "Cadastro de imóvel com apenas 8 números"</a></td>
+      <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+    </tr>
+      <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-renavam/">Validação "Cadastrar RENAVAM"</a></td>
+      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/fazer-logout/">Validação "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></td>
+      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
     </tr>
     <tr>
       <td rowspan="3">Etapa 6 - Pós-Rastreabilidade</td>
