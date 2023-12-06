@@ -60,7 +60,8 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
  Um dos maiores desafios enfrentados durante o projeto foi a gestão do tempo, especialmente ao lidar com entregas de grande escala. A compressão dos prazos muitas vezes tornou difícil manter uma rotina de trabalho equilibrada e saudável. Essa pressão temporal, por vezes, impactou negativamente a qualidade do trabalho entregue. Acredita-se que essa situação seja uma consequência inevitável do encurtamento do semestre, que exige um esforço adicional para conciliar as demandas de todas as disciplinas. A busca por um equilíbrio entre as várias responsabilidades acadêmicas e a dedicação necessária ao projeto se mostrou um desafio complexo, exigindo uma organização e planejamento ainda mais rigorosos para atender às expectativas de qualidade dentro dos prazos estipulados.
 
 #### Lucas Ribeiro
-blablabla
+
+O semestre mais curto e com mais disciplinas foi um dos principais desafios que enfrentei ao longo do período. O tempo limitado para estudar e se dedicar às matérias dificultou a compreensão de conceitos complexos e a realização de atividades extracurriculares. Além disso, a pressão do semestre intenso pode causar estresse e sobrecarga, que podem ser aliviados pelo aplicativo, que oferece recursos de relaxamento e estratégias simples de gerenciamento do tempo.
 
 #### Zenilda Vieira
 blablabla
@@ -71,4 +72,4 @@ blablabla
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |05/12/2023| Criação do documento | [Izabella Alves](https://github.com/izabellaalves) |[Lucas Víctor](https://github.com/Lucas13032003) |
 | `1.1`  |05/12/2023| Adição da parte do Lucas Víctor |[Lucas Víctor](https://github.com/Lucas13032003) | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/Lucassousz) | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.2`  |05/12/2023| Adição da parte do Lucas Ribeiro |[Lucas Ribeiro](https://github.com/lucassouzs) | [Izabella Alves](https://github.com/izabellaalves) |
