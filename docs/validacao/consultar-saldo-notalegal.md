@@ -64,9 +64,9 @@ A validação aconteceu de forma presencial, e no vídeo 1 é possível ver como
 
 <div align="center">
 
-<p style="text-align: center"><a href="" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Mostrar o saldo do usuário no programa Nota Legal"</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=KBMoO4ALVnE?si=2kbzv41pdPIPOTgs" target="blanket"><b>Vídeo 1:</b> Validação do Protótipo "Mostrar o saldo do usuário no programa Nota Legal"</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBMoO4ALVnE?si=2kbzv41pdPIPOTgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBMoO4ALVnE?si=2kbzv41pdPIPOTgs" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>, 2023</p></font>
 </div>
 
