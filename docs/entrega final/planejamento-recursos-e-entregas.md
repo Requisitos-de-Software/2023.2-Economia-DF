@@ -127,14 +127,14 @@ Na tabela 3, é possível ver o cronograma executado de todo o projeto.
 | 6| [Backward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/) | 15/nov|17/nov |Lucas de Oliveira, Gabriel Rosa|Lucas Ribeiro |
 | 6| [Forward From](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/) | 15/nov| 16/nov|Gabriel Zaranza, Zenilda Vieira|Lucas de Oliveira |
 | 6| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/) | 15/nov|17/nov |Izabella Alves, Lucas Victor, Lucas Ribeiro|Lucas de Oliveira |
-| Entrega Final| Aplicativo Selecionado| | |Gabriel Zaranza| |
-| Entrega Final| [Planejamento dos Recursos e das Entregas](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/planejamento-recursos-e-entregas/)| | |Izabella Alves| |
+| Entrega Final| [Aplicativo Selecionado]()| 05/dez| 05/dez|Gabriel Zaranza|Izabella Alves |
+| Entrega Final| [Planejamento dos Recursos e das Entregas](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/planejamento-recursos-e-entregas/)|02/dez | 05/dez|Izabella Alves|Lucas Victor |
 | Entrega Final| [Execução do projeto](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/execucao-projeto/)| 30/nov| 30/nov|Lucas Ribeiro| Lucas De Oliveira|
 | Entrega Final| [Resultados alcançados](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/resultados-alcan%C3%A7ados/)| 02/dez| |Lucas Oliveira| Lucas Victor|
 | Entrega Final| [Técnicas Utilizadas](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/tecnicas_utilizadas/)|02/dez | 02/dez|Gabriel Rosa| Lucas De Oliveira|
 | Entrega Final| [Artefatos criados por entrega](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/artefatos-criados/)| 25/nov| |Zenilda Vieira| Izabella Alves |
-| Entrega Final| [Método de verificação e validação](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/verificacoes/)| | |Gabriel Zaranza| |
-| Entrega Final| [Ferramentas Utilizadas](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/sintese-de-ferramentas-utilizadas/)| | |Lucas Victor| |
+| Entrega Final| [Método de verificação e validação](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/verificacoes/)|04/dez | 04/dez|Gabriel Zaranza|Lucas de Oliveira |
+| Entrega Final| [Ferramentas Utilizadas](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/sintese-de-ferramentas-utilizadas/)|05/dez | 05/dez|Lucas Victor| Zenilda Vieira|
 | Entrega Final| [Apresentações](https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/tabela-apresentacoes/)|24/nov |24/nov |Zenilda Vieira| Lucas De Oliveira |
 
 <div align="center">
