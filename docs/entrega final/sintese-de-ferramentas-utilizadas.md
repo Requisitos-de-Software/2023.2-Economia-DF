@@ -7,7 +7,6 @@ Organizar e visualizar as ferramentas empregadas no projeto é crucial para gara
 
 A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma determinada ferramentas foi utilizada e em qual entrega foi utilizada. Cada ferramenta possui um _link_ que leva para a página da ferramenta na _web_.
 
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Ferramentas Utilizadas no Projeto.</p></font>
 
