@@ -68,6 +68,7 @@ Todos os documentos e artefatos feito para as apresentações foram revisados po
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/ZkA1xQYww2M" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 04</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZkA1xQYww2M" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

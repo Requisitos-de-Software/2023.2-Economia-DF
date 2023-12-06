@@ -56,6 +56,7 @@ A partir dessa reunião revisamos as issues da última sprint e fizemos novas is
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/lFs9BQYdoIM" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 09</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFs9BQYdoIM" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

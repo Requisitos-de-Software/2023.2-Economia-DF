@@ -65,6 +65,7 @@ Os artefatos produzidos foram verificados pelo grupo e antes da gravação da ap
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/S9Gixpjzoy0" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 03</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S9Gixpjzoy0" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

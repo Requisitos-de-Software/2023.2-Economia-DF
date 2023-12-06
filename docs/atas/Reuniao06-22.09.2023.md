@@ -139,6 +139,7 @@ Em conclusão, a pauta define claramente as tarefas a serem realizadas e à defi
 
 No vídeo 1 encontra-se a gravação da reunião.
 
+<div align="center">
 <p style="text-align: center"><a href="https://youtu.be/4LBz7hHEZL8" target="blanket"><b>Vídeo 1:</b> Requisitos - Reunião 06</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LBz7hHEZL8" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
