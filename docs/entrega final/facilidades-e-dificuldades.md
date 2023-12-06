@@ -61,7 +61,7 @@ A minha principal dificuldade no projeto surgiu da necessidade de conciliar a ma
 
 #### Lucas Ribeiro
 
-O semestre mais curto e com mais disciplinas foi um dos principais desafios que enfrentei ao longo do período. O tempo limitado para estudar e se dedicar às matérias dificultou a compreensão de conceitos complexos e a realização de atividades extracurriculares. Além disso, a pressão do semestre intenso pode causar estresse e sobrecarga, que podem ser aliviados pelo aplicativo, que oferece recursos de relaxamento e estratégias simples de gerenciamento do tempo.
+Enfrentar um semestre mais curto repleto de disciplinas foi um dos desafios mais significativos que experimentei no decorrer da discipina. Além disso, o curto de tempo para estudar e se dedicar às matérias tornou-se um obstáculo considerável para assimilar conceitos complexos e participar de atividades extracurriculares. Em particular, cursar as duas disciplinas (Interação Humano-Computador e Requisitos de Software) ampliou esses desafios, evidenciando a falta de tempo. Nesse contexto, a necessidade de uma organização tornou-se crucial para acompanhar ambas as disciplinas, sem deixar nenhuma delas de lado. Essa demanda adicional frequentemente exigiu um esforço suplementar, envolvendo horas de estudo adicionais diárias.
 
 #### Zenilda Vieira
 blablabla
